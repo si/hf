@@ -1,0 +1,13 @@
+[build]
+  publish = "public"
+
+  # Default build command.
+  command = "npm run build"
+
+  [[redirects]]
+    from = "/feed/"
+    to = "/feed/feed.xml"
+    status = 200
+
+[dev]
+  command = "npm start"
