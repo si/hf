@@ -1,0 +1,95 @@
+---
+title: "Jun '08 Warmup"
+date: "2008-06-13"
+categories: 
+  - "onephatdj"
+enclosure: "https://onephatdj.com/mp3/podcast/48_jun08_warmup.mp3 100813153 audio/mpeg "
+---
+
+What a long "fortnight" that has been! It seems an age ago since [May '08 Crescendo](https://www.simonjobling.com/blog/2008/may08-crescendo/) was released but that's the beauty of the new format - occasionally I get a nice, long break between releases. That's not to say I've been lounging around doing nothing. There have been literally _thousands_ of tracks released to check out in the mean time and I've been a busy bee going through them all, sorting out the musical treats to grace your lovely ears. We kick off the month with quite a laid back mix, featuring some lush tracks from the likes of **Bobby D'Ambrosio**, **Kings of Tomorrow**, **DJ Roland Clark**, **Byron Stingily**, **Shawn Christopher** and **Pepper Mashay** to name but a few. We're definitely on a Summer vibe with this beauty so I suggest you download the mix, turn those speakers up and enjoy in the sunshine, whether you're driving with the windows open or kicking back with an ice cold drink in the garden. Before you do all that though, we need to introduce this month's guest artist. **Gemma Barton** of Manchester's [Big Light Studio](https://www.biglightstudio.co.uk/) has delivered a fantastic piece, emphasising the music and Summer feeling, all in to one bright vivid cover for this mix. I think you'll agree its stunning and sets the scene perfectly. Expect more magic from Gemma in two weeks time... [![Jun '08 Warmup artwork by Gemma Barton](https://farm4.static.flickr.com/3063/2565298463_72fed7f97d.jpg?v=0 "Jun '08 Warmup artwork by Gemma Barton")](https://flickr.com/photos/peelhere/2565298463/ "Jun '08 Warmup on Flickr")
+
+### Downloads
+
+- [Jun '08 Warmup MP3](https://onephatdj.com/mp3/podcast/48_jun08_warmup.mp3) (~96.1MB)
+- [Jun '08 Warmup artwork](https://farm4.static.flickr.com/3063/2565298463_b2c2b8b20a_o.png) (credits to [Gemma Barton](https://www.biglightstudio.co.uk/))
+
+### Track Listing
+
+1. #### The Layabouts ft J-Key & Shola Phillips - _Stand Up (Mike Dee Remix)_
+    
+    - Label: Ill Friction
+    - Released: May 29th 2008
+    - [Buy from Traxsource](https://www.traxsource.com/index.php?act=show&fc=tpage&cr=titles&cv=20437&alias=upfront)
+    - Time: 00:00:00
+2. #### Rachel Claudio - _Freedom Part II (Breathe Benny Pecoraio Gogo Vocal Mix)_
+    
+    - Label: Jaffa Music
+    - Released: June 18th 2008
+    - [Buy from Traxsource](https://www.traxsource.com/index.php?act=show&fc=tpage&cr=titles&cv=21005)
+    - Time: 00:06:15
+3. #### First Choice - _The Player (Mousse T. & Boris Dlugosh Classic 12'')_
+    
+    - Label: Philly Groove
+    - Released: TBC
+    - [Buy from Traxsource](https://www.traxsource.com/index.php?act=show&fc=tpage&cr=titles&cv=20173&alias=classic)
+    - Time: 00:10:54
+4. #### Kings of Tomorrow ft Rae - _Can't Stop (Original Mix)_
+    
+    - Label: [Defected](https://www.defected.com/)
+    - Released: June 2nd 2008
+    - [Buy from Traxsource](https://www.traxsource.com/index.php?act=show&fc=tpage&cr=titles&cv=20788)
+    - Time: 00:17:39
+5. #### Bobby D'Ambrosio ft Kelli Sae - _Love Forevermore, Amen (Fabulous & Jones Club Mix)_
+    
+    - Label: [Soulfuric](https://www.soulfuric.com)
+    - Released: June 4th 2008
+    - [Buy from Traxsource](https://www.traxsource.com/index.php?act=show&fc=tpage&cr=titles&cv=20038&alias=downloads)
+    - Time: 00:22:39
+6. #### Mosco & Will Dawson ft Abigail Bailey - _I Like What Your Doing (To Me) (Original Mix)_
+    
+    - Label: Nitelife
+    - Released: July 7th 2008
+    - [Buy from Traxsource](https://www.traxsource.com/index.php?act=show&fc=tpage&cr=titles&cv=20701)
+    - Time: 00:28:39
+7. #### Roasted Soul ft Hollie O'Brien - _Now or Never (Original Mix)_
+    
+    - Label: Coffee n Creme
+    - Released: July 28th 2008
+    - [Buy from Traxsource](https://www.traxsource.com/index.php?act=show&fc=tpage&cr=titles&cv=21003)
+    - Time: 00:33:39
+8. #### U.F.X. ft Rose Marriot - _Make Me Love Again (Original Mix)_
+    
+    - Label: Equal
+    - Released: TBC
+    - [Buy from Traxsource](https://www.traxsource.com/index.php?act=show&fc=tpage&cr=titles&cv=19707)
+    - Time: 00:38:39
+9. #### Crispin J Glover ft Johnnie Fiori - _Never Give You Up (Fabio Bacchini's Discofied Mix)_
+    
+    - Label: Nitelife
+    - Released: May 27th 2008
+    - [Buy from Traxsource](https://www.traxsource.com/index.php?act=show&fc=tpage&cr=titles&cv=18832&alias=upfront)
+    - Time: 00:42:13
+10. #### DJ Roland Clark & Byron Stingily ft Carla Prather & El - _Revival (Terry Hunter Remix)_
+    
+    - Label: Stingily Music
+    - Released: August 19th 2008
+    - [Buy from Traxsource](https://www.traxsource.com/index.php?act=show&fc=tpage&cr=titles&cv=20350&alias=upfront)
+    - Time: 00:46:58
+11. #### Shawn Christopher - _Don't Lose The Magic (Bobby Blanco's Block Re-Edit Mix)_
+    
+    - Label: Bar Grooves
+    - Released: May 5th 2008
+    - [Buy from Traxsource](https://www.traxsource.com/index.php?act=show&fc=tpage&cr=titles&cv=19698)
+    - Time: 00:51:13
+12. #### DJ Bradd & Pepper Mashay ft Salsoul Nugget - _Heaven (DJ Bradd Vocal Mix)_
+    
+    - Label: [Deepless](https://www.deepless.ch)
+    - Released: July 5th 2008
+    - [Buy from Traxsource](https://www.traxsource.com/index.php?act=show&fc=tpage&cr=titles&cv=20931)
+    - Time: 00:57:58
+13. #### House of Glass ft Giorgio Giordano - _Disco Down 2008 Part 2 (Samuele Sartini Club Mix)_
+    
+    - Label: Ocean Trax
+    - Released: May 16th 2008
+    - [Buy from Traxsource](https://www.traxsource.com/index.php?act=show&fc=tpage&cr=titles&cv=19462)
+    - Time: 01:04:35

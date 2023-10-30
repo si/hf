@@ -1,0 +1,21 @@
+---
+title: "March 2016"
+date: "2016-03-24"
+categories: 
+  - "playlist"
+tags: 
+  - "miami"
+  - "wmc"
+  - "youtube"
+enclosure: ""
+---
+
+We're trying some alternative channels for delivering the finest selection of house music to our audience with music listening habits evolving over the past decade.
+
+Youtube is clearly one of the most popular platforms for finding and listening to new music so we've setup a dedicated playlist for March 2016. If it's something you think works, let us know and we'll continue.
+
+<iframe src="https://www.youtube.com/embed/videoseries?list=PL5OSdydkcHHA1csJBVrddhpikcLye8RDQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+We've also setup a similar playlist on Soundcloud to see how that engages too. Again, let us know your thoughts.
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/201393559&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
