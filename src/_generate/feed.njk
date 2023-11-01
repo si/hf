@@ -22,6 +22,7 @@ eleventyExcludeFromCollections: true
 		<updated>{{ page.date | rssDate }}</updated>
 		<id>{{ absolutePostUrl }}</id>
 		<content type="html">{{ page.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</content>
+		<enclosure url="{{ page.data.enclosure.split(" ")[0] }}" length="{{ page.data.enclosure.split(" ")[1] }}" type="{{ page.data.enclosure.split(" ")[2] }}" />
 	</entry>
 	{%- endfor %}
 </feed>
