@@ -6,7 +6,7 @@
     {% if currentUrl === '/' %}aria-current="page"{% endif %}
     >{{ meta.siteName }}</a>
     <ul role="list" class="tdbc-sitenav__navlist tdbc-list-unstyled">
-      {% for link in collections.pages %}
+      {% for link in collections.staticPages %}
       <li>
         <a
           {% if currentUrl === link.url %}aria-current="page"{% endif %}
