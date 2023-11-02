@@ -13,6 +13,14 @@ layout: base.njk
 </header>
 <main class="tdbc-container">
   <article class="tdbc-mx-auto">
+    {% if(enclosure!=='') %}
+    <div class="tdbc-audio-player">
+      <audio controls>
+        <source src="{{ enclosure.split(" ")[0] }}" type="{{ enclosure.split(" ")[2] }}">
+        Your browser does not support the audio tag.
+      </audio>
+    </div>
+    {% endif %}
     {{ content | safe }}
   </article>
 </main>
