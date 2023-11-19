@@ -1,13 +1,14 @@
-$tdbc-color-primary: #171392 !default;
-$tdbc-color-secondary: #db0a76 !default;
+$tdbc-color-primary: #000000 !default;
+$tdbc-color-secondary: #ffffff !default;
 $tdbc-color-background: #f9f9f9 !default;
+
 
 $tdbc-brand-colors: (
   "primary": $tdbc-color-primary,
   "secondary": $tdbc-color-secondary,
 ) !default;
 
-$tdbc-color-body: scale-color($tdbc-color-primary, $lightness: -30%, $saturation: -50%) !default;
+$tdbc-color-body: scale-color($tdbc-color-secondary, $lightness: -10%, $saturation: -50%) !default;
 $tdbc-color-gray: mix(#767676, $tdbc-color-body, 70%) !default;
 
 $tdbc-colors: map-merge(
