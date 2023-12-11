@@ -5,6 +5,7 @@ $tdbc-typography-variants: h1, h2, h3, h4;
 @each $type in $tdbc-typography-variants {
   #{$type},
   .tdbc-#{$type} {
+    font-family: 'Playfair Display', serif;
     font-weight: $tdbc-strong-font-weight;
     line-height: 1.15;
     margin-bottom: 0.65em;
