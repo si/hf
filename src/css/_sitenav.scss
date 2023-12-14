@@ -3,7 +3,11 @@
 
 #tdbc-siteid {
   font-size: $tdbc-h3-font-size;
-  text-decoration: none;
+  text-decoration: none;  
+  background-image: url(/img/design/finesse-f.svg);
+  background-repeat: no-repeat;
+  background-position: left middle;
+  padding-left: 56px;
 }
 
 .tdbc-sitenav {
