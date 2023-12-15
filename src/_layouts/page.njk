@@ -39,7 +39,9 @@ layout: base.njk
           </audio>
         </div>
       {% endif %}
-      {{ content | safe }}
+      <div class="tdbc-section--padded">
+        {{ content | safe }}
+      </div>
       <dl>
         <dt>Category:</dt>
         <dd>{{ categories }}</dd>
