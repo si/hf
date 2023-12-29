@@ -4,5 +4,5 @@ module.exports = {
   siteDescription:
     "Longest running house music podcast since 2005",
   authorName: "One Phat DJ",
-  twitterUsername: "housefinesse", // no `@`
+  facebookUsername: "housefinesse",
 };
