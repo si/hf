@@ -5,4 +5,5 @@ module.exports = {
     "Longest running house music podcast since 2005",
   authorName: "One Phat DJ",
   facebookUsername: "housefinesse",
+  youtubeUsername: "housefinesse",
 };

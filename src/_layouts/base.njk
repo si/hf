@@ -45,7 +45,7 @@
           style="margin: 0; border-radius: 0px !important; background-color: transparent;"></iframe>
         <div class="tdbc-row tdbc-ink--light tdbc-mx-auto">
           <p class="tdbc-mb-none">&copy; 2005-{% year %}
-            {{ meta.siteName }} • {{ pkg.version }}</p>
+            {{ meta.siteName }}</p>
           <span class="tdbc-row tdbc-row--center-content">
             <a
               href="https://www.facebook.com/{{ meta.facebookUsername }}/"
@@ -56,7 +56,19 @@
                 2.891h-2.328v6.988C18.344 21.129 22 16.992 22 12.001c0-5.522-4.477-9.999-9.999-9.999z"/>
               </svg>
             </a>
+            <a
+              href="https://www.youtube.com/{{ meta.youtubeUsername }}"
+              class="tdbc-icon-button tdbc-ink--light"
+              aria-label="Youtube">
+              <svg fill="#FFFFFF" width="800px" height="800px" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M21.593 7.203a2.506 2.506 0 0 0-1.762-1.766C18.265 5.007 12 5 12 5s-6.264-.007-7.831.404a2.56 2.56 0 0 0-1.766
+                1.778c-.413 1.566-.417 4.814-.417 4.814s-.004 3.264.406 4.814c.23.857.905 1.534 1.763 1.765 1.582.43 7.83.437
+                7.83.437s6.265.007 7.831-.403a2.515 2.515 0 0 0 1.767-1.763c.414-1.565.417-4.812.417-4.812s.02-3.265-.407-4.831zM9.996
+                15.005l.005-6 5.207 3.005-5.212 2.995z"/>
+              </svg>
+            </a>
           </span>
+          <p>
+            v{{ pkg.version }}</p>
         </div>
       </div>
     </footer>
