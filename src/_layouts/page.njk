@@ -31,6 +31,9 @@ layout: base.njk
 </header>
 <main class="tdbc-container">
   <article class="tdbc-mx-auto">
+    {% if(coverImage!=='') %}
+      <img src="/img/cover-images/{{ coverImage }}" alt="{{ title }}"/>
+    {% endif %}
     {% if(enclosure!=='') %}
       <div class="tdbc-audio-player">
         <audio controls style="width:100%">
