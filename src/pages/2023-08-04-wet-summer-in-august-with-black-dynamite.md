@@ -6,6 +6,7 @@ categories:
 tags: 
   - "taiwo"
 enclosure: "https://pinecast.com/listen/0fbe8300-cb8e-4325-8692-8e05d0e42900.mp3 94660311 audio/mpeg "
+coverImage: "517FB184-F96C-4A6F-B6D0-452AFE60B6BA.jpeg"
 ---
 
 **The UK weather won’t dampen our spirits as Black Dynamite brightens up our weekend with his own selection of uplifting vibes.**

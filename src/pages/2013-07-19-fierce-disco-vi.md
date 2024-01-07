@@ -4,6 +4,7 @@ date: "2013-07-19"
 categories: 
   - "releases"
 enclosure: ""
+coverImage: "Fierce-Angel-presents-Fierce-Disco-VI-artwork.jpg"
 ---
 
 Of all the Fierce Angel releases, Fierce Disco is the most popular - and, from my perspective, I know why. It represents the signature sound label boss Mark Doyle pioneered back in the days he established Hed Kandi: an eclectic selection of soulful, disco, vocal and deep house tracks produced by the world's finest artists. Many of those original artists are still present as well - The Brand New Heavies, Peyton, Eric Kupper, even Freemasons (in different guises) to name a few - a good indication of the loyalty both artists and fans share with Mark's visions.

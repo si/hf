@@ -7,6 +7,7 @@ tags:
   - "ade16"
   - "gweilo"
 enclosure: "https://pinecast.com/listen/1730e977-5762-46da-afba-b6aa774b401e.mp3 81146126 audio/mpeg "
+coverImage: "House-Finesse-Gweilo-ADE16-cover.jpg"
 ---
 
 **With the biggest music conference of the season in full swing, our very own Gweilo has put together a special ADE16 mini-mix for us all to enjoy.**

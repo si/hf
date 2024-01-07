@@ -6,6 +6,7 @@ categories:
 tags: 
   - "one-phat-dj"
 enclosure: "https://pinecast.com/listen/0f0b24f7-9de8-447d-8832-072ab329eff8.mp3 70222118 audio/mpeg "
+coverImage: "Bring-The-Heat.jpg"
 ---
 
 **Summer is coming, the weather is turning and One Phat DJ is bringing the heat with his finest selection of house delights for June 2023.**

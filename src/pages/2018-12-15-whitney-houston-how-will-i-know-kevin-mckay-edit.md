@@ -9,6 +9,7 @@ tags:
   - "whitney-houston"
   - "youtube"
 enclosure: ""
+coverImage: "FSkSx7AusdI.jpg"
 ---
 
 https://youtu.be/FSkSx7AusdI

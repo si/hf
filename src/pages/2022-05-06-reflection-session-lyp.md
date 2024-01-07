@@ -4,6 +4,7 @@ date: "2022-05-06"
 categories: 
   - "shows"
 enclosure: "https://pinecast.com/listen/8f15840c-8fef-4409-a1f1-79366c6632f3.mp3 161022425 audio/mpeg "
+coverImage: "HF120-Reflection-Session-with-LYP.jpg"
 ---
 
 **Time to go deep on #FinesseFriday with a live set recorded by LYP at one of his recent Pavilion gigs.**

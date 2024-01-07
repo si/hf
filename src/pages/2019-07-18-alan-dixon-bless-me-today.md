@@ -8,6 +8,7 @@ tags:
   - "glitterbox"
   - "youtube"
 enclosure: ""
+coverImage: "3wQQzlohC-U.jpg"
 ---
 
 https://youtu.be/3wQQzlohC-U

@@ -53,6 +53,7 @@ tags:
   - "u-ness"
   - "z-records"
 enclosure: "https://pinecast.com/listen/3e16c349-b13f-4cee-91f1-77c208a74d59.mp3 115287216 audio/mpeg "
+coverImage: "Funky_House_Finesse_32_8th_October_2010.jpg"
 ---
 
 Before you get all excited that we're back, we're not. Not regularly anyway.

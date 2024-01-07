@@ -8,6 +8,7 @@ tags:
   - "one-phat-dj"
   - "show"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/p/www.sowebmediauk.co.uk/dj-shows/HouseFinesse/House_Finesse_34.mp3 86345391 audio/mpeg "
+coverImage: "House-Finesse-34-Wide.jpg"
 ---
 
 ## Listen

@@ -37,6 +37,7 @@ tags:
   - "teni-tinks"
   - "too-many-zooz"
 enclosure: "https://www.housefinesse.com/wp-content/uploads/2018/11/House_Finesse_November_2018.mp3 108281660 audio/mpeg "
+coverImage: "HF-Cover-Art-Nov-2018.jpeg"
 ---
 
 **One Phat DJ is back with an extra long mix full of his finest house tunes from the past month or so, just in time for the festive party season.**

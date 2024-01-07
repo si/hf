@@ -30,6 +30,7 @@ tags:
   - "voodoo-chilli"
   - "wipe-the-needle"
 enclosure: ""
+coverImage: "House-Finesse-May-2016.jpg"
 ---
 
 Following quite a substantial break, One Phat DJ scratches that itch mixing up an hour of his favoruite tracks from the past five months just in time for the bank holiday break.

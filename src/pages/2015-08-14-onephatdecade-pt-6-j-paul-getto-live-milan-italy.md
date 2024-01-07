@@ -9,6 +9,7 @@ tags:
   - "guest-mix"
   - "j-paul-getto"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/p/www.sowebmediauk.co.uk/dj-shows/HouseFinesse/OnePhatDecade_Pt_6_J_Paul_Getto_Live_Milan.mp3 0 audio/mpeg "
+coverImage: "ONEPHATDECADE-with-J-Paul-Getto.png"
 ---
 
 Six weeks into the #ONEPHATDECADE celebrations and there's no stopping us as we head out to Milan for a live session from one of our favourite jackin' house producers, **J Paul Getto**.

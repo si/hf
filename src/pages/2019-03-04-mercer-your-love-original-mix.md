@@ -7,6 +7,7 @@ tags:
   - "ifttt"
   - "youtube"
 enclosure: ""
+coverImage: "HSBEbeq9K-E.jpg"
 ---
 
 https://youtu.be/HSBEbeq9K-E

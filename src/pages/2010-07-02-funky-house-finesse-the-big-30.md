@@ -4,6 +4,7 @@ date: "2010-07-02"
 categories: 
   - "funkyhousefinesse"
 enclosure: "https://www.housefinesse.com/wp-content/uploads/2010/07/Funky_House_Finesse_The_Big_30_2nd_July_2010_192_v2.mp3 261201504 audio/mpeg "
+coverImage: "the_big_30_by_cole_henley.jpg"
 ---
 
 This week is a special celebration of both One Phat DJ and the Funky House Finesse show turning 30 so, as a treat, we're going back over the last 20 years of funky house, pulling out some of the biggest tracks in One Phat DJ's box.

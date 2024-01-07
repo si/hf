@@ -6,6 +6,7 @@ categories:
 tags: 
   - "youtube"
 enclosure: ""
+coverImage: "0m5sHo2Ohqk.jpg"
 ---
 
 https://youtu.be/0m5sHo2Ohqk

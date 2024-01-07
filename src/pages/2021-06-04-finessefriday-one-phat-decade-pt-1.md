@@ -7,6 +7,7 @@ tags:
   - "onephatdecade"
   - "one-phat-dj"
 enclosure: "https://pinecast.com/listen/333e3cb3-e513-45c5-a951-d7bc17b7b232.mp3 173072041 audio/mpeg "
+coverImage: "House-Finesse-47-Square.jpg"
 ---
 
 **For this week's #FinesseFriday, we go back to the start of the 10 year anniversary celebrations with two hours of classic house indulgence from One Phat DJ.**

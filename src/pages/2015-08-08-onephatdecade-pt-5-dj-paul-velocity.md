@@ -10,6 +10,7 @@ tags:
   - "guest-mix"
   - "shows-2"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/p/www.sowebmediauk.co.uk/dj-shows/HouseFinesse/OnePhatDecade_Pt_5_DJ_Paul_Velocity.mp3 0 audio/mpeg "
+coverImage: "ONEPHATDECADE-with-DJ-Paul-Velocity.png"
 ---
 
 Our fifth weekly guest mix celebrating _#ONEPHATDECADE_ comes from good friend and fellow funky house podcaster, **DJ Paul Velocity**.

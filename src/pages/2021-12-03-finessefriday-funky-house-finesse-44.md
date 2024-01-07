@@ -8,6 +8,7 @@ tags:
   - "funky-house-finesse"
   - "one-phat-dj"
 enclosure: "https://pinecast.com/listen/5e0c4410-2602-4596-beb8-0d022c35874a.mp3 91695539 audio/mpeg "
+coverImage: "Funky_House_Finesse_44_Pt_1.jpg"
 ---
 
 **Now that the festive month is with us, we’re going to treat you to our Funky House Finesse Christmas special from 2011 for #FinesseFriday.**

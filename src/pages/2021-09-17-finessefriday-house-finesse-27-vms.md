@@ -7,6 +7,7 @@ tags:
   - "one-phat-dj"
   - "vms"
 enclosure: "https://pinecast.com/listen/81b1bc8f-9ea1-4d45-9725-e555abad8d03.mp3 172826417 audio/mpeg "
+coverImage: "House-Finesse-27-with-VMS-Wide.jpg"
 ---
 
 **For this week's #FinesseFriday, we go back to June 2014 for an hour of funky house from One Phat DJ followed by a special guest mix from DJ Queen Victoria, aka VMS.**

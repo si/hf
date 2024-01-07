@@ -8,6 +8,7 @@ tags:
   - "the-tribe-of-good"
   - "youtube"
 enclosure: ""
+coverImage: "eCWe2UkNfU.jpg"
 ---
 
 https://youtu.be/\_eCWe2UkNfU

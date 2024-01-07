@@ -7,6 +7,7 @@ tags:
   - "andi-king"
   - "guest-mix"
 enclosure: "https://pinecast.com/listen/f7f87b11-4480-4318-a706-1c38546a3632.mp3 89138770 audio/mpeg "
+coverImage: "Featuring…-Andi-King.jpg"
 ---
 
 He’s back with another fantastic selection of disco sounds to kickstart your weekend. Bring it Kingy!

@@ -8,6 +8,7 @@ tags:
   - "lisa-moorish"
   - "youtube"
 enclosure: ""
+coverImage: "FgcXCmsVYk.jpg"
 ---
 
 https://www.youtube.com/watch?v=\_FgcXCmsVYk

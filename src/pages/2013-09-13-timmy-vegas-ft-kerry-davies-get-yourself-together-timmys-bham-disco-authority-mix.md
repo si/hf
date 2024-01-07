@@ -8,6 +8,7 @@ tags:
   - "timmy-vegas"
   - "z-records"
 enclosure: ""
+coverImage: "Timmy-Vegas-Kerry-Davies-Get-Yourself-Together.jpg"
 ---
 
 <iframe style="max-width: 600px;" src="https://embed.beatport.com/player/?id=4639343&amp;type=track" height="162" width="100%" frameborder="0" scrolling="no"></iframe>

@@ -8,6 +8,7 @@ tags:
   - "ramona-renea"
   - "youtube"
 enclosure: ""
+coverImage: "33btXZXc6HE.jpg"
 ---
 
 https://youtu.be/33btXZXc6HE

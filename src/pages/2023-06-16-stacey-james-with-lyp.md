@@ -7,6 +7,7 @@ tags:
   - "lyp"
   - "stacey-james"
 enclosure: "https://pinecast.com/listen/c1035c04-38ee-4a6e-95a8-3f77e2dffd73.mp3 81177381 audio/mpeg "
+coverImage: "Stacey-James-with-LYP.jpeg"
 ---
 
 **Our LYP brings in recent collaborator Stacey James to share some of their amazing work this week.**

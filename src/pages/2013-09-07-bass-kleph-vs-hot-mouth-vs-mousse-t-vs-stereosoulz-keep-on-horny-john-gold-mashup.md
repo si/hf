@@ -12,6 +12,7 @@ tags:
   - "soundcloud"
   - "stereosoulz"
 enclosure: ""
+coverImage: "john-gold-mashup.jpg"
 ---
 
 <iframe src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F107176426&amp;show_artwork=true" height="166" width="100%" frameborder="no" scrolling="no"></iframe>

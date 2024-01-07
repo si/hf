@@ -4,6 +4,7 @@ date: "2010-04-30"
 categories: 
   - "funkyhousefinesse"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/www.sowebmediauk.co.uk/dj-shows/OnePhatDj2/Funky_House_Finesse_27_30th_April_2010_128.mp3 115389256 audio/mpeg "
+coverImage: "Funky_House_Finesse_27_30th_April_2010.jpg"
 ---
 
 ## Credits

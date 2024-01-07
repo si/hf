@@ -8,6 +8,7 @@ tags:
   - "hutch"
   - "paul-hutchinson"
 enclosure: "https://pinecast.com/listen/dd9f8102-f36d-400e-a13d-19e6203b7a4b.mp3 189562671 audio/mpeg "
+coverImage: "House-Finesse-Featuring-Paul-Hutchinson.jpg"
 ---
 
 **It's the end of the month (and a warm bank holiday weekend for the UK) so we've lined up another special guest mix for this week's #FinesseFriday - it's the return of Paul Hutchinson!**

@@ -4,6 +4,7 @@ date: "2005-09-20"
 categories: 
   - "onephatdj"
 enclosure: "https://pinecast.com/listen/66d85d0e-4481-469e-8af7-176f8ce434af.mp3 83488768 audio/mpeg "
+coverImage: "Best-Served-Chilled.png"
 ---
 
 The last mix I created wasn't my best piece of work. "Last Year" was put together within a couple of hours for a leaving party and consisted of some of (what I thought) last year's best dance tracks released. Some of the mixing was slightly out and the versions of the tracks I used weren't my favourite. By the by, it has been downloaded a fair few times on Global Beatz and some of my mates have requested copies on CD.

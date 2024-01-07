@@ -68,6 +68,7 @@ tags:
   - "z-records"
   - "zouk-recordings"
 enclosure: "https://www.sowebmediauk.co.uk/dj-shows/OnePhatDj2/Funky_House_Finesse_45_January_2012_128.mp3 audio/mpeg "
+coverImage: "Funky_House_Finesse_45.jpg"
 ---
 
 We're back for (what we hope to be) another year fine year of funky house. Packed full of hot new tunes from the tail end of 2011 and some new tracks yet to be released, this mix is sure to get you fired up for the last weekend of January. You've all been paid so get the tunes and drinks flowing ready for a full on night out.

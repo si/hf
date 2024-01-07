@@ -7,6 +7,7 @@ tags:
   - "david-dunne"
   - "guest-mix"
 enclosure: "https://pinecast.com/listen/2c7d855b-579f-4f1c-8521-a7bdfb31716e.mp3 86535210 audio/mpeg "
+coverImage: "House-Finesse-Featuring-David-Dunne.jpg"
 ---
 
 **For our Christmas Eve special of #FinesseFriday, we bring you another very special guest mix from the Triple Dee host and absolute legend that is Mr David Dunne.**

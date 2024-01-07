@@ -44,6 +44,7 @@ tags:
   - "the-absolute"
   - "tom-santa"
 enclosure: "https://pinecast.com/listen/6c33309c-fdda-4e9a-a0ab-8becfcdaf588.mp3 193122467 audio/mpeg "
+coverImage: "HF128-Summer-House-2022-with-One-Phat-DJ.jpg"
 ---
 
 **Let's celebrate One Phat DJ's birthday in style this #FinesseFriday with an extra long 80 minute mix of pure house music indulgence from plenty familiar names and some remixed classics thrown in for good measure too.**

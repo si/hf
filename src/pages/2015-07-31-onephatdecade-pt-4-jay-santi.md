@@ -9,6 +9,7 @@ tags:
   - "jay-santi"
   - "show"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/p/www.sowebmediauk.co.uk/dj-shows/HouseFinesse/OnePhatDecade_Pt_4_Jay_Santi.mp3 0 audio/mpeg "
+coverImage: "ONEPHATDECADE-with-Jay-Santi.png"
 ---
 
 Four weeks into the #ONEPHATDECADE celebrations and we have yet another fantastic guest mix for you, this time from our Dutch DJ/producer friend, **Jay Santi**.

@@ -8,6 +8,7 @@ tags:
   - "kanomarli"
   - "youtube"
 enclosure: ""
+coverImage: "T11AJqqt2fg.jpg"
 ---
 
 https://youtu.be/T11AJqqt2fg

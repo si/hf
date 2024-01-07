@@ -6,6 +6,7 @@ categories:
 tags: 
   - "disco77"
 enclosure: "https://pinecast.com/listen/63d14122-f6cf-4c5d-b703-67ea527daadc.mp3 59627216 audio/mpeg "
+coverImage: "The-Marvellous-May-Day-Mix-Up-with-Disco77.jpg"
 ---
 
 **It's that time of the month when Disco77 brings us a marvellous selection of uplifting disco, house, garage and everything in-between vibes, just in time for the first UK May bank holiday weekend.**

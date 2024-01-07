@@ -8,6 +8,7 @@ tags:
   - "paul-hutchinson"
   - "show"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/p/www.sowebmediauk.co.uk/dj-shows/HouseFinesse/House_Finesse_31_Paul_Hutchinson.mp3 0 audio/mpeg "
+coverImage: "House-Finesse-31-Paul-Hutchinson-Wide.jpg"
 ---
 
 Our next stop of our global tour of the finest house destinations is in Madrid to experience a local residency from the talented Paul Hutchinson.

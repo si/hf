@@ -6,6 +6,7 @@ categories:
 tags: 
   - "one-phat-dj"
 enclosure: "https://pinecast.com/listen/9ac0bddf-03ec-4a9e-a79a-432eaa292ef9.mp3 58072804 audio/mpeg "
+coverImage: "One-Phat-Summer.jpg"
 ---
 
 **For this week's #FinesseFriday, we've pulled out another Summer celebration from way back in 2006 with plenty classics to reminisce over - it's [One Phat Summer](https://www.housefinesse.com/onephatdj/one-phat-summer/).**

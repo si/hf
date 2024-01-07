@@ -56,6 +56,7 @@ tags:
   - "tony-scott"
   - "z-records"
 enclosure: "https://www.sowebmediauk.co.uk/dj-shows/OnePhatDj2/Funky_House_Finesse_21_16th_January_2010_128.mp3 audio/mpeg "
+coverImage: "Funky_House_Finesse_21_16th_January_2010.jpg"
 ---
 
 It's time to return to the regular format of the _Funky House Finesse_ show bringing you the freshest in funky house music from around the globe.

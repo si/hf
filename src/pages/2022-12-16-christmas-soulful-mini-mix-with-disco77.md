@@ -15,6 +15,7 @@ tags:
   - "muthafunkaz"
   - "stephanie-cook"
 enclosure: "https://pinecast.com/listen/15e30172-9c19-47e8-8588-90102e2d8a3b.mp3 39054385 audio/mpeg "
+coverImage: "HF147-Christmas-Soulful-Mini-Mix-Disco77.jpg"
 ---
 
 **Disco77 gets his festive funk on with a cheeky little selection of Christmasy house tunes this #FinesseFriday.**

@@ -6,6 +6,7 @@ categories:
 tags: 
   - "black-dynamite"
 enclosure: "https://pinecast.com/listen/12c03ccf-aa48-4c1f-9c03-663683853d5f.mp3 136241374 audio/mpeg "
+coverImage: "FD512A37-7ECC-431D-B027-63B663EBCD7E.jpeg"
 ---
 
 As the heat settles and Summer takes full effect in the UK, Black Dynamite brings the chilled vibes with another delightful selection of soulful, uplifting and gospel sounds for your weekend's entertainment. 

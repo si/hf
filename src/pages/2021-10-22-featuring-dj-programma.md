@@ -7,6 +7,7 @@ tags:
   - "dj-programma"
   - "guest-mix"
 enclosure: "https://pinecast.com/listen/a8cf650e-c2ef-47f7-8914-af688a8a8c4e.mp3 136844144 audio/mpeg "
+coverImage: "House-Finesse-2021.jpg"
 ---
 
 **Time to turn it up as we hit the Autumn days, needing some pleasure and enjoyment, as we invite along DJ Programma to bring us a superb guest mix full of intense energy.**

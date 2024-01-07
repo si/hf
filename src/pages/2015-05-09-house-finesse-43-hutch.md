@@ -28,6 +28,7 @@ tags:
   - "technasia"
   - "tommy-vercetti"
 enclosure: ""
+coverImage: "House-Finesse-43-Hutch.jpg"
 ---
 
 ## Listen

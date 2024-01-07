@@ -69,7 +69,7 @@ tags:
 enclosure: "https://www.onephatdj.com/media/finesse/Funky_House_Finesse_19_19th_December_2009.mp3 audio/mpeg 173764788 "
 ---
 
-![Funky House Finesse 19 - 19th December 2009](https://www.onephatdj.com/wp-content/uploads/2009/12/Funky_House_Finesse_19_19th_December_2009.jpg)
+![Funky House Finesse 19 - 19th December 2009](images/Funky_House_Finesse_19_19th_December_2009.jpg)
 
 ## Download
 

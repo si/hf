@@ -6,6 +6,7 @@ categories:
 tags: 
   - "black-dynamite"
 enclosure: "https://pinecast.com/listen/b0a965fd-57e8-497a-a5c1-2869d67ae892.mp3 71685598 audio/mpeg "
+coverImage: "IMG_9284.jpeg"
 ---
 
 **Let's get you in the mood for the last long weekend of the UK Summer with an uplifting selection of soulful vibes from Black Dynamite.**

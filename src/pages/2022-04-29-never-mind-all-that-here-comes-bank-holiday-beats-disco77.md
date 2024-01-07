@@ -4,6 +4,7 @@ date: "2022-04-29"
 categories: 
   - "shows"
 enclosure: "https://pinecast.com/listen/2554e51d-f286-45f7-9eb6-28db10f5766d.mp3 144240068 audio/mpeg "
+coverImage: "2FB31595-1215-4A5B-BFF9-4C72A8D04B75.jpg"
 ---
 
 **Time for a healthy mix of throwback and fresh beats from our very own Disco77 on this bank holiday #FinesseFriday..**

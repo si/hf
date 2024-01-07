@@ -48,6 +48,7 @@ tags:
   - "the-vision"
   - "thomchris"
 enclosure: "https://pinecast.com/listen/3230d74e-2233-4e35-9e91-6eb9c2752edc.mp3 115442975 audio/mpeg "
+coverImage: "House-Finesse-Artwork-2020.jpg"
 ---
 
 **Time for a MONSTER collection of house music as we bring you 2 hours of House FEAR-nesse DELIGHTS. 🎃**

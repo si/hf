@@ -6,6 +6,7 @@ categories:
 tags: 
   - "one-phat-dj"
 enclosure: "https://pinecast.com/listen/dfdd9279-6ac0-4501-9fdc-93967abdd1b7.mp3 52924948 audio/mpeg "
+coverImage: "turkey-project.gif"
 ---
 
 **This week, we dive into the archives for long-time listener of the show (and birthday girl) Becca Barnes, as she requests Turkey Project from July 2006.**

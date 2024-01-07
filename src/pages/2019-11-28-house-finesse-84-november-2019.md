@@ -28,6 +28,7 @@ tags:
   - "the-vision"
   - "yuksek"
 enclosure: "https://pinecast.com/listen/6614f395-21a3-4baf-bfe3-4587df35ff33.mp3 144816192 audio/mpeg "
+coverImage: "House-Finesse-84-November-2019.png"
 ---
 
 **This month, we warm up the Winter months with some uplifting tunes selected by our very own LYP.**

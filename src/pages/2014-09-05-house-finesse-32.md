@@ -7,6 +7,7 @@ tags:
   - "one-phat-dj"
   - "show"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/p/www.sowebmediauk.co.uk/dj-shows/HouseFinesse/House_Finesse_32.mp3 0 audio/mpeg "
+coverImage: "House-Finesse-32-Wide.jpg"
 ---
 
 As Summer and our world tour comes to an end, One Phat DJ returns with his finest pick of tracks from the season.

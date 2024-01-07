@@ -8,6 +8,7 @@ tags:
   - "janice-robinson"
   - "youtube"
 enclosure: ""
+coverImage: "XSS0KyzDXjk.jpg"
 ---
 
 https://youtu.be/XSS0KyzDXjk

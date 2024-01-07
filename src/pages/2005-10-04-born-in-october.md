@@ -4,6 +4,7 @@ date: "2005-10-04"
 categories: 
   - "onephatdj"
 enclosure: "https://pinecast.com/listen/d91b402a-759b-4c8a-9aac-4d5b33e7aca5.mp3 95148102 audio/mpeg "
+coverImage: "Born-In-October.png"
 ---
 
 So [the last mix](https://www.housefinesse.com/onephatdj/best-served-chilled/) went down like a lead balloon - whether it was due to the dodgy decision to include Liberty X in it, I don't know but I've moved on now and put a new mix together today!

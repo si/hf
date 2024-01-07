@@ -4,6 +4,7 @@ date: "2023-08-11"
 categories: 
   - "shows"
 enclosure: "https://pinecast.com/listen/5c477862-e25e-4c79-bd5c-983a133d1d7e.mp3 86617412 audio/mpeg "
+coverImage: "Summer-House-2023-with-One-Phat-DJ.jpg"
 ---
 
 **One Phat DJ is back on his #SummerHouse duties, pulling out a bumper selection of uplifting house beats to keep the heat coming through the Summer.**

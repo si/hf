@@ -8,6 +8,7 @@ tags:
   - "show"
   - "shows-2"
 enclosure: ""
+coverImage: "House-Finesse-41.jpg"
 ---
 
 **The Reflex** has been remastering some absolute classics recently which didn't go unnoticed so OPDJ picks out his favourite trio for the first 15 minutes before continuing with his typical selection of soulful, funky, disco vibes followed by a number of club belters.

@@ -32,6 +32,7 @@ tags:
   - "the-deepshakerz"
   - "weiss-uk"
 enclosure: "https://www.housefinesse.com/wp-content/uploads/2018/10/House_Finesse_October_2018_LYP.mp3 144197161 audio/mpeg "
+coverImage: "House-Finesse-October-2018.jpeg"
 ---
 
 **No pumpkins around here, just pure _Lemon Yellow Pea_, as we bring you an hour of house delights to lighten the darker months.** 🎃

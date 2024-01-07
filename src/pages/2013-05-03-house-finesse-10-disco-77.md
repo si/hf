@@ -6,6 +6,7 @@ categories:
 tags: 
   - "guest-mix"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/p/www.sowebmediauk.co.uk/dj-shows/HouseFinesse/House_Finesse_10.mp3 0 audio/mpeg "
+coverImage: "House-Finesse-10-Widescreen.jpg"
 ---
 
 ## [Download House Finesse 10 MP3 (165MB)](https://media.blubrry.com/housemusicpodcasts/p/www.sowebmediauk.co.uk/dj-shows/HouseFinesse/House_Finesse_10.mp3)

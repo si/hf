@@ -6,6 +6,7 @@ categories:
 tags: 
   - "one-phat-dj"
 enclosure: "https://pinecast.com/listen/9783157e-90f2-479a-947c-2e4975a4ada5.mp3 49871769 audio/mpeg "
+coverImage: "vocal-excursion.png"
 ---
 
 **This week's #FinesseFriday is selected by long-time listener Henry Howe, another classic mix from 2006.**

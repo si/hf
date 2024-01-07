@@ -34,6 +34,7 @@ tags:
   - "the-shapeshifters"
   - "wh0"
 enclosure: "https://www.housefinesse.com/wp-content/uploads/2019/06/House_Finesse_79_June_2019_Nile_Rodgers_Disco_Special.mp3 109808771 audio/mpeg "
+coverImage: "House-Finesse-June-2019-Nile-Rodgers-Special.png"
 ---
 
 **This month, One Phat DJ goes all out classic and contemporary disco as he experiences Nile Rodgers live during his Chic stadium tour.**

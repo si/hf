@@ -29,6 +29,7 @@ tags:
   - "sugarhill-gang"
   - "the-reflex"
 enclosure: "https://pinecast.com/listen/3a610094-d7ca-416c-acea-a0a5ef991408.mp3 71790077 audio/mpeg "
+coverImage: "House-Finesse-83-October-2019.png"
 ---
 
 **One Phat DJ is back with an hour of soulful, disco and jackin' house, just in time for the Hallowe'en season. 🎃**

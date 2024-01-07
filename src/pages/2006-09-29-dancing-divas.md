@@ -4,6 +4,7 @@ date: "2006-09-29"
 categories: 
   - "onephatdj"
 enclosure: "https://pinecast.com/listen/b0f30e2e-7bf4-4a8d-9803-778be65ddfc1.mp3 106325594 audio/mpeg "
+coverImage: "Dancing-Divas.gif"
 ---
 
 Another month has passed by with numerous new house tracks getting released. You can guess what that means then can't you? Just in time for pay day weekend, I introduce to you **Episode 17** of the **One Phat DJ podcast**... **Dancing Divas.**

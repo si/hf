@@ -10,6 +10,7 @@ tags:
   - "michelle-weeks"
   - "youtube"
 enclosure: ""
+coverImage: "HrsVozZLSUo.jpg"
 ---
 
 https://youtu.be/HrsVozZLSUo

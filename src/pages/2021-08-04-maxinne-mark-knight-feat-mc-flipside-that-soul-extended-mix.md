@@ -9,6 +9,7 @@ tags:
   - "mc-flipside"
   - "youtube"
 enclosure: ""
+coverImage: "DENOs7E9ggI.jpg"
 ---
 
 https://www.youtube.com/watch?v=DENOs7E9ggI

@@ -66,6 +66,7 @@ tags:
   - "the-vision"
   - "todd-terry"
 enclosure: "https://pinecast.com/listen/2a95e02d-b588-4c14-a89a-4a905b0fc453.mp3 144026956 audio/mpeg "
+coverImage: "House-Finesse-89-Spring-Break-21.jpg"
 ---
 
 The sun is starting to shine, lockdown is easing and we've got over two hours of house tunes for you to enjoy.

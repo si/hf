@@ -6,6 +6,7 @@ categories:
 tags: 
   - "disco77"
 enclosure: "https://pinecast.com/listen/8ed07f77-5920-4d61-ae5c-bbb4c3cc2025.mp3 89673767 audio/mpeg "
+coverImage: "House-Finesse-108-February-Funk-with-Disco-77.jpg"
 ---
 
 **It's February which brings another funky mix of new and old house tunes from one of our Colchester trio, Disco77.**

@@ -9,6 +9,7 @@ tags:
   - "sneaky-sound-system"
   - "youtube"
 enclosure: ""
+coverImage: "gZhQtrLiDRQ.jpg"
 ---
 
 https://youtu.be/gZhQtrLiDRQ

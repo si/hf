@@ -7,6 +7,7 @@ tags:
   - "one-phat-dj"
   - "special"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/p/www.sowebmediauk.co.uk/dj-shows/HouseFinesse/House_Finesse_5_-_Christmas_Special_Part_2_-_One_Phat_DJ.mp3 0 audio/mpeg "
+coverImage: "House-Finesse-5-Christmas-Special-with-One-Phat-DJ-Cover.jpg"
 ---
 
 After his "paternity break", One Phat DJ is ready and raring to go with his own taste of music to accompany the Souljackerz finely curated choice. You about to be treated to 2 hours of non-stop, pure unadulterated, soulful, funky and disco house music from the original founder of the podcast. Here is One Phat DJ.

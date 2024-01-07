@@ -10,6 +10,7 @@ tags:
   - "souljackerz"
   - "stu-braybrooke"
 enclosure: "https://pinecast.com/listen/a55227b5-5cbc-4459-baa2-27651b04d850.mp3 113747760 audio/mpeg "
+coverImage: "Funky_House_Finesse_Presents_Souljackerz.jpg"
 ---
 
 **This week’’s #FinesseFriday returns to the first time our co-hosts Matt and Stuart (aka Souljackerz) featured on the podcast nearly 10 years ago.**

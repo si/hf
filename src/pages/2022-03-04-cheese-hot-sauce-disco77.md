@@ -7,6 +7,7 @@ tags:
   - "classics"
   - "disco77"
 enclosure: "https://pinecast.com/listen/956e5780-8d44-4287-8834-587492a4fdb1.mp3 126138732 audio/mpeg "
+coverImage: "HF112-Cheese-and-Hot-Sauce-with-Disco77.jpg"
 ---
 
 **Let's get the party started for March's first #FinesseFriday with a health dose of classic remixes and brand new heat from Disco77.**

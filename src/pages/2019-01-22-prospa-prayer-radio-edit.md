@@ -8,6 +8,7 @@ tags:
   - "prospa"
   - "youtube"
 enclosure: ""
+coverImage: "0wddtnDwSvw.jpg"
 ---
 
 https://youtu.be/0wddtnDwSvw

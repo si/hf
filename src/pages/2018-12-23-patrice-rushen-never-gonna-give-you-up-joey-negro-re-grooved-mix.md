@@ -9,6 +9,7 @@ tags:
   - "patrice-rushen"
   - "youtube"
 enclosure: ""
+coverImage: "i0sDCc6DKuo.jpg"
 ---
 
 https://youtu.be/i0sDCc6DKuo

@@ -7,6 +7,7 @@ tags:
   - "purple-disco-machine"
   - "youtube"
 enclosure: ""
+coverImage: "FcQvsQstZEA.jpg"
 ---
 
 https://youtu.be/FcQvsQstZEA

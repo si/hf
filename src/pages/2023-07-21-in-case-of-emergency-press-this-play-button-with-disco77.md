@@ -6,6 +6,7 @@ categories:
 tags: 
   - "disco77"
 enclosure: "https://pinecast.com/listen/709267ab-8477-4efa-9eaa-939d9b1d83e7.mp3 75568926 audio/mpeg "
+coverImage: "In-Case-of-Emergency.jpg"
 ---
 
 This week, we dive back into the archives again with Disco77's finest selection of 2017 for his annual finale.

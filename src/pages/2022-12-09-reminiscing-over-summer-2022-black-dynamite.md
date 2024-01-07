@@ -23,6 +23,7 @@ tags:
   - "terry-hunter"
   - "tony-momrelle"
 enclosure: "https://pinecast.com/listen/1e9c708e-542d-4b11-a378-1be1e3736fae.mp3 67045865 audio/mpeg "
+coverImage: "HF146-Reminiscing-Over-Summer-2022-with-Black-Dynamite.jpg"
 ---
 
 **Our resident DJ Black Dynamite takes us back to the warmer months with his top cuts from this past Summer.**

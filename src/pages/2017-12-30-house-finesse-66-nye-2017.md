@@ -28,6 +28,7 @@ tags:
   - "toddla-t"
   - "youngr"
 enclosure: ""
+coverImage: "House-Finesse-NYE-2017.jpg"
 ---
 
 We couldn't say goodbye to 2017 without a special mix of some of One Phat DJ's favourite tunes from the past few months.

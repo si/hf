@@ -7,6 +7,7 @@ tags:
   - "show"
   - "souljackerz"
 enclosure: "https://pinecast.com/listen/0d13fc07-b607-4aa1-87a7-dd0186864372.mp3 98923194 audio/mpeg "
+coverImage: "House-Finesse-28-IBZ-Wide.jpg"
 ---
 
 Listen  [on Mixcloud](https://www.mixcloud.com/housefinesse/house-finesse-28-ibz/)

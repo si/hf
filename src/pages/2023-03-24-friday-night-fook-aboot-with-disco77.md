@@ -37,6 +37,7 @@ tags:
   - "yvan-black"
   - "zetaphunk"
 enclosure: "https://pinecast.com/listen/29b39333-8fac-4ba5-87ea-4c4e1379a3c5.mp3 59603173 audio/mpeg "
+coverImage: "Friday-Night-Fook-Aboot-with-Disco77.jpg"
 ---
 
 **Our disco king returns this #FinesseFriday with another belting selection of uplifting tunes to get your weekend feels flowing.**

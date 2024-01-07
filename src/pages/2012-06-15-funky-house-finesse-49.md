@@ -4,6 +4,7 @@ date: "2012-06-15"
 categories: 
   - "funkyhousefinesse"
 enclosure: "https://www.housefinesse.com/wp-content/uploads/2012/06/Funky_House_Finesse_49_June_2012_128.mp3 115204936 audio/mpeg "
+coverImage: "Funky_House_Finesse_49.jpg"
 ---
 
 God bless you all for your patience but we have finally got around to sorting out Show 49 after our horrendous technical glitch.

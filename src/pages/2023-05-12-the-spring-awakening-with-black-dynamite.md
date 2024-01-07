@@ -6,6 +6,7 @@ categories:
 tags: 
   - "black-dynamite"
 enclosure: "https://pinecast.com/listen/ad40c028-5751-4d6e-ba65-1ac5b44e69af.mp3 63857724 audio/mpeg "
+coverImage: "The-Spring-Awakening-with-Black-Dynamite.jpg"
 ---
 
 **This mix is dedicated to my God son & nephew, William Knowles, who was a bright and very funny young man.**

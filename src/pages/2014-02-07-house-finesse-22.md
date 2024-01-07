@@ -6,6 +6,7 @@ categories:
 tags: 
   - "show"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/p/www.sowebmediauk.co.uk/dj-shows/HouseFinesse/House_Finesse_22.mp3 0 audio/mpeg "
+coverImage: "House-Finesse-22-Wide.jpg"
 ---
 
 ## Listen
@@ -20,7 +21,7 @@ enclosure: "https://media.blubrry.com/housemusicpodcasts/p/www.sowebmediauk.co.u
 
 Download our exclusive wallpapers for iPhone 4, 4S, 5 and 5S.
 
-[![House Finesse 22 - iPhone 4](https://housefinesse.com/wp-content/uploads/2014/02/House-Finesse-22-iPhone-4.jpg)](https://housefinesse.com/wp-content/uploads/2014/02/House-Finesse-22-iPhone-4.jpg) [![House Finesse 22 - iPhone 5](https://www.housefinesse.com/wp-content/uploads/2014/02/House-Finesse-22-iPhone-5-576x1024.jpg)](https://housefinesse.com/wp-content/uploads/2014/02/House-Finesse-22-iPhone-5.jpg)
+[![House Finesse 22 - iPhone 4](images/House-Finesse-22-iPhone-4.jpg)](https://housefinesse.com/wp-content/uploads/2014/02/House-Finesse-22-iPhone-4.jpg) [![House Finesse 22 - iPhone 5](images/House-Finesse-22-iPhone-5-576x1024.jpg)](https://housefinesse.com/wp-content/uploads/2014/02/House-Finesse-22-iPhone-5.jpg)
 
 Just open the images above, save to your photo library and set the wallpaper in Settings > Backgrounds.
 

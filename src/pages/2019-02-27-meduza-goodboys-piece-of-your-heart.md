@@ -9,6 +9,7 @@ tags:
   - "meduza"
   - "youtube"
 enclosure: ""
+coverImage: "RhghZPu0UtY.jpg"
 ---
 
 https://youtu.be/RhghZPu0UtY

@@ -4,6 +4,7 @@ date: "2007-03-08"
 categories: 
   - "onephatdj"
 enclosure: "https://pinecast.com/listen/e95c47e6-fa04-492c-93d7-bad46303ee51.mp3 103828745 audio/mpeg "
+coverImage: "the-phenomena-of-funk_414644643_o.jpg"
 ---
 
 At long last, the next episode of the podcast is with you. No long preamble this time, no excuses as to why its late (lets just say work has taken its toll, as has family situations) - just straight into the nitty gritty. This is **Episode 23** - it is **"The Phenomena of Funk"**.

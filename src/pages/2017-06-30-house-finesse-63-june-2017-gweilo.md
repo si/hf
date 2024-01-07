@@ -4,6 +4,7 @@ date: "2017-06-30"
 categories: 
   - "shows"
 enclosure: ""
+coverImage: "Gweilo-June-2017.png"
 ---
 
 This month, our friend GWEILO returns with an hour of uplifting deep & sexy beats, beautifully remastered in his impressive new recording studio.

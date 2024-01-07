@@ -7,6 +7,7 @@ tags:
   - "guest-mix"
   - "mike-mases"
 enclosure: "https://pinecast.com/listen/d37adedb-55d5-40d7-869e-10d46915cb5d.mp3 57312785 audio/mpeg "
+coverImage: "House-Finesse-May-2017-Mike-Mases-Cover.png"
 ---
 
 With holiday season officially here, it feels only right to compliment your travels and parties with a few more mixes, carefully selected and supported by your residents.

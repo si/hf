@@ -9,6 +9,7 @@ tags:
   - "oliver-dollar"
   - "youtube"
 enclosure: ""
+coverImage: "2O5kF4ESMC4.jpg"
 ---
 
 https://youtu.be/2O5kF4ESMC4

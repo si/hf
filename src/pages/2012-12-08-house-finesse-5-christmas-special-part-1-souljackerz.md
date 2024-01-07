@@ -7,6 +7,7 @@ tags:
   - "souljackerz"
   - "special"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/p/www.sowebmediauk.co.uk/dj-shows/HouseFinesse/House_Finesse_5_-_Christmas_Special_Part_1_-_One_Phat_DJ.mp3 0 audio/mpeg "
+coverImage: "House-Finesse-5-Christmas-Special-with-Souljackerz-Cover.jpg"
 ---
 
 We kick start this mammoth 4 hour session with 2 full hours of your regular hosts Souljackerz, bringing you a number of their own productions alongside some of the best tunes in their box right now.

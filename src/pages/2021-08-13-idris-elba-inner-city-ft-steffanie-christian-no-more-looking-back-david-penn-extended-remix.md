@@ -10,6 +10,7 @@ tags:
   - "steffanie-christian"
   - "youtube"
 enclosure: ""
+coverImage: "KUixC0EfWH8.jpg"
 ---
 
 https://www.youtube.com/watch?v=KUixC0EfWH8

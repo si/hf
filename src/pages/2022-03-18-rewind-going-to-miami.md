@@ -8,6 +8,7 @@ tags:
   - "rewind"
   - "wmc"
 enclosure: "https://pinecast.com/listen/3a57f01c-19a4-4c79-9ba3-7136f833ff35.mp3 49505024 audio/mpeg "
+coverImage: "Going-To-Miami.jpg"
 ---
 
 **This week, we pull out something from the archives WAY back to March 2006 when One Phat DJ was heading over to Miami for the WMC. Classics galore with an all-time favourite to wrap it up**.

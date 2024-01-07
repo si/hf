@@ -8,6 +8,7 @@ tags:
   - "cube-bar"
   - "souljackerz"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/p/www.sowebmediauk.co.uk/dj-shows/HouseFinesse/House_Finesse_13.mp3 0 audio/mpeg "
+coverImage: "House-Finesse-13-Widescreen.jpg"
 ---
 
 ## Listen

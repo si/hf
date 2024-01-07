@@ -8,6 +8,7 @@ tags:
   - "soul-reductions"
   - "youtube"
 enclosure: ""
+coverImage: "zLcHdnCXmK0.jpg"
 ---
 
 https://youtu.be/zLcHdnCXmK0

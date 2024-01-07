@@ -33,6 +33,7 @@ tags:
   - "tom-moulton"
   - "whitney-houston"
 enclosure: ""
+coverImage: "House-Finesse-44.jpg"
 ---
 
 From the soulful disco roots to some familiar trusted names to the cheeky commercial bootleg remixes, there's something for everyone in there.

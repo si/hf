@@ -12,6 +12,7 @@ tags:
   - "sugarhill-gang"
   - "youtube"
 enclosure: ""
+coverImage: "uOQkbHNDLWs.jpg"
 ---
 
 https://youtu.be/uOQkbHNDLWs

@@ -7,6 +7,7 @@ tags:
   - "andi-king"
   - "guest-mix"
 enclosure: "https://pinecast.com/listen/23a87a1d-770a-4451-a2aa-10bb85728f3a.mp3 67747114 audio/mpeg "
+coverImage: "Featuring-Andi-King.jpg"
 ---
 
 **On this week's #FinesseFriday, we've got another cracking guest mix for the podcast, from the one and only, world famous Andi King.**

@@ -23,6 +23,7 @@ tags:
   - "robosonic"
   - "vanilla-ace"
 enclosure: "https://www.housefinesse.com/wp-content/uploads/2019/03/House-Finesse-76-March-2019.mp3 145114606 audio/mpeg "
+coverImage: "House-Finesse-76-March-2019-LYP.png"
 ---
 
 **Show #76 is here in time for Miami’s 2019 Winter Music Conference with a slightly self-indulgent selection from our very own Lemon Yellow Pea.**

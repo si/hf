@@ -7,6 +7,7 @@ tags:
   - "one-phat-dj"
   - "rewind"
 enclosure: "https://pinecast.com/listen/28c795b9-86a6-4d0f-8b3e-ed44e8c540b7.mp3 71186385 audio/mpeg "
+coverImage: "REWIND-to-Beautiful-Beats.jpg"
 ---
 
 **Let's rewind back 16 years to March 2007 for One Phat DJ's vintage mix celebrating WMC's finest of the time.**

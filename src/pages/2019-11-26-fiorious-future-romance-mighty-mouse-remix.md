@@ -8,6 +8,7 @@ tags:
   - "mighty-mouse"
   - "youtube"
 enclosure: ""
+coverImage: "81NK15OQJc0.jpg"
 ---
 
 https://youtu.be/81NK15OQJc0

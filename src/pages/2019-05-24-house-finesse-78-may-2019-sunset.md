@@ -15,6 +15,7 @@ tags:
   - "lost-desert"
   - "lyp"
 enclosure: "https://www.housefinesse.com/wp-content/uploads/2019/05/House-Finesse-78-May-2019-LYP-Sunset.mp3 144339984 audio/mpeg "
+coverImage: "House-Finesse-78-May-2019-LYP-Sunset.png"
 ---
 
 **This month, Lemon Yellow Pea brings us a chilled out, deeper mix with five of his own productions as the UK starts to bask in sunshine and Ibiza season commences.**

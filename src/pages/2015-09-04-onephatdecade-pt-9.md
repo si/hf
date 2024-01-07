@@ -4,6 +4,7 @@ date: "2015-09-04"
 categories: 
   - "shows"
 enclosure: ""
+coverImage: "ONEPHATDECADE-with-One-Phat-DJ-Pt-2.png"
 ---
 
 Even though Summer is officially over in the UK, that's not going to stop us as I delve back into the archives to select another set of funky house classics from _#ONEPHATDECADE_.

@@ -9,6 +9,7 @@ tags:
   - "live"
   - "lyp"
 enclosure: "https://pinecast.com/listen/eee1963e-8398-4ac4-ab9a-074ca5485931.mp3 86399384 audio/mpeg "
+coverImage: "Ethno-at-Bacchanalia-with-LYP-2.jpg"
 ---
 
 **Recorded live at LYP's new residency, we get deep and ethno with an hour long set for this week's #FinesseFriday**

@@ -7,6 +7,7 @@ tags:
   - "dj-luis-santiago"
   - "ifttt"
 enclosure: ""
+coverImage: "gCr9qk3Imv0.jpg"
 ---
 
 https://youtu.be/gCr9qk3Imv0

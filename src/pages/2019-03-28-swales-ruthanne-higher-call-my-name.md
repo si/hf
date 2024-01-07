@@ -9,6 +9,7 @@ tags:
   - "swales"
   - "youtube"
 enclosure: ""
+coverImage: "CGJoPyAmlZc.jpg"
 ---
 
 https://youtu.be/CGJoPyAmlZc

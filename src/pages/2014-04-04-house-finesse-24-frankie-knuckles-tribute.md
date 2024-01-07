@@ -7,6 +7,7 @@ tags:
   - "frankie-knuckles"
   - "show"
 enclosure: "https://pinecast.com/listen/7cafd6eb-6a8f-45f3-b74a-084629496d07.mp3 173048491 audio/mpeg "
+coverImage: "House-Finesse-24-Wide.jpg"
 ---
 
 ## Track Listing

@@ -71,6 +71,7 @@ tags:
   - "z-factor"
   - "z-records"
 enclosure: "https://www.sowebmediauk.co.uk/dj-shows/OnePhatDj2/Funky_House_Finesse_40_August_2011_128.mp3 audio/mpeg "
+coverImage: "Funky_House_Finesse_40.jpg"
 ---
 
 Can you believe this is the _40th_ episode of the _Funky House Finesse_ show? Where has that time gone? Even scarier is it's the 99th mix ever released on the One Phat DJ Podcast - not long until we hit 100.

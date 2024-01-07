@@ -6,6 +6,7 @@ categories:
 tags: 
   - "disco77"
 enclosure: "https://pinecast.com/listen/a8a4fba6-299c-4c76-9fad-5b77931505df.mp3 62122137 audio/mpeg "
+coverImage: "5521C486-5370-4DDB-9BB1-DAB61172ADB3.jpeg"
 ---
 
 Give them a good shake as Disco77 brings the disco maracas for an uplifting set to break in your weekend. 

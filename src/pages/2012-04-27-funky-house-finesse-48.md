@@ -70,6 +70,7 @@ tags:
   - "ultra-records"
   - "wayne-williams"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/www.sowebmediauk.co.uk/dj-shows/OnePhatDj2/Funky_House_Finesse_48_April_2012_128.mp3 audio/mpeg "
+coverImage: "Funky_House_Finesse_48.jpg"
 ---
 
 It's another month with another celebration of beautiful house on the horizon - the [Southport Weekender](https://www.southportweekender.co.uk/) in the UK. Always a hive of excitement with an eclectic range of soulful, funky and disco house to entertain the weekend campers. With that in mind, the first part of the show is dedicated to the endless parties up in Minehead from 11-13th May.

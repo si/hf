@@ -64,6 +64,7 @@ tags:
   - "vision-x"
   - "wideboys"
 enclosure: "https://www.sowebmediauk.co.uk/dj-shows/OnePhatDj2/Funky_House_Finesse_22_30th_January_2010_128.mp3 audio/mpeg "
+coverImage: "Funky_House_Finesse_22_30th_January_2010.jpg"
 ---
 
  

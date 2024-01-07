@@ -8,6 +8,7 @@ tags:
   - "guest-mix"
   - "mister-lew"
 enclosure: "https://pinecast.com/listen/d62dd3c1-2c0f-4546-86c7-8a48f0f34fa0.mp3 84119309 audio/mpeg "
+coverImage: "2FF26E67-1932-494C-BF3C-2BB9BB29B3EC.jpeg"
 ---
 
 **Time for a change of talent and sounds for this week’s #FinesseFriday as we invite along Eliot Holmes to bring his SuNDaY CLuB vibes to the podcast.**

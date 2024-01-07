@@ -10,6 +10,7 @@ tags:
   - "youtube"
   - "yuksek"
 enclosure: ""
+coverImage: "sfi4Z6IeluU.jpg"
 ---
 
 https://youtu.be/sfi4Z6IeluU

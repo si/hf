@@ -4,6 +4,7 @@ date: "2022-04-08"
 categories: 
   - "shows"
 enclosure: "https://pinecast.com/listen/ee11d322-cf9d-41ae-a5a0-f8c466dff6cf.mp3 146582780 audio/mpeg "
+coverImage: "1-Phat-Indie-Nation.jpg"
 ---
 
 **For this week's #FinesseFriday, One Phat DJ is sharing a guest mix he made for Rachael Depp's eclectic 1 Indie Nation podcast last month, FULL of the finest uplifting house music.**

@@ -9,6 +9,7 @@ tags:
   - "you-mean-everything"
   - "youtube"
 enclosure: ""
+coverImage: "YZwH9gdXH8.jpg"
 ---
 
 https://youtu.be/\_YZwH9gdXH8

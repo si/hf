@@ -4,6 +4,7 @@ date: "2011-03-25"
 categories: 
   - "funkyhousefinesse"
 enclosure: "https://pinecast.com/listen/28d3c46a-58b5-4dc7-9093-565e6020bf13.mp3 115243446 audio/mpeg "
+coverImage: "Funky_House_Finesse_36.jpg"
 ---
 
 ## Track Listing

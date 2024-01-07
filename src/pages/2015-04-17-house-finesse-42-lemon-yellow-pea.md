@@ -21,6 +21,7 @@ tags:
   - "show"
   - "weiss"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/p/www.sowebmediauk.co.uk/dj-shows/HouseFinesse/House_Finesse_42_Lemon_Yellow_Pea.mp3 0 audio/mpeg "
+coverImage: "House-Finesse-42-Lemon-Yellow-Pea.jpg"
 ---
 
 You can find out more about Lemon Yellow Pea and keep up with new releases on [Soundcloud](https://soundcloud.com/lemon-yellow-pea), [Facebook](https://www.facebook.com/lemonyellowpea) and [Twitter](https://twitter.com/lemonyellowpea).

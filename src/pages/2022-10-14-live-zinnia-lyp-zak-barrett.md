@@ -8,6 +8,7 @@ tags:
   - "lyp"
   - "zak-barrett"
 enclosure: "https://pinecast.com/listen/d054b138-328f-4bae-b5ad-6a768b876f5d.mp3 86334886 audio/mpeg "
+coverImage: "4F6495CE-E622-4525-9190-737D6C61B994.jpeg"
 ---
 
 **Time to get a little deeper with a live set recorded at Zinnia last week with LYP and saxophonist Zak Barrett.**

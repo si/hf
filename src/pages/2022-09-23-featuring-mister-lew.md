@@ -8,6 +8,7 @@ tags:
   - "guest-mix"
   - "mister-lew"
 enclosure: "https://pinecast.com/listen/4c5bc40c-0a9f-402a-8c78-849372e0711a.mp3 77894595 audio/mpeg "
+coverImage: "HF137-Featuring-Mister-Lew.jpg"
 ---
 
 **This week, we've lined up another fantastic guest mix bringing you 80 minutes of funky, French house vibes from Mister Lew.**

@@ -7,6 +7,7 @@ tags:
   - "funky-house-finesse"
   - "one-phat-dj"
 enclosure: "https://pinecast.com/listen/9631f6b8-5488-49db-ab38-b3d9ddd1b951.mp3 117162984 audio/mpeg "
+coverImage: "Funky_House_Finesse_13_26th_September_2009.jpg"
 ---
 
 **This week, we go back nearly 12 years to September 2009 for one of our Funky House Finesse shows and two hours of soul, disco and uplifting house. Lucky for us!**

@@ -6,6 +6,7 @@ categories:
 tags: 
   - "black-dynamite"
 enclosure: "https://pinecast.com/listen/d4ca31e7-24da-4596-85a5-bfa357a57d7b.mp3 148547942 audio/mpeg "
+coverImage: "HF124-Ladi-Birthday-Mix-with-Black-Dynamite.jpg"
 ---
 
 **Time to kick back and relax this #FinesseFriday for a delightful soulful birthday selection of house classics from Black Dynamite.**

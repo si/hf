@@ -8,6 +8,7 @@ tags:
   - "guest-mix"
   - "souljackerz"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/p/www.sowebmediauk.co.uk/dj-shows/HouseFinesse/house-finesse-6-audiowhores.mp3 0 audio/mpeg "
+coverImage: "House-Finesse-6-with-Audiowhores.jpg"
 ---
 
 Do we have a stellar show lined up for you this month? After that mammoth 4 hour session from last month, we kick start 2013 with a special guest mix from Graham Lord and Adam Unsworth, aka Audiowhores.

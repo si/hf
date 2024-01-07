@@ -6,6 +6,7 @@ categories:
 tags: 
   - "lyp"
 enclosure: "https://pinecast.com/listen/174319eb-f875-476b-b6c1-b9874e9313f8.mp3 84993331 audio/mpeg "
+coverImage: "B6A13659-6DFB-43E0-AB51-023BCB0F46C2.jpeg"
 ---
 
 **LYP brings us some sublime, sexy and downright awesome house vibes this #FinesseFriday including his brand new release, I Will Be There.**

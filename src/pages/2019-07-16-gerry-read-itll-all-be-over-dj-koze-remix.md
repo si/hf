@@ -8,6 +8,7 @@ tags:
   - "gerry-read"
   - "youtube"
 enclosure: ""
+coverImage: "8TdZIj3ezo4.jpg"
 ---
 
 https://youtu.be/8TdZIj3ezo4

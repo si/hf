@@ -9,6 +9,7 @@ tags:
   - "ricci-benson"
   - "youtube"
 enclosure: ""
+coverImage: "WVPwXg9lixo.jpg"
 ---
 
 https://www.youtube.com/watch?v=WVPwXg9lixo

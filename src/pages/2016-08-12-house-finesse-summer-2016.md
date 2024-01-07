@@ -35,6 +35,7 @@ tags:
   - "opolopo"
   - "sigala"
 enclosure: ""
+coverImage: "house-finesse-summer-2016-cover.jpg"
 ---
 
 ## Summer time is officially here and, with it comes another hour mix of the finest house music selection for your delight.

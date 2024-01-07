@@ -75,7 +75,7 @@ tags:
 enclosure: "https://www.onephatdj.com/media/finesse/Funky_House_Finesse_with_One_Phat_DJ_14_10th_October_2009.mp3 audio/mpeg 114241936 "
 ---
 
-![Funky House Finesse 14 - 10th October 2009](https://www.onephatdj.com/wp-content/uploads/2009/10/Funky_House_Finesse_14_10th_October_2009.jpg "Funky House Finesse 14 - 10th October 2009") Included in this week's show are a collection of exclusive promo's like **Alan Braxe**'s amazing French house remix of **Beyonce**'s next big track "_Broken-Hearted Girl_" plus a selection of the finest house tracks included on recently released compilations such as **Hed Kandi**'s Disco Heaven 2009 and The Mix: Summer 2009.
+![Funky House Finesse 14 - 10th October 2009](images/Funky_House_Finesse_14_10th_October_2009.jpg "Funky House Finesse 14 - 10th October 2009") Included in this week's show are a collection of exclusive promo's like **Alan Braxe**'s amazing French house remix of **Beyonce**'s next big track "_Broken-Hearted Girl_" plus a selection of the finest house tracks included on recently released compilations such as **Hed Kandi**'s Disco Heaven 2009 and The Mix: Summer 2009.
 
 ## Downloads
 

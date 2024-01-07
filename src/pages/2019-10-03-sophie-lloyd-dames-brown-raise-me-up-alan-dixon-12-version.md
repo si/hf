@@ -10,6 +10,7 @@ tags:
   - "sophie-lloyd"
   - "youtube"
 enclosure: ""
+coverImage: "XRJm-dudJhI.jpg"
 ---
 
 https://youtu.be/XRJm-dudJhI

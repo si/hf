@@ -12,6 +12,7 @@ tags:
   - "show"
   - "triple-dee"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/p/www.sowebmediauk.co.uk/dj-shows/HouseFinesse/House_Finesse_30_Andy_Daniels_Foundation_Manchester.mp3 0 audio/mpeg "
+coverImage: "House-Finesse-30-Andy-Daniels-Foundation-Manchester-Wide.jpg"
 ---
 
 As we continue our Summer tour of the finest house destinations in the world, Andy Daniels brings us a very special guest mix from his new Foundation night in Manchester, UK.

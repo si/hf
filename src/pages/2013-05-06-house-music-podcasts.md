@@ -4,6 +4,7 @@ date: "2013-05-06"
 categories: 
   - "news"
 enclosure: ""
+coverImage: "House-Music-Podcasts.png"
 ---
 
 Following in the footsteps of the biggest producers and DJs in the house music industry, House Finesse are honoured to be supported by the guys behind [House Music Podcasts](https://housemusicpodcasts.co.uk/).

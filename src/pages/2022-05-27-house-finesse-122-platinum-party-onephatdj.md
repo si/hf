@@ -4,6 +4,7 @@ date: "2022-05-27"
 categories: 
   - "shows"
 enclosure: "https://pinecast.com/listen/a416c66c-6825-4254-b690-f1d48196601e.mp3 287605308 audio/mpeg "
+coverImage: "HF122-Platinum-Party-with-One-Phat-DJ.jpg"
 ---
 
 **Time to wrap up May and prepare for the Queen's platinum jubilee with a bumper 2 hour set from our original host, One Phat DJ.**

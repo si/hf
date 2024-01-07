@@ -31,6 +31,7 @@ tags:
   - "the-shapeshifters"
   - "wally-jump-jr"
 enclosure: ""
+coverImage: "House-Finesse-June-2018.jpg"
 ---
 
 One Phat DJ is back with a selection of his favourite tracks from the last few months including highlights from the Glitterbox "_This Ain't No Disco_" compilation, a handful of Dr Packer remixes, some commercial hits and a handful of less mainstream numbers.

@@ -4,6 +4,7 @@ date: "2007-06-13"
 categories: 
   - "onephatdj"
 enclosure: "https://pinecast.com/listen/0f8e33ae-dcb9-4e25-8eec-8304bca715af.mp3 104405399 audio/mpeg "
+coverImage: "Bright-Times.png"
 ---
 
 Not only are we now well into the Summer months (in the Northern Hemisphere at least), but big things are changing for me personally. The other week, I was offered the job of a life time down in London, one that I couldn't turn away. With a new job in sight, it also meant it was time to relocate with the family. The finer details will be unveiled very soon when everything has been signed, sealed and delivered.

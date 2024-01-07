@@ -6,6 +6,7 @@ categories:
 tags: 
   - "one-phat-dj"
 enclosure: "https://pinecast.com/listen/d91b402a-759b-4c8a-9aac-4d5b33e7aca5.mp3 95148102 audio/mpeg "
+coverImage: "Born-In-October.jpg"
 ---
 
 **Back in October 2005, One Phat DJ made a special mix for a number of October birthdays. 16 years on, it's due a revival to celebrate all our October babies for #FinesseFriday.**

@@ -10,6 +10,7 @@ tags:
   - "vikki-martin-smith"
   - "vms"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/p/www.sowebmediauk.co.uk/dj-shows/HouseFinesse/House_Finesse_27_VMS.mp3 0 audio/mpeg "
+coverImage: "House-Finesse-27-with-VMS-Wide.jpg"
 ---
 
 We open the show with an hour of finely selected cuts from One Phat DJ's soulful, disco and jackin' collection including a cheeky bootleg of Jacko's impressive "comeback" track, a couple Joey Negro  disco tracks and back-to-back remixes of "Come Back To Me".

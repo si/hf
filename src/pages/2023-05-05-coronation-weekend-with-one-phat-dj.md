@@ -6,6 +6,7 @@ categories:
 tags: 
   - "one-phat-dj"
 enclosure: "https://pinecast.com/listen/6b3554fa-e3b2-4191-96b9-8f747d671568.mp3 86040246 audio/mpeg "
+coverImage: "Coronation-Weekend-with-One-Phat-DJ.jpg"
 ---
 
 **As the UK prepares for the coronation of King Charles III with an extended weekend, One Phat DJ pulls together house music royalty for another extended mix for our international followers to enjoy.**

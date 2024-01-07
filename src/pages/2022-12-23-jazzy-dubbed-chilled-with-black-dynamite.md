@@ -19,6 +19,7 @@ tags:
   - "the-shapeshifters"
   - "whitney-houston"
 enclosure: "https://pinecast.com/listen/02ee8de1-d9d3-44aa-bef4-25904367d24f.mp3 96180023 audio/mpeg "
+coverImage: "HF148-Jazzy-Dubbed-and-Chilled-with-Black-Dynamite.jpg"
 ---
 
 **It's the Christmas #FinesseFriday and Black Dynamite is providing the soundtrack with a delectable choice of jazzy, funky, uplifting and chilled house tunes to get you in the mood.**

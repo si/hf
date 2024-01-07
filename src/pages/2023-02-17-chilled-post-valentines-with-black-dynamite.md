@@ -6,6 +6,7 @@ categories:
 tags: 
   - "black-dynamite"
 enclosure: "https://pinecast.com/listen/b5720926-8991-41f9-a7d3-4cd806f056af.mp3 64381772 audio/mpeg "
+coverImage: "Chilled-Post-Valentines-with-Black-Dynamite.jpg"
 ---
 
 **Time for a change of a mood and vibes as Black Dynamite brings the sexy, soulful, romantic house tunes from his crate for this #FinesseFriday.**

@@ -33,6 +33,7 @@ tags:
   - "the-shapeshifters"
   - "tracey-k"
 enclosure: "https://pinecast.com/listen/6ec43b5f-e1ec-4753-9afb-c97b4547c3b9.mp3 116684378 audio/mpeg "
+coverImage: "House-Finesse-86-Summer-House-2020.png"
 ---
 
 **As our podcast reaches 15 years of existence this week (yep, really!), we bring another two hours of sun-tinged house music delights mixed by One Phat DJ & LYP as this year's **Summer House** ☀️.**
@@ -41,39 +42,39 @@ We continue the quarterly themed sessions, returning with some sun-soaked beats 
 
 To think 15 years ago, a little mix on a website would turn into one of the longest running house music podcasts online. Through all the peaks and troughs and many different formats, we've continued to bring our finest choice of house music, selected by One Phat DJ and friends, sent straight to your ears through the convenience of podcast technology. Whilst many have joined (and left) the bandwagon, we've continued to try keep things going for all the regular listeners and subscribers. Here are some of the highlights we've dug out the archives…
 
-- [![](https://www.housefinesse.com/wp-content/uploads/2005/07/87885C41-F696-4B01-B435-66DCD885C0AD-150x150.jpeg)](https://www.housefinesse.com/onephatdj/funky-pants/attachment/87885c41-f696-4b01-b435-66dcd885c0ad/)
+- [![](images/87885C41-F696-4B01-B435-66DCD885C0AD-150x150.jpeg)](https://www.housefinesse.com/onephatdj/funky-pants/attachment/87885c41-f696-4b01-b435-66dcd885c0ad/)
     
     Funky Pants starts it all off
     
-- [![](https://www.housefinesse.com/wp-content/uploads/2020/07/One-Phat-DJ-on-iTunes-Again-150x150.png)](https://www.housefinesse.com/?attachment_id=3491)
+- [![](images/One-Phat-DJ-on-iTunes-Again-150x150.png)](https://www.housefinesse.com/?attachment_id=3491)
     
     Featured on iTunes (again) in April 2007
     
-- [![](https://www.housefinesse.com/wp-content/uploads/2020/07/One-Phat-DJ-on-iTunes-Podcast-Homepage-150x150.png)](https://www.housefinesse.com/?attachment_id=3489)
+- [![](images/One-Phat-DJ-on-iTunes-Podcast-Homepage-150x150.png)](https://www.housefinesse.com/?attachment_id=3489)
     
     Number 22 in the iTunes Music Podcasts of July 2007
     
-- [![](https://www.housefinesse.com/wp-content/uploads/2020/07/One-Phat-DJ-Artwork-Stickers-150x150.jpg)](https://www.housefinesse.com/?attachment_id=3497)
+- [![](images/One-Phat-DJ-Artwork-Stickers-150x150.jpg)](https://www.housefinesse.com/?attachment_id=3497)
     
     One Phat DJ artwork stickers
     
-- [![](https://www.housefinesse.com/wp-content/uploads/2020/07/The-Finale-150x150.jpg)](https://www.housefinesse.com/?attachment_id=3494)
+- [![](images/The-Finale-150x150.jpg)](https://www.housefinesse.com/?attachment_id=3494)
     
     The Finalé of One Phat DJ podcast
     
-- [![](https://www.housefinesse.com/wp-content/uploads/2020/07/Funky-House-Finesse-3-May-2009-150x150.jpg)](https://www.housefinesse.com/?attachment_id=3498)
+- [![](images/Funky-House-Finesse-3-May-2009-150x150.jpg)](https://www.housefinesse.com/?attachment_id=3498)
     
     Funky House Finesse 3 from May 2009
     
-- [![](https://www.housefinesse.com/wp-content/uploads/2020/07/Funky-House-Finesse-25-Bonnie-Bailey-Special-150x150.jpg)](https://www.housefinesse.com/?attachment_id=3508)
+- [![](images/Funky-House-Finesse-25-Bonnie-Bailey-Special-150x150.jpg)](https://www.housefinesse.com/?attachment_id=3508)
     
     Bonnie Bailey joins One Phat DJ in March 2010
     
-- [![](https://www.housefinesse.com/wp-content/uploads/2012/08/Sam-Divine-150x150.png)](https://www.housefinesse.com/news/something-divine/attachment/sam-divine/)
+- [![](images/Sam-Divine-150x150.png)](https://www.housefinesse.com/news/something-divine/attachment/sam-divine/)
     
     Sam Divine helps launch House Finesse in September 2012
     
-- [![](https://www.housefinesse.com/wp-content/uploads/2015/07/ONEPHATDECADE-with-J-Paul-Getto-Square-150x150.png)](https://www.housefinesse.com/onephatdecade-with-j-paul-getto-square/)
+- [![](images/ONEPHATDECADE-with-J-Paul-Getto-Square-150x150.png)](https://www.housefinesse.com/onephatdecade-with-j-paul-getto-square/)
     
     #OnePhatDecade with J Paul Getto in 2015
     

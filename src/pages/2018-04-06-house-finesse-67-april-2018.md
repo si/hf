@@ -27,6 +27,7 @@ tags:
   - "taz"
   - "ultra-nate"
 enclosure: ""
+coverImage: "House-Finesse-April-2018.jpg"
 ---
 
 Kick-starting with a selection of favourites from the latest Glitterbox compilation, **Love Injection** (available on [iTunes](https://itunes.apple.com/us/album/glitterbox-love-injection/1345463028), [Amazon](https://www.amazon.co.uk/Glitterbox-Love-Injection-Various-Artists/dp/B078YN43DD) and all other good music providers), we also feature some relatively familiar names to the House Finesse elite from years past - let’s play House Music Bingo!

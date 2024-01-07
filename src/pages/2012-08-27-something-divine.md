@@ -7,6 +7,7 @@ tags:
   - "guest-mix"
   - "sam-divine"
 enclosure: ""
+coverImage: "Sam-Divine.png"
 ---
 
 Defected In The House DJ, [Sam Divine](https://www.facebook.com/djsamdivine) will be joining us for House Finesse 2, bringing with her a special one hour mix, showcasing her favourite tunes from this year's clubbing season.

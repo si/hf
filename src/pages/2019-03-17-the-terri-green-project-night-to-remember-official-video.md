@@ -8,6 +8,7 @@ tags:
   - "the-terri-green-project"
   - "youtube"
 enclosure: ""
+coverImage: "X1bk7w8yrDg.jpg"
 ---
 
 https://youtu.be/X1bk7w8yrDg

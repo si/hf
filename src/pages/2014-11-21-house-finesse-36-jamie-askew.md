@@ -7,6 +7,7 @@ tags:
   - "guest-mix"
   - "jamie-askew"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/p/www.sowebmediauk.co.uk/dj-shows/HouseFinesse/House_Finesse_36_Jamie_Askew.mp3 0 audio/mpeg "
+coverImage: "House-Finesse-36-Jamie-Askew-Wide.jpg"
 ---
 
 For more details from Jamie, connect with him on [Facebook](https://www.facebook.com/DJ.JamieAskew), [Twitter](https://twitter.com/jamieaskewdj) and [Soundcloud](https://soundcloud.com/jamie-askew).

@@ -6,6 +6,7 @@ categories:
 tags: 
   - "andy-daniels"
 enclosure: "https://pinecast.com/listen/11be67a2-c51a-4b91-9a7a-5ec5a6c60998.mp3 102647309 audio/mpeg "
+coverImage: "House-Finesse-30-Andy-Daniels-Foundation-Manchester-Wide.jpg"
 ---
 
 **For this week’s #FinesseFriday, we go back to August 2014 with a Summer House guest mix from Manchester DJ, Andy Daniels.**

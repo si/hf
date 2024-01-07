@@ -6,6 +6,7 @@ categories:
 tags: 
   - "disco77"
 enclosure: "https://pinecast.com/listen/e2407767-1d66-47a8-a28d-e81a9cda4e67.mp3 143419576 audio/mpeg "
+coverImage: "HF126-Proud-for-Pride-with-Disco77.jpg"
 ---
 
 **This week’s #FinesseFriday celebrates pride month and someone's birthday with a delectable selection of full on rainbow sounds from Disco77.** 🌈

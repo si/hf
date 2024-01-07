@@ -8,6 +8,7 @@ tags:
   - "jon-ulysses"
   - "rewind"
 enclosure: "https://pinecast.com/listen/b798252e-b2c2-43bd-807c-c97db2284281.mp3 86637129 audio/mpeg "
+coverImage: "House-Finesse-29-Jon-Ulysses-Space-Ibiza-Wide.jpg"
 ---
 
 **Let's REWIND back 8 years to July 2014 for a wonderful Ibiza guest mix from old friend of the podcast, Jon Ulysses**

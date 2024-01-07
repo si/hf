@@ -30,6 +30,7 @@ tags:
   - "supermini"
   - "thomchris"
 enclosure: "https://pinecast.com/listen/937f0563-4e17-4d7c-87e2-79f2b40b9a0c.mp3 60733247 audio/mpeg "
+coverImage: "8-pint-in-London-Never-mind-that-heres-some-house-music.jpg"
 ---
 
 **Disco77 is back in full health for his monthly dose of house music, fresh hot and classic vibes, as we commence weekend celebrations on #FinesseFriday.**

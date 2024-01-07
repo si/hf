@@ -28,6 +28,7 @@ tags:
   - "sonny-fodera"
   - "terisa-griffin"
 enclosure: "https://www.sowebmediauk.co.uk/dj-shows/OnePhatDj2/Funky_House_Finesse_44_Pt_1_Merry_Christmas_128.mp3 audio/mpeg "
+coverImage: "Funky_House_Finesse_44_Pt_1.jpg"
 ---
 
 Breaking convention a little for the festive season, we're breaking this month's show in to two parts - the first half for Christmas, the second for New Years Eve.

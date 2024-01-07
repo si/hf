@@ -7,6 +7,7 @@ tags:
   - "ben-santiago"
   - "guest-mix"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/p/www.sowebmediauk.co.uk/dj-shows/HouseFinesse/House_Finesse_3.mp3 112166190 audio/mpeg "
+coverImage: "House-Finesse-3-Ben-Santiago.png"
 ---
 
 ## Listen

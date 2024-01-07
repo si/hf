@@ -8,6 +8,7 @@ tags:
   - "guest-mix"
   - "show"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/p/www.sowebmediauk.co.uk/dj-shows/HouseFinesse/House_Finesse_21_with_Frater_Stent.mp3 0 audio/mpeg "
+coverImage: "House-Finesse-21-Wide.jpg"
 ---
 
 ## Listen

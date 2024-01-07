@@ -9,6 +9,7 @@ tags:
   - "urban-blues-project"
   - "youtube"
 enclosure: ""
+coverImage: "3DGVDcTvxj0.jpg"
 ---
 
 https://youtu.be/3DGVDcTvxj0

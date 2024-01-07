@@ -8,6 +8,7 @@ tags:
   - "house-gospel-choir"
   - "youtube"
 enclosure: ""
+coverImage: "TF8YgPf3ops.jpg"
 ---
 
 https://youtu.be/TF8YgPf3ops

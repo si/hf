@@ -19,6 +19,7 @@ tags:
   - "selace"
   - "yasmin-wood"
 enclosure: "https://pinecast.com/listen/c021bb05-e920-4cd1-844f-83bac3d8002e.mp3 86644949 audio/mpeg "
+coverImage: "HF111-Deep-and-Moody-with-LYP.jpg"
 ---
 
 **We wrap up February's #FridayFinesse with a selection of deeper house tunes from our old friend and resident, LYP.**

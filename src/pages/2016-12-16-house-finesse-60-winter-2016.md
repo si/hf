@@ -52,6 +52,7 @@ tags:
   - "tony-momrelle"
   - "tweek"
 enclosure: ""
+coverImage: "House-Finesse-Winter-2016-Cover.jpg"
 ---
 
 We're going back to a healthy selection of soulful, commercial and club tracks including 3-in-a-row from DJ Spen, pop-tastic remixes of Christina Aguilera, Bruno Mars, Missy Elliott & Emeli Sande, the awesome return of Armand Van Helden and all wrapped up with a Patrice Rushen classic.

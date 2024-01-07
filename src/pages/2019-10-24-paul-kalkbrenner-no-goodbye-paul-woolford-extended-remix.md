@@ -9,6 +9,7 @@ tags:
   - "paul-woolford"
   - "youtube"
 enclosure: ""
+coverImage: "V5FZp8ny5lc.jpg"
 ---
 
 https://youtu.be/V5FZp8ny5lc

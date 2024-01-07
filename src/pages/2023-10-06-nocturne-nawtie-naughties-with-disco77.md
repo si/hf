@@ -6,6 +6,7 @@ categories:
 tags: 
   - "disco77"
 enclosure: "https://pinecast.com/listen/2d273339-c7f1-4473-bd25-fe195e0d3900.mp3 60038431 audio/mpeg "
+coverImage: "HF188.jpg"
 ---
 
 **Get ready for a trip back to those nawtie noughties as Disco77 pulls out some dance classics for this week's mix.**

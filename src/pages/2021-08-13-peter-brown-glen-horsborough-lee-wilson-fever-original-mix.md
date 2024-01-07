@@ -9,6 +9,7 @@ tags:
   - "peter-brown"
   - "youtube"
 enclosure: ""
+coverImage: "N57D8DE-6Ms.jpg"
 ---
 
 https://www.youtube.com/watch?v=N57D8DE-6Ms

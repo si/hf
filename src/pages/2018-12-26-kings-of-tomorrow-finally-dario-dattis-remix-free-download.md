@@ -9,6 +9,7 @@ tags:
   - "kings-of-tomorrow"
   - "youtube"
 enclosure: ""
+coverImage: "VupeS55LeHs.jpg"
 ---
 
 https://youtu.be/VupeS55LeHs

@@ -4,6 +4,7 @@ date: "2013-06-07"
 categories: 
   - "shows"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/p/www.sowebmediauk.co.uk/dj-shows/HouseFinesse/House_Finesse_11.mp3 0 audio/mpeg "
+coverImage: "House-Finesse-11-Widescreen.jpg"
 ---
 
 ## Listen

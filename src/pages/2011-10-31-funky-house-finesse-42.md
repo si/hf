@@ -4,6 +4,7 @@ date: "2011-10-31"
 categories: 
   - "funkyhousefinesse"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/www.sowebmediauk.co.uk/dj-shows/OnePhatDj2/Funky_House_Finesse_42_Oct_2011_128.mp3 audio/mpeg "
+coverImage: "Funky_House_Finesse_42.jpg"
 ---
 
 ## Download Funky House Finesse 42

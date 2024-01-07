@@ -9,6 +9,7 @@ tags:
   - "funky-house-finesse"
   - "one-phat-dj"
 enclosure: "https://pinecast.com/listen/7dd8ad0f-9494-4448-a193-667460fa7ddb.mp3 115672557 audio/mpeg "
+coverImage: "Funky-House-Finesse-9.jpg"
 ---
 
 **For this week's #FinesseFriday, Al Mayers has selected one of his all-time favourite mixes from Summer 2009.**

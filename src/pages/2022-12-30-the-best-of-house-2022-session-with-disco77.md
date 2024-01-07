@@ -7,6 +7,7 @@ tags:
   - "disco77"
   - "purple-disco-machine"
 enclosure: "https://pinecast.com/listen/56f7fb19-9082-4153-96e4-1a383c78bb08.mp3 98434428 audio/mpeg "
+coverImage: "HF149-Best-of-House-2022-Session-Disco77.jpg"
 ---
 
 **Disco77 looks back over the past year, handpicking some of his standout tracks for your enjoyment as we wrap up with the final #FinesseFriday of 2022.**

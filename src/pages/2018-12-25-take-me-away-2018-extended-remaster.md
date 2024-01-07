@@ -9,6 +9,7 @@ tags:
   - "therese"
   - "youtube"
 enclosure: ""
+coverImage: "gQ9Bwt_xHPc.jpg"
 ---
 
 https://youtu.be/gQ9Bwt\_xHPc

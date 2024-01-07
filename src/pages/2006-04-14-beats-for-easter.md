@@ -4,6 +4,7 @@ date: "2006-04-14"
 categories: 
   - "onephatdj"
 enclosure: "https://pinecast.com/listen/c7d9d1a1-40e0-4cd6-b241-ccbfc9a7809b.mp3 90792278 audio/mpeg "
+coverImage: "Beats-For-Easter.png"
 ---
 
 I don't think there has ever been so much anticipation just for a One Phat DJ mix ever before but this month seems to have had people from all over the globe asking me when the "April" mix is due. Well, for all those requests out there, I can now put you all at ease. I present to you the 12th installment of One Phat DJ's podcast - **Beats For Easter**.

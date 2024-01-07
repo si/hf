@@ -7,6 +7,7 @@ tags:
   - "lyp"
   - "stu-braybrooke"
 enclosure: "https://pinecast.com/listen/e9a8e815-6f1a-4cf9-8dbd-32042cf00447.mp3 144192037 audio/mpeg "
+coverImage: "FinesseFriday-LYP-Goes-Deep.jpg"
 ---
 
 **This week's #FinesseFriday, we take a dive into something a little deeper than normal from our very own LYP.**

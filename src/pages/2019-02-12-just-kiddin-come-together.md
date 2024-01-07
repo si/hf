@@ -8,6 +8,7 @@ tags:
   - "just-kiddin"
   - "youtube"
 enclosure: ""
+coverImage: "vrFuAOKpCys.jpg"
 ---
 
 https://youtu.be/vrFuAOKpCys

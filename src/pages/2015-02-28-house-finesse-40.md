@@ -7,6 +7,7 @@ tags:
   - "show"
   - "shows-2"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/p/www.sowebmediauk.co.uk/dj-shows/HouseFinesse/House_Finesse_40.mp3 0 audio/mpeg "
+coverImage: "House-Finesse-40.jpg"
 ---
 
 ## Listen

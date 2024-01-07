@@ -9,6 +9,7 @@ tags:
   - "the-streets"
   - "youtube"
 enclosure: ""
+coverImage: "05flSZ0FKf0.jpg"
 ---
 
 https://youtu.be/05flSZ0FKf0

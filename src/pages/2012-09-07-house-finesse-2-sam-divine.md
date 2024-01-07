@@ -7,6 +7,7 @@ tags:
   - "guest-mix"
   - "sam-divine"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/p/www.sowebmediauk.co.uk/dj-shows/HouseFinesse/House_Finesse_2.mp3 0 audio/mpeg "
+coverImage: "House-Finesse-2-Sam-Divine.png"
 ---
 
 ## Listen

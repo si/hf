@@ -8,6 +8,7 @@ tags:
   - "rewind"
   - "vms"
 enclosure: "https://pinecast.com/listen/a80203d2-736f-43a1-ab99-3089cdc63d97.mp3 93882838 audio/mpeg "
+coverImage: "House-Finesse-27-with-VMS-Wide.jpg"
 ---
 
 **We're heading back to Summer 2014 this #FinesseFriday for a guest appearance from Australia, VMS**

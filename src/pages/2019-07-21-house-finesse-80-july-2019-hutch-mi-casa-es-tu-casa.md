@@ -18,6 +18,7 @@ tags:
   - "vanilla-ace"
   - "vigi"
 enclosure: "https://www.housefinesse.com/wp-content/uploads/2019/07/House-Finesse-80-July-2019-Hutch-Mi-Casa-Es-Tu-Casa.mp3 144126670 audio/mpeg "
+coverImage: "House-Finesse-80-July-2019-Mi-Casa-Es-Tu-Casa-Hutch.png"
 ---
 
 **This month, we welcome back Paul Hutchinson (aka Hutch) to play us an hour of disco delights with his Mi Casa Es Tu Casa style.**

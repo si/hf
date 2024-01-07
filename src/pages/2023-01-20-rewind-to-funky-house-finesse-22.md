@@ -8,6 +8,7 @@ tags:
   - "one-phat-dj"
   - "rewind"
 enclosure: "https://pinecast.com/listen/cfeba3bf-e9e8-41ad-9e5a-0e4bac211b1d.mp3 115677236 audio/mpeg "
+coverImage: "REWIND-Funky-House-Finesse-22.jpg"
 ---
 
 **Let's go back nearly 13 years to the FHF series with a two hour mix of soulful, disco and funky vibes handcrafted by One Phat DJ.**

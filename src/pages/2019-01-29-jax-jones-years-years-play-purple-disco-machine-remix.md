@@ -10,6 +10,7 @@ tags:
   - "years-years"
   - "youtube"
 enclosure: ""
+coverImage: "y-Pr74X9YVI.jpg"
 ---
 
 https://youtu.be/y-Pr74X9YVI

@@ -32,6 +32,7 @@ tags:
   - "the-shapeshifters"
   - "zhao"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/p/www.sowebmediauk.co.uk/dj-shows/HouseFinesse/House_Finesse_July_2017.mp3 0 audio/mpeg "
+coverImage: "House-Finesse-July-2017.png"
 ---
 
 Holiday season is well underway now and, with it, we bring another selection of the finest house cuts from our very own resident, One Phat DJ.

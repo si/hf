@@ -6,6 +6,7 @@ categories:
 tags: 
   - "one-phat-dj"
 enclosure: "https://pinecast.com/listen/720c4bbb-f947-4411-81d4-f23f2b58c5d6.mp3 142616646 audio/mpeg "
+coverImage: "Trick-or-Treat-with-One-Phat-DJ.png"
 ---
 
 **This week, we're diving into the original archives to pull out a classic halloween mix from 2007 with One Phat DJ**.

@@ -7,6 +7,7 @@ tags:
   - "frankie-knuckles"
   - "one-phat-dj"
 enclosure: "https://pinecast.com/listen/7cafd6eb-6a8f-45f3-b74a-084629496d07.mp3 173048491 audio/mpeg "
+coverImage: "House-Finesse-24-Wide.jpg"
 ---
 
 **Selected by [Garry Renshall in our Discord](https://discord.com/channels/823799531723816991/823799531723816996/864568982798336021), this week’s #FinesseFriday is the Frankie Knuckles tribute mix from April 2014.**

@@ -35,6 +35,7 @@ tags:
   - "udaufl"
   - "yam-who"
 enclosure: "https://pinecast.com/listen/e6b5e8ac-7bee-42db-9f6e-5e927130c294.mp3 86577341 audio/mpeg "
+coverImage: "That-Was-2022-with-One-Phat-DJ.jpg"
 ---
 
 **Just as you think we're seeing the back of 2022, One Phat DJ takes the opportunity to reflect on his finest cuts from the year with his Best Of mix.**

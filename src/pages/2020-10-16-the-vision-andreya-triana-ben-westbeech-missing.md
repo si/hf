@@ -9,6 +9,7 @@ tags:
   - "defected"
   - "the-vision"
 enclosure: ""
+coverImage: "LRVBBYYq_l4.jpg"
 ---
 
 https://www.youtube.com/watch?v=LRVBBYYq\_l4

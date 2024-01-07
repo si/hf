@@ -6,6 +6,7 @@ categories:
 tags: 
   - "disco77"
 enclosure: "https://pinecast.com/listen/13dfd75a-926f-4001-b865-bb9f23bb866e.mp3 144117016 audio/mpeg "
+coverImage: "House-Finesse-102-Party-Time-with-Disco-77.jpg"
 ---
 
 **For this weeks #FinesseFriday, we welcome our newest resident DJ to join the House Finesse family with the return of Disco77 on his new monthly residency. Get your party glad rags on…**

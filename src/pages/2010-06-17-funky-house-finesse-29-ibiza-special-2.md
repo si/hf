@@ -4,6 +4,7 @@ date: "2010-06-17"
 categories: 
   - "funkyhousefinesse"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/www.sowebmediauk.co.uk/dj-shows/OnePhatDj2/Funky_House_Finesse_29_Ibiza_Special_17th_June_2010_128.mp3 audio/mpeg "
+coverImage: "Funky_House_Finesse_29_17th_June_2010-1.jpg"
 ---
 
 In the warm up to The Big 30 Show, we're heading out to Ibiza for a long weekend of partying on the White Isle. To make sure you don't feel left out, we've produced an Ibiza Special mixshow, full of some of the biggest tracks of the Summer.

@@ -7,6 +7,7 @@ tags:
   - "black-history-month"
   - "one-phat-dj"
 enclosure: "https://pinecast.com/listen/28960103-9f4b-48c1-8dc0-2fa6a4de1631.mp3 59902469 audio/mpeg "
+coverImage: "HF190-Celebrating-Women-of-House-for-Black-History-Month.jpg"
 ---
 
 **One Phat DJ brings us 10 of his favourite black female vocalists from through the decades to celebrate Black History Month.**

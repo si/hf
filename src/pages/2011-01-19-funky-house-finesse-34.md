@@ -69,6 +69,7 @@ tags:
   - "whiteside"
   - "zelma"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/www.sowebmediauk.co.uk/dj-shows/OnePhatDj2/Funky_House_Finesse_34_Jan_2011_128.mp3 "
+coverImage: "Funky_House_Finesse_34.jpg"
 ---
 
 Merry Christmas, Happy New Year and all those other greetings we've missed since Funky House Finesse 33. Apologies for the delay in getting the next mix to you – numerous problems got in the way but we're back now and, oh my, have we got a hot show for you?

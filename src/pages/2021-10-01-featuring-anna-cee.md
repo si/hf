@@ -8,6 +8,7 @@ tags:
   - "guest"
   - "guest-mix"
 enclosure: "https://pinecast.com/listen/e95a7277-51e3-4318-a242-4c83e4e55a1f.mp3 110359179 audio/mpeg "
+coverImage: "House-Finesse-Featuring-Anna-Cee.jpg"
 ---
 
 **As we continue the weekly dose of #FinesseFriday, we've got the fabulous Anna Cee to bring us a live guest mix for us to start October 2021.**

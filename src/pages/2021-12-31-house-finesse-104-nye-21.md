@@ -8,6 +8,7 @@ tags:
   - "nye"
   - "one-phat-dj"
 enclosure: "https://pinecast.com/listen/2055e1dc-f85b-439b-9adc-0606aed49fbb.mp3 175877572 audio/mpeg "
+coverImage: "House-Finesse-104-NYE-2021.jpg"
 ---
 
 **We're wrapping up 2021 with another two hour party compilation special from residents One Phat DJ and LYP, full of uplifting disco vibes.**.

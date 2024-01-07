@@ -30,6 +30,7 @@ tags:
   - "vaudafunk"
   - "yam-who"
 enclosure: "https://www.housefinesse.com/wp-content/uploads/2018/12/House_Finesse_December_2018.mp3 72328314 audio/mpeg "
+coverImage: "House-Finesse-December-2018.jpeg"
 ---
 
 It's time for a festive #FinesseFriday with the December 2018 selection from One Phat DJ. Let the new year celebrations commence!

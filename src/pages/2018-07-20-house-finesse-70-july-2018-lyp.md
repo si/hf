@@ -38,6 +38,7 @@ tags:
   - "toddla-t"
   - "waterson"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/p/www.sowebmediauk.co.uk/dj-shows/HouseFinesse/House_Finesse_July_2018_LYP.mp3 144173456 audio/mpeg "
+coverImage: "House-Finesse-July-2018-LYP.jpg"
 ---
 
 **LYP (aka Lemon Yellow Pea) is back in the mix for July 2018 with a fantastic selection of house tracks including some exclusive bootlegs by the man himself.**

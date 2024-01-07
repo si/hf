@@ -8,6 +8,7 @@ tags:
   - "j-paul-getto"
   - "soundcloud"
 enclosure: ""
+coverImage: "J-Paul-Getto-The-Ultimate.jpg"
 ---
 
 <iframe src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F100328332&amp;show_artwork=true" height="166" width="100%" frameborder="no" scrolling="no"></iframe>

@@ -74,6 +74,7 @@ tags:
   - "trilogy-project"
   - "voltax"
 enclosure: "https://www.sowebmediauk.co.uk/dj-shows/OnePhatDj2/Funky_House_Finesse_26_WMC_2010_Special_27th_March_2010_128.mp3 audio/mpeg "
+coverImage: "Funky_House_Finesse_26_WMC_2010_Special_27th_March_2010.jpg"
 ---
 
 Just as the  [Winter Music Conference in Miami](https://www.wmcon.com/) winds down, we take a look at some of the sizzling tracks from the numerous parties across Miami Beach, bound for huge success throughout the coming clubbing season.

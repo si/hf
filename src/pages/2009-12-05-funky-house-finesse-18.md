@@ -76,6 +76,7 @@ tags:
   - "yuanist-woods"
   - "z-records"
 enclosure: "https://pinecast.com/listen/287307fd-4929-4316-9b17-37353a9d6ded.mp3 audio/mpeg "
+coverImage: "Funky_House_Finesse_18_5th_December_2009.jpg"
 ---
 
 ## Track Listing

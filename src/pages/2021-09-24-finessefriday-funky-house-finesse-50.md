@@ -6,6 +6,7 @@ categories:
 tags: 
   - "one-phat-dj"
 enclosure: "https://pinecast.com/listen/2fa9ec0e-ca2b-46d2-a964-0a8c6b11cf52.mp3 170900328 audio/mpeg "
+coverImage: "Funky_House_Finesse_50.png"
 ---
 
 **Time to pull out the momentous occasion when we concluded the Funky House Finesse series in July 2012 with an epic 3-hour mix from One Phat DJ.**

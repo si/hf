@@ -4,6 +4,7 @@ date: "2021-10-29"
 categories: 
   - "shows"
 enclosure: "https://pinecast.com/listen/2661e24a-1b83-4706-865d-8efe260015b8.mp3 288163891 audio/mpeg "
+coverImage: "House-Finesse-99-Halloween-2021.jpg"
 ---
 
 **Can you feel the tremors? One Phat DJ is back for his quarterly two hour mix compilation, full of soulful, disco and funky house vibes, to prepare you for a weekend of seasonal parties with halloween just around the corner.**

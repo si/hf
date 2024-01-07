@@ -77,7 +77,7 @@ enclosure: "https://www.onephatdj.com/media/finesse/Funky_House_Finesse_15_24th_
 
 In this week's Funky House Finesse show, we've got a whole stack of upcoming funky house tunes from familiar labels as well as some huge tracks from the likes of **Defected**, **Strictly Rhythm**, **Hed Kandi** and another belter from **[Freemasons](https://www.amazon.co.uk/gp/product/B002MJDLW6?ie=UTF8&tag=onephatdj-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=B002MJDLW6)**[' Shakedown 2](https://www.amazon.co.uk/gp/product/B002MJDLW6?ie=UTF8&tag=onephatdj-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=B002MJDLW6) compilation. Some of the tracks we're feeling this week includes **Sunlightsquare**'s take on **Earth, Wind & Fire**'s "_Let's Groove_", **Sosua & Mad**'s beautiful "_Supaconstellation_", **Shena** teaming up with **The BeatThiefs** on simplistic "_You Got To_" and wrapping things up with **Ant Brooks**' remix of **Danny Tenaglia**'s classic "_Music Is The Answer_". Be sure to download, turn up and enjoy all two hours of the show and leave your comments and thoughts, either in the comments below or on [Twitter](https://twitter.com/housefinesse) or [Facebook](https://www.facebook.com/pages/One-Phat-DJ/126293600841).
 
-## ![Funky House Finesse 15 - 24th October 2009 artwork](https://www.onephatdj.com/wp-content/uploads/2009/10/Funky_House_Finesse_15_24th_October_2009.png "Funky House Finesse 15 - 24th October 2009 artwork")
+## ![Funky House Finesse 15 - 24th October 2009 artwork](images/Funky_House_Finesse_15_24th_October_2009.png "Funky House Finesse 15 - 24th October 2009 artwork")
 
 ## Download
 

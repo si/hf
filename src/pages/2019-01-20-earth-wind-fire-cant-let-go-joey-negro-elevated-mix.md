@@ -9,6 +9,7 @@ tags:
   - "joey-negro"
   - "youtube"
 enclosure: ""
+coverImage: "1A-P0fqSzDQ.jpg"
 ---
 
 https://youtu.be/1A-P0fqSzDQ

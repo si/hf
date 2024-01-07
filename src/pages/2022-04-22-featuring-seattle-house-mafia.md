@@ -8,6 +8,7 @@ tags:
   - "paul-velocity"
   - "seattle-house-mafia"
 enclosure: "https://pinecast.com/listen/99f061e4-363e-4cd7-951e-34629f8a4bc7.mp3 271188398 audio/mpeg "
+coverImage: "HF118-Featuring-Seattle-House-Mafia.jpg"
 ---
 
 For this week's #FinesseFriday, we head across the pond for an extra long back-to-back guest mix from the amazing Seattle House Mafia. Strap yourself in!

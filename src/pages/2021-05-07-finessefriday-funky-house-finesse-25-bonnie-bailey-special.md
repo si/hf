@@ -9,6 +9,7 @@ tags:
   - "getting-to-know"
   - "one-phat-dj"
 enclosure: "https://pinecast.com/listen/85c795f2-1081-41be-881b-afba3fb60605.mp3 173311010 audio/mpeg "
+coverImage: "Funky-House-Finesse-25-Bonnie-Bailey-Special.jpg"
 ---
 
 **This week's #FinesseFriday selected by Debbie Salt includes an exclusive interview and mini-mix with old friend of the show, Bonnie Bailey.**

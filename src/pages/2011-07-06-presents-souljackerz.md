@@ -10,6 +10,7 @@ tags:
   - "souljackerz"
   - "stuart-braybrooke"
 enclosure: "https://pinecast.com/listen/a55227b5-5cbc-4459-baa2-27651b04d850.mp3 113747760 audio/mpeg "
+coverImage: "Funky_House_Finesse_Presents_Souljackerz.jpg"
 ---
 
 This week, we present an upcoming breakthrough act who go by the name of **Souljackerz**.

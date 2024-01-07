@@ -35,6 +35,7 @@ tags:
   - "thomchris"
   - "zhana"
 enclosure: "https://pinecast.com/listen/78bb9e69-8601-4237-8903-d9b60cea8682.mp3 173615754 audio/mpeg "
+coverImage: "House-Finesse-85-Spring-Break-2020-Compressed-1.png"
 ---
 
 ### We're back after a Winter break with a brand new extended format to bring some joy through difficult global times.

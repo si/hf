@@ -7,6 +7,7 @@ tags:
   - "chandler-taylor"
   - "youtube"
 enclosure: ""
+coverImage: "FhMyS7QpNjM.jpg"
 ---
 
 https://youtu.be/FhMyS7QpNjM

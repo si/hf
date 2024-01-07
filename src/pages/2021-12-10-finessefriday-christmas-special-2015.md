@@ -8,6 +8,7 @@ tags:
   - "disco"
   - "one-phat-dj"
 enclosure: "https://pinecast.com/listen/687a852a-617a-45fd-a5d0-342ad2b26697.mp3 96441744 audio/mpeg "
+coverImage: "Finesse-Christmas.jpg"
 ---
 
 **We continue the festive revival for this week's #FinesseFriday with the disco-fuelled Christmas Special mix from 6 years ago featuring The Reflex, Chaka Kahn, MJ, Bob Sinclair, Byron Stingily, Boris Dlugosch, Purple Disco Machine and many more.**

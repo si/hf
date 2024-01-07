@@ -75,6 +75,7 @@ tags:
   - "urbana"
   - "work-records"
 enclosure: "https://pinecast.com/listen/e309b4e0-f5a4-4c9e-bf5e-47fb5e3f7ef9.mp3 115205279 audio/mpeg "
+coverImage: "Funky_House_Finesse_35.jpg"
 ---
 
 We return for another dose of deliciously funky delights from a whole host of amazing artists and producers.

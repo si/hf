@@ -9,6 +9,7 @@ tags:
   - "raquel-rodriguez"
   - "youtube"
 enclosure: ""
+coverImage: "Ve6wgUzqvcU.jpg"
 ---
 
 https://youtu.be/Ve6wgUzqvcU

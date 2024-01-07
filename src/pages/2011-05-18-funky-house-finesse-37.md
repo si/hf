@@ -65,9 +65,10 @@ tags:
   - "universe-project"
   - "wanda-fowler"
 enclosure: "https://www.sowebmediauk.co.uk/dj-shows/OnePhatDj2/Funky_House_Finesse_37_May_2011_128.mp3 audio/mpeg "
+coverImage: "Funky_House_Finesse_37.jpg"
 ---
 
-![](https://www.onephatdj.com/wp-content/uploads/2011/05/Funky_House_Finesse_37.jpg "Funky House Finesse 37")
+![](images/Funky_House_Finesse_37.jpg "Funky House Finesse 37")
 
 First off, apologies for the delay in releasing the next show. We've had some unexpected issues hosting the podcast so took a sabattical to work out a solution. We've found a suitable partner in [Lib Syn](https://www.libsyn.com/) (recommended by the Triple Dee guys) who know exactly what we want but bear with us while we iron out any teething issues.
 

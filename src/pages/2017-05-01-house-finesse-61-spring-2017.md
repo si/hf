@@ -24,6 +24,7 @@ tags:
   - "the-starletts"
   - "weeks-co"
 enclosure: ""
+coverImage: "House-Finesse-Spring-2017-Cover.png"
 ---
 
 **One Phat DJ is back with 12 massive house tunes for the brighter Spring months.**

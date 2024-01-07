@@ -24,6 +24,7 @@ tags:
   - "treasure-fingers"
   - "volta-bureau"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/p/www.sowebmediauk.co.uk/dj-shows/OnePhatDj2/Funky_House_Finesse_44_Pt_2_Happy_New_Year_128.mp3 audio/mpeg "
+coverImage: "Funky_House_Finesse_44_Pt_2_Happy_New_Year.jpg"
 ---
 
 Slightly later than originally planned (but earlier than expected), here comes the second part of Funky House Finesse 44 to break you into the new year.

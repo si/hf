@@ -71,6 +71,7 @@ tags:
   - "young-punx"
   - "z-records"
 enclosure: "https://pinecast.com/listen/85c795f2-1081-41be-881b-afba3fb60605.mp3 173311010 audio/mpeg "
+coverImage: "Funky-House-Finesse-25-Bonnie-Bailey-Special.jpg"
 ---
 
 This week we introduce not one **but two** new features:

@@ -36,6 +36,7 @@ tags:
   - "show"
   - "tough-love"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/p/www.sowebmediauk.co.uk/dj-shows/HouseFinesse/House_Finesse_37.mp3 0 audio/mpeg "
+coverImage: "House-Finesse-37-Wide.jpg"
 ---
 
 ## Listen

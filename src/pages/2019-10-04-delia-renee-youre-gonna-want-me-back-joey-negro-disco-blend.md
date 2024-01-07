@@ -8,6 +8,7 @@ tags:
   - "delia-renee"
   - "youtube"
 enclosure: ""
+coverImage: "WRW2RLFVtZU.jpg"
 ---
 
 https://youtu.be/WRW2RLFVtZU

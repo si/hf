@@ -8,6 +8,7 @@ tags:
   - "soundcloud"
   - "the-reflex"
 enclosure: ""
+coverImage: "double-exposure-the-reflex.jpg"
 ---
 
 https://soundcloud.com/thereflex/double-exposure-my-love-is-free-the-reflex-revision

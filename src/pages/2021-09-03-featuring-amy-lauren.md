@@ -6,6 +6,7 @@ categories:
 tags: 
   - "amy-lauren"
 enclosure: "https://pinecast.com/listen/982f4347-38c0-4414-a382-a930562ba9ca.mp3 142877007 audio/mpeg "
+coverImage: "House-Finesse-Featuring-Amy-Lauren.jpg"
 ---
 
 **This week, we invite along Select Radio’s Amy Lauren for a very special guest mix of uplifting house music to kickstart your weekend.**

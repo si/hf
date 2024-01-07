@@ -58,6 +58,7 @@ tags:
   - "whitney-houston"
   - "z-records"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/www.sowebmediauk.co.uk/dj-shows/OnePhatDj2/Funky_House_Finesse_46_February_2012_128.mp3 audio/mpeg "
+coverImage: "Funky_House_Finesse_46.jpg"
 ---
 
 It comes with great sadness that a legend, a star, a huge part of my musical background passed away this month. Whitney Houston gave us one of the finest voices in the World so, naturally, I had to honour her with one of my favourite tracks from 1993, remixed by **Civilles and Cole** – "_I'm Every Woman_" wraps up this month's show.

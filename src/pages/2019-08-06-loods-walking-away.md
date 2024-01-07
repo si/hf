@@ -7,6 +7,7 @@ tags:
   - "loods"
   - "youtube"
 enclosure: ""
+coverImage: "K7fEd9WxE0U.jpg"
 ---
 
 https://youtu.be/K7fEd9WxE0U

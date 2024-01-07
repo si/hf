@@ -79,6 +79,7 @@ tags:
   - "whitney-houston"
   - "z-records"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/www.sowebmediauk.co.uk/dj-shows/OnePhatDj2/Funky_House_Finesse_20_2nd_January_2010_128.mp3 117249175 audio/mpeg "
+coverImage: "Funky_House_Finesse_20_Finest_of_2009_2nd_January_2010.jpg"
 ---
 
  

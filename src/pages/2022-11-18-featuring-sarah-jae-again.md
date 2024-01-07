@@ -7,6 +7,7 @@ tags:
   - "guest-mix"
   - "sarah-jae"
 enclosure: "https://pinecast.com/listen/287b0342-bdb7-445c-bc9a-16f9ee3520b7.mp3 86326113 audio/mpeg "
+coverImage: "HF144-Featuring-Sarah-Jae-Again.jpg"
 ---
 
 **Following her awesome Summer debut, Sarah Jae has returned with another delightfully deep and soulful house mix to warm up your Autumnal #FinesseFriday.**

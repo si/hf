@@ -6,6 +6,7 @@ categories:
 tags: 
   - "one-phat-dj"
 enclosure: "https://pinecast.com/listen/542873b3-43cf-4845-83cc-34c92dff55e0.mp3 115212618 audio/mpeg "
+coverImage: "Funky_House_Finesse_43.jpg"
 ---
 
 **We dig out some uplifting vibes from 11 years ago for this week’s #FinesseFriday - its Funky House Finesse 43.**

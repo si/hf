@@ -6,6 +6,7 @@ categories:
 tags: 
   - "guest-mix"
 enclosure: "https://pinecast.com/listen/211cd5cf-26a8-4a0b-89cf-83c3deeee1f2.mp3 57517022 audio/mpeg "
+coverImage: "Featuring-Mister-Lew-Live-@-SuNDaY-CLuB.jpg"
 ---
 
 **This week, [Mister Lew](https://www.mixcloud.com/mr_lew/) returns with another guest mix, this time live from his SuNDaY CLuB debut at Nook & Cranny in Bolton.**

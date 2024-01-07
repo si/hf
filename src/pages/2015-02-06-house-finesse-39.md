@@ -29,6 +29,7 @@ tags:
   - "stuart-ojelay"
   - "ted-nilsson"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/p/www.sowebmediauk.co.uk/dj-shows/HouseFinesse/House_Finesse_39.mp3 0 audio/mpeg "
+coverImage: "House-Finesse-39.jpg"
 ---
 
 ## Listen

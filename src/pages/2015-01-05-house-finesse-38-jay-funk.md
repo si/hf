@@ -8,6 +8,7 @@ tags:
   - "jay-funk"
   - "show"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/p/www.sowebmediauk.co.uk/dj-shows/HouseFinesse/House_Finesse_38_Jay_Funk.mp3 0 audio/mpeg "
+coverImage: "House-Finesse-38-Jay-Funk-Wide.jpg"
 ---
 
 ## Listen

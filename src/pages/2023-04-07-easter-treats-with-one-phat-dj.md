@@ -4,6 +4,7 @@ date: "2023-04-07"
 categories: 
   - "shows"
 enclosure: "https://pinecast.com/listen/9d1a4ea0-04e2-455b-a394-b7e4310ea3e2.mp3 102817701 audio/mpeg "
+coverImage: "Easter-Treats-with-One-Phat-DJ.jpg"
 ---
 
 **Your resident DJ returns this #FinesseFriday for the long Easter weekend with an extra large selection from his tasty box of treats.**

@@ -4,6 +4,7 @@ date: "2007-04-18"
 categories: 
   - "onephatdj"
 enclosure: "https://pinecast.com/listen/04d62ecf-4c9a-41ce-b59c-d1d7f11c5038.mp3 62465724 audio/mpeg "
+coverImage: "Presenting-Bonnie-Bailey-v2.jpg"
 ---
 
 There are some people who are put on this earth solely to entertain. There are some people who have such beautiful voices, it would be a crime if they were not given the opportunity to showcase their ability to the public. There are some people who have both these qualities yet still don't have the full exposure they truly deserve. So I have taken it upon myself to deliver one of my favourite artists in all their glory through the magic of mixing. **Presenting... Bonnie Bailey**.

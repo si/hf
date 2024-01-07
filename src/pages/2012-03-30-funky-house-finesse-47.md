@@ -4,6 +4,7 @@ date: "2012-03-30"
 categories: 
   - "funkyhousefinesse"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/www.sowebmediauk.co.uk/dj-shows/OnePhatDj2/Funky_House_Finesse_47_March_2012_128.mp3 audio/mpeg "
+coverImage: "Funky_House_Finesse_47.jpg"
 ---
 
 Spring is well and truly in full swing (at least in the UK). The [Winter Music Conference in Miami](https://wintermusicconference.com/) has just passed - a brilliant excuse for all the dance labels to compile their ultimate start to 2012 - and we're now venturing into festival season.

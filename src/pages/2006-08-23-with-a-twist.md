@@ -4,6 +4,7 @@ date: "2006-08-23"
 categories: 
   - "onephatdj"
 enclosure: "https://pinecast.com/listen/9a774f0e-6321-435c-840d-d31ee89fb88e.mp3 104796729 audio/mpeg "
+coverImage: "With-A-Twist-23-August-2006.jpg"
 ---
 
 **Time to turn your speakers up! One Phat DJ is back with you yet again with another collection of funky house tunes for you to getting dancing to, singing along to - whatever takes your fancy.**

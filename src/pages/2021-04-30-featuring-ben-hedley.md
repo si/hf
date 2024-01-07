@@ -7,6 +7,7 @@ tags:
   - "ben-hedley"
   - "guest-mix"
 enclosure: "https://pinecast.com/listen/4d7cffaf-2aed-4fb9-8a1e-40e24fee4cb3.mp3 297329498 audio/mpeg "
+coverImage: "House-Finesse-91-Ben-Hedley.jpg"
 ---
 
 **For this week's #FinesseFriday, we bring you a special 2 hour guest mix from friend of the show, Ben Hedley.**

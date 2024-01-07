@@ -9,6 +9,7 @@ tags:
   - "the-vision"
   - "youtube"
 enclosure: ""
+coverImage: "lzDyApIpxRI.jpg"
 ---
 
 https://youtu.be/lzDyApIpxRI

@@ -8,6 +8,7 @@ tags:
   - "defected"
   - "youtube"
 enclosure: ""
+coverImage: "8Iu3jS5CZV4.jpg"
 ---
 
 https://www.youtube.com/watch?v=8Iu3jS5CZV4

@@ -7,6 +7,7 @@ tags:
   - "lyp"
   - "youtube"
 enclosure: ""
+coverImage: "LtOWbKHDRE.jpg"
 ---
 
 https://youtu.be/-LtOWbKHDRE

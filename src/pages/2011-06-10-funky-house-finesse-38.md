@@ -67,6 +67,7 @@ tags:
   - "warren-clarke"
   - "whitney-houston"
 enclosure: "https://www.sowebmediauk.co.uk/dj-shows/OnePhatDj2/Funky_House_Finesse_38_Jun_2011_128.mp3 audio/mpeg "
+coverImage: "Funky_House_Finesse_38.png"
 ---
 
 ## Listen & Download

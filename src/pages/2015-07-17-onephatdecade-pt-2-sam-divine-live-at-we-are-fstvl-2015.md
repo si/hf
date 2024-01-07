@@ -10,6 +10,7 @@ tags:
   - "sam-divine"
   - "we-are-fstvl"
 enclosure: ""
+coverImage: "ONEPHATDECADE-with-Sam-Divine.png"
 ---
 
 Last week, we kicked off the _#ONEPHATDECADE_ anniversary season with a two hour mix of soulful classics by your resident One Phat DJ.

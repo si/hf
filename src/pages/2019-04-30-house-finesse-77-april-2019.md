@@ -38,6 +38,7 @@ tags:
   - "soul-reductions"
   - "years-years"
 enclosure: "https://www.housefinesse.com/wp-content/uploads/2019/04/House-Finesse-77-April-2019.mp3 108145619 audio/mpeg "
+coverImage: "House-Finesse-77-April-2019.png"
 ---
 
 **One Phat DJ brings you 90 minutes of house delights as the Summer months approach with festival and party season.**

@@ -6,6 +6,7 @@ categories:
 tags: 
   - "one-phat-dj"
 enclosure: "https://pinecast.com/listen/cb635ff0-d929-4e78-9f70-51aeea7f6878.mp3 118312956 audio/mpeg "
+coverImage: "746DCEA2-50FE-484A-9F3A-0905871926B2.jpeg"
 ---
 
 **Let’s dive back into the One Phat DJ archives for this week’s #FinesseFriday, pulling out the first mix after One Phat DJ’s first born back in November 2006.**

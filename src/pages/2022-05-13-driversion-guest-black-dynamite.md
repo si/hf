@@ -6,6 +6,7 @@ categories:
 tags: 
   - "black-dynamite"
 enclosure: "https://pinecast.com/listen/7535c217-a9cf-4c1a-a0ff-f9ac9d6a0729.mp3 105428554 audio/mpeg "
+coverImage: "HF121-Driversion-Guest-Mix-by-Black-Dynamite.jpg"
 ---
 
 **On this week's #FinesseFriday, we go back to 2018 with an old school mix for the Driver Brothers Driversion Radio Show by Black Dynamite.**

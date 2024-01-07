@@ -78,6 +78,7 @@ tags:
   - "wasted-youth"
   - "whelan"
 enclosure: "https://pinecast.com/listen/9631f6b8-5488-49db-ab38-b3d9ddd1b951.mp3 117162984 audio/mpeg "
+coverImage: "Funky_House_Finesse_13_26th_September_2009.jpg"
 ---
 
 Now all the closing parties of Ibiza are over, what are we meant to do for a dose of decent, uplifting house music? I'll tell you what - you grab yourself a copy of the latest Funky House Finesse show, turn it up loud and pretend you're still on the White Isle, either warming up on the terrace, having a boogie in the clubs or chilling out under the sunrise.

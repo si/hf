@@ -32,6 +32,7 @@ tags:
   - "the-clark-sisters"
   - "the-shapeshifters"
 enclosure: ""
+coverImage: "House-Finesse-46.jpg"
 ---
 
 ## Listen

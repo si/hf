@@ -7,6 +7,7 @@ tags:
   - "dj-charli"
   - "guest-mix"
 enclosure: "https://pinecast.com/listen/fd561456-70ff-4feb-8aac-8405bd734b9b.mp3 165102791 audio/mpeg "
+coverImage: "HF134-Featuring-DJ-Charli.jpg"
 ---
 
 **For this week’s #FinesseFriday, we’ve arranged a very special guest DJ mix from Hed Kandi & MTV royalty, DJ Charli.**

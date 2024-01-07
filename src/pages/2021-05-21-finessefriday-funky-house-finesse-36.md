@@ -8,6 +8,7 @@ tags:
   - "marie-howard-shaw"
   - "one-phat-dj"
 enclosure: "https://pinecast.com/listen/28d3c46a-58b5-4dc7-9093-565e6020bf13.mp3 115243446 audio/mpeg "
+coverImage: "Funky_House_Finesse_36.jpg"
 ---
 
 **⏩ Lets fast forward a few years from last week to March 2011 for Marie Howard Shaw's #FinesseFriday selection, [Funky House Finesse 36](https://www.housefinesse.com/funkyhousefinesse/funky-house-finesse-36/).**

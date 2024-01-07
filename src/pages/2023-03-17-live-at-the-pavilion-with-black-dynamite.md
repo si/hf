@@ -4,6 +4,7 @@ date: "2023-03-17"
 categories: 
   - "shows"
 enclosure: "https://pinecast.com/listen/cd2e76fb-d07d-450e-aff4-056aff5b7f82.mp3 60780058 audio/mpeg "
+coverImage: "Live-at-The-Pavilion-with-Black-Dynamite.jpg"
 ---
 
 **Recorded live at The Pavilion in Colchester last month, Black Dynamite breaks in #FinesseFriday with his trademark sexy soulful vibes.**

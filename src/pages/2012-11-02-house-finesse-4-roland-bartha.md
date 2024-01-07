@@ -8,6 +8,7 @@ tags:
   - "mjuzieek-digital"
   - "roland-bartha"
 enclosure: "https://traffic.libsyn.com/finesse/House_Finesse_4_Roland_Bartha.mp3 175447364 audio/mpeg "
+coverImage: "House_Finesse_4_with_guest_mix_from_Mjuzieek_Digital_Roland_Bartha.png"
 ---
 
 ## Listen

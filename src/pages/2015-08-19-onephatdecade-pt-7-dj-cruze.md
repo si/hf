@@ -10,6 +10,7 @@ tags:
   - "guest-mix"
   - "marc-littlemore"
 enclosure: "https://pinecast.com/listen/ed76342c-5999-4fa0-8fcf-b9ac05dbc5aa.mp3 92625187 audio/mpeg "
+coverImage: "ONEPHATDECADE-with-DJ-Cruze.png"
 ---
 
 **Manchester is in the house as DJ Cruze brings us another guest mix in the 7th part of our _#ONEPHATDECADE_ celebrations.**

@@ -7,6 +7,7 @@ tags:
   - "david-dunne"
   - "guest-mix"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/p/www.sowebmediauk.co.uk/dj-shows/HouseFinesse/House_Finesse_7_with_David_Dunne.mp3 0 audio/mpeg "
+coverImage: "House-Finesse-7-with-David-Dunne.jpg"
 ---
 
 Seen as a pillar of the house music industry, Mr Dunne has firmly established himself as one of the finest DJs on the circuit. From the glory days of the Manchester house party revolution to touring the world with Hed Kandi, there is no denying the man knows his stuff. With his brother in arms Andy Daniels, David co-hosts the weekly Triple Dee Radio Show (which is also available as a podcast).

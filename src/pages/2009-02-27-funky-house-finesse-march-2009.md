@@ -13,6 +13,7 @@ tags:
   - "music"
   - "one-phat-dj"
 enclosure: "https://pinecast.com/listen/fb456c59-cd4c-4bbd-b76a-ce5029062ab0.mp3 87384726 audio/mpeg "
+coverImage: "3313272471_36d31fdfbf_o.png"
 ---
 
 With the [One Phat DJ Podcast](https://www.onephatdj.com/podcast) finally laid to rest after December's "[Encore](https://simonjobling.com/blog/2008/encore/)", it's time to start something a little different.

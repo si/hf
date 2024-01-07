@@ -31,6 +31,7 @@ tags:
   - "suki-soul"
   - "yam-who"
 enclosure: "https://pinecast.com/listen/d0ab3ed0-783d-4361-81f4-ce83ef53b145.mp3 144139088 audio/mpeg "
+coverImage: "HF114-Spring-Break-22-One-Phat-DJ.jpg"
 ---
 
 **We continue the weekly dose of house delights with a return to the Spring Break format from your original resident, One Phat DJ.**

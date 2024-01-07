@@ -8,6 +8,7 @@ tags:
   - "paradise"
   - "youtube"
 enclosure: ""
+coverImage: "Ao8C3DzePjI.jpg"
 ---
 
 https://youtu.be/Ao8C3DzePjI

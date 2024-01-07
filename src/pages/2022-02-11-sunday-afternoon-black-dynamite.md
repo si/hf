@@ -13,6 +13,7 @@ tags:
   - "sunkids"
   - "taiwo"
 enclosure: "https://pinecast.com/listen/236aad49-9ae5-411d-9fc7-c52da29a2a41.mp3 144376418 audio/mpeg "
+coverImage: "HF109-Sunday-Afternoon-Black-Dynamite.jpg"
 ---
 
 **Is it #FinesseFriday or Sunday afternoon? Either way, we've got a fantastic mix from new resident Black Dynamite (aka Taiwo) full of Masters At Work classics.**

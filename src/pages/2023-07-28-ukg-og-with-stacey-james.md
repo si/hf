@@ -8,6 +8,7 @@ tags:
   - "stacey-james"
   - "uk-garage"
 enclosure: "https://pinecast.com/listen/942e4d76-a307-4d4e-81bd-2aedb3c0745f.mp3 84673836 audio/mpeg "
+coverImage: "IMG_9068.jpeg"
 ---
 
 **On the ones and twos, ones and twos, is Stacey James bringing some original UK garage vibes.**

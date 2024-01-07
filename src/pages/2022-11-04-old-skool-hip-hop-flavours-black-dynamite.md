@@ -8,6 +8,7 @@ tags:
   - "hip-hop"
   - "old-skool"
 enclosure: "https://pinecast.com/listen/d0a0cac5-3aae-4517-ab3b-352ab0a55982.mp3 61770700 audio/mpeg "
+coverImage: "A081E170-748C-486C-A7A7-5D992DF02AD0.jpeg"
 ---
 
 **Time for a slight change in style this week with resident DJ Black Dynamite delving into some hip hop archives - check it!**

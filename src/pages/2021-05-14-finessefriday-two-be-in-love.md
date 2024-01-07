@@ -7,6 +7,7 @@ tags:
   - "annette-passley"
   - "one-phat-dj"
 enclosure: "https://pinecast.com/listen/3af36a25-b4ee-4484-9871-8b6eeb70a0af.m4a 71660645 audio/x-m4a "
+coverImage: "Two-Be-In-Love-1.png"
 ---
 
 **Another deep dive into the archives for this week’s #FinesseFriday with Annette Passley choosing one of her favourites from September 2007, [Two Be In Love](https://www.housefinesse.com/onephatdj/two-be-in-love/).**

@@ -4,6 +4,7 @@ date: "2023-07-14"
 categories: 
   - "shows"
 enclosure: "https://pinecast.com/listen/4447bee7-6d11-4bf4-abb9-60c51fd156a2.mp3 57719276 audio/mpeg "
+coverImage: "Eighteen-Years-with-One-Phat-DJ.jpg"
 ---
 
 **We mark 18 years of the podcast with One Phat DJ this week with a carefully crafted selection from long time listeners and our own residents.**

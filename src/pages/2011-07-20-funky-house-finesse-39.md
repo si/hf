@@ -4,6 +4,7 @@ date: "2011-07-20"
 categories: 
   - "funkyhousefinesse"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/www.sowebmediauk.co.uk/dj-shows/OnePhatDj2/Funky_House_Finesse_39_July_2011_128.mp3 audio/mpeg "
+coverImage: "Funky_House_Finesse_39.png"
 ---
 
 ## Download

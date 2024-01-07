@@ -6,6 +6,7 @@ categories:
 tags: 
   - "funky-house-finesse"
 enclosure: "https://pinecast.com/listen/dae1fed6-d492-43b3-9c66-4acd8b9ae20e.mp3 115205183 audio/mpeg "
+coverImage: "Funky_House_Finesse_40.jpg"
 ---
 
 **Time to dive back into the Funky House Finesse archives for this week’s #FinesseFriday, pulling out a sexy and eclectic selection from 10 years ago.**

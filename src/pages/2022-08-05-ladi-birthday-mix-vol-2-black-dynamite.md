@@ -6,6 +6,7 @@ categories:
 tags: 
   - "black-dynamite"
 enclosure: "https://pinecast.com/listen/9147460f-5285-42c8-8c11-dd0f33415610.mp3 165108369 audio/mpeg "
+coverImage: "HF131-Ladi-Birthday-Mix-Part-2-with-Black-Dynamite.jpg"
 ---
 
 **As we kickstart the 10 year celebrations this month, Black Dynamite conjures up a wonderful 10 track sequel to his Ladi Birthday Mix series for us all. Seriously sexy grooves!**

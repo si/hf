@@ -6,6 +6,7 @@ categories:
 tags: 
   - "one-phat-dj"
 enclosure: "https://pinecast.com/listen/0f8e33ae-dcb9-4e25-8eec-8304bca715af.mp3 104405399 audio/mpeg "
+coverImage: "Bright-Times.png"
 ---
 
 **For this week's #FinesseFriday, we delve into One Phat DJ's archives to highlight some Bright Times from way back in June 2007.**

@@ -7,6 +7,7 @@ tags:
   - "one-phat-dj"
   - "pride"
 enclosure: "https://pinecast.com/listen/5659b53c-4682-4687-9072-4a2d4b531209.mp3 101975392 audio/mpeg "
+coverImage: "Over-The-Rainbow.jpg"
 ---
 
 **To celebrate and recognise Pride month, we’ve dug out an appropriately named classic mix from 14 years ago, full of dance delights, selected by Victoria Robinson.**

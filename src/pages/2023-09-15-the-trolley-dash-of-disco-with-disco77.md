@@ -6,6 +6,7 @@ categories:
 tags: 
   - "disco77"
 enclosure: "https://pinecast.com/listen/678c712d-4a95-4c4e-b341-0a06118f7682.mp3 71847136 audio/mpeg "
+coverImage: "Trolley-Dash-of-Disco.jpeg"
 ---
 
 **We go "all over the shop" with this brilliant mix from Disco77, going old school for some cheesy chunky disco and Latin house.**

@@ -8,6 +8,7 @@ tags:
   - "rene-angela"
   - "youtube"
 enclosure: ""
+coverImage: "io6MX6GaATE.jpg"
 ---
 
 https://youtu.be/io6MX6GaATE

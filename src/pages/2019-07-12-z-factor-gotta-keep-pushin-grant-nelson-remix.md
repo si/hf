@@ -8,6 +8,7 @@ tags:
   - "youtube"
   - "z-factor"
 enclosure: ""
+coverImage: "9Bt0vhGfv18.jpg"
 ---
 
 https://youtu.be/9Bt0vhGfv18

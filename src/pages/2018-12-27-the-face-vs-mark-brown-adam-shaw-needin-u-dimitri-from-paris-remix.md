@@ -11,6 +11,7 @@ tags:
   - "the-face"
   - "youtube"
 enclosure: ""
+coverImage: "bOIv2oweYZw.jpg"
 ---
 
 https://youtu.be/bOIv2oweYZw

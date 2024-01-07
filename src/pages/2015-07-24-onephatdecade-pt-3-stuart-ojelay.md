@@ -9,6 +9,7 @@ tags:
   - "shows-2"
   - "stuart-ojelay"
 enclosure: ""
+coverImage: "ONEPHATDECADE-with-Stuart-Ojelay.png"
 ---
 
 Week three of our _#ONEPHATDECADE_ anniversary celebrations continues with another massive guest mix from amazing DJ/producer (and fellow Midlander) - **Stuart Ojelay**.

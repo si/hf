@@ -4,6 +4,7 @@ date: "2023-03-10"
 categories: 
   - "shows"
 enclosure: "https://pinecast.com/listen/03f3b266-6f73-4d09-9bad-f1b8195d97ba.mp3 77026241 audio/mpeg "
+coverImage: "Spring-Break-2023-with-One-Phat-DJ.jpg"
 ---
 
 **Spring is apparently starting so One Phat DJ is treating us to one of his uplifting selections of party tunes this #FinesseFriday.**

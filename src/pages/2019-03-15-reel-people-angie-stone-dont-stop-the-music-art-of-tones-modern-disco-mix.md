@@ -10,6 +10,7 @@ tags:
   - "reel-people"
   - "youtube"
 enclosure: ""
+coverImage: "SrLt1pF-dQ.jpg"
 ---
 
 https://youtu.be/SrLt1pF--dQ

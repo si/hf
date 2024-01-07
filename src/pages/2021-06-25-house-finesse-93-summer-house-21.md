@@ -7,6 +7,7 @@ tags:
   - "one-phat-dj"
   - "summer-house"
 enclosure: "https://pinecast.com/listen/6552d57e-dd8e-4c64-a36e-ba8cf27c1ee0.mp3 288110871 audio/mpeg "
+coverImage: "House-Finesse-93-Summer-House-2021.jpg"
 ---
 
 **We're back with another quarterly mix compilation bringing you the finest selection of sexy house music to compliment your Summer months.**

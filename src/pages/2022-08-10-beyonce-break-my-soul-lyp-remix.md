@@ -10,6 +10,7 @@ tags:
   - "lyp"
   - "remix"
 enclosure: ""
+coverImage: "Beyonce-Break-My-Soul-LYP-Remix.jpg"
 ---
 
 10 years ago today, House Finesse was launched to the world with a brand new format and residency.

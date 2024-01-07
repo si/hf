@@ -9,6 +9,7 @@ tags:
   - "phonk-d"
   - "youtube"
 enclosure: ""
+coverImage: "CTGXw8vbJuM.jpg"
 ---
 
 https://youtu.be/CTGXw8vbJuM

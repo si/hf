@@ -7,6 +7,7 @@ tags:
   - "gweilo"
   - "souljackerz"
 enclosure: "https://pinecast.com/listen/3545d5fb-f871-4c4a-a4a7-3994b163e330.mp3 70050173 audio/mpeg "
+coverImage: "House-Finesse-Featuring-Gweilo.jpg"
 ---
 
 **As we enter the UK summer bank holiday weekend, it's time for a special unreleased mix from 2011 courtesy of our very own DJ, Gweilo**.

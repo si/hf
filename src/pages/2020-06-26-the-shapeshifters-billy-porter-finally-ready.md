@@ -9,6 +9,7 @@ tags:
   - "the-shapeshifters"
   - "youtube"
 enclosure: ""
+coverImage: "fHg36hT7CVI.jpg"
 ---
 
 https://www.youtube.com/watch?v=fHg36hT7CVI

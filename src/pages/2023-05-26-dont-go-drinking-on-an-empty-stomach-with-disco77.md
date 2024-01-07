@@ -6,6 +6,7 @@ categories:
 tags: 
   - "disco77"
 enclosure: "https://pinecast.com/listen/3af0e0af-51b1-4c2b-b618-67a85a9dd2a0.mp3 57922747 audio/mpeg "
+coverImage: "Dont-Go-Drinking.jpg"
 ---
 
 **It’s ANOTHER May bank holiday and Disco77 is back with ANOTHER upfront house mix full of energy for your long weekend’s entertainment.**

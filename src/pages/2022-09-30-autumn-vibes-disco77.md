@@ -6,6 +6,7 @@ categories:
 tags: 
   - "disco77"
 enclosure: "https://pinecast.com/listen/fec439b3-cdef-47d8-9f9d-e016ccaedc0b.mp3 57419460 audio/mpeg "
+coverImage: "HF138-Autumn-Vibes-with-Disco77.jpg"
 ---
 
 **We continue to bring the warm feels as colder nights are drawing in thanks to some uplifting Autumn vibes from the man, the legend, Disco 77.**

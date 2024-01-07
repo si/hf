@@ -6,6 +6,7 @@ categories:
 tags: 
   - "disco77"
 enclosure: "https://pinecast.com/listen/9f823874-ea77-45ad-a7f3-af1be837c763.mp3 88487227 audio/mpeg "
+coverImage: "HF143-The-Grand-Rumbustious-Piratical-Experience-with-Disco77.jpg"
 ---
 
 **Disco77 returns to our typical format but with BUMPER 90 minute collection of uplifting funky, soulful and disco sounds for your #FinesseFriday.**

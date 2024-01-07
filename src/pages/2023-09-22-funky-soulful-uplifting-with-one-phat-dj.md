@@ -6,6 +6,7 @@ categories:
 tags: 
   - "one-phat-dj"
 enclosure: "https://pinecast.com/listen/9b27873d-878b-4118-aa2b-39c3b2b34072.mp3 64412278 audio/mpeg "
+coverImage: "C1E5B040-7D00-4D8F-BBBA-E3F61DE7AF48.jpeg"
 ---
 
 **One Phat DJ goes back to his roots with his selection of funky, soulful and uplifting tunes for you all.**

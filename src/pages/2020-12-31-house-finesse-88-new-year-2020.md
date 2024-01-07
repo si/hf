@@ -4,6 +4,7 @@ date: "2020-12-31"
 categories: 
   - "shows"
 enclosure: "https://pinecast.com/listen/d3e9cfac-e6c2-429c-9f1a-56164c2e6515.mp3 297316793 audio/mpeg "
+coverImage: "House-Finesse-88-New-Year-2020.jpg"
 ---
 
 Time to wrap up quite the memorable year with two hours of delightful house tunes, selected by LYP and One Phat DJ, all in time for your lockdown celebrations.

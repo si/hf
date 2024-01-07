@@ -7,6 +7,7 @@ tags:
   - "ibiza"
   - "souljackerz"
 enclosure: "https://pinecast.com/listen/0d13fc07-b607-4aa1-87a7-dd0186864372.mp3 98923194 audio/mpeg "
+coverImage: "House-Finesse-28-IBZ-Square.jpg"
 ---
 
 **In the midst of the party season with lockdown restrictions easing around much of Europe, it felt rather apt to revive this Ibiza mix from our very own Souljackerz in July 2014.**

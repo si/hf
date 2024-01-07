@@ -6,6 +6,7 @@ categories:
 tags: 
   - "one-phat-dj"
 enclosure: "https://pinecast.com/listen/b0d2ed75-e3ec-4bbc-b2e3-65d652960c8f.mp3 57793625 audio/mpeg "
+coverImage: "FAE9744D-6CE1-4452-9B76-AB4862DA9227.jpeg"
 ---
 
 **#FinesseFriday is finally here with One Phat DJ laying down some of his favourite tracks from the last month to take you into the weekend.**

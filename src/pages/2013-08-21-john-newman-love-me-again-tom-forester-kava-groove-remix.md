@@ -9,6 +9,7 @@ tags:
   - "remix"
   - "tom-forester"
 enclosure: ""
+coverImage: "John-Newman-Love-Me-Again-Tom-Forester-Kava-Groove-Remix.jpg"
 ---
 
 One of the few commercial tracks that I've personally enjoyed this year has been treated to a killer remix treatment by Poland's [Tom Forester](https://www.facebook.com/TomForesterOfficial) and [Kava Groove](https://www.facebook.com/KavaGroove).

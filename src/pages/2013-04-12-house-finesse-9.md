@@ -50,6 +50,7 @@ tags:
   - "terri-b"
   - "whitenoize"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/p/www.sowebmediauk.co.uk/dj-shows/HouseFinesse/House_Finesse_9.mp3 0 audio/mpeg "
+coverImage: "House-Finesse-9-Widescreen.jpg"
 ---
 
 Following a bout of sickness, One Phat DJ has pulled himself together along with the first hour of soulful, disco and jackin' house beauties.

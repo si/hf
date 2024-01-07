@@ -9,6 +9,7 @@ tags:
   - "sugar-hill"
   - "youtube"
 enclosure: ""
+coverImage: "2wLPNBNTJDE.jpg"
 ---
 
 https://youtu.be/2wLPNBNTJDE

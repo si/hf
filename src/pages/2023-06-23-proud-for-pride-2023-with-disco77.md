@@ -6,6 +6,7 @@ categories:
 tags: 
   - "disco77"
 enclosure: "https://pinecast.com/listen/bc363d12-873c-412a-9116-fbee3e5a5a5b.mp3 63676192 audio/mpeg "
+coverImage: "851497D3-507C-4865-9E67-6A693A90BC32.jpeg"
 ---
 
 **This week, Disco77 is celebrating pride month with an unadulterated selection of cheesy tunes as he brings us Proud for Pride 2023.** 

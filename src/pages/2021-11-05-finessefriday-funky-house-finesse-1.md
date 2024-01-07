@@ -6,6 +6,7 @@ categories:
 tags: 
   - "funky-house-finesse"
 enclosure: "https://pinecast.com/listen/fb456c59-cd4c-4bbd-b76a-ce5029062ab0.mp3 87384726 audio/mpeg "
+coverImage: "3313272471_36d31fdfbf_o.png"
 ---
 
 **For this week’s #FinesseFriday, it’s time to revive the very first episode of Funky House Finesse from March 2009, as requested by long-time listener of the podcast, Carlo Oehlmann.**

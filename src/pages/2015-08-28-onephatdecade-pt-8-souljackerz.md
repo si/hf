@@ -8,6 +8,7 @@ tags:
   - "souljackerz"
   - "stuart-braybrooke"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/p/www.sowebmediauk.co.uk/dj-shows/HouseFinesse/OnePhatDecade_Pt_8_Souljackerz.mp3 0 audio/mpeg "
+coverImage: "ONEPHATDECADE-with-Souljackerz.png"
 ---
 
 As we enter the bank holiday weekend and the 8th week of _#ONEPHATDECADE_, we're treated to an absolute belting classics mix from our very own **Souljackerz**.

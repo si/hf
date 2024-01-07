@@ -11,6 +11,7 @@ tags:
   - "mike-newman"
   - "soundcloud"
 enclosure: ""
+coverImage: "Mazai-and-Dolly-Rockers-One-More-Time-Mike-Newman-and-Antoine-Cortez-Remix.jpg"
 ---
 
 <iframe src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F103445143&amp;show_artwork=true" height="166" width="100%" frameborder="no" scrolling="no"></iframe>

@@ -7,6 +7,7 @@ tags:
   - "christmas"
   - "one-phat-dj"
 enclosure: "https://pinecast.com/listen/687a852a-617a-45fd-a5d0-342ad2b26697.mp3 96441744 audio/mpeg "
+coverImage: "Finesse-Christmas.jpg"
 ---
 
 We know it's been very quiet around here - that's for good reason whilst we work out the next chapter for House Finesse.

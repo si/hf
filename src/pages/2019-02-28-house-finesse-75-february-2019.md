@@ -28,6 +28,7 @@ tags:
   - "the-tribe-of-good"
   - "yuksek"
 enclosure: "https://www.housefinesse.com/wp-content/uploads/2019/02/House-Finesse-75-February-2019.mp3 72184858 audio/mpeg "
+coverImage: "House-Finesse-75-February-2019.png"
 ---
 
 **Show 75 with One Phat DJ picking out some of his hottest tracks from the start of 2019.**

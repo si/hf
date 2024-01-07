@@ -4,6 +4,7 @@ date: "2015-07-10"
 categories: 
   - "shows"
 enclosure: ""
+coverImage: "House-Finesse-47.jpg"
 ---
 
 How time flies when you're having fun? 10 years ago (almost to the day), I published my first mix online. "Funky Pants" was produced as a one-off short mix for personal pleasure but, on a whim, I decided to post a link to the MP3 from my blog for others to potentially enjoy.

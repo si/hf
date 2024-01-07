@@ -6,6 +6,7 @@ categories:
 tags: 
   - "one-phat-dj"
 enclosure: "https://pinecast.com/listen/c7d9d1a1-40e0-4cd6-b241-ccbfc9a7809b.mp3 90792278 audio/mpeg "
+coverImage: "Beats-For-Easter.png"
 ---
 
 **For this week's _#FinesseFriday_, we go back nearly 15 years to the Easter special One Phat DJ mix, Beats For Easter.**

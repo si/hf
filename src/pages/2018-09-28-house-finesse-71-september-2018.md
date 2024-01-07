@@ -27,6 +27,7 @@ tags:
   - "supermini"
   - "weiss"
 enclosure: "https://www.housefinesse.com/wp-content/uploads/2018/09/House_Finesse_September_2018.mp3 72290584 audio/mpeg "
+coverImage: "House-Finesse-September-2018.jpg"
 ---
 
 **One Phat DJ returns with a selection of his favourite tracks from the Summer with plenty familiar classics remixed, all wrapped up in a tidy hour mix**

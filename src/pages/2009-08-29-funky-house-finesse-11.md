@@ -64,7 +64,7 @@ tags:
 enclosure: "https://onephatdj.com/media/finesse/Funky_House_Finesse_with_One_Phat_DJ_11_29th_August_2009.mp3 115779212 audio/mpeg "
 ---
 
-Let's keep it short and leave it to the music this week. After all, it is the **August Bank Holiday Weekend Special**! This week, we highlight the best funky house tracks of the year so far, all featured in previous Funky House Finesse shows since February. We return to the usual formal on **Saturday 12th September 2009**, covering the hottest tracks wrapping up the Summer before we end the holiday season. [![Funky House Finesse 11 - 29th August 2009](https://www.onephatdj.com/wp-content/uploads/2009/08/Funky_House_Finesse_11_29th_August_2009.jpg "Funky House Finesse 11 - 29th August 2009")](https://www.onephatdj.com/download/24)
+Let's keep it short and leave it to the music this week. After all, it is the **August Bank Holiday Weekend Special**! This week, we highlight the best funky house tracks of the year so far, all featured in previous Funky House Finesse shows since February. We return to the usual formal on **Saturday 12th September 2009**, covering the hottest tracks wrapping up the Summer before we end the holiday season. [![Funky House Finesse 11 - 29th August 2009](images/Funky_House_Finesse_11_29th_August_2009.jpg "Funky House Finesse 11 - 29th August 2009")](https://www.onephatdj.com/download/24)
 
 ## Download
 

@@ -6,6 +6,7 @@ categories:
 tags: 
   - "lyp"
 enclosure: "https://pinecast.com/listen/927c8935-3dfc-4398-ba8f-3cd070087eb8.mp3 88742142 audio/mpeg "
+coverImage: "HF187.jpeg"
 ---
 
 **Following the opening night at swanky new L’Atelier in Mayfair, LYP brings out some funky house vibes inspired from his set.** 🍸

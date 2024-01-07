@@ -10,6 +10,7 @@ tags:
   - "rag-n-bone-man"
   - "youtube"
 enclosure: ""
+coverImage: "H9B2gvtnYMM.jpg"
 ---
 
 https://youtu.be/H9B2gvtnYMM

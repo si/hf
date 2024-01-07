@@ -6,6 +6,7 @@ categories:
 tags: 
   - "disco77"
 enclosure: "https://pinecast.com/listen/5822ab6f-5558-40df-a6a0-df2032fe26bf.mp3 162224911 audio/mpeg "
+coverImage: "46451B3D-9758-4463-8FFC-A531912047F3.jpeg"
 ---
 
 **Let’s kickstart April with no fools, all funk, thanks to an hour of new and old tunes from Disco 77.**

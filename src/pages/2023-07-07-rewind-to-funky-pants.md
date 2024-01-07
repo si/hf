@@ -7,6 +7,7 @@ tags:
   - "one-phat-dj"
   - "rewind"
 enclosure: "https://pinecast.com/listen/fcadc9ef-2ad1-4d15-896d-4b156e954440.mp3 63559921 audio/mpeg "
+coverImage: "REWIND-to-Funky-Pants.jpg"
 ---
 
 **As we approach 18 years of the podcast, One Phat DJ indulges us (and himself) with a reminiscent stroll down Memory Lane to [the very first mix](https://www.housefinesse.com/onephatdj/funky-pants/) that started us all off.**

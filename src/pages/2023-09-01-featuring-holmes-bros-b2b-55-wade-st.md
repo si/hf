@@ -8,6 +8,7 @@ tags:
   - "guest-mix"
   - "mister-lew"
 enclosure: "https://pinecast.com/listen/353fee2d-171e-4f90-8d32-b66a7ffe3813.mp3 48771030 audio/mpeg "
+coverImage: "Featuring…-Holmes-Bros-B2B-@-55-Wade-St.jpg"
 ---
 
 **Remember our guest mixes from Mister Lew & Elliot Holmes? They're brothers and went back-to-back in Lichfield a few weeks ago to smash out some bangers for the final hour. Enjoy!**

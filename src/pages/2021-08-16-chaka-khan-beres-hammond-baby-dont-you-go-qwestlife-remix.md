@@ -9,6 +9,7 @@ tags:
   - "qwestlife"
   - "youtube"
 enclosure: ""
+coverImage: "m5CcQsQpU_k.jpg"
 ---
 
 https://www.youtube.com/watch?v=m5CcQsQpU\_k

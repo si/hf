@@ -8,6 +8,7 @@ tags:
   - "sunset-city"
   - "youtube"
 enclosure: ""
+coverImage: "NcahklY-Nyc.jpg"
 ---
 
 https://www.youtube.com/watch?v=NcahklY-Nyc

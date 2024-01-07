@@ -7,6 +7,7 @@ tags:
   - "lemon-yellow-pea"
   - "stu-braybrooke"
 enclosure: ""
+coverImage: "House-Finesse-May-2018-Lemon-Yellow-Pea.jpg"
 ---
 
 **For the first May Bank Holiday, Lemon Yellow Pea returns with a delightfully relaxing selection of sun-set tunes for show #70.**

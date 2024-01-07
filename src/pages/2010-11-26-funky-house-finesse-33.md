@@ -73,6 +73,7 @@ tags:
   - "yolanda-wyns"
   - "z-records"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/www.sowebmediauk.co.uk/dj-shows/OnePhatDj2/Funky_House_Finesse_33_27th_November_2010_128.mp3 audio/mpeg "
+coverImage: "Funky_House_Finesse_33.jpg"
 ---
 
 We're back - and with a monster of a show as well!

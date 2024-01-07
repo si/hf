@@ -4,6 +4,7 @@ date: "2013-10-31"
 categories: 
   - "shows"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/p/www.sowebmediauk.co.uk/dj-shows/HouseFinesse/House_Finesse_16.mp3 0 audio/mpeg "
+coverImage: "House-Finesse-16-Wide.jpg"
 ---
 
 ## Listen

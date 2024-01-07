@@ -9,6 +9,7 @@ tags:
   - "the-pavilion"
   - "yazmin-wood"
 enclosure: "https://pinecast.com/listen/5d4b5502-02a9-4cb0-90e8-f5ccafc5c915.mp3 89832579 audio/mpeg "
+coverImage: "Electric-Brunch-with-LYP-Yazmin-Wood.jpg"
 ---
 
 **This week, we bring a wonderful live set from The Pavilion in Colchester with resident LYP on the decks and Yazmin Wood on vocals.**

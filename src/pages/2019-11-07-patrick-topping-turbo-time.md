@@ -7,6 +7,7 @@ tags:
   - "patrick-topping"
   - "youtube"
 enclosure: ""
+coverImage: "vnEdGI4kP1E.jpg"
 ---
 
 https://youtu.be/vnEdGI4kP1E

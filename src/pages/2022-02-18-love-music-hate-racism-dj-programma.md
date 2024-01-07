@@ -8,6 +8,7 @@ tags:
   - "guest-mix"
   - "love-music-hate-racism"
 enclosure: "https://pinecast.com/listen/cceb7a47-9da1-4586-93d9-8f8122982d99.mp3 64230365 audio/mpeg "
+coverImage: "HF-110-Love-Music-Hate-Racism-with-DJ-Programma.jpg"
 ---
 
 **Welcoming back DJ Programma for another laid back, Balearic / Afro house guest mix on #FinesseFriday to provide a taste of the flavour you can expect at his upcoming Love Music Hate Racism gig in London.**

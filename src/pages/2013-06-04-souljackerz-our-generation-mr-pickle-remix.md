@@ -8,6 +8,7 @@ tags:
   - "souljackerz"
   - "suka-records"
 enclosure: ""
+coverImage: "Souljacker-Our-Generation-Suka-Records.jpg"
 ---
 
 Souljackerz recently released their disco-fuelled track Our Generation on Suka Records.
@@ -18,7 +19,7 @@ The full package includes remixes from [Max Gabriel](https://www.beatport.com/t
 
 The entire release is available to download from the usual haunts:
 
-[![Our Generation (feat. Lab) - EP - Souljackerz](https://r.mzstatic.com/images/web/linkmaker/badge_itunes-lrg.gif)](https://clk.tradedoubler.com/click?p=23708&a=1254950&url=https%3A%2F%2Fitunes.apple.com%2Fgb%2Falbum%2Four-generation-feat.-lab-ep%2Fid596127637%3Fuo%3D4%26partnerId%3D2003) [Beatport](https://www.beatport.com/release/our-generation/1025094)
+[![Our Generation (feat. Lab) - EP - Souljackerz](images/badge_itunes-lrg.gif)](https://clk.tradedoubler.com/click?p=23708&a=1254950&url=https%3A%2F%2Fitunes.apple.com%2Fgb%2Falbum%2Four-generation-feat.-lab-ep%2Fid596127637%3Fuo%3D4%26partnerId%3D2003) [Beatport](https://www.beatport.com/release/our-generation/1025094)
 
 ## Free Download
 

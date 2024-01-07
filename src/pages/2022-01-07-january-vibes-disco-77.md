@@ -6,6 +6,7 @@ categories:
 tags: 
   - "disco77"
 enclosure: "https://pinecast.com/listen/aa6d775b-21c0-420f-99e9-4cbaca10769e.mp3 165075734 audio/mpeg "
+coverImage: "House-Finesse-January-Vibes-with-Disco-77.jpg"
 ---
 
 **Let’s get into the swing of 2022 with Disco 77’s delicious vibes for January.**

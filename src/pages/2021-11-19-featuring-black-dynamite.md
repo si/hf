@@ -7,6 +7,7 @@ tags:
   - "black-dynamite"
   - "guest-mix"
 enclosure: "https://pinecast.com/listen/316941cc-1a3e-4c16-8da0-407ed9c0de1c.mp3 148579541 audio/mpeg "
+coverImage: "DEC8CB3E-6321-422A-B4F1-1123FBA5D361.jpeg"
 ---
 
 **Fancy a bit of soul and disco? We’ve got you covered as we invite along friend of the show Black Dynamite to bring us an hour of his favourite uplifting sounds.**

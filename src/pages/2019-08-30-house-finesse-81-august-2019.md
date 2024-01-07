@@ -23,6 +23,7 @@ tags:
   - "the-vision"
   - "vanilla-ace"
 enclosure: "https://www.housefinesse.com/wp-content/uploads/2019/08/House-Finesse-81-August-2019.mp3 72409015 audio/mpeg "
+coverImage: "House-Finesse-81-August-2019.png"
 ---
 
 **One Phat DJ wraps up the summer with a selection of his favourite house delights over the past couple months.**

@@ -9,6 +9,7 @@ tags:
   - "purple-disco-machine"
   - "youtube"
 enclosure: ""
+coverImage: "TrRY2raEV_4.jpg"
 ---
 
 <iframe frameborder="0" scrolling="no" seamless="seamless" webkitallowfullscreen="webkitAllowFullScreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" id="okplayer" width="480" height="270" src="https://youtube.com/embed/TrRY2raEV_4" style="position: absolute; top: 0px; left: 0px; width: 480px; height: 270px;"></iframe>

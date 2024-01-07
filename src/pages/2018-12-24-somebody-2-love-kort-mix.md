@@ -9,6 +9,7 @@ tags:
   - "samo"
   - "youtube"
 enclosure: ""
+coverImage: "UyLBM1MbwyU.jpg"
 ---
 
 https://youtu.be/UyLBM1MbwyU

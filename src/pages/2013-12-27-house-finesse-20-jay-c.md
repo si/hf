@@ -8,6 +8,7 @@ tags:
   - "jay-c"
   - "show"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/p/www.sowebmediauk.co.uk/dj-shows/HouseFinesse/House_Finesse_20_Jay_C.mp3 0 audio/mpeg "
+coverImage: "House-Finesse-20-Wide.jpg"
 ---
 
 ## Listen

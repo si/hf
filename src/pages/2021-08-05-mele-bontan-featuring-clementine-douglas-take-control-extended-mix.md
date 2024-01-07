@@ -9,6 +9,7 @@ tags:
   - "mele"
   - "youtube"
 enclosure: ""
+coverImage: "NhgHI740Zjo.jpg"
 ---
 
 https://www.youtube.com/watch?v=NhgHI740Zjo

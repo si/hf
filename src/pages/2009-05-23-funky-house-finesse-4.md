@@ -67,7 +67,7 @@ enclosure: "https://onephatdj.com/media/finesse/One_Phat_DJ_-_Funky_House_Finess
 
 It's time for the second Funky House Finesse radio show of May 2009, full of uplifting, vocal and soulful funky house tunes to lift up your Saturday evening. We've got some amazing tracks featured in this week's show, including the new one from Freemasons and Sophie Ellis-Bextor, plenty of Hed Kandi favourites plus a few oldies thrown in for good measure. Be sure to tune into Lifted Radio every other Saturday between 4pm and 6pm for the exclusive first play of Funky House Finesse. It's the perfect start to your Saturday night out. Don't forget we also simulcast the show across [Twitter](https://twitter.com/onephatdj) and [Facebook](https://www.facebook.com/group.php?gid=4296831303) if you want to keep up-to-date with One Phat DJ, chat with other listeners of the show and even contribute to the experience. Thanks need to go out to the awesome [Ben Day](https://twitter.com/day_b) for all the voiceovers on the last two shows too, jumping in where the recording equipment let us down.
 
-## ![Funky House Finesse - 23rd May 2009](https://www.onephatdj.com/wp-content/uploads/2009/05/funky_house_finesse_23rd_may_2009_550px.jpg "Funky House Finesse - 23rd May 2009")
+## ![Funky House Finesse - 23rd May 2009](images/funky_house_finesse_23rd_may_2009_550px.jpg "Funky House Finesse - 23rd May 2009")
 
 ## Download
 
