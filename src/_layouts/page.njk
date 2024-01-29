@@ -1,5 +1,6 @@
 ---
 layout: base.njk
+
 ---
 
 {% include 'sitenav.njk' %}
@@ -9,6 +10,7 @@ layout: base.njk
     <h2 class="tdbc-lead tdbc-content-maxlength tdbc-ink--gray tdbc-mt-md tdbc-mx-auto">
       {{ description }}
     </h2>
+    {% include 'podcast_apps.njk' %}
     <div class="tdbc-sticker">
       {% if(author !== undefined ) %}
         <p>
