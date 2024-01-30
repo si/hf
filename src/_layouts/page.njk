@@ -1,5 +1,6 @@
 ---
 layout: base.njk
+
 ---
 
 {% include 'sitenav.njk' %}
@@ -9,6 +10,7 @@ layout: base.njk
     <h2 class="tdbc-lead tdbc-content-maxlength tdbc-ink--gray tdbc-mt-md tdbc-mx-auto">
       {{ description }}
     </h2>
+    {% include 'podcast_apps.njk' %}
     <div class="tdbc-sticker">
       {% if(author !== undefined ) %}
         <p>
@@ -31,17 +33,19 @@ layout: base.njk
 </header>
 <main class="tdbc-container">
   <article class="tdbc-mx-auto">
-    {% if(coverImage!=='') %}
-      <img src="/img/cover-images/{{ coverImage }}" alt="{{ title }}"/>
-    {% endif %}
-    {% if(enclosure!=='') %}
-      <div class="tdbc-audio-player">
-        <audio controls style="width:100%">
-          <source src="{{ enclosure.split(" ")[0] }}" type="{{ enclosure.split(" ")[2] }}">
-            Your browser does not support the audio tag.
-          </audio>
-        </div>
+    <div class="tdbc-media">
+      {% if(coverImage!=='') %}
+        <img src="/img/cover-images/{{ coverImage }}" alt="{{ title }}"/>
       {% endif %}
+      {% if(enclosure!=='') %}
+        <div class="tdbc-audio-player">
+          <audio controls style="width:100%">
+            <source src="{{ enclosure.split(" ")[0] }}" type="{{ enclosure.split(" ")[2] }}">
+              Your browser does not support the audio tag.
+            </audio>
+          </div>
+        {% endif %}
+      </div>
       <div class="tdbc-section--padded">
         {{ content | safe }}
       </div>

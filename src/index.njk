@@ -18,45 +18,38 @@ templateEngineOverride: md, njk
     padding-top: 5vh;
     padding-bottom: 5vh;
   }
-.tdbc-button img {
-  margin-right: 0.5rem;
-}
+  .tdbc-button img {
+    margin-right: 0.5rem;
+  }
 </style>
 <header class="tdbc-hero">
   <div class="tdbc-container">
     <span class="logo">
-      <img src="/img/design/finesse-f.svg"></span>
-      <h1 class="tdbc-ink--primary tdbc-mb-none">{{ meta.siteName }}</h1>
-      <h2 class="tdbc-lead tdbc-content-maxlength tdbc-mx-auto">
-        {{ meta.siteDescription }}
-      </h2>
-      <p>
-        <a href="https://podcasts.apple.com/gb/podcast/house-finesse/id355833875" class="tdbc-button tdbc-icon-apple">
-          <img src="/img/icons/apple-podcasts-color.svg" alt="Apple Podcasts" height="32">
-            <span>Listen on Apple Podcasts</span>
-          </a>
-          <a href="https://www.youtube.com/housefinesse" class="tdbc-button tdbc-icon-youtube">
-            <img src="/img/icons/youtube-color.svg" alt="Youtube" height="32">
-              Listen on Youtube Music</a>
-          </p>
-        </div>
-      </header>
-      <main class="tdbc-container">
-        <div class="tdbc-section">
-          <h2>Latest Shows</h2>
-          <ul class="tdbc-column-container">
-            {%- set latest_posts = collections.pages | reverse -%}
-            {%- for post in latest_posts.slice(0,6) -%}
-              <li class="tdbc-card">
-                <div class="tdbc-card__content">
-                  <a href="{{ post.url }}" class="tdbc-card__title">{{ post.data.title }}</a>
-                  <p>{{ post.data.description }}</p>
-                  <img src="/img/cover-images/{{ post.data.coverImage }}" />
-                </div>
-              </li>
-            {%- endfor -%}
-          </ul>
-        </div>
-        <style></style>
-        {{ content | safe }}
-      </main>
+      <img src="/img/design/finesse-f.svg"/>
+    </span>
+    <h1 class="tdbc-ink--primary tdbc-mb-none">{{ meta.siteName }}</h1>
+    <h2 class="tdbc-lead tdbc-content-maxlength tdbc-mx-auto">
+      {{ meta.siteDescription }}
+    </h2>
+    {% include 'podcast_apps.njk' %}
+  </div>
+</header>
+<main class="tdbc-container">
+  <div class="tdbc-section">
+    <h2>Latest Shows</h2>
+    <ul class="tdbc-column-container">
+      {%- set latest_posts = collections.pages | reverse -%}
+      {%- for post in latest_posts.slice(0,6) -%}
+        <li class="tdbc-card">
+          <div class="tdbc-card__content">
+            <a href="{{ post.url }}" class="tdbc-card__title">{{ post.data.title }}</a>
+            <p>{{ post.data.description }}</p>
+            <img src="/img/cover-images/{{ post.data.coverImage }}"/>
+          </div>
+        </li>
+      {%- endfor -%}
+    </ul>
+  </div>
+  <style></style>
+  {{ content | safe }}
+</main>
