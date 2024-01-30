@@ -48,6 +48,14 @@ layout: base.njk
       <dl>
         <dt>Category:</dt>
         <dd>{{ categories }}</dd>
+        <dt>Tags:</dt>
+        <dd>
+          {% for tag in tags %}
+            {% if tag !== 'pages' %}
+            {{ tag }},
+            {% endif %}
+          {% endfor %}          
+        </dd>
       </dl>
     </article>
   </main>
