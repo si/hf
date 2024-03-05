@@ -8,6 +8,7 @@ tags:
 enclosure: "https://pinecast.com/listen/56375900-18a8-4100-93a9-94c751b1e366.mp3 80030675 audio/mpeg "
 youtube: "https://youtu.be/Q4MkgnBrbkA?si=PufshwIjL04uYCtw"
 coverImage: "HF189.jpg"
+redirectFrom: "/hf189"
 ---
 
 **With the autumnal feels kicking in, Black Dynamite brings us a sublime selection of classic, soulful & disco vibes to brighten your weekend.**
