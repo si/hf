@@ -2,8 +2,12 @@
 permalink: /_redirects
 eleventyExcludeFromCollections: true
 ---
-/feed/podcast https://pinecast.com/feed/housefinesse
+/how-to-listen/ /follow
+/subscribe/ /follow
+
 /wp-content/uploads/:year/:month/:slug /img/cover-images/:slug
+
+/feed/podcast https://pinecast.com/feed/housefinesse
     
 {%- for page in collections.all -%}
   {%- if page.url and page.data.redirectFrom %}
