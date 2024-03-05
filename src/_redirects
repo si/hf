@@ -1,1 +1,1 @@
-/wp-content/uploads/:year/:month/:slug /images/:slug
+/wp-content/uploads/:year/:month/:slug /img/cover-images/:slug
