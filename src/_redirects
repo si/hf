@@ -1,2 +1,5 @@
 /feed/podcast https://pinecast.com/feed/housefinesse
 /wp-content/uploads/:year/:month/:slug /img/cover-images/:slug
+
+/hf210 /shows/hf210-with-lyp/
+/hf190 /shows/celebrating-women-of-house-for-black-history-month-with-one-phat-dj/
