@@ -34,7 +34,10 @@
       <meta property="og:image" content="{{ "/img/design/HF24-opengraph.png" }}"/>
     {% endif %}
     <link rel="alternate" type="application/rss+xml" title="RSS Feed for {{ meta.siteName }}" href="/feed/"/>
-    {% eleventyGoogleFonts 'https://fonts.googleapis.com/css2?family=Afacad:ital,wght@0,400;0,700;1,400;1,700&family=Kalnia:wght@700&display=swap' %}
+      {% eleventyGoogleFonts 'https://fonts.googleapis.com/css2?family=Afacad:ital,wght@0,400;0,700;1,400;1,700&family=Kalnia:wght@700&display=swap' %}
+    <!-- Fathom - beautiful, simple website analytics -->
+    <script src="https://cdn.usefathom.com/script.js" data-spa="auto" data-site="CBXQVFDO" defer></script>
+    <!-- / Fathom -->
   </head>
   <body>
     {{ content | safe }}
