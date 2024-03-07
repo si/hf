@@ -1,9 +1,11 @@
 ---
 title: "REWIND to Dancing Divas"
 date: "2023-12-08"
-categories: 
+categories:
   - "shows"
 enclosure: "https://pinecast.com/listen/b0f30e2e-7bf4-4a8d-9803-778be65ddfc1.mp3 106325594 audio/mpeg "
+coverImage: "REWIND-to-Dancing-Divas.jpg"
+redirectFrom: "/hf197"
 ---
 
 **Let's go way back to 2006 for the seasonal festivities with a whole host of uplifting dance classics selected by One Phat DJ. Classic feels!**
@@ -12,26 +14,26 @@ enclosure: "https://pinecast.com/listen/b0f30e2e-7bf4-4a8d-9803-778be65ddfc1.mp3
 
 1. Basement Jaxx – Hush Boy (Soul Seekerz Miz)
 
-3. Antoine Clamaran – Keep On Tryin (Hott 22 Remix)
+2. Antoine Clamaran – Keep On Tryin (Hott 22 Remix)
 
-5. DJ Rhythm presents Soul Theory – Drama
+3. DJ Rhythm presents Soul Theory – Drama
 
-7. Beyonce Ft Jay Z – Deja Vu (Freemasons Club Mix)
+4. Beyonce Ft Jay Z – Deja Vu (Freemasons Club Mix)
 
-9. Chanel – My Life (Grant Nelson Neo Funk (Edited))
+5. Chanel – My Life (Grant Nelson Neo Funk (Edited))
 
-11. Mary J Blige – Be Without You (Moto Blanco Vocal Mix)
+6. Mary J Blige – Be Without You (Moto Blanco Vocal Mix)
 
-13. Jealousy – Lucy
+7. Jealousy – Lucy
 
-15. Christina Aguilera – Ain’t No Other Man (Amokk’s Club Anthem)
+8. Christina Aguilera – Ain’t No Other Man (Amokk’s Club Anthem)
 
-17. Sunkids ft Chance – Rise Up (Grant Nelsons Big Room Mix)
+9. Sunkids ft Chance – Rise Up (Grant Nelsons Big Room Mix)
 
-19. Firefox – Sex Shooter (Club Mix)
+10. Firefox – Sex Shooter (Club Mix)
 
-21. Robots In Disguise – The DJ’s Got A Gun (Original Mix)
+11. Robots In Disguise – The DJ’s Got A Gun (Original Mix)
 
-23. Il Padrinos ft Jocelyn Brown – That’s How Good Your Love Is
+12. Il Padrinos ft Jocelyn Brown – That’s How Good Your Love Is
 
-25. ATFC ft OnePhatDeeva – Bad Habit
+13. ATFC ft OnePhatDeeva – Bad Habit

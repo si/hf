@@ -1,11 +1,13 @@
 ---
 title: "Thankful with One Phat DJ"
 date: "2023-11-24"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "one-phat-dj"
 enclosure: "https://pinecast.com/listen/61323c93-1d18-48b4-b7bd-f0474b505f7e.mp3 86592490 audio/mpeg "
+coverImage: "Thankful-with-One-Phat-DJ.jpg"
+redirectFrom: "/hf195"
 ---
 
 **Happy thanksgiving to all our Stateside listeners. Here's our gift to you, thankful for all the fine house music from around the world.**
@@ -14,34 +16,34 @@ enclosure: "https://pinecast.com/listen/61323c93-1d18-48b4-b7bd-f0474b505f7e.mp3
 
 1. Michael Gray - You Got To Remember (Reprise Mix)
 
-3. Donna Allen - Joy & Pain (Dr Packer Extended Mix)
+2. Donna Allen - Joy & Pain (Dr Packer Extended Mix)
 
-5. AJ Lewis, Jay Caruso - When You're With Me (Original Mix)
+3. AJ Lewis, Jay Caruso - When You're With Me (Original Mix)
 
-7. Andrea Tomei, Karmina Dai - Can't Get Enough (Main Extended)
+4. Andrea Tomei, Karmina Dai - Can't Get Enough (Main Extended)
 
-9. Sgt Slick, Karina Chavez - I Thank You (Michael Gray Extended Mix)
+5. Sgt Slick, Karina Chavez - I Thank You (Michael Gray Extended Mix)
 
-11. Micky More & Andy Tee, Kathy Brown, Sheree Hicks - Celebrate (Extended Mix)
+6. Micky More & Andy Tee, Kathy Brown, Sheree Hicks - Celebrate (Extended Mix)
 
-13. Young Pulse, Fleur De Mur - Smooth Sweet Talker (Extended Mix)
+7. Young Pulse, Fleur De Mur - Smooth Sweet Talker (Extended Mix)
 
-15. Giman, Chic\_Ago, Darryl Jordan - Burn (Birdee Remix)
+8. Giman, Chic_Ago, Darryl Jordan - Burn (Birdee Remix)
 
-17. Art Of Tones, Inaya Day - Give My Love (Extended Mix)
+9. Art Of Tones, Inaya Day - Give My Love (Extended Mix)
 
-19. Revival, Imaani - Best Of My Love (Extended)
+10. Revival, Imaani - Best Of My Love (Extended)
 
-21. ATFC, Richard Earnshaw, Ridney - Get Busy (Extended Remix)
+11. ATFC, Richard Earnshaw, Ridney - Get Busy (Extended Remix)
 
-23. Harvey Ross - What It Takes (Extended Mix)
+12. Harvey Ross - What It Takes (Extended Mix)
 
-25. Dubby Disco Boyz - Tonight (Daisuke Miyamoto Remix)
+13. Dubby Disco Boyz - Tonight (Daisuke Miyamoto Remix)
 
-27. Soul Avengerz, Adeva - Musical Freedom (Extended Mix)
+14. Soul Avengerz, Adeva - Musical Freedom (Extended Mix)
 
-29. Ultra Naté, DJ Spen, Michele Chiavarini - UNBREAKABLE (DJ Spen & Michele Chiavarini Remix)
+15. Ultra Naté, DJ Spen, Michele Chiavarini - UNBREAKABLE (DJ Spen & Michele Chiavarini Remix)
 
-31. Shermanology, Boyz II Men - Motown Philly (Extended)
+16. Shermanology, Boyz II Men - Motown Philly (Extended)
 
-33. FLIP-DA-FUNK - I Remember (Original Mix)
+17. FLIP-DA-FUNK - I Remember (Original Mix)

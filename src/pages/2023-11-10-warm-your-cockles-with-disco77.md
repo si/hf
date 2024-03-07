@@ -1,11 +1,13 @@
 ---
 title: "Warm Your Cockles with Disco77"
 date: "2023-11-10"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "disco77"
 enclosure: "https://pinecast.com/listen/c42914e3-5ba6-4501-850a-b6d166eb54c3.mp3 65727090 audio/mpeg "
+coverImage: "Warm-Your-Cockles.jpg"
+redirectFrom: "/hf193"
 ---
 
 **Disco77 brings some much needed heat for this week’s mix following bonfire night and the turning UK weather.**
@@ -14,30 +16,30 @@ enclosure: "https://pinecast.com/listen/c42914e3-5ba6-4501-850a-b6d166eb54c3.mp3
 
 1. Jill Scott - Lovely Day (Mystery Remix)
 
-3. John Legend - Ordinary People (Mystery & Matt Early Remix)
+2. John Legend - Ordinary People (Mystery & Matt Early Remix)
 
-5. JN ft Yolanda Wyns - I Know You I Live You (Grant Nelson Re-Visit)
+3. JN ft Yolanda Wyns - I Know You I Live You (Grant Nelson Re-Visit)
 
-7. Louie Vega and Jay Sinister Sealee ft Julie McKnight - Diamond Life (Richard Earnshaw Remix)
+4. Louie Vega and Jay Sinister Sealee ft Julie McKnight - Diamond Life (Richard Earnshaw Remix)
 
-9. Mirko & Meex ft - Lee Wilson - All I Do
+5. Mirko & Meex ft - Lee Wilson - All I Do
 
-11. Richard Earnshaw & Angie Brown - Unbelievable 
+6. Richard Earnshaw & Angie Brown - Unbelievable
 
-13. DeepCitySoul - Groove School (Grant Nelson Remix)
+7. DeepCitySoul - Groove School (Grant Nelson Remix)
 
-15. Grant Nelson ft Lynsey Moore - Hurt You So
+8. Grant Nelson ft Lynsey Moore - Hurt You So
 
-17. Jayda G - Meant To Be (Todd Edwards remix)
+9. Jayda G - Meant To Be (Todd Edwards remix)
 
-19. Todd Edwards - God Will Be There (Low Steppa Remix)
+10. Todd Edwards - God Will Be There (Low Steppa Remix)
 
-21. Double 99 - RIP Groove
+11. Double 99 - RIP Groove
 
-23. Chase & Status x Bou ft IRAH, Flowdan, Trigga & Takura - Baddadan (REESE remix) 
+12. Chase & Status x Bou ft IRAH, Flowdan, Trigga & Takura - Baddadan (REESE remix)
 
-25. Shena - Let The Beat Hit Them (Stuart Ojelay remix)
+13. Shena - Let The Beat Hit Them (Stuart Ojelay remix)
 
-27. Jame Stark, Yvan Back, Zetaphunk ft Alfreda Gerald - He’s Alright (David Penn remix)
+14. Jame Stark, Yvan Back, Zetaphunk ft Alfreda Gerald - He’s Alright (David Penn remix)
 
-29. Revival ft Imaani - Best of My Love
+15. Revival ft Imaani - Best of My Love
