@@ -39,7 +39,7 @@ templateEngineOverride: md, njk
     <h2>Latest Shows</h2>
     <ul class="tdbc-column-container">
       {%- set latest_posts = collections.posts | reverse -%}
-      {%- for post in latest_posts.slice(0,6) -%}
+      {%- for post in latest_posts.slice(0,12) -%}
         <li class="tdbc-card">
           <div class="tdbc-card__content">
             <a href="{{ post.url }}" class="tdbc-card__title">{{ post.data.title }}</a>

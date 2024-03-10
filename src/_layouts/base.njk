@@ -30,15 +30,20 @@
     <meta name="og:description" content="{{ pageDescription }}"/>
     {% if coverImage %}
       <meta property="og:image" content="{{ "/img/cover-images/" + coverImage }}"/>
+    {% else %}
+      <meta property="og:image" content="{{ "/img/design/HF24-opengraph.png" }}"/>
     {% endif %}
     <link rel="alternate" type="application/rss+xml" title="RSS Feed for {{ meta.siteName }}" href="/feed/"/>
-    {% eleventyGoogleFonts 'https://fonts.googleapis.com/css2?family=Afacad:ital,wght@0,400;0,700;1,400;1,700&family=Kalnia:wght@700&display=swap' %}
+      {% eleventyGoogleFonts 'https://fonts.googleapis.com/css2?family=Afacad:ital,wght@0,400;0,700;1,400;1,700&family=Kalnia:wght@700&display=swap' %}
+    <!-- Fathom - beautiful, simple website analytics -->
+    <script src="https://cdn.usefathom.com/script.js" data-spa="auto" data-site="CBXQVFDO" defer></script>
+    <!-- / Fathom -->
   </head>
   <body>
     {{ content | safe }}
     <footer class="tdbc-background--primary">
       <div class="tdbc-container tdbc-text-align-center">
-        <h3>Get early access to our mixes from our newsletter</h3>
+        <h3>Get early access to our mixes with the House Finesse newsletter</h3>
         <iframe
           src="https://embeds.beehiiv.com/05dce79c-edda-41e4-971f-77570468a389?slim=true"
           data-test-id="beehiiv-embed"
