@@ -38,7 +38,7 @@ templateEngineOverride: md, njk
   <div class="tdbc-section">
     <h2>Latest Shows</h2>
     <ul class="tdbc-column-container">
-      {%- set latest_posts = collections.pages | reverse -%}
+      {%- set latest_posts = collections.posts | reverse -%}
       {%- for post in latest_posts.slice(0,12) -%}
         <li class="tdbc-card">
           <div class="tdbc-card__content">

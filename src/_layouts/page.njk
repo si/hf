@@ -7,59 +7,12 @@ layout: base.njk
 <header class="tdbc-hero">
   <div class="tdbc-container">
     <h1 class="tdbc-ink--primary tdbc-mb-none">{{ title }}</h1>
-    <h2 class="tdbc-lead tdbc-content-maxlength tdbc-ink--gray tdbc-mt-md tdbc-mx-auto">
-      {{ description }}
-    </h2>
-    {% include 'podcast_apps.njk' %}
-    <div class="tdbc-sticker">
-      {% if(author !== undefined ) %}
-        <p>
-          {{ author }}
-        </p>
-      {% endif %}
-      <p>
-        <datetime>{{ page.date.toUTCString().substring(5,17) }}</datetime>
-      </p>
-      {% if(episodeNumber !== undefined ) %}
-        <p>
-          {{ '#HF' + episodeNumber }}
-        </p>
-        <p>
-          <a href={{ 'https://housefinesse.com/hf' + episodeNumber }}>{{ 'housefinesse.com/hf' + episodeNumber }}</a>
-        </p>
-      {% endif %}
-    </div>
   </div>
 </header>
 <main class="tdbc-container">
   <article class="tdbc-mx-auto">
-    <div class="tdbc-media">
-      {% if(coverImage!=='') %}
-        <img src="/img/cover-images/{{ coverImage }}" alt="{{ title }}"/>
-      {% endif %}
-      {% if(enclosure!=='') %}
-        <div class="tdbc-audio-player">
-          <audio controls style="width:100%">
-            <source src="{{ enclosure.split(" ")[0] }}" type="{{ enclosure.split(" ")[2] }}">
-              Your browser does not support the audio tag.
-            </audio>
-          </div>
-        {% endif %}
-      </div>
-      <div class="tdbc-section--padded">
-        {{ content | safe }}
-      </div>
-      <dl>
-        <dt>Category:</dt>
-        <dd>{{ categories }}</dd>
-        <dt>Tags:</dt>
-        <dd>
-          {% for tag in tags %}
-            {% if tag !== 'pages' %}
-            {{ tag }},
-            {% endif %}
-          {% endfor %}          
-        </dd>
-      </dl>
-    </article>
-  </main>
+    <div class="tdbc-section--padded">
+      {{ content | safe }}
+    </div>
+  </article>
+</main>
