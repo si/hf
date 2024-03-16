@@ -10,13 +10,13 @@ coverImage: "HF211-with-Andi-King.jpg"
 redirectFrom: "/hf211"
 ---
 
-**Here comes the legend, the world famous Andi King, bringing all the energy with big names including Seamus Haji and Michael Gray.
+**Here comes the legend, the world famous Andi King, bringing all the energy with big names including Seamus Haji and Michael Gray.**
 
 ## Track Listing
 
-1. Seamus Haji, Michael Gray, Phebe Edwards – You Bring The Sun 
+1. Seamus Haji, Michael Gray, Phebe Edwards – You Bring The Sun
 2. Saison, Mike Dunn – ⁠Non Stop
-3. PDM – ⁠Beat Of Your Heart 
+3. PDM – ⁠Beat Of Your Heart
 4. Dave Leatherman, HP Vince – Bahama Funk
 5. Kylie – ⁠Love At First Sight (Kid Creme Vocal Dub)
 6. ⁠Da Lukas – Satisfy Your Soul
