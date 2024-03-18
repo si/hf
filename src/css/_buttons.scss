@@ -20,6 +20,10 @@
   text-decoration: none;
   cursor: pointer;
 
+  img {
+    margin-right: 0.5rem;
+  }
+
   @media screen and (-ms-high-contrast: active) {
     border: 2px solid currentColor;
   }
@@ -155,4 +159,5 @@
       content: "";
     }
   }
+
 }
