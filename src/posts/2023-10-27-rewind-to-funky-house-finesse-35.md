@@ -8,7 +8,7 @@ tags:
   - "rewind"
 enclosure: "https://pinecast.com/listen/e309b4e0-f5a4-4c9e-bf5e-47fb5e3f7ef9.mp3 115205279 audio/mpeg "
 coverImage: "REWIND-to-FHF35.jpg"
-redirectFrom: "/hf191"
+redirectFrom: "/m8e5"
 ---
 
 This week, we dive into the archives back to One Phat DJ’s first experience of Souljackerz and a whole host of classic tunes from 2011.

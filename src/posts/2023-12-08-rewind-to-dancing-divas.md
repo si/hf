@@ -5,7 +5,7 @@ categories:
   - "shows"
 enclosure: "https://pinecast.com/listen/b0f30e2e-7bf4-4a8d-9803-778be65ddfc1.mp3 106325594 audio/mpeg "
 coverImage: "REWIND-to-Dancing-Divas.jpg"
-redirectFrom: "/hf197"
+redirectFrom: "/po5m"
 ---
 
 **Let's go way back to 2006 for the seasonal festivities with a whole host of uplifting dance classics selected by One Phat DJ. Classic feels!**

@@ -7,7 +7,7 @@ tags:
   - "one-phat-dj"
 enclosure: "https://pinecast.com/listen/61323c93-1d18-48b4-b7bd-f0474b505f7e.mp3 86592490 audio/mpeg "
 coverImage: "Thankful-with-One-Phat-DJ.jpg"
-redirectFrom: "/hf195"
+redirectFrom: "/uezq"
 ---
 
 **Happy thanksgiving to all our Stateside listeners. Here's our gift to you, thankful for all the fine house music from around the world.**

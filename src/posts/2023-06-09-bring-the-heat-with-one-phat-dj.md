@@ -1,12 +1,13 @@
 ---
 title: "Bring The Heat with One Phat DJ"
 date: "2023-06-09"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "one-phat-dj"
 enclosure: "https://pinecast.com/listen/0f0b24f7-9de8-447d-8832-072ab329eff8.mp3 70222118 audio/mpeg "
 coverImage: "Bring-The-Heat.jpg"
+redirectFrom: "/hf171"
 ---
 
 **Summer is coming, the weather is turning and One Phat DJ is bringing the heat with his finest selection of house delights for June 2023.**
@@ -15,31 +16,31 @@ coverImage: "Bring-The-Heat.jpg"
 
 1. Purple Disco Machine - Bad Company (Original Mix)
 
-3. THEOS, El Rod - NMW (Oden & Fatzo Remix)
+2. THEOS, El Rod - NMW (Oden & Fatzo Remix)
 
-5. Dave Leatherman, Bruce Nolan - Hold On Tight (Extended Version)
+3. Dave Leatherman, Bruce Nolan - Hold On Tight (Extended Version)
 
-7. Teena Marie - Behind The Groove (Michael Gray Dub Mix)
+4. Teena Marie - Behind The Groove (Michael Gray Dub Mix)
 
-9. Waajeed, Dames Brown - Glory (Extended Mix)
+5. Waajeed, Dames Brown - Glory (Extended Mix)
 
-11. Seamus Haji, Michael Gray, Audrey Martells - Wish (Extended Mix)
+6. Seamus Haji, Michael Gray, Audrey Martells - Wish (Extended Mix)
 
-13. Mark Picchiotti, Birdee, Javi Star - Party Life (Extended Mix)
+7. Mark Picchiotti, Birdee, Javi Star - Party Life (Extended Mix)
 
-15. Ben Westbeech, The Vision, Andreya Triana, Kon - Hallelujah In Heaven (Groove Assassin Extended Edit)
+8. Ben Westbeech, The Vision, Andreya Triana, Kon - Hallelujah In Heaven (Groove Assassin Extended Edit)
 
-17. Melé - As (Melé Edit)
+9. Melé - As (Melé Edit)
 
-19. Murphy's Law - Ain't No Other Man (Rework - Extended Mix)
+10. Murphy's Law - Ain't No Other Man (Rework - Extended Mix)
 
-21. The Shapeshifters - Lola's Theme (VIP)
+11. The Shapeshifters - Lola's Theme (VIP)
 
-23. Roland Clark, Jack Back, Wh0 - The Walk To Church (Extended Mix)
+12. Roland Clark, Jack Back, Wh0 - The Walk To Church (Extended Mix)
 
-25. Bob Sinclar - Vision Of Paradise (Riva Starr Extended Remix)
+13. Bob Sinclar - Vision Of Paradise (Riva Starr Extended Remix)
 
-27. Lea Lea, Carly Wilford, BIIANCO - Been Right Here (Extended Mix)
+14. Lea Lea, Carly Wilford, BIIANCO - Been Right Here (Extended Mix)
 
 Listen on all good smart speakers and podcast apps
 

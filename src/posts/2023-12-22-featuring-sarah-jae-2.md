@@ -8,7 +8,7 @@ tags:
   - "sarah-jae"
 enclosure: "https://pinecast.com/listen/4ad91aea-6cc8-429b-adfd-c51052813989.mp3 60582900 audio/mpeg "
 coverImage: "Featuring…-Sarah-Jae.jpg"
-redirectFrom: "/hf199"
+redirectFrom: "/18m7"
 ---
 
 **As we prepare for the weekend's festivities, we've invited along the amazing Sarah Jae Jefferson to share her favourite treats for Christmas.**

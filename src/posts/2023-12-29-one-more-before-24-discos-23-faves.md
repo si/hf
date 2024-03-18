@@ -8,7 +8,7 @@ tags:
   - "disco77"
 enclosure: "https://pinecast.com/listen/ca90d254-1205-4750-b17b-f5d52654319e.mp3 99799737 audio/mpeg "
 coverImage: "One-More-Before-24-Discos-23-Faves.jpg"
-redirectFrom: "/hf201"
+redirectFrom: "/x2de"
 ---
 
 **We wrap up 2023 with an EPIC collection of tunes from Disco77's crate this year, all mixed up for your new year celebrations. Happy new year from all the House Finesse gang - here's to another year of house music delights.**
