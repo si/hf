@@ -1,9 +1,9 @@
 ---
 title: "Beyonce - Break My Soul (LYP Remix)"
 date: "2022-08-10"
-categories: 
+categories:
   - "exclusives"
-tags: 
+tags:
   - "beyonce"
   - "bootleg"
   - "free-download"
@@ -11,6 +11,7 @@ tags:
   - "remix"
 enclosure: ""
 coverImage: "Beyonce-Break-My-Soul-LYP-Remix.jpg"
+redirectFrom: "/ztiy"
 ---
 
 10 years ago today, House Finesse was launched to the world with a brand new format and residency.

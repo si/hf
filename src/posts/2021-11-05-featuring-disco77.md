@@ -1,13 +1,14 @@
 ---
 title: "#FinesseFriday - Featuring… Disco77"
 date: "2021-11-05"
-categories: 
+categories:
   - "finessefriday"
-tags: 
+tags:
   - "disco77"
   - "guest-mix"
 enclosure: "https://pinecast.com/listen/87b6c3cc-cc56-4cd0-bb20-b7db4e2e3e89.mp3 91271095 audio/mpeg "
 coverImage: "House-Finesse-100-Disco77.jpg"
+redirectFrom: "/disco77"
 ---
 
 **Get your glad rags on, turn it up and have a serious boogie with Disco77 as he brings us an hour of delicious disco delights for the 100th original House Finesse.**

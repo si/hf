@@ -22,6 +22,12 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
 
+  eleventyConfig.addFilter('categoryFilter', function(collection, category) {
+    if (!category) return collection;
+      const filtered = collection.filter(item => item.data.category == category)
+      return filtered;
+  });
+  
   /* Markdown Overrides */
   let markdownLibrary = markdownIt({
     html: true,

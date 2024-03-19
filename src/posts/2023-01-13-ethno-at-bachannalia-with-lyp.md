@@ -1,15 +1,16 @@
 ---
 title: "Ethno at Bachannalia with LYP"
 date: "2023-01-13"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "bachannalia"
   - "ethno"
   - "live"
   - "lyp"
 enclosure: "https://pinecast.com/listen/eee1963e-8398-4ac4-ab9a-074ca5485931.mp3 86399384 audio/mpeg "
 coverImage: "Ethno-at-Bacchanalia-with-LYP-2.jpg"
+redirectFrom: "/hf151"
 ---
 
 **Recorded live at LYP's new residency, we get deep and ethno with an hour long set for this week's #FinesseFriday**
@@ -18,24 +19,24 @@ coverImage: "Ethno-at-Bacchanalia-with-LYP-2.jpg"
 
 1. Sam Shure - Iboto (feat. Basem Darwisch)
 
-3. Omeria & Cafe De Anatolia - Seymour
+2. Omeria & Cafe De Anatolia - Seymour
 
-5. Blond:ish - Omnipresent (feat. Bahramji)
+3. Blond:ish - Omnipresent (feat. Bahramji)
 
-7. Michael Simon - Natalia
+4. Michael Simon - Natalia
 
-9. LYP - Bacchanalia
+5. LYP - Bacchanalia
 
-11. Alex Twin & Darko De Jan - Viente
+6. Alex Twin & Darko De Jan - Viente
 
-13. Kreisler - Rituals
+7. Kreisler - Rituals
 
-15. Hraach & Armen Miran - Inevitable Ending (Original)
+8. Hraach & Armen Miran - Inevitable Ending (Original)
 
-17. Minörs - Cura
+9. Minörs - Cura
 
-19. Mr. ID & OSENS - ZMAN (feat. Tina Ardor)
+10. Mr. ID & OSENS - ZMAN (feat. Tina Ardor)
 
-21. Armen Miran - Nani Jan (Original)
+11. Armen Miran - Nani Jan (Original)
 
-23. Awen, Caiiro - Your Voice (Adam Port Remix)
+12. Awen, Caiiro - Your Voice (Adam Port Remix)

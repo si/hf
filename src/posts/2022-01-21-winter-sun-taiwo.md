@@ -1,12 +1,13 @@
 ---
 title: "Winter Sun with Taiwo"
 date: "2022-01-21"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "taiwo"
 enclosure: "https://pinecast.com/listen/50d675ad-d394-4925-b811-4ab5eca22031.mp3 146036086 audio/mpeg "
 coverImage: "House-Finesse-106-Winter-Sun-with-Taiwo.jpg"
+redirectFrom: "/wintersun"
 ---
 
 **For this week's #FinesseFriday, we have a delightful smooth lounge mix of summer Latin vibes thrown in with a bit of winter sun from our newest resident, Taiwo.**

@@ -1,12 +1,13 @@
 ---
 title: "The Warm Up with One Phat DJ"
 date: "2022-01-28"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "one-phat-dj"
 enclosure: "https://pinecast.com/listen/272ad08a-735b-42fc-9280-de85d82c844a.mp3 143645283 audio/mpeg "
 coverImage: "House-Finesse-107-The-Warm-Up.jpg"
+redirectFrom: "/plpt"
 ---
 
 **Time to wrap up the chilly month on #FinesseFriday with an hour of uplifting soulful and disco tunes from your old host, One Phat DJ.**

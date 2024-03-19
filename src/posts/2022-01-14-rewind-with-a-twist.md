@@ -1,13 +1,14 @@
 ---
 title: "REWIND: With A Twist"
 date: "2022-01-14"
-categories: 
+categories:
   - "finessefriday"
-tags: 
+tags:
   - "one-phat-dj"
   - "rewind"
 enclosure: "https://pinecast.com/listen/9a774f0e-6321-435c-840d-d31ee89fb88e.mp3 104796729 audio/mpeg "
 coverImage: "With-A-Twist-23-August-2006.jpg"
+redirectFrom: "/8w86"
 ---
 
 **For this week's #FinesseFriday, we're pulling a classic mix out of the archives from August 2006 with One Phat DJ"s "With A Twist".**

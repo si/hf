@@ -1,12 +1,13 @@
 ---
 title: "Festive Feels with One Phat DJ"
 date: "2022-12-02"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "one-phat-dj"
 enclosure: "https://pinecast.com/listen/4791ba7b-6fb6-484f-8398-2470f0282119.mp3 72183932 audio/mpeg "
 coverImage: "HF145-Festive-Feels-with-One-Phat-DJ.jpg"
+redirectFrom: "/1xm1"
 ---
 
 One Phat DJ warms us up for the festive period with an hour of funky vibes on #FinesseFriday

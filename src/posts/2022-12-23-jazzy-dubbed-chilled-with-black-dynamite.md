@@ -1,9 +1,9 @@
 ---
 title: "Jazzy, Dubbed & Chilled with Black Dynamite"
 date: "2022-12-23"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "black-dynamite"
   - "christmas"
   - "dames-brown"
@@ -20,6 +20,7 @@ tags:
   - "whitney-houston"
 enclosure: "https://pinecast.com/listen/02ee8de1-d9d3-44aa-bef4-25904367d24f.mp3 96180023 audio/mpeg "
 coverImage: "HF148-Jazzy-Dubbed-and-Chilled-with-Black-Dynamite.jpg"
+redirectFrom: "/peh1"
 ---
 
 **It's the Christmas #FinesseFriday and Black Dynamite is providing the soundtrack with a delectable choice of jazzy, funky, uplifting and chilled house tunes to get you in the mood.**
@@ -32,28 +33,28 @@ We also want to give all our loyal followers an extra special treat for Christma
 
 [https://www.housefinesse.com/freelyp](https://www.housefinesse.com/freelyp)
 
-It's our way of saying thank you for all your love and participation through 2022. Keep the support and conversation going in 2023 and send your love to LYP directly on Instagram: [@lyp\_official](https://www.instagram.com/lyp_official/)
+It's our way of saying thank you for all your love and participation through 2022. Keep the support and conversation going in 2023 and send your love to LYP directly on Instagram: [@lyp_official](https://www.instagram.com/lyp_official/)
 
 ## Track Listing
 
 1. Whitney Houston – Queen Of The Night (CJ’s Master Mix)
 
-3. The Braxtons – The Boss (MAW Dub)
+2. The Braxtons – The Boss (MAW Dub)
 
-5. Roland Clark - Sol Y Mas (I Get Deep) (Accapella)
+3. Roland Clark - Sol Y Mas (I Get Deep) (Accapella)
 
-7. The Latin Project - Lei Li Lai (MAW Mix)
+4. The Latin Project - Lei Li Lai (MAW Mix)
 
-9. Mary J Blige - Just Fine (Jovonn Remix)
+5. Mary J Blige - Just Fine (Jovonn Remix)
 
-11. Portia Monique - Never Give You Up (Joey Negro Extended Mix)
+6. Portia Monique - Never Give You Up (Joey Negro Extended Mix)
 
-13. The Shapeshifters ft Joss Stone - Bring On The Rain
+7. The Shapeshifters ft Joss Stone - Bring On The Rain
 
-15. Dames Brown ft Amp Fiddler & Andres - What Would You Do (Expansions NYC Extended Dub Vocal)
+8. Dames Brown ft Amp Fiddler & Andres - What Would You Do (Expansions NYC Extended Dub Vocal)
 
-17. Mind State, Tess Leah - For You (Original Mix)
+9. Mind State, Tess Leah - For You (Original Mix)
 
-19. Sam One - Kitale
+10. Sam One - Kitale
 
-21. Danny Tenaglia - The Brooklyn Gypsy
+11. Danny Tenaglia - The Brooklyn Gypsy

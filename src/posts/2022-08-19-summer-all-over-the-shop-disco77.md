@@ -1,15 +1,16 @@
 ---
 title: "Summer All Over The Shop with Disco77"
 date: "2022-08-19"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "disco77"
 enclosure: "https://pinecast.com/listen/31c8e6b4-bce5-49e3-9753-c3ed9b1e6895.mp3 164273656 audio/mpeg "
 coverImage: "6186108D-F866-4952-8122-1E8D1695D899-1.jpeg"
+redirectFrom: "/p704"
 ---
 
-With the UK trying to work through heatwaves and thunderstorms, Disco77 brings some regularity on #FinesseFriday with another fab selection of house delights for you to enjoy.  
+With the UK trying to work through heatwaves and thunderstorms, Disco77 brings some regularity on #FinesseFriday with another fab selection of house delights for you to enjoy.
 
 ## Track Listing
 

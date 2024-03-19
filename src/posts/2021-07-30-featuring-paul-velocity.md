@@ -1,14 +1,15 @@
 ---
 title: "#FinesseFriday - Featuring… Paul Velocity"
 date: "2021-07-30"
-categories: 
+categories:
   - "finessefriday"
-tags: 
+tags:
   - "dj-paul-velocity"
   - "guest-mix"
   - "paul-velocity"
 enclosure: "https://pinecast.com/listen/c11be2e7-e501-4396-a724-339cc4bc093a.mp3 197674785 audio/mpeg "
 coverImage: "House-Finesse-Featuring-Paul-Velocity.jpg"
+redirectFrom: "/velocity"
 ---
 
 **To wrap up July 2021, we've invited along long-time friend of the podcast Paul Velocity to provide a very special 80-minute funky house guest mix.**
