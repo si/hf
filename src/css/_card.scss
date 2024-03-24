@@ -50,7 +50,6 @@
     }
 
     p {
-      position: relative;
       margin: 0 0 1rem;
       z-index: 1;
     }
@@ -63,7 +62,19 @@
         margin-top: 0.5rem;
       }
     }
+
   }
+
+  &__date {
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    display: inline-block;
+    background: #000;
+    transform: rotate(10deg);
+    padding: 0.5rem;
+  }
+
 
   &:hover a.tdbc-card__title::before {
     box-shadow: 0 0 0 3px tdbc-color("primary");
