@@ -8,3 +8,10 @@ permalink: 404.html
 ## Oh no! That page is missing
 
 [Go back to the homepage](/) where you will hopefully find what you were looking for.
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    var path = window.location.pathname;
+    fathom.trackEvent('404: ' + path);
+  });
+</script>
