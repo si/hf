@@ -11,17 +11,22 @@ layout: base.njk
       {{ description }}
     </h2>
     {% include 'podcast_apps.njk' %}
-    <div class="tdbc-sticker">
+    <div>
       {% if(author !== undefined ) %}
-        <p>
+        <p class="tdbc-sticker">
           {{ author }}
         </p>
       {% endif %}
-      <p>
+      <p class="tdbc-sticker">
         <datetime>{{ page.date.toUTCString().substring(5,17) }}</datetime>
       </p>
+      {% if(redirectFrom !== undefined ) %}
+        <p class="tdbc-sticker">
+          <a href="{{ redirectFrom }}" rel="canonical nofollow">{{ redirectFrom }}</a>
+        </p>
+      {% endif %}
       {% if(episodeNumber !== undefined ) %}
-        <p>
+        <p class="tdbc-sticker">
           {{ '#HF' + episodeNumber }}
         </p>
         <p>
