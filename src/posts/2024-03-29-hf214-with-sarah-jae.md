@@ -19,7 +19,7 @@ This week, we've also launched a [HOT NEW HOUSE FINESSE SHOP](/shop/) on Teemill
 We have a range of t-shirts, hoodies and sweaters with memorable quotes, song lyrics and much more to come, all ethically sourced and printed on-demand so there's no waste.
 
 [![Disco77 modelling our Everybody Loves House Music t-shirt](/img/merch/Everybody-Loves-House-Music-tshirt-Disco77.jpg)](https://housefinesse.teemill.com/product/everybody-loves-house-music/)
-[![Sarah Jae modelling our Eat Sleep Mix Repeat t-shirt](/img/merch/Eat-Sleep-Mix-Repeat-tshirt-Sarah-Jae.jpg)](https://housefinesse.teemill.com/product/put-em-high-push-it-high/)
+[![Sarah Jae modelling our Eat Sleep Mix Repeat t-shirt](/img/merch/Eat-Sleep-Mix-Repeat-tshirt-Sarah-Jae.jpeg)](https://housefinesse.teemill.com/product/put-em-high-push-it-high/)
 [![LYP modelling our Put Em High, Push It High t-shirt](/img/merch/Put-Em-High-Push-It-High-tshirt-LYP.jpg)](https://housefinesse.teemill.com/product/put-em-high-push-it-high/)
 [![One Phat DJ modelling our House Music All Day Long t-shirt](/img/merch/House-Music-All-Day-Long-tshirt-OnePhatDJ.jpg)](https://housefinesse.teemill.com/product/eat-sleep-mix-repeat-t-shirt/)
 
