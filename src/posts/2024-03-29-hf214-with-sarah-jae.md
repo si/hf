@@ -24,9 +24,10 @@ We have a range of t-shirts, hoodies and sweaters with memorable quotes, song ly
 [![LYP modelling our Put Em High, Push It High t-shirt](/img/merch/Put-Em-High-Push-It-High-tshirt-LYP.jpg)](https://housefinesse.teemill.com/product/put-em-high-push-it-high/)
 [![One Phat DJ modelling our House Music All Day Long t-shirt](/img/merch/House-Music-All-Day-Long-tshirt-OnePhatDJ.jpg)](https://housefinesse.teemill.com/product/eat-sleep-mix-repeat-t-shirt/)
 
-For our launch weekend, we're offering **more than 20% off RRP PLUS free delivery**, most t-shirts for just £19 - final orders can be made until Monday 1 April 2024 at midnight UTC (remember those clocks go forward to Summer Time on Sunday in the UK!)
+For our launch weekend, we're offering **over 20% off RRP PLUS free delivery** with most t-shirts available for just £19 - what a perfect Easter treat!
+Final orders can be made until Monday 1 April 2024 at midnight UTC when prices return to normal (remember those clocks go forward to Summer Time on Sunday in the UK!)
 
-Grab your own HF merch and wear it with pride wherever you enjoy house music.
+[Grab your own HF merch](/shop) and wear it with pride wherever you enjoy house music.
 
 ## Track Listing
 
