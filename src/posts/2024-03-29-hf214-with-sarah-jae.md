@@ -5,12 +5,12 @@ categories:
   - "shows"
 tags:
   - "sarah-jae"
-enclosure: "https://pinecast.com/listen/b72d7572-04b4-4cfb-ace6-2cd47f491272.mp3 86877130 audio/mpeg "
+enclosure: "https://pinecast.com/listen/41f55b38-3ec7-4048-bc62-2bf430b288a4.mp3 59126006 audio/mpeg "
 coverImage: "HF214-with-Sarah-Jae.jpg"
 redirectFrom: "/hf214"
 ---
 
-**INSERT INTRODUCTION**
+**We break in Easter weekend with the return of our Sarah Jae bringing a chilled out mix and a special announcement about our brand new website & fresh merch.**
 
 ## Our shop is open
 
