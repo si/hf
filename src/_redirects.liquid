@@ -4,13 +4,15 @@ eleventyExcludeFromCollections: true
 ---
 
 /how-to-listen/   /follow
-/shop/            https://housefinesse.teemill.com/
 /subscribe/       /follow
 
 /wp-content/uploads/:year/:month/:slug /img/cover-images/:slug
 
+/podcast/feed/ https://pinecast.com/feed/housefinesse
 /feed/podcast https://pinecast.com/feed/housefinesse
-    
+
+/shop/            https://housefinesse.teemill.com/
+
 {%- for page in collections.all -%}
   {%- if page.url and page.data.redirectFrom %}
 {{ page.data.redirectFrom }}  {{ page.url }}
