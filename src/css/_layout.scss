@@ -22,6 +22,11 @@ main.tdbc-container {
 
 footer {
   margin-top: auto;
+
+  a:link,
+  a:visited {
+    color: #FFF;
+  }
 }
 
 article {
