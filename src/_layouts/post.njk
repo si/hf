@@ -20,6 +20,11 @@ layout: base.njk
       <p class="tdbc-sticker">
         <datetime>{{ page.date.toUTCString().substring(5,17) }}</datetime>
       </p>
+      {% if(explicit !== undefined ) %}
+        <p class="tdbc-sticker">
+          Explicit content warning
+        </p>
+      {% endif %}
       {% if(redirectFrom !== undefined ) %}
         <p class="tdbc-sticker">
           <a href="{{ redirectFrom }}" rel="canonical nofollow">{{ redirectFrom }}</a>
