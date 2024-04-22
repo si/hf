@@ -2,6 +2,7 @@
 title: "Follow House Finesse"
 layout: "page"
 redirectFrom: "/listen"
+linkText: "Follow"
 ---
 
 ## House Finesse can be found on the following podcast apps.

@@ -1,6 +1,7 @@
 ---
 title: "One Phat DJ Podcast (2005-2009)"
 layout: "page"
+linkText: "OnePhatDJ"
 ---
 
 ## The original season of the podcast, hosted by the founder One Phat DJ.
