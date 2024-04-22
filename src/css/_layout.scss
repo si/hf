@@ -27,6 +27,20 @@ footer {
   a:visited {
     color: #FFF;
   }
+
+  .tdbc-shop-carousel {
+    display: flex;
+    padding: 10px 0;
+    h4, img {
+      display: flexbox;
+      height: 120px;
+    }
+    img {
+      margin: 0 10px;
+      width: 120px;
+      object-fit: cover;
+    }
+  }
 }
 
 article {
