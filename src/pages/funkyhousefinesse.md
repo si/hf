@@ -1,6 +1,7 @@
 ---
 title: "Funky House Finesse (2009-2011)"
 layout: "page"
+linkText: "Funky House Finesse"
 ---
 
 ## The second season of the podcast, establishing a new format for a new era, with a focus on the funky house genre One Phat DJ often celebrated.
