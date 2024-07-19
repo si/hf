@@ -13,6 +13,8 @@ redirectFrom: "/hf230"
 
 **Kingy is back with another banging selection of the finest house delights from years past and present. Let's go!**
 
+<iframe id="embedPlayer" src="https://embed.podcasts.apple.com/gb/podcast/hf230-with-andi-king-19-jul-2024/id355833875?i=1000662742976&amp;itsct=podcast_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="175px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *; clipboard-write" style="width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px; transform: translateZ(0px); animation: 2s ease 0s 6 normal none running loading-indicator; background-color: rgb(228, 228, 228);"></iframe>
+
 ## Track Listing
 
 1. Raven Maize - Tracy In My Room
