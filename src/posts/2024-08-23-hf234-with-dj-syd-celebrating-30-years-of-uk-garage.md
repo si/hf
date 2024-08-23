@@ -1,5 +1,5 @@
 ---
-title: "HF234 with DJ Syd celebrating 30 Years of UK Garage"
+title: "HF234 with DJ Syd Celebrating 30 Years of UK Garage"
 date: "2024-08-23"
 categories:
   - "shows"
