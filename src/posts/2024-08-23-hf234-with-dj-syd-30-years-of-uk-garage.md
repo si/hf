@@ -9,7 +9,7 @@ tags:
   - 'uk-garage"
   - "guest-mix"
 enclosure: "https://pinecast.com/listen/492d6e5a-b795-49cb-bcc4-eac375e4d802.mp3 88371690 audio/mpeg "
-coverImage: "HF234-with-DJ-Syd-30-Years-Of-UK-Garage.jpg"
+coverImage: "HF234-with-DJ-Syd-30-Years-of-UK-Garage.jpg"
 redirectFrom: "/hf234"
 ---
 
