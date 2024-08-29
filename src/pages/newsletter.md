@@ -5,10 +5,15 @@ redirectFrom: "/newsletter"
 linkText: "Newsletter"
 ---
 
-## Get exclusive bonus mixes plus weekly reminders with our House Finesse newsletter, sent straight to your inbox on Fridays.
+**Get exclusive bonus mixes plus weekly reminders with our House Finesse newsletter, sent straight to your inbox on Fridays.**
 
 <div id="mc_embed_shell">
-  
+      <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
+  <style type="text/css">
+        #mc_embed_signup{background:#fff; false;clear:left; font:14px Helvetica,Arial,sans-serif; width: 600px;}
+        /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+           We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
 <div id="mc_embed_signup">
     <form action="https://housefinesse.us5.list-manage.com/subscribe/post?u=021cc164cdf9c6b15570178a6&amp;id=a493ff16e4&amp;f_id=004a3deaf0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self" novalidate="">
         <div id="mc_embed_signup_scroll"><h2>Subscribe to the House Finesse newsletter</h2>
