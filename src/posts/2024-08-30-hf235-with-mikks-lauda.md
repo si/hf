@@ -13,7 +13,9 @@ redirectFrom: "/hf235"
 
 **Let's go with ANOTHER guest mix on the podcast, this time from the fantastic Mikks Lauda before their debut gig this weekend in Colchester. Strap in for a thrill-seeking ride of upbeat bootlegs, disco house, speed garage and more!**
 
-<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/gb/podcast/hf234-with-dj-syd-celebrating-30-years-of-uk-garage/id355833875?i=1000666311764"></iframe>
+## Listen on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/hf235-with-mikks-lauda-30-aug-2024/id355833875?i=1000667307305)
+
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/gb/podcast/hf235-with-mikks-lauda-30-aug-2024/id355833875?i=1000667307305"></iframe>
 
 ## TRACKLISTING
 
