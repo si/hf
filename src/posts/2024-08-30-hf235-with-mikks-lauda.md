@@ -6,7 +6,7 @@ categories:
 author: "Mikks Lauda"
 tags:
   - "mikks-lauda"
-enclosure: "https://pinecast.com/listen/492d6e5a-b795-49cb-bcc4-eac375e4d802.mp3 88371690 audio/mpeg"
+enclosure: "https://pinecast.com/listen/528cb271-5f6a-4ff5-af93-010fffce12c8.mp3 87718169 audio/mpeg"
 coverImage: "HF235-with-Mikks-Lauda.jpg"
 redirectFrom: "/hf235"
 ---
