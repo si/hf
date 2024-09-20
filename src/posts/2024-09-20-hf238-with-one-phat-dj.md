@@ -13,9 +13,9 @@ redirectFrom: "/hf238"
 
 **He's back after way too long and with a fresh selection of the finest house tunes in his box from the past month or so.**
 
-## Listen on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/hf237-with-disco77-13-sep-2024/id355833875?i=1000669395853)
+## Listen on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/house-finesse/id355833875)
 
-<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/gb/podcast/hf237-with-disco77-13-sep-2024/id355833875?i=1000669395853"></iframe>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/gb/podcast/hf238-with-one-phat-dj-20-sep-2024/id355833875?i=1000670128765"></iframe>
 
 ## TRACKLISTING
 
