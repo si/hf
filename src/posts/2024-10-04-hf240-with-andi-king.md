@@ -13,9 +13,9 @@ redirectFrom: "/hf240"
 
 **All rise for the king, Andi King, as he brings you some world class house tunes from his box to kick off October 2024.**
 
-## Listen on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/house-finesse/id355833875)
+## Listen on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/hf240-with-andi-king-4-oct-2024/id355833875?i=1000671739910)
 
-<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/gb/podcast/hf239-with-dj-tai-27-sep-2024/id355833875?i=1000670887282"></iframe>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/gb/podcast/hf240-with-andi-king-4-oct-2024/id355833875?i=1000671739910"></iframe>
 
 ## TRACKLISTING
 
