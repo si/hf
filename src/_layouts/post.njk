@@ -20,7 +20,7 @@ layout: base.njk
       <p class="tdbc-sticker">
         <datetime>{{ page.date.toUTCString().substring(5,17) }}</datetime>
       </p>
-      {% if(explicit !== undefined ) %}
+      {% if(explicit !== undefined) and (explicit !== "no") %}
         <p class="tdbc-sticker">
           Explicit content warning
         </p>
