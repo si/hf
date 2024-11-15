@@ -18,8 +18,7 @@ duration: "01:00:06"
 ---
 **Old friend of the show and host of Triple Dee, David Dunne returns this month for a guest mix going back to 1994 in the build up to his [Kiss 102 - Back to '94 event](https://www.skiddle.com/whats-on/Manchester/Ramona/Kiss1025-fm-30-year-reunion/40095623/) next Friday.**
 
-Tickets available at Skiddle:
-https://www.skiddle.com/whats-on/Manchester/Ramona/Kiss1025-fm-30-year-reunion/40095623/
+[Tickets are available at Skiddle until Friday 22 November 2024](https://www.skiddle.com/whats-on/Manchester/Ramona/Kiss1025-fm-30-year-reunion/40095623/)
 
 ## Listen on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/hf246-with-david-dunne-15-nov-2024/id355833875?i=1000677044412)
 
