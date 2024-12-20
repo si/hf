@@ -6,7 +6,7 @@ categories:
 author: "Andi King"
 tags:
   - "andi-king"
-enclosure: "https://op3.dev/e/pinecast.com/listen/f6d618b1-79d9-4b25-b431-14c620bf2fbe.mp3?source=rss&ext=asset.mp3 89677368 audio/mpeg"
+enclosure: "https://op3.dev/e/pinecast.com/listen/0214e0b3-73d6-4946-ba07-726b170d66ac.mp3?source=rss&ext=asset.mp3 77602036 audio/mpeg"
 coverImage: "HF251_with_Andi_King.jpg"
 redirectFrom: "/hf251"
 episode: 251
@@ -17,9 +17,9 @@ duration: "01:20:13"
 
 **Andi King returns to the show for a special 251st episode, featuring timeless disco grooves, soulful house anthems, and fresh tracks, with friends and residents selecting their favorite tunes of 2024.**
 
-## Listen on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/hf250-with-one-phat-dj-13-dec-2024/id355833875?i=1000680216694)
+## Listen on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/hf251-with-andi-king-20-dec-2024/id355833875?i=1000681063302)
 
-<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/gb/podcast/hf250-with-one-phat-dj-13-dec-2024/id355833875?i=1000680216694"></iframe>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/gb/podcast/hf251-with-andi-king-20-dec-2024/id355833875?i=1000681063302"></iframe>
 
 ## Track Listing
 
