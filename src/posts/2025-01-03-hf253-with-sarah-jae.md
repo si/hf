@@ -7,7 +7,7 @@ author: "Sarah Jae"
 tags:
   - "sarah-jae"
 enclosure: "https://op3.dev/e/pinecast.com/listen/65845f95-f347-4f94-824a-79c59395736d.mp3?source=rss&ext=asset.mp3 57899009 audio/mpeg"
-coverImage: "HF253_with_Sarah_Jae.jpg"
+coverImage: "HF253-with-Sarah-Jae.jpg"
 redirectFrom: "/hf253"
 episode: 253
 season: 3
