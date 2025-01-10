@@ -94,11 +94,11 @@ blockquote {
   margin-right: 0;
   padding-left: 1.5rem;
   border-left: 2px solid tdbc-color("secondary");
-  color: tdbc-color("gray");
+  color: tdbc-color("secondary");
 
   &,
   p {
-    font-size: $tdbc-h4-font-size;
+    font-size: $tdbc-h3-font-size;
   }
 
   + * {
