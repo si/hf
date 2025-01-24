@@ -9,7 +9,7 @@ tags:
   - "richard-earnshaw"
 enclosure: "https://op3.dev/e/pinecast.com/listen/6644c058-bdd2-41b4-ad7d-f91b284448b5.mp3?source=rss&ext=asset.mp3 35199064 audio/mpeg"
 coverImage: "HF256_In_Discussion_with_Richard_Earnshaw.jpg"
-redirectFrom: "https://housefinesse.com/hf256?utm_source=feed"
+redirectFrom: "/hf256"
 episode: 256
 season: 3
 explicit: "no"
