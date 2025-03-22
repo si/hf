@@ -1,22 +1,23 @@
 ---
 title: "REWIND to Funky House Finesse 18"
-date: "Fri, 21 Mar 2025 06:21:53 -0000"
+date: "2025-03-21"
 categories:
   - "shows"
-author: ""
+author: "One Phat DJ"
 tags:
-  - ""
+  - "onephatdj"
+  - "REWIND"
 enclosure: "https://op3.dev/e/pinecast.com/listen/d3b57e26-04fb-48f2-8b9a-35723e92918e.mp3?source=rss&ext=asset.mp3 110742561 audio/mpeg"
-coverImage: "https://storage.pinecast.net/podcasts/74494b86-80dc-4213-8181-b1c0eae5f6c6/artwork/5007b312-3688-4e5c-b2db-548455976ba1/Rewind_to_FHF18.jpg"
-redirectFrom: "https://housefinesse.com/fhf18"
+coverImage: "Rewind_to_FHF18.JPG"
+redirectFrom: "/fhf18"
 episode: 18
 season: 2
 explicit: "no"
 duration: "01:55:12"
 ---
-**Track Listing
+## Track Listing
 
-Heart & Soul
+### Heart & Soul
 
 Community ft Fonda Rae - Fat Rat (Jazz-N-Groove Classic Mix) [Z Records]
 
@@ -28,7 +29,7 @@ Heather Johnson - Destination (DJ Kawasaki Original Mix) [King Street]
 
 Donna Allen - He Is The Joy (Guy Robin Remix) [Soulfuric]
 
-Love Lounge
+### Love Lounge
 
 The Fierce Angel Collective ft Soraya Vivian - If You Could Read My Mind (Degrees Of Motion Mix) [Fierce Angel]
 
@@ -50,7 +51,7 @@ Wilder & Clarke - Stand Up (Dennis Christopher Remix) [D:Vision]
 
 Sweet Mercy v J Nitti ft Joe Roberts - Feet Don't Fail Me Now (Falling) (Orginal Mix) [Boo]
 
-Disco Tech
+### Disco Tech
 
 Anton Powers & Rossko - Yellow Brick Road (eSQUIRE Mix) [Fierce Angel]
 
@@ -63,8 +64,3 @@ Justin Michael & Blake Leary - Watching Her Move (Dr Kucho Mix) [Ultra Records]
 Candi Staton - Musical Freedom (The Shapeshifters Classic Re-Work) [Defected]
 
 Dennis Ferrer - Hey Hey (DF's Attention Vocal Mix) [Objektivity]
-
-Support House Finesse by contributing to their tip jar: https://tips.pinecast.com/jar/housefinesse
-
-Find out more at https://housefinesse.pinecast.co**
-
