@@ -7,7 +7,7 @@ author: "Andi King"
 tags:
   - "andi-king"
 enclosure: "https://op3.dev/e/pinecast.com/listen/8b639d2d-8ed7-4496-a904-d9ba0f7ec008.mp3?source=rss&ext=asset.mp3 91194525 audio/mpeg"
-coverImage: "hHF267_with_Andi_King.jpg"
+coverImage: "HF267_with_Andi_King.jpg"
 redirectFrom: "/hf267"
 episode: 267
 season: 3
