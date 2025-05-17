@@ -6,7 +6,8 @@
   "scripts": {
     "start": "eleventy --serve",
     "build": "eleventy",
-    "bump": "npm --no-git-tag-version version"
+    "bump": "npm --no-git-tag-version version",
+    "prepare": "husky"
   },
   "repository": {
     "type": "git",
@@ -23,8 +24,11 @@
     "@11ty/eleventy-plugin-rss": "^1.2.0",
     "@11ty/eleventy-plugin-syntaxhighlight": "^4.2.0",
     "eleventy-google-fonts": "^0.1.0",
+    "husky": "^9.1.7",
+    "lint-staged": "^16.0.0",
     "markdown-it": "^13.0.1",
-    "markdown-it-anchor": "^8.6.7"
+    "markdown-it-anchor": "^8.6.7",
+    "prettier": "^3.5.3"
   },
   "browserslist": [
     "> 0.25%",
