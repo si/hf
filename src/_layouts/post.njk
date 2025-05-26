@@ -54,6 +54,11 @@ layout: base.njk
               Your browser does not support the audio tag.
             </audio>
           </div>
+          {% if enclosure.split(" ")[0] and enclosure.split(" ")[0] !== '' %}
+            <div class="tdbc-download-link">
+              <a href="{{ enclosure.split(" ")[0] }}" download class="tdbc-button">Download Episode</a>
+            </div>
+          {% endif %}
         {% endif %}
       </div>
       <div class="tdbc-section--padded">
