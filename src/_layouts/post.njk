@@ -67,11 +67,11 @@ layout: base.njk
       <dl>
         <dt>Category:</dt>
         <dd>{{ categories }}</dd>
-        <dt>Tags:</dt>
+        <dt>Hashtags:</dt>
         <dd>
           {% for tag in tags %}
             {% if tag !== 'pages' %}
-              {{ tag }},
+              #{{ tag }},
             {% endif %}
           {% endfor %}
         </dd>
