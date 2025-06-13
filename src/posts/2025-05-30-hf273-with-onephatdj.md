@@ -1,5 +1,5 @@
 ---
-title: "House Finesse 273 with One Phat DJ"
+title: "HF273 with One Phat DJ"
 date: "2025-05-30"
 categories: 
   - "shows"
