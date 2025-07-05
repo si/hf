@@ -17,9 +17,9 @@ duration: "02:03:08"
 
 **To celebrate 20 years of House Finesse, One Phat DJ digs deep into the archives for a run of classics mixes—starting with a journey through the 2009–2011 era of Funky House Finesse. Expect disco-infused grooves, chunky remixes, big vocals, and a lot of love.**
 
-## Listen on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/hf278-with-one-phat-dj-4-july-2025/id355833875?i=1000715432100)
+## Listen on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/hf278-with-one-phat-dj-4-july-2025-2009-2011-classics-mix/id355833875?i=1000715680185)
 
-<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/gb/podcast/hf278-with-one-phat-dj-4-july-2025/id355833875?i=1000715432100"></iframe>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/gb/podcast/hf278-with-one-phat-dj-4-july-2025-2009-2011-classics-mix/id355833875?i=1000715680185"></iframe>
 
 ## Watch on [YouTube](https://youtu.be/FsdPeDTdd7M)
 
