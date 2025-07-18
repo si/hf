@@ -19,7 +19,7 @@ This week’s guest mix comes from DJ Programma , a close friend of the show and
 Turn it up and drift away with this uplifting, rhythmic set - perfect for summer evenings, late-night drives, or just vibing at your own pace.
 
 🎧 Got a favourite track from this week's mix? Share it with us and the community in our WhatsApp group:
-👉 https://chat.whatsapp.com/F71xFpGiZkl0yHXXZKY3AY
+[👉 https://chat.whatsapp.com/F71xFpGiZkl0yHXXZKY3AY](https://chat.whatsapp.com/F71xFpGiZkl0yHXXZKY3AY)
 
 ## Listen on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/hf281-with-dj-programma-18-jul-2025/id355833875?i=1000717849166)
 
