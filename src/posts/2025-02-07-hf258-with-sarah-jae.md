@@ -23,7 +23,7 @@ duration: "00:59:11"
 
 ## Listen on [Youtube](https://youtu.be/0xVMs1ky3JI?si=FE3H_cusGGH4ZeJZ)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0xVMs1ky3JI?si=FE3H_cusGGH4ZeJZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="315" style="max-width: 560px; aspect-ratio: 16/9;" src="https://www.youtube.com/embed/0xVMs1ky3JI?si=FE3H_cusGGH4ZeJZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Tracklisting
 

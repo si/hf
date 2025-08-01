@@ -19,7 +19,7 @@ redirectFrom: "/hf272"
 
 ## Watch on [YouTube](https://youtu.be/o0etsIDiygY?si=BX--rKO02At3u-FT)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o0etsIDiygY?si=BX--rKO02At3u-FT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="315" style="max-width: 560px; aspect-ratio: 16/9;" src="https://www.youtube.com/embed/o0etsIDiygY?si=BX--rKO02At3u-FT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Track Listing
 
