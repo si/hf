@@ -21,6 +21,11 @@ You might've caught him recently warming up the dancefloor at a low-key industry
 
 Includes an exclusive spin of Sakura's "Dance With Me" – heard here first.
 
+## Follow Taylan
+
+- **Instagram**: [@taylan.hacking](https://www.instagram.com/taylan.hacking)
+- **TikTok**: [@taylan.dj](https://www.tiktok.com/@taylan.dj)
+
 ## Listen on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/house-finesse/id355833875?i=1000720168259)
 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/gb/podcast/house-finesse/id355833875?i=1000720168259"></iframe>
