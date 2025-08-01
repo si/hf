@@ -25,9 +25,9 @@ Turn it up and drift away with this uplifting, rhythmic set - perfect for summer
 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/gb/podcast/hf281-with-dj-programma-18-jul-2025/id355833875?i=1000717849166"></iframe>
 
-## Watch on [Youtube](https://youtu.be/z3ysxr4-vDQ?si=KwLdG9FLmtXwIUDg)
+## Watch on [Youtube](https://youtu.be/Pv-blrMrAb4)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/z3ysxr4-vDQ?si=KwLdG9FLmtXwIUDg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="315" style="max-width: 560px; aspect-ratio: 16/9;" src="https://www.youtube.com/embed/Pv-blrMrAb4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Track Listing
 

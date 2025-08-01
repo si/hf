@@ -24,7 +24,7 @@ Fancy joining in? Get behind the scenes with the DJs and share your love for the
 
 ## Watch on [Youtube](https://youtu.be/JOdOiybhZvw)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JOdOiybhZvw?si=fqsKGbOLNY5Uwa0J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="315" style="max-width: 560px; aspect-ratio: 16/9;" src="https://www.youtube.com/embed/JOdOiybhZvw?si=fqsKGbOLNY5Uwa0J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Listen on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/hf275-with-andi-king-13-jun-2025/id355833875?i=1000712703211)
 

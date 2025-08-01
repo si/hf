@@ -19,7 +19,7 @@ duration: "00:36:32"
 
 ## Watch on [Youtube](https://www.youtube.com/watch?v=nXzsmqxOUEw)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nXzsmqxOUEw?si=VuQlR8a4guAjx04O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="315" style="max-width: 560px; aspect-ratio: 16/9;" src="https://www.youtube.com/embed/nXzsmqxOUEw?si=VuQlR8a4guAjx04O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Listen on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/hf256-in-discussion-with-richard-earnshaw/id355833875?i=1000685255334)
 

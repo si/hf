@@ -27,7 +27,7 @@ This one's smooth, soulful, and straight-up essential. Turn it up!
 
 ## Watch on [Youtube](https://youtu.be/HgSGuKfGSoU?si=7yncYqBRwckPD277)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HgSGuKfGSoU?si=7yncYqBRwckPD277" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="315" style="max-width: 560px; aspect-ratio: 16/9;" src="https://www.youtube.com/embed/HgSGuKfGSoU?si=7yncYqBRwckPD277" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Track Listing
 
