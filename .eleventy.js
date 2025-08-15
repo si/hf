@@ -22,10 +22,38 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
 
+  // Add a simple slugify filter for templates
+  eleventyConfig.addFilter('slugifyString', (value) =>
+    slugify(value || '', { lower: true, strict: true, remove: /["']/g })
+  );
+
   eleventyConfig.addFilter('categoryFilter', function(collection, category) {
     if (!category) return collection;
       const filtered = collection.filter(item => item.data.category == category)
       return filtered;
+  });
+  
+  // Authors collection grouped by frontmatter `author`
+  eleventyConfig.addCollection('authors', (collectionApi) => {
+    const posts = collectionApi.getFilteredByTag('posts');
+    const authorToPosts = new Map();
+
+    for (const item of posts) {
+      const authorName = item.data.author;
+      if (!authorName) continue;
+      const normalizedName = String(authorName).trim();
+      const existingPosts = authorToPosts.get(normalizedName) || [];
+      existingPosts.push(item);
+      authorToPosts.set(normalizedName, existingPosts);
+    }
+
+    return Array.from(authorToPosts.entries())
+      .map(([name, items]) => ({
+        name,
+        slug: slugify(name, { lower: true, strict: true, remove: /["']/g }),
+        items,
+      }))
+      .sort((a, b) => a.name.localeCompare(b.name));
   });
   
   /* Markdown Overrides */
@@ -41,7 +69,7 @@ module.exports = function (eleventyConfig) {
       slugify(str, {
         lower: true,
         strict: true,
-        remove: /["]/g,
+        remove: /[""]/g,
       }),
   });
   eleventyConfig.setLibrary("md", markdownLibrary);

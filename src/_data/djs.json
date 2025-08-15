@@ -1,0 +1,73 @@
+{
+  "one-phat-dj": {
+    "name": "One Phat DJ",
+    "blurb": "Founder of House Finesse and host of the original podcast season.",
+    "social": {
+      "instagram": "onephatdj",
+      "facebook": "onephatdj",
+      "mixcloud": "onephatdj",
+      "soundcloud": "onephatdj",
+      "youtube": "onephatdj"
+    }
+  },
+  "andi-king": {
+    "name": "Andi King",
+    "blurb": "Uplifting selections across soulful, disco and feel‑good house.",
+    "social": {}
+  },
+  "disco77": {
+    "name": "Disco77",
+    "blurb": "Selector of disco and funky house.",
+    "social": {}
+  },
+  "lyp": {
+    "name": "LYP",
+    "blurb": "Resident bringing eclectic grooves and soulful cuts.",
+    "social": {}
+  },
+  "sarah-jae": {
+    "name": "Sarah Jae",
+    "blurb": "Vocal‑led, soulful and deep house energy.",
+    "social": {}
+  },
+  "dj-tai": {
+    "name": "DJ Tai",
+    "blurb": "Hip‑hop roots with a love for house.",
+    "social": {}
+  },
+  "dj-programma": {
+    "name": "DJ Programma",
+    "blurb": "Eclectic selector with deep digs.",
+    "social": {}
+  },
+  "jay-dj": {
+    "name": "Jay DJ",
+    "blurb": "Party‑starting house cuts.",
+    "social": {}
+  },
+  "404missinglink": {
+    "name": "404missinglink",
+    "blurb": "House with a techy edge.",
+    "social": {}
+  },
+  "charlie-price": {
+    "name": "Charlie Price",
+    "blurb": "Soulful and vocal‑led club music.",
+    "social": {}
+  },
+  "taylan": {
+    "name": "Taylan",
+    "blurb": "Progressive and melodic vibes.",
+    "social": {}
+  },
+  "black-dynamite": {
+    "name": "Black Dynamite",
+    "blurb": "Funky, soulful and classic house.",
+    "social": {}
+  },
+  "mister-lew": {
+    "name": "Mister Lew",
+    "blurb": "Sunday Club resident selector.",
+    "social": {}
+  }
+}

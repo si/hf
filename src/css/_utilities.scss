@@ -67,3 +67,50 @@ $tdbc-alignments: left, center, right !default;
 .tdbc-mb-none {
   margin-bottom: 0;
 }
+
+.tdbc-background--primary {
+  background-color: tdbc-color("primary");
+}
+
+.tdbc-ink--primary {
+  color: tdbc-color("primary");
+}
+
+.tdbc-ink--gray {
+  color: tdbc-color("gray");
+}
+
+.tdbc-ink--light {
+  color: tdbc-color("light");
+}
+
+.tdbc-background--light {
+  background-color: tdbc-color("light");
+}
+
+.tdbc-row {
+  display: flex;
+  gap: 1rem;
+
+  &--center-content {
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+/* Force DJ page card text to black */
+.dj-page {
+  .tdbc-card {
+    color: #000;
+
+    a:not(.tdbc-button) {
+      color: #000;
+    }
+
+    .tdbc-card__title,
+    .tdbc-card__content p,
+    .tdbc-card__content li {
+      color: #000;
+    }
+  }
+}
