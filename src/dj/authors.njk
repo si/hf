@@ -11,6 +11,7 @@ eleventyComputed:
 
 {% set dj = djs[author.slug] %}
 
+<div class="dj-page">
 {% if dj and dj.blurb %}
 <p class="tdbc-lead tdbc-content-maxlength tdbc-mx-auto">{{ dj.blurb }}</p>
 {% endif %}
@@ -54,4 +55,5 @@ eleventyComputed:
       </li>
     {%- endfor -%}
   </ul>
+</div>
 </div>
