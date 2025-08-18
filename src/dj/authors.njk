@@ -1,0 +1,59 @@
+---
+layout: page
+pagination:
+  data: collections.authors
+  size: 1
+  alias: author
+permalink: "/dj/{{ author.slug }}/"
+eleventyComputed:
+  title: "Mixes by {{ author.name }}"
+---
+
+{% set dj = djs[author.slug] %}
+
+<div class="dj-page">
+{% if dj and dj.blurb %}
+<p class="tdbc-lead tdbc-content-maxlength tdbc-mx-auto">{{ dj.blurb }}</p>
+{% endif %}
+
+{% if dj and dj.social %}
+<div class="tdbc-row tdbc-row--center-content tdbc-mt-md" style="gap: .5rem;">
+  {% if dj.social.instagram %}
+    <a href="https://instagram.com/{{ dj.social.instagram }}/" class="tdbc-button tdbc-button-outlined" target="_blank" rel="noopener noreferrer">Instagram</a>
+  {% endif %}
+  {% if dj.social.facebook %}
+    <a href="https://facebook.com/{{ dj.social.facebook }}/" class="tdbc-button tdbc-button-outlined" target="_blank" rel="noopener noreferrer">Facebook</a>
+  {% endif %}
+  {% if dj.social.mixcloud %}
+    <a href="https://mixcloud.com/{{ dj.social.mixcloud }}/" class="tdbc-button tdbc-button-outlined" target="_blank" rel="noopener noreferrer">Mixcloud</a>
+  {% endif %}
+  {% if dj.social.soundcloud %}
+    <a href="https://soundcloud.com/{{ dj.social.soundcloud }}/" class="tdbc-button tdbc-button-outlined" target="_blank" rel="noopener noreferrer">Soundcloud</a>
+  {% endif %}
+  {% if dj.social.youtube %}
+    <a href="https://youtube.com/{{ dj.social.youtube }}" class="tdbc-button tdbc-button-outlined" target="_blank" rel="noopener noreferrer">YouTube</a>
+  {% endif %}
+</div>
+{% endif %}
+
+<div class="tdbc-section">
+  <h2>Mixes</h2>
+  <ul class="tdbc-column-container">
+    {%- for post in author.items | reverse -%}
+      <li class="tdbc-card">
+        <div class="tdbc-card__content">
+          <p class="tdbc-card__date">
+            <datetime>{{ post.date.toUTCString().substring(5,17) }}</datetime>
+          </p>
+          <h3>
+            <a href="{{ post.url }}" class="tdbc-card__title">{{ post.data.title }}</a>
+          </h3>
+          {% if post.data.coverImage %}
+            <img src="/img/cover-images/{{ post.data.coverImage }}"/>
+          {% endif %}
+        </div>
+      </li>
+    {%- endfor -%}
+  </ul>
+</div>
+</div>

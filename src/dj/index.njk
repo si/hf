@@ -1,0 +1,22 @@
+---
+layout: page
+permalink: "/dj/"
+title: "Our DJs"
+---
+
+<ul class="tdbc-column-container dj-page">
+  {% for author in collections.authors %}
+    <li class="tdbc-card">
+      <div class="tdbc-card__content">
+        <h3>
+          <a href="/dj/{{ author.slug }}/" class="tdbc-card__title">{{ author.name }}</a>
+        </h3>
+        {% set dj = djs[author.slug] %}
+        {% if dj and dj.blurb %}
+          <p>{{ dj.blurb }}</p>
+        {% endif %}
+        <p>{{ author.items.length }} mix{% if author.items.length != 1 %}es{% endif %}</p>
+      </div>
+    </li>
+  {% endfor %}
+</ul>
