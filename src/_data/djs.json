@@ -3,7 +3,7 @@
     "name": "One Phat DJ",
     "blurb": "Founder of House Finesse and host of the original podcast season.",
     "social": {
-      "instagram": "onephatdj",
+      "instagram": "onephatdj_official",
       "facebook": "onephatdj",
       "mixcloud": "onephatdj",
       "soundcloud": "onephatdj",
@@ -13,27 +13,40 @@
   "andi-king": {
     "name": "Andi King",
     "blurb": "Uplifting selections across soulful, disco and feel‑good house.",
-    "social": {}
+    "social": {
+      "instagram": "worldfamousak",
+      "facebook": "worldfamousak"
+    }
   },
   "disco77": {
     "name": "Disco77",
     "blurb": "Selector of disco and funky house.",
-    "social": {}
+    "social": {
+      "instagram": "duscosoixantedixsept"
+    }
   },
   "lyp": {
     "name": "LYP",
     "blurb": "Resident bringing eclectic grooves and soulful cuts.",
-    "social": {}
+    "social": {
+      "instagram": "lyp_official",
+      "facebook": "lypofficialmusic"
+    }
   },
   "sarah-jae": {
     "name": "Sarah Jae",
     "blurb": "Vocal‑led, soulful and deep house energy.",
-    "social": {}
+    "social": {
+      "instagram": "sarah_jae_dj",
+      "facebook": "SJaeJefferson"
+    }
   },
   "dj-tai": {
     "name": "DJ Tai",
     "blurb": "Hip‑hop roots with a love for house.",
-    "social": {}
+    "social": {
+      "instagram": "dj_tai_aka_dj_black_dynamite"
+    }
   },
   "dj-programma": {
     "name": "DJ Programma",
