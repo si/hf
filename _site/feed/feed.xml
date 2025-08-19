@@ -1,0 +1,23 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>House Finesse</title>
+    <subtitle>The longest running house music podcast since 2005</subtitle>
+     <link href="http://localhost:8080/feed/" rel="self"/>
+    <link href="http://localhost:8080"/>
+    <updated>2025-08-16T21:03:33Z</updated>
+    <id>http://localhost:8080</id>
+    <author>
+        <name>One Phat DJ</name>
+    </author>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+</feed>

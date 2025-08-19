@@ -13,7 +13,10 @@
   "andi-king": {
     "name": "Andi King",
     "blurb": "Uplifting selections across soulful, disco and feel‑good house.",
-    "social": {}
+    "social": {
+      "instagram": "worldfamousak",
+      "threads": "worldfamousak"
+    }
   },
   "disco77": {
     "name": "Disco77",
@@ -23,7 +26,10 @@
   "lyp": {
     "name": "LYP",
     "blurb": "Resident bringing eclectic grooves and soulful cuts.",
-    "social": {}
+    "social": {
+      "instagram": "lyp_official",
+      "threads": "lyp_official"
+    }
   },
   "sarah-jae": {
     "name": "Sarah Jae",
