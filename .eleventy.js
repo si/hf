@@ -53,6 +53,11 @@ module.exports = function (eleventyConfig) {
     if (!str) return '';
     return str.replace(/<[^>]*>/g, '').replace(/\s+/g, ' ').trim();
   });
+
+  eleventyConfig.addFilter('webcalUrl', function(url) {
+    if (!url) return '';
+    return url.replace(/^https?:\/\//, '');
+  });
   
   // Authors collection grouped by frontmatter `author`
   eleventyConfig.addCollection('authors', (collectionApi) => {
