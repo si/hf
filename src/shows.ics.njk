@@ -1,0 +1,28 @@
+---
+permalink: /shows.ics
+eleventyExcludeFromCollections: true
+---
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//House Finesse//Calendar Feed//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:House Finesse Shows
+X-WR-CALDESC:House Finesse podcast episodes
+{% for post in collections.posts | reverse %}
+BEGIN:VEVENT
+UID:{{ post.url | slugify }}@housefinesse.com
+DTSTAMP:{{ post.date | dateToRfc3339 }}
+DTSTART:{{ post.date | dateToRfc3339 }}
+DTEND:{{ post.date | dateToRfc3339 }}
+SUMMARY:{{ post.data.title | escapeIcs }}
+DESCRIPTION:{{ post.data.title | escapeIcs }}
+
+{{ post.templateContent | stripHtml | escapeIcs }}
+
+Listen at: {{ meta.url }}{{ post.url }}
+LOCATION:{{ meta.url }}{{ post.url }}
+URL:{{ meta.url }}{{ post.url }}
+END:VEVENT
+{% endfor %}
+END:VCALENDAR

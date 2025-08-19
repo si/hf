@@ -32,6 +32,27 @@ module.exports = function (eleventyConfig) {
       const filtered = collection.filter(item => item.data.category == category)
       return filtered;
   });
+
+  // ICS Calendar filters
+  eleventyConfig.addFilter('dateToRfc3339', function(date) {
+    return new Date(date).toISOString().replace(/[-:]/g, '').split('.')[0] + 'Z';
+  });
+
+  eleventyConfig.addFilter('escapeIcs', function(str) {
+    if (!str) return '';
+    return str
+      .replace(/\\/g, '\\\\')
+      .replace(/;/g, '\\;')
+      .replace(/,/g, '\\,')
+      .replace(/\n/g, '\\n')
+      .replace(/\r/g, '\\r')
+      .replace(/\t/g, '\\t');
+  });
+
+  eleventyConfig.addFilter('stripHtml', function(str) {
+    if (!str) return '';
+    return str.replace(/<[^>]*>/g, '').replace(/\s+/g, ' ').trim();
+  });
   
   // Authors collection grouped by frontmatter `author`
   eleventyConfig.addCollection('authors', (collectionApi) => {
