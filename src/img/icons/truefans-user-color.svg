@@ -1,0 +1,21 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="purpleGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#4A148C;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7B1FA2;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background with rounded corners -->
+  <rect width="32" height="32" rx="6" fill="url(#purpleGradient)"/>
+  
+  <!-- User icon -->
+  <!-- Head halo (light purple ring) -->
+  <circle cx="16" cy="12" r="6" fill="#E1BEE7" stroke="none"/>
+  
+  <!-- Head (black circle) -->
+  <circle cx="16" cy="12" r="4" fill="#1A1A1A" stroke="none"/>
+  
+  <!-- Shoulders (light purple arc) -->
+  <path d="M 8 18 Q 16 26 24 18" stroke="#E1BEE7" stroke-width="3" fill="none" stroke-linecap="round"/>
+</svg>
