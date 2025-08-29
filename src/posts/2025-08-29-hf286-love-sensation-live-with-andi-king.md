@@ -24,13 +24,13 @@ duration: "00:48:13"
 
 Sharing the stage with Seamus Haji (Defected) and Katie Goodman (Glitterbox), Andi brought the energy and set the tone for a night to remember. No track listings just yet – we'll ID them later – but for now, dive in and relive the party vibes.
 
-## Listen on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/hf286-love-sensation-live-with-andi-king/id355833875?i=1000725000000)
+## Listen on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/hf286-love-sensation-live-with-andi-king-29-aug-2025/id355833875?i=1000723979075)
 
-<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/gb/podcast/house-finesse/id355833875?i=1000725000000"></iframe>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/gb/podcast/house-finesse/id355833875?i=1000723979075"></iframe>
 
-## Watch on [YouTube](https://youtu.be/placeholder-video-id)
+## Watch on [YouTube](https://youtu.be/acLbHpJleE4)
 
-<div style="position:relative;width:100%;max-width:660px;aspect-ratio:16/9;margin-bottom:1em;"><iframe src="https://www.youtube.com/embed/placeholder-video-id" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width:100%;height:100%;position:absolute;top:0;left:0;"></iframe></div>
+<div style="position:relative;width:100%;max-width:660px;aspect-ratio:16/9;margin-bottom:1em;"><iframe src="https://www.youtube.com/embed/acLbHpJleE4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width:100%;height:100%;position:absolute;top:0;left:0;"></iframe></div>
 
 ## Track Listing
 
