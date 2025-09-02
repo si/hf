@@ -19,6 +19,8 @@ $tdbc-colors: map-merge(
     "light": #fff,
     "dark": rgba(0 0 0 / 87%),
     "gray": $tdbc-color-gray,
+    "danger": #dc3545,
+    "warning": #ffc107,
   )
 );
 
@@ -32,7 +34,7 @@ $tdbc-ink-colors: "primary", "secondary", "text", "gray", "light", "dark" !defau
 // Add/remove to selectively generate `background` (text color) classes
 $tdbc-background-colors: "primary", "secondary", "background", "gray", "light" !default;
 
-$tdbc-button-variants: "primary", "secondary", "light", "gray" !default;
+$tdbc-button-variants: "primary", "secondary", "light", "gray", "danger" !default;
 $tdbc-link-color: tdbc-color("primary") !default;
 $tdbc-border-radius: 8px !default;
 

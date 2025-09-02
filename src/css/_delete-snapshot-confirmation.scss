@@ -1,0 +1,140 @@
+@use "theme" as *;
+@use "sass:math";
+
+.delete-snapshot-confirmation {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 1rem;
+  
+  &__content {
+    background-color: #fff;
+    border-radius: $tdbc-border-radius;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+    max-width: 500px;
+    width: 100%;
+    overflow: hidden;
+    animation: slideIn 0.3s ease-out;
+  }
+  
+  &__header {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 1.5rem 1.5rem 1rem;
+    border-bottom: 1px solid scale-color(tdbc-color("light"), $lightness: -10%);
+  }
+  
+  &__icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    background-color: scale-color(tdbc-color("warning"), $lightness: 90%);
+    color: tdbc-color("warning");
+    flex-shrink: 0;
+    
+    svg {
+      width: 24px;
+      height: 24px;
+    }
+  }
+  
+  &__title {
+    margin: 0;
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: tdbc-color("dark");
+    line-height: 1.2;
+  }
+  
+  &__body {
+    padding: 1.5rem;
+  }
+  
+  &__message {
+    margin: 0;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: tdbc-color("dark");
+    margin-bottom: 0.5rem;
+  }
+  
+  &__actions {
+    display: flex;
+    gap: 1rem;
+    justify-content: flex-end;
+    padding: 1rem 1.5rem 1.5rem;
+    background-color: scale-color(tdbc-color("light"), $lightness: 50%);
+  }
+  
+  &__cancel {
+    min-width: 100px;
+  }
+  
+  &__confirm {
+    min-width: 140px;
+    background-color: tdbc-color("danger");
+    border-color: tdbc-color("danger");
+    
+    &:hover,
+    &:focus {
+      background-color: scale-color(tdbc-color("danger"), $lightness: -10%);
+      border-color: scale-color(tdbc-color("danger"), $lightness: -10%);
+    }
+    
+    &:focus {
+      box-shadow: 0 0 0 3px scale-color(tdbc-color("danger"), $lightness: -30%);
+    }
+  }
+}
+
+// Animation for modal entrance
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateY(-20px) scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+// Responsive adjustments
+@media (max-width: 600px) {
+  .delete-snapshot-confirmation {
+    padding: 0.5rem;
+    
+    &__content {
+      max-width: none;
+    }
+    
+    &__header {
+      padding: 1rem 1rem 0.75rem;
+    }
+    
+    &__body {
+      padding: 1rem;
+    }
+    
+    &__actions {
+      padding: 0.75rem 1rem 1rem;
+      flex-direction: column;
+      
+      .tdbc-button {
+        width: 100%;
+        justify-content: center;
+      }
+    }
+  }
+}
