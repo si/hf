@@ -17,6 +17,11 @@ eleventyExcludeFromCollections: true
 /power/           https://tips.pinecast.com/jar/housefinesse
 /whatsapp         https://chat.whatsapp.com/F71xFpGiZkl0yHXXZKY3AY
 
+/premium          https://housefinesse.substack.com
+/substack         https://housefinesse.substack.com
+/club             https://housefinesse.substack.com
+
+
 {%- for page in collections.all -%}
   {%- if page.url and page.data.redirectFrom %}
 {{ page.data.redirectFrom }}  {{ page.url | append: "?utm_source=redirect&utm_medium=web&utm_campaign=hf" }}
