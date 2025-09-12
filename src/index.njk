@@ -33,9 +33,9 @@ redirectFrom: "/l386"
   </div>
 </header>
 <main class="tdbc-container">
-  <div class="tdbc-section">
+  <div class="tdbc-section latest-shows">
     <h2>Latest Shows</h2>
-    <ul class="tdbc-column-container">
+    <ul class="tdbc-column-container latest-shows__list">
       {%- set latest_posts = collections.posts | reverse -%}
       {%- for post in latest_posts.slice(0,12) -%}
         <li class="tdbc-card">
