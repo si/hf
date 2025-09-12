@@ -10,7 +10,7 @@ tags:
   - "classics"
   - "unknown-djs"
 enclosure: "https://op3.dev/e/pinecast.com/listen/ff3422de-7723-4aad-836f-c2611f569a45.mp3?source=rss&ext=asset.mp3 85018621 audio/mpeg"
-coverImage: "HF287_20_Years_Vol_2_with_One_Phat_DJ.jpg"
+coverImage: "HF288_with_LYP_x_Unknowns_Live.jpg"
 redirectFrom: "/hf288"
 episode: 288
 season: 3
