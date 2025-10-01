@@ -6,7 +6,8 @@ pagination:
   alias: author
 permalink: "/dj/{{ author.slug }}/"
 eleventyComputed:
-  title: "Mixes by {{ author.name }}"
+  title: "{{ author.name }} mixes"
+  description: dj.blurb
 ---
 
 {% set dj = djs[author.slug] %}
