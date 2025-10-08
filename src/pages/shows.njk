@@ -6,28 +6,57 @@ linkText: "Shows"
 ---
 
 {% set posts = collections.posts | reverse %}
+{% set excludedCategories = ["free downloads", "free-downloads", "favourites", "favorites", "news"] %}
+{% set totalShows = 0 %}
+
+{% for post in posts %}
+  {% set postCategories = post.data.categories or [] %}
+  {% set isExcluded = false %}
+  {% for category in postCategories %}
+    {% if category | lower in excludedCategories %}
+      {% set isExcluded = true %}
+    {% endif %}
+  {% endfor %}
+  {% if not isExcluded %}
+    {% set totalShows = totalShows + 1 %}
+  {% endif %}
+{% endfor %}
+
 {% set currentYear = null %}
+
+<p>Listen back to all {{ totalShows }} shows from our past. If you find any dead links, let us know.</p>
 
 <div class="tdbc-stack tdbc-stack--lg">
 {% for post in posts %}
-  {% set postYear = post.date | formatDate("yyyy") %}
-  {% if postYear != currentYear %}
-    {% if currentYear %}
-      </ul>
-    </section>
+  {% set postCategories = post.data.categories or [] %}
+  {% set isExcluded = false %}
+  {% for category in postCategories %}
+    {% if category | lower in excludedCategories %}
+      {% set isExcluded = true %}
     {% endif %}
-    <section class="tdbc-stack tdbc-stack--md">
-      <h2 class="tdbc-h3 tdbc-mb-none">{{ postYear }}</h2>
-      <ul class="tdbc-stack tdbc-stack--sm tdbc-list--unstyled">
-    {% set currentYear = postYear %}
+  {% endfor %}
+  {% if not isExcluded %}
+    {% set postYear = post.date | formatDate("yyyy") %}
+    {% if postYear != currentYear %}
+      {% if currentYear %}
+        </ul>
+      </section>
+      {% endif %}
+      <section class="tdbc-stack tdbc-stack--md">
+        <h1 id="{{ postYear }}" class="tdbc-h3 tdbc-mb-none">
+          <a class="tdbc-link tdbc-link--inherit" href="#{{ postYear }}">{{ postYear }}</a>
+        </h1>
+        <ul class="tdbc-stack tdbc-stack--sm tdbc-list--unstyled">
+      {% set currentYear = postYear %}
+    {% endif %}
+          <li class="tdbc-flex tdbc-flex--between tdbc-flex--wrap">
+            <a class="tdbc-link" href="{{ post.url }}">{{ post.data.title }}</a>
+            <span class="tdbc-ink--subtle">{{ post.date | formatDate("dd-LL-yyyy") }}</span>
+          </li>
   {% endif %}
-        <li class="tdbc-flex tdbc-flex--between tdbc-flex--wrap">
-          <a class="tdbc-link" href="{{ post.url }}">{{ post.data.title }}</a>
-          <span class="tdbc-ink--subtle">{{ post.date | formatDate("dd-LL-yyyy") }}</span>
-        </li>
 {% endfor %}
 {% if currentYear %}
-      </ul>
-    </section>
+        </ul>
+      </section>
 {% endif %}
 </div>
