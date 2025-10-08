@@ -6,14 +6,14 @@ linkText: "Shows"
 ---
 
 {% set posts = collections.posts | reverse %}
-{% set excludedCategories = ["Free Downloads", "Favourites", "News"] %}
+{% set excludedCategories = ["free downloads", "free-downloads", "favourites", "favorites", "news"] %}
 {% set totalShows = 0 %}
 
 {% for post in posts %}
   {% set postCategories = post.data.categories or [] %}
   {% set isExcluded = false %}
   {% for category in postCategories %}
-    {% if category in excludedCategories %}
+    {% if category | lower in excludedCategories %}
       {% set isExcluded = true %}
     {% endif %}
   {% endfor %}
@@ -31,7 +31,7 @@ linkText: "Shows"
   {% set postCategories = post.data.categories or [] %}
   {% set isExcluded = false %}
   {% for category in postCategories %}
-    {% if category in excludedCategories %}
+    {% if category | lower in excludedCategories %}
       {% set isExcluded = true %}
     {% endif %}
   {% endfor %}
