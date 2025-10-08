@@ -29,8 +29,29 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addFilter('categoryFilter', function(collection, category) {
     if (!category) return collection;
-      const filtered = collection.filter(item => item.data.category == category)
-      return filtered;
+    const filtered = collection.filter(item => item.data.category == category)
+    return filtered;
+  });
+
+  eleventyConfig.addFilter("formatDate", function (dateObj, format = "dd-LL-yyyy") {
+    if (!dateObj) {
+      return "";
+    }
+
+    const date = new Date(dateObj);
+
+    if (Number.isNaN(date.getTime())) {
+      return "";
+    }
+
+    const pad = (value) => String(value).padStart(2, "0");
+    const tokens = {
+      yyyy: String(date.getUTCFullYear()),
+      LL: pad(date.getUTCMonth() + 1),
+      dd: pad(date.getUTCDate()),
+    };
+
+    return format.replace(/yyyy|LL|dd/g, (token) => tokens[token] ?? token);
   });
 
   // ICS Calendar filters
