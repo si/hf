@@ -1,0 +1,33 @@
+---
+title: "Shows"
+layout: "page"
+permalink: "/shows/"
+linkText: "Shows"
+---
+
+{% set posts = collections.posts | reverse %}
+{% set currentYear = null %}
+
+<div class="tdbc-stack tdbc-stack--lg">
+{% for post in posts %}
+  {% set postYear = post.date | formatDate("yyyy") %}
+  {% if postYear != currentYear %}
+    {% if currentYear %}
+      </ul>
+    </section>
+    {% endif %}
+    <section class="tdbc-stack tdbc-stack--md">
+      <h2 class="tdbc-h3 tdbc-mb-none">{{ postYear }}</h2>
+      <ul class="tdbc-stack tdbc-stack--sm tdbc-list--unstyled">
+    {% set currentYear = postYear %}
+  {% endif %}
+        <li class="tdbc-flex tdbc-flex--between tdbc-flex--wrap">
+          <a class="tdbc-link" href="{{ post.url }}">{{ post.data.title }}</a>
+          <span class="tdbc-ink--subtle">{{ post.date | formatDate("dd-LL-yyyy") }}</span>
+        </li>
+{% endfor %}
+{% if currentYear %}
+      </ul>
+    </section>
+{% endif %}
+</div>
