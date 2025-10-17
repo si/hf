@@ -6,12 +6,12 @@ categories:
 author: "One Phat DJ"
 tags:
   - "onephatdj"
-enclosure: "https://op3.dev/e/pinecast.com/listen/12023acd-b6a9-40cd-aff9-62b5762b4b96.mp3?source=rss&ext=asset.mp3 68986929 audio/mpeg"
+enclosure: "https://op3.dev/e/pinecast.com/listen/12023acd-b6a9-40cd-aff9-62b5762b4b96.mp3?source=rss&ext=asset.mp3 69139010 audio/mpeg"
 coverImage: "HF289_with_One_Phat_DJ.jpg"
 redirectFrom: "/hf289"
 episode: 289
 season: 3
-explicit: "yes"
+explicit: "no"
 duration: "01:11:50"
 ---
 
@@ -21,13 +21,13 @@ One Phat DJ has pulled together a selection of soulful grooves, disco cuts and u
 
 If you want even more music, commentary and exclusives, head to our VIP club at [housefinesse.com/club](https://housefinesse.com/club).
 
-## Listen on [Apple Podcasts](https://podcasts.apple.com/us/podcast/hf289-with-one-phat-dj-19-sep-2025/id355833875?i=1000727449706)
+## Listen on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/house-finesse/id355833875)
 
-<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/hf289-with-one-phat-dj-19-sep-2025/id355833875?i=1000727449706"></iframe>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/gb/podcast/house-finesse/id355833875"></iframe>
 
-## Listen on [Youtube](https://youtu.be/cBmOwS0FyZ8?si=C5cVULZgQ_Icp3j9)
+## Watch on [YouTube](https://www.youtube.com/housefinesse)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBmOwS0FyZ8?si=C5cVULZgQ_Icp3j9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="315" style="max-width: 560px; aspect-ratio: 16/9;" src="https://www.youtube.com/embed/housefinesse" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Track Listing
 
