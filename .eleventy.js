@@ -13,7 +13,10 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(syntaxHighlight);
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(eleventySass);
-  eleventyConfig.addPlugin(eleventyGoogleFonts);
+  // Disable Google Fonts fetching when running in offline environments
+  if (!process.env.ELEVENTY_OFFLINE) {
+    eleventyConfig.addPlugin(eleventyGoogleFonts);
+  }
 
   eleventyConfig.addPassthroughCopy("./src/fonts");
   eleventyConfig.addPassthroughCopy("./src/img");
