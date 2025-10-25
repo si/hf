@@ -18,7 +18,7 @@ Andi King steps back behind the decks with a session packed full of soulful disc
 
 If you’re around Colchester this Saturday, catch him spinning at Camulodunum, then head to Circe’s Rooftop in Waterloo next weekend for a London sunset session you won’t forget.
 
-💬 Join the VIP Club at [housefinesse.com/club](https://housefinesse.com/club) for early access, high-quality downloads and a private chat with Andi and the residents.
+{% vipBanner "Get early access, high-quality downloads and a private chat with Andi and the residents." %}
 
 ## Listen on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/hf294-with-andi-king-24-oct-2025/id355833875?i=1000733258339)
 

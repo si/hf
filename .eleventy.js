@@ -9,6 +9,51 @@ const slugify = require("slugify");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
 
+const VIP_BANNER_DEFAULTS = {
+  message:
+    "Join the VIP Club for early access, high-quality downloads and private chats with the residents.",
+  ctaText: "Join the VIP Club",
+  ctaHref: "https://housefinesse.com/club",
+};
+
+const escapeHtml = (value = "") =>
+  String(value)
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;");
+
+const escapeAttribute = (value = "") =>
+  escapeHtml(value).replace(/"/g, "&quot;");
+
+const vipBannerShortcode = (
+  message = VIP_BANNER_DEFAULTS.message,
+  ctaText = VIP_BANNER_DEFAULTS.ctaText,
+  ctaHref = VIP_BANNER_DEFAULTS.ctaHref
+) => {
+  const safeMessage =
+    typeof message === "string" && message.trim().length > 0
+      ? escapeHtml(message)
+      : escapeHtml(VIP_BANNER_DEFAULTS.message);
+
+  const safeCtaText =
+    typeof ctaText === "string" && ctaText.trim().length > 0
+      ? escapeHtml(ctaText)
+      : escapeHtml(VIP_BANNER_DEFAULTS.ctaText);
+
+  const safeCtaHref =
+    typeof ctaHref === "string" && ctaHref.trim().length > 0
+      ? escapeAttribute(ctaHref)
+      : escapeAttribute(VIP_BANNER_DEFAULTS.ctaHref);
+
+  return `<aside class="vip-banner" aria-label="VIP Club promotion">
+  <div class="vip-banner__inner">
+    <p class="vip-banner__eyebrow">VIP Club</p>
+    <p class="vip-banner__message">${safeMessage}</p>
+    <a class="vip-banner__cta tdbc-button" href="${safeCtaHref}">${safeCtaText}</a>
+  </div>
+</aside>`;
+};
+
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(syntaxHighlight);
   eleventyConfig.addPlugin(pluginRss);
@@ -24,6 +69,9 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('./src/_redirects');
 
   eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
+  eleventyConfig.addShortcode("vipBanner", vipBannerShortcode);
+  eleventyConfig.addNunjucksShortcode("vipBanner", vipBannerShortcode);
+  eleventyConfig.addLiquidShortcode("vipBanner", vipBannerShortcode);
 
   // Add a simple slugify filter for templates
   eleventyConfig.addFilter('slugifyString', (value) =>
