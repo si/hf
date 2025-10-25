@@ -20,6 +20,14 @@ If you’re around Colchester this Saturday, catch him spinning at Camulodunum, 
 
 💬 Join the VIP Club at [housefinesse.com/club](https://housefinesse.com/club) for early access, high-quality downloads and a private chat with Andi and the residents.
 
+## Listen on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/hf294-with-andi-king-24-oct-2025/id355833875?i=1000733258339)
+
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/gb/podcast/hf294-with-andi-king-24-oct-2025/id355833875?i=1000733258339"></iframe>
+
+## Listen on [Youtube](https://youtu.be/6UDP50rvAIM?si=mNegyxwcIsjLwPSu)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6UDP50rvAIM?si=mNegyxwcIsjLwPSu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Track Listing
 
 1. Mariah Carey – Workin’ Hard (Terry Hunter Remix)
