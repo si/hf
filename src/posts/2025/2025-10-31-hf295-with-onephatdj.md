@@ -20,11 +20,11 @@ From disco revivals to gospel grooves and funky floorfillers, expect plenty of t
 
 Twenty-five years ago today I sealed my first kiss with my better half at a student Halloween party - me as a Ghostbuster, her as Catwoman. A match made in heaven. Love you, bab! ❤️
 
-Join the House Finesse VIP Club - it's free to sign up, and you can chat directly with Si, Andi, LYP and the rest of the residents about your favourite Ron Carroll moments and mixes.
-
 ## Listen on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/hf295-with-one-phat-dj-31-oct-2025/id355833875?i=1000734358564)
 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/gb/podcast/hf295-with-one-phat-dj-31-oct-2025/id355833875?i=1000734358564"></iframe>
+
+{% vipBanner "Get high-quality downloads the night before release plus chat to One Phat DJ directly." %}
 
 ## Enjoy on [YouTube](https://youtu.be/nldvbIRUVDg?si=b9OGvU1NXstFTWcW)
 
