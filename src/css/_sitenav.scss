@@ -22,16 +22,35 @@
   }
 
   &__container {
-    justify-content: space-between;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
     width: 100%;
     max-width: 120ch;
     margin: 0 auto;
     padding: 1rem;
+    gap: 0.5rem;
+    text-align: center;
   }
 
   &__navlist {
+    justify-content: center;
+
     li + li {
       margin-left: 1rem;
+    }
+  }
+
+  @media (min-width: 60ch) {
+    &__container {
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: center;
+      text-align: initial;
+    }
+
+    &__navlist {
+      justify-content: flex-start;
     }
   }
 
