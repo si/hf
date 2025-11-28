@@ -129,3 +129,28 @@ hr {
   border: 3px solid #FFF;
   max-width: 100px;
 }
+
+.newsletter-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+  align-items: start;
+
+  @media (min-width: 768px) {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+.newsletter-heading {
+  display: grid;
+  gap: 1rem;
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+.newsletter-embed {
+  iframe {
+    width: 100%;
+    border: none;
+  }
+}
