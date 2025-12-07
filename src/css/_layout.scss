@@ -112,6 +112,30 @@ ul.tdbc-column-container {
   }
 }
 
+.footer__meta {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  text-align: center;
+  width: 100%;
+
+  > * {
+    width: 100%;
+  }
+
+  @media (min-width: 80ch) {
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    text-align: inherit;
+
+    > * {
+      width: auto;
+    }
+  }
+}
+
 hr {
   margin-top: 4rem;
   margin-bottom: 4rem;
