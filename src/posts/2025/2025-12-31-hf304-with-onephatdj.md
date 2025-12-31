@@ -7,7 +7,7 @@ author: "One Phat DJ"
 tags:
   - "onephatdj"
 enclosure: "https://op3.dev/e/pinecast.com/listen/0c35afec-2d71-4766-a62f-d8891f2b538c.mp3?source=rss&ext=asset.mp3 80950787 audio/mpeg"
-coverImage: "HF304_with_One_Phat_DJ.JPEG"
+coverImage: "HF304_with_One_Phat_DJ.jpg.JPEG"
 redirectFrom: "hf304"
 episode: 1
 season: 26
