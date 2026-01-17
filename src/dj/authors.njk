@@ -39,8 +39,9 @@ eleventyComputed:
 
 <div class="tdbc-section">
   <h2>Mixes</h2>
-  <ul class="tdbc-column-container">
-    {%- for post in author.items | reverse -%}
+  {% set recentSnapshots = author.items | reverse | slice(0, 5) %}
+  <ul class="tdbc-column-container snapshot-grid">
+    {%- for post in recentSnapshots -%}
       <li class="tdbc-card">
         <div class="tdbc-card__content">
           <p class="tdbc-card__date">
