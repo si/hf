@@ -28,10 +28,11 @@
     <meta name="twitter:description" content="{{ pageDescription }}"/>
     <meta name="og:title" content="{{ pageTitle }}"/>
     <meta name="og:description" content="{{ pageDescription }}"/>
-    {% if coverImage %}
-      <meta property="og:image" content="{{ "/img/cover-images/" + coverImage }}"/>
+    {% set ogImage = coverImage or page.data.coverImage %}
+    {% if ogImage %}
+      <meta property="og:image" content="{{ meta.url + "/img/cover-images/" + ogImage }}"/>
     {% else %}
-      <meta property="og:image" content="{{ "/img/design/HF24-opengraph.png" }}"/>
+      <meta property="og:image" content="{{ meta.url + "/img/design/HF24-opengraph.png" }}"/>
     {% endif %}
     <link rel="alternate" type="application/rss+xml" title="RSS Feed for {{ meta.siteName }}" href="/feed/"/>
     <link href="https://fonts.googleapis.com/css2?family=Afacad:ital,wght@0,400;0,700;1,400;1,700&family=Kalnia:wght@700&display=swap" rel="stylesheet"/>
