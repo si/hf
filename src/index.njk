@@ -10,6 +10,29 @@ redirectFrom: "/l386"
     width: 12vmax;
     height: 12vmax;
     margin: 0 auto 2rem;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #000000;
+    border-radius: 50%;
+    padding: 1.5vmax;
+    transition: transform 2s ease-out;
+  }
+  .logo:hover {
+    animation: spin calc(60s / 33) linear infinite;
+  }
+  @keyframes spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  .logo img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
   }
   .logo svg {
     width: 100%;
