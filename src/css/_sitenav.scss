@@ -2,13 +2,13 @@
 @use "theme" as *;
 
 #tdbc-siteid {
+  font-family: 'Kalnia', serif;
   font-size: $tdbc-h3-font-size;
-  text-transform: uppercase;
   text-decoration: none;  
   background-image: url(/img/design/finesse-f.svg);
   background-repeat: no-repeat;
   background-position: left middle;
-  padding-left: 75px;
+  padding-left: 85px;
 }
 
 .tdbc-sitenav {
