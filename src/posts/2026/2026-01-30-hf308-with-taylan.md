@@ -8,7 +8,7 @@ tags:
   - "taylan"
   - "shows"
 enclosure: "https://op3.dev/e/pinecast.com/listen/3243a13c-fb05-49ae-a8ce-c5f2f8d3363e.mp3?source=rss&ext=asset.mp3 59275904 audio/mpeg"
-coverImage: "HF307_with_Taylan.jpg"
+coverImage: "HF308_with_Taylan.jpg"
 redirectFrom: "/hf308"
 episode: 5
 season: 26
