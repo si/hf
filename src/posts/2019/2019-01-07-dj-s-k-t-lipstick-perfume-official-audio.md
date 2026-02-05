@@ -1,9 +1,9 @@
 ---
 title: "DJ S.K.T – Lipstick & Perfume"
 date: "2019-01-07"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "dj-skt"
   - "ifttt"
   - "youtube"

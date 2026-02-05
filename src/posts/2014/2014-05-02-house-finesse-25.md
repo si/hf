@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 25"
 date: "2014-05-02"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "show"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/p/www.sowebmediauk.co.uk/dj-shows/HouseFinesse/House_Finesse_25_One_Phat_DJ.mp3 0 audio/mpeg "
 coverImage: "House-Finesse-25-Wide1.jpg"

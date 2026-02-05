@@ -1,9 +1,9 @@
 ---
 title: "Johnnie Taylor - What About My Love (Pete Le Freq 2021 Refreq)"
 date: "2021-08-31"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "ifttt"
   - "johnnie-taylor"
   - "pete-le-freq"

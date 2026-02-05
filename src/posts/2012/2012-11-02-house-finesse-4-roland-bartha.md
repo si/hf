@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 4 with Roland Bartha"
 date: "2012-11-02"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "guest-mix"
   - "mjuzieek-digital"
   - "roland-bartha"

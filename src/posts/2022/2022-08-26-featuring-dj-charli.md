@@ -1,9 +1,9 @@
 ---
 title: "Featuring… DJ Charli"
 date: "2022-08-26"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "dj-charli"
   - "guest-mix"
 enclosure: "https://pinecast.com/listen/fd561456-70ff-4feb-8aac-8405bd734b9b.mp3 165102791 audio/mpeg "

@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 27 with VMS"
 date: "2014-06-06"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "dj-queen-victoria"
   - "guest-mix"
   - "show"
@@ -37,15 +37,15 @@ Be sure to connect with VMS on [Facebook](https://www.facebook.com/DJQueenVictor
 
 ### Hour 1 with One Phat DJ
 
-1.  Michael Jackson & Justin Timberlake – Love Never Felt So Good (Ivanbeat Soulful Mix)
-2. September – Are You Free Tonight (Ghosts Of Venice Remix)
-3. Zo! ft Erro & Phonte – We Are On The Move (Joey Negro Revival Mix)
-4. Joey Negro vs Horse Meat Disco – Candidate For Love (Joey Negro Disco Blend)
-5. Tracy Hamlin – Got To Be Strong (Kenny Carpenter Hard Muscle Unreleased Vocal Mix)
-6. Rightside, Troy Denari – Come Back To Me (Mark Di Meo Vocal Mix / Dave Doyle Club Mix)
-7. Richard Earnshaw ft Oby – Never Gonna Let You Down (Husky's Bobbin' Head Vocal Mix)
-8. Charles Feelgood, Felipe Avelar – Bebop (Original Mix)
-9. ATFC – Take Your Place (Original Mix)
+1.   Michael Jackson & Justin Timberlake – Love Never Felt So Good (Ivanbeat Soulful Mix)
+2.  September – Are You Free Tonight (Ghosts Of Venice Remix)
+3.  Zo! ft Erro & Phonte – We Are On The Move (Joey Negro Revival Mix)
+4.  Joey Negro vs Horse Meat Disco – Candidate For Love (Joey Negro Disco Blend)
+5.  Tracy Hamlin – Got To Be Strong (Kenny Carpenter Hard Muscle Unreleased Vocal Mix)
+6.  Rightside, Troy Denari – Come Back To Me (Mark Di Meo Vocal Mix / Dave Doyle Club Mix)
+7.  Richard Earnshaw ft Oby – Never Gonna Let You Down (Husky's Bobbin' Head Vocal Mix)
+8.  Charles Feelgood, Felipe Avelar – Bebop (Original Mix)
+9.  ATFC – Take Your Place (Original Mix)
 10. Jay Vegas – Let's Boogie (Original Mix)
 11. David Deep – Inside (Extended Mix)
 

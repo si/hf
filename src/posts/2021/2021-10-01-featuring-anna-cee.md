@@ -1,9 +1,9 @@
 ---
 title: "#FinesseFriday – Featuring… Anna Cee"
 date: "2021-10-01"
-categories: 
+categories:
   - "finessefriday"
-tags: 
+tags:
   - "anna-cee"
   - "guest"
   - "guest-mix"

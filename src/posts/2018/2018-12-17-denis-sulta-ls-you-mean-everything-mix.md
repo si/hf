@@ -1,9 +1,9 @@
 ---
 title: "Denis Sulta – L&S (You Mean Everything Mix)"
 date: "2018-12-17"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "denis-sulta"
   - "ifttt"
   - "you-mean-everything"

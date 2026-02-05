@@ -1,9 +1,9 @@
 ---
 title: "#FinesseFriday - Funky House Finesse 44"
 date: "2021-12-03"
-categories: 
+categories:
   - "finessefriday"
-tags: 
+tags:
   - "christmas"
   - "funky-house-finesse"
   - "one-phat-dj"

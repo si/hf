@@ -1,7 +1,7 @@
 ---
 title: "Feb '08 - Crescendo"
 date: "2008-02-29"
-categories: 
+categories:
   - "onephatdj"
 enclosure: "https://onephatdj.com/mp3/podcast/41_feb08_crescendo.mp3 108008643 audio/mpeg "
 coverImage: "2300317176_b8ba5e3d5f.jpg"
@@ -17,83 +17,82 @@ It's time to pick up the pace for the second part of the One Phat DJ Podcast for
 ### Track Listing
 
 1. #### Mary J. Blige - _Just Fine (Moto Blanco Club Vox Mix)_
-    
-    - [Geffen](https://www.geffen.com/)
-    - Released: 28th December 2007
-    - [Buy from iTunes (£0.79)](https://www.simonjobling.com/buy/justfine)
-    - 00:00:00:00
+   - [Geffen](https://www.geffen.com/)
+   - Released: 28th December 2007
+   - [Buy from iTunes (£0.79)](https://www.simonjobling.com/buy/justfine)
+   - 00:00:00:00
+
 2. #### Nowak ft D'Layna - _Stand Up (Funkness Extended Mix)_
-    
-    - [Born To Dance](https://www.borntodance.com/)
-    - Released: 31st October 2007
-    - [Buy from Juno Download (£0.99)](https://www.simonjobling.com/buy/standup)
-    - 00:06:29:00
+   - [Born To Dance](https://www.borntodance.com/)
+   - Released: 31st October 2007
+   - [Buy from Juno Download (£0.99)](https://www.simonjobling.com/buy/standup)
+   - 00:06:29:00
+
 3. #### Dave Armstrong & Redroche ft H-Boogie - _Love Has Gone (Wez Clarke Remix)_
-    
-    - [Hed Kandi](https://www.hedkandi.com/)
-    - Released: 7th January 2008
-    - [Buy from DJ Download (£1.10)](https://www.simonjobling.com/buy/lovehasgone)
-    - 00:10:30:00
+   - [Hed Kandi](https://www.hedkandi.com/)
+   - Released: 7th January 2008
+   - [Buy from DJ Download (£1.10)](https://www.simonjobling.com/buy/lovehasgone)
+   - 00:10:30:00
+
 4. #### Deepswing ft Brijai Harvey - _Listen To My Power (Rob King & Steve Baca's Insomnious Mix)_
-    
-    - Generate
-    - Released: 17th January 2008
-    - [Buy from Traxsource ($1.99)](https://www.simonjobling.com/buy/listentomypower)
-    - 00:15:30:00
+   - Generate
+   - Released: 17th January 2008
+   - [Buy from Traxsource ($1.99)](https://www.simonjobling.com/buy/listentomypower)
+   - 00:15:30:00
+
 5. #### Addictive ft T2 - _Gonna Be Mine (Simmons & Christopher Remix)_
-    
-    - [Gusto](https://www.gusto.com/)
-    - Released: 15th February 2008
-    - [Buy MP3 from Play (£0.67)](https://www.simonjobling.com/buy/gonnabemine)
-    - 00:22:22:40
+   - [Gusto](https://www.gusto.com/)
+   - Released: 15th February 2008
+   - [Buy MP3 from Play (£0.67)](https://www.simonjobling.com/buy/gonnabemine)
+   - 00:22:22:40
+
 6. #### H Two O ft Platnum - _Whats It Gonna Be (Jason Herds MoFunk Remix)_
-    
-    - Hard2Beat Records
-    - Released: 11th February 2008
-    - [Buy from DJ Download (£1.10)](https://www.simonjobling.com/buy/whatsitgonnabe)
-    - 00:27:22:00
+   - Hard2Beat Records
+   - Released: 11th February 2008
+   - [Buy from DJ Download (£1.10)](https://www.simonjobling.com/buy/whatsitgonnabe)
+   - 00:27:22:00
+
 7. #### Janet Jackson - _Feedback (Moto Blanco Full Vocal Mix)_
-    
-    - [Island Records](https://www.islandrecords.com/)
-    - Released: 26th February 2008
-    - [Buy from iTunes (£0.79)](https://www.simonjobling.com/buy/janetfeedback)
-    - 00:32:37:50
+   - [Island Records](https://www.islandrecords.com/)
+   - Released: 26th February 2008
+   - [Buy from iTunes (£0.79)](https://www.simonjobling.com/buy/janetfeedback)
+   - 00:32:37:50
+
 8. #### 7th Heaven ft Kathrine Ellis - _Aint Nothin' Goin' On But The Rent (7th Heaven Club Mix)_
-    
-    - Unsigned
-    - Released: **Promo**
-    - 00:39:37:50
+   - Unsigned
+   - Released: **Promo**
+   - 00:39:37:50
+
 9. #### Aaron Perez - _Sinister Subconscious (Hott 22 Remix)_
-    
-    - Gossip All-Stars
-    - Released: 12th February 2008
-    - [Buy from Traxsource ($1.99](https://www.simonjobling.com/buy/sinistersubconscious)
-    - 00:44:30:00
+   - Gossip All-Stars
+   - Released: 12th February 2008
+   - [Buy from Traxsource ($1.99](https://www.simonjobling.com/buy/sinistersubconscious)
+   - 00:44:30:00
+
 10. #### DJ DLG - _Paramount (Dave Armstrong Remix)_
-    
     - [Huge Records](https://www.hugerecords.com/)
     - Released: **Promo**
     - 00:49:30:00
+
 11. #### RJ Productions - _526 (Stockholm Syndrome Remix)_
-    
     - [Dice Music](https://www.myspace.com/dicemusicgb)
     - Released: 18th February 2008
     - [Buy from iTunes (£0.79)](https://www.simonjobling.com/buy/rjproductions)
     - 00:54:15:00
+
 12. #### Radioplastic - _Modern Age (Napt Remix)_
-    
     - [Exceptional Records](https://www.exceptionalrecords.co.uk/)
     - Released: 4th February 2008
     - [Buy from iTunes (£0.79)](https://www.simonjobling.com/buy/radioplastic)
     - 00:57:48:50
+
 13. #### Dave Lee - _Latronica (Dave Spoon Club Mix)_
-    
     - [Z Records](https://www.zrecords.ltd.uk/)
     - Released: Promo
     - [Buy from Traxsource ($1.99)](https://www.simonjobling.com/buy/latronica)
     - 01:03:33:50
+
 14. #### Dizzee Rascal - _Flex (Dave Spoon Remix)_
-    
     - [XL Recordings](https://www.xlrecordings.com/)
     - Released: 29th January 2008
     - [Buy from DJ Download (£1.10)](https://www.simonjobling.com/buy/flex)

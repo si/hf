@@ -1,9 +1,9 @@
 ---
 title: "The Face vs Mark Brown & Adam Shaw - Needin' U (Dimitri From Paris Remix)"
 date: "2018-12-27"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "adam-shaw"
   - "dimitri-from-paris"
   - "ifttt"

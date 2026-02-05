@@ -1,7 +1,7 @@
 ---
 title: "House Finesse 122 - Platinum Party with One Phat DJ"
 date: "2022-05-27"
-categories: 
+categories:
   - "shows"
 enclosure: "https://pinecast.com/listen/a416c66c-6825-4254-b690-f1d48196601e.mp3 287605308 audio/mpeg "
 coverImage: "HF122-Platinum-Party-with-One-Phat-DJ.jpg"

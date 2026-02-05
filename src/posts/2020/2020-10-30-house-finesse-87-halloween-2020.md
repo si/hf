@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 87 - Halloween 2020"
 date: "2020-10-30"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "alan-dixon"
   - "amy-douglas"
   - "andreya-triana"

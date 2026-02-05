@@ -1,7 +1,7 @@
 ---
 title: "May '08 - Crescendo"
 date: "2008-05-22"
-categories: 
+categories:
   - "onephatdj"
 enclosure: "https://onephatdj.com/mp3/podcast/47_may08_crescendo.mp3 100998873 audio/mpeg "
 coverImage: "2512763983_e3cdc97409.jpg"
@@ -21,71 +21,70 @@ There are some fantastic uplifting tracks in this mix, covering quite a broad sp
 ### Track Listing
 
 1. #### Toni Granello ft Linda Lee Hopkins - _Lift Him Up (MuthaFunkaz 12" Remix)_
-    
-    - Label: MAP Dance
-    - Released: May 8th 2008
-    - Time: 00:00:00
+   - Label: MAP Dance
+   - Released: May 8th 2008
+   - Time: 00:00:00
+
 2. #### Warren Clarke - _Bitch Is Back (Original)_
-    
-    - Label: [Hed Kandi](https://www.hedkandi.com/)
-    - Released: March 27th 2008
-    - [Buy from DJ Download](https://www.djdownload.com/mp3-detail/Warren+Clarke/Bitch+Is+Back/Hed+Kandi+Records/372496)
-    - Time: 00:07:15
+   - Label: [Hed Kandi](https://www.hedkandi.com/)
+   - Released: March 27th 2008
+   - [Buy from DJ Download](https://www.djdownload.com/mp3-detail/Warren+Clarke/Bitch+Is+Back/Hed+Kandi+Records/372496)
+   - Time: 00:07:15
+
 3. #### Soul Power ft Joanne Hindley - _This Love (Soul Power Classic Mix)_
-    
-    - Label: Groove Baby Digital
-    - Released: April 21st 2008
-    - Time: 00:12:07
+   - Label: Groove Baby Digital
+   - Released: April 21st 2008
+   - Time: 00:12:07
+
 4. #### Layers Of Sound & The Demetrios Project - _Feel Alive (Original)_
-    
-    - Label: Layers Of Sound Recordings
-    - Released: April 14th 2008
-    - [Buy from DJ Download](https://www.djdownload.com/mp3-detail/Layers+Of+Sound++The+Demetrios+Project/Feel+Alive/Layers+Of+Sound+Recordings/367756)
-    - Time: 00:17:22
+   - Label: Layers Of Sound Recordings
+   - Released: April 14th 2008
+   - [Buy from DJ Download](https://www.djdownload.com/mp3-detail/Layers+Of+Sound++The+Demetrios+Project/Feel+Alive/Layers+Of+Sound+Recordings/367756)
+   - Time: 00:17:22
+
 5. #### Etherfox - _More Man Than Man (Bassmonkeys Remix)_
-    
-    - Released: TBC
-    - **Exclusive!**
-    - Time: 00:21:37
+   - Released: TBC
+   - **Exclusive!**
+   - Time: 00:21:37
+
 6. #### The Shapeshifters - _Treadstone_
-    
-    - Label: [Defected](https://www.defected.com/)
-    - Released: TBC
-    - Time: 00:26:37
+   - Label: [Defected](https://www.defected.com/)
+   - Released: TBC
+   - Time: 00:26:37
+
 7. #### Sean Biddle ft Krukid - _Direct Connection (Alex Romano Remix)_
-    
-    - Label: Bid Muzik
-    - Released: TBC
-    - Time: 00:31:45
+   - Label: Bid Muzik
+   - Released: TBC
+   - Time: 00:31:45
+
 8. #### Shena - _Thinking About Your Love (Original Mix)_
-    
-    - Label: Tempo Groove
-    - Released: May 12th 2008
-    - [Buy from Traxsource](https://www.traxsource.com/index.php?act=show&fc=tpage&cr=titles&cv=18568)
-    - Time: 00:37:00
+   - Label: Tempo Groove
+   - Released: May 12th 2008
+   - [Buy from Traxsource](https://www.traxsource.com/index.php?act=show&fc=tpage&cr=titles&cv=18568)
+   - Time: 00:37:00
+
 9. #### Lucien Foort ft Nicole Tyler - _Let's Talk (Original)_
-    
-    - Label: [Dirty Soul](https://www.dirty-soul.com)
-    - Released: April 10th 2008
-    - [Buy from DJ Download](https://www.djdownload.com/mp3-detail/Lucien+Foort+ft+Nicole+Tyler/Lets+Talk/Dirty+Soul/373512)
-    - Time: 00:43:00
+   - Label: [Dirty Soul](https://www.dirty-soul.com)
+   - Released: April 10th 2008
+   - [Buy from DJ Download](https://www.djdownload.com/mp3-detail/Lucien+Foort+ft+Nicole+Tyler/Lets+Talk/Dirty+Soul/373512)
+   - Time: 00:43:00
+
 10. #### Altus - _Dreamin Is Reality (Original Mix)_
-    
     - Label: Hi Life Records
     - Released: April 25th 2008
     - [Buy from DJ Download](https://www.djdownload.com/mp3-detail/Altus/Dreamin+Is+Reality/Hi+Life+Records/377225)
     - Time: 00:48:15
+
 11. #### G & G ft Gary Wright - _My My My (Club Mix)_
-    
     - Label: JKP
     - Released: March 13th 2008
     - Time: 00:53:07
+
 12. #### Micha Moor - _Space (Klaas Club Remix)_
-    
     - Label: KNM Special Marketing
     - Released: April 4th 2008
     - Time: 00:58:08
+
 13. #### A. Lee ft Amanda Wilson - _Gotta Let Go (Chris Ortega Mix)_
-    
     - Released: TBC
     - Time: 01:04:20

@@ -1,9 +1,9 @@
 ---
 title: "Eugene Record - Fan The Fire (Dj ''S'' Remix)"
 date: "2018-11-28"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "ifttt"
   - "youtube"
 enclosure: ""

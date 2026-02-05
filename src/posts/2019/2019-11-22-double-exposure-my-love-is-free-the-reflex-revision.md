@@ -1,9 +1,9 @@
 ---
 title: "Double Exposure – My Love Is Free (The Reflex Revision)"
 date: "2019-11-22"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "double-exposure"
   - "soundcloud"
   - "the-reflex"

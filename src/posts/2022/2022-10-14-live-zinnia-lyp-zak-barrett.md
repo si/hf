@@ -1,9 +1,9 @@
 ---
 title: "Live at Zinnia with LYP & Zak Barrett"
 date: "2022-10-14"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "live"
   - "lyp"
   - "zak-barrett"

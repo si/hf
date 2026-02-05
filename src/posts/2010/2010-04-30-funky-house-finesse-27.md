@@ -1,7 +1,7 @@
 ---
 title: "Funky House Finesse 27"
 date: "2010-04-30"
-categories: 
+categories:
   - "funkyhousefinesse"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/www.sowebmediauk.co.uk/dj-shows/OnePhatDj2/Funky_House_Finesse_27_30th_April_2010_128.mp3 115389256 audio/mpeg "
 coverImage: "Funky_House_Finesse_27_30th_April_2010.jpg"
@@ -20,7 +20,7 @@ coverImage: "Funky_House_Finesse_27_30th_April_2010.jpg"
 
 ### Heart & Soul
 
-1. [Jay-J ft Latrice Barnett - Keep On Rising (Yogi's Random Soul Bump Mix) \[Defected\]](https://www.defected.com/store/details/Jay-J+Featuring+Latrice+Barnett/Keep+On+Rising+(2010+Mixes)/1628/d)
+1. [Jay-J ft Latrice Barnett - Keep On Rising (Yogi's Random Soul Bump Mix) \[Defected\]](<https://www.defected.com/store/details/Jay-J+Featuring+Latrice+Barnett/Keep+On+Rising+(2010+Mixes)/1628/d>)
 2. [Taan Newjam - Disco Guy (Original Mix) \[Urbasian Music\]](https://www.traxsource.com/index.php?act=show&fc=tpage&cr=titles&cv=52928)
 3. [Nicc Johnson ft LT Brown - Love For Now (Jonny Montana & Craig Stewart Remix) \[DCS Trax\]](https://www.traxsource.com/index.php?act=show&fc=tpage&cr=titles&cv=49333)
 4. [James Rouse - Work It Out (Muthafunkaz Remix) \[Code Red\]](https://onephatdj.trackitdown.net/genre/house/track/2022750.html)

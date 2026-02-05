@@ -15,9 +15,9 @@ explicit: "yes"
 duration: "01:11:50"
 ---
 
-With the Autumn equinox fast approaching, the long summer nights are giving way to cooler evenings – but that doesn’t mean the vibe has to fade. 
+With the Autumn equinox fast approaching, the long summer nights are giving way to cooler evenings – but that doesn’t mean the vibe has to fade.
 
-One Phat DJ has pulled together a selection of soulful grooves, disco cuts and uplifting house to keep the warmth alive a little longer. 
+One Phat DJ has pulled together a selection of soulful grooves, disco cuts and uplifting house to keep the warmth alive a little longer.
 
 If you want even more music, commentary and exclusives, head to our VIP club at [housefinesse.com/club](https://housefinesse.com/club).
 
@@ -31,18 +31,18 @@ If you want even more music, commentary and exclusives, head to our VIP club at 
 
 ## Track Listing
 
-1. URH – Got To Feel (Original Mix)  
-2. The Sunburst Band, Dave Lee ZR – The Secret Life Of Us (Warm Summer Reprise)  
-3. Abyss Deep Sound Lab, Lowkeytheory, DP Thompson – Galaxy (Dr Packer Remix)  
-4. Angela Johnson, DJ Meme Orchestra, Micky More &amp; Andy Tee – Is It Love You're After (Danny Krivit 12" Edit Cut)  
-5. Dave Lee ZR, Raw Essence – Down Down Down (Extended Mix)  
-6. Sophie Lloyd, Fleur De Mur – Always Be (Extended Mix)  
-7. Rona Ray, J.Soul – You Got It feat. Rona Ray (Richard Earnshaw Vocal Mix)  
-8. Antoine Clamaran, Lulu Hughes – Feel It (Jay Vegas Classic House Extended Mix)  
-9. Danny Krivit, Imaani, Revival House Project – Best Of My Love (Danny Krivit Edit)  
-10. Mark Picchiotti, Candice Chavez – I Feel For You (Extended Funky Gospel)  
-11. David Penn, Thando, OFFAIAH, Eric B Turner – Always (Extended Mix)  
-12. Close Counters – I WANT YOU (Extended Mix)  
-13. Disco Dude – Get Up (StoneBridge Extended 2025 Mix)  
-14. Jordan Peak – Front 2 Back (Dennis Quin Extended Remix)  
-15. Les Bisous – Same Man (Extended Mix)  
+1. URH – Got To Feel (Original Mix)
+2. The Sunburst Band, Dave Lee ZR – The Secret Life Of Us (Warm Summer Reprise)
+3. Abyss Deep Sound Lab, Lowkeytheory, DP Thompson – Galaxy (Dr Packer Remix)
+4. Angela Johnson, DJ Meme Orchestra, Micky More &amp; Andy Tee – Is It Love You're After (Danny Krivit 12" Edit Cut)
+5. Dave Lee ZR, Raw Essence – Down Down Down (Extended Mix)
+6. Sophie Lloyd, Fleur De Mur – Always Be (Extended Mix)
+7. Rona Ray, J.Soul – You Got It feat. Rona Ray (Richard Earnshaw Vocal Mix)
+8. Antoine Clamaran, Lulu Hughes – Feel It (Jay Vegas Classic House Extended Mix)
+9. Danny Krivit, Imaani, Revival House Project – Best Of My Love (Danny Krivit Edit)
+10. Mark Picchiotti, Candice Chavez – I Feel For You (Extended Funky Gospel)
+11. David Penn, Thando, OFFAIAH, Eric B Turner – Always (Extended Mix)
+12. Close Counters – I WANT YOU (Extended Mix)
+13. Disco Dude – Get Up (StoneBridge Extended 2025 Mix)
+14. Jordan Peak – Front 2 Back (Dennis Quin Extended Remix)
+15. Les Bisous – Same Man (Extended Mix)

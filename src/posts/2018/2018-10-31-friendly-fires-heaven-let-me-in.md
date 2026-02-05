@@ -1,9 +1,9 @@
 ---
 title: "Friendly Fires - Heaven Let Me In"
 date: "2018-10-31"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "friendly-fires"
   - "ifttt"
   - "youtube"

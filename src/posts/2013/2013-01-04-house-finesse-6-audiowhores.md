@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 6 with Audiowhores"
 date: "2013-01-04"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "audiowhores"
   - "guest-mix"
   - "souljackerz"
@@ -61,5 +61,5 @@ But before all that, here is the first hour with your regular hosts, Souljackerz
 15. DJ Le Roi - 21st Try
 
 > 2012 has been an amazing year for us and so we'd like to take this opportunity to thank you all for the support. Here's to 2013, wishing you all a very Merry Christmas & a Happy New Year!! Cheers!
-> 
+>
 > Adam & Graham

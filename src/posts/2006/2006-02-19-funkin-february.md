@@ -1,7 +1,7 @@
 ---
 title: "Funkin' February"
 date: "2006-02-19"
-categories: 
+categories:
   - "onephatdj"
 enclosure: "https://onephatdj.com/mp3/podcast/10_funkin_feburary_feb06_192kbps.mp3 "
 ---

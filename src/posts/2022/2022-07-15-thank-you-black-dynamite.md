@@ -1,9 +1,9 @@
 ---
 title: "Thank You with Black Dynamite"
 date: "2022-07-15"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "black-dynamite"
 enclosure: "https://pinecast.com/listen/6c2cdc32-91b5-4f49-99bf-7a3990416e27.mp3 179262505 audio/mpeg "
 coverImage: "HF129-Thank-You-Black-Dynamite.jpg"

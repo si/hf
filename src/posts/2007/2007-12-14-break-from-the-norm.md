@@ -1,7 +1,7 @@
 ---
 title: "Break From The Norm"
 date: "2007-12-14"
-categories: 
+categories:
   - "onephatdj"
 enclosure: "https://www.onephatdj.com/mp3/podcast/35_break_from_the_norm_dec07.mp3 "
 coverImage: "2110880440_18f8ee50e2.jpg"
@@ -12,61 +12,60 @@ As mentioned last week in the release of [Winter Warmup](https://www.simonjoblin
 ### Track Listing
 
 1. #### Featurecast - _Turn It Out_
-    
-    - [Super Hi-Fi](#)
-    - Released: September 1st 2007
-    - [Buy from Traxsource](https://www.traxsource.com/index.php?act=show&fc=tpage&cr=titles&cv=11295)
-    - 00:00:00:00
+   - [Super Hi-Fi](#)
+   - Released: September 1st 2007
+   - [Buy from Traxsource](https://www.traxsource.com/index.php?act=show&fc=tpage&cr=titles&cv=11295)
+   - 00:00:00:00
+
 2. #### The Jinks - _Jinks Theme_
-    
-    - [Jinks Inc](#)
-    - Released: October 15th 2007
-    - [Buy from Traxsource](https://www.traxsource.com/index.php?act=show&fc=tpage&cr=titles&cv=11655)
-    - 00:04:51:63
+   - [Jinks Inc](#)
+   - Released: October 15th 2007
+   - [Buy from Traxsource](https://www.traxsource.com/index.php?act=show&fc=tpage&cr=titles&cv=11655)
+   - 00:04:51:63
+
 3. #### CN Williams - _We Had Disco (Main Mix)_
-    
-    - [Reelhouse Traxx](#)
-    - Released: December 10th 2007
-    - [Buy from Traxsource](https://www.traxsource.com/index.php?act=show&fc=tpage&cr=titles&cv=11310)
-    - 00:09:28:24
+   - [Reelhouse Traxx](#)
+   - Released: December 10th 2007
+   - [Buy from Traxsource](https://www.traxsource.com/index.php?act=show&fc=tpage&cr=titles&cv=11310)
+   - 00:09:28:24
+
 4. #### Sucker DJs - _Just Don't Stop (Original)_
-    
-    - [Dazed Recordings](#)
-    - Released: April 12th 2007
-    - [Buy from DJ Download](https://www.djdownload.com/mp3-detail/Sucker+DJs/Just+Dont+Stop/Dazed+Recordings/295211)
-    - 00:13:12:72
+   - [Dazed Recordings](#)
+   - Released: April 12th 2007
+   - [Buy from DJ Download](https://www.djdownload.com/mp3-detail/Sucker+DJs/Just+Dont+Stop/Dazed+Recordings/295211)
+   - 00:13:12:72
+
 5. #### Milk & Sugar pres MS2 - _Stay Around (For This) (Till West & DJ Delicious Remix (M&S Edit))_
-    
-    - [Milk & Sugar](#)
-    - Released: September 5th 2007
-    - [Buy from Traxsource](https://www.traxsource.com/index.php?act=show&fc=tpage&cr=titles&cv=10619)
-    - 00:18:19:33
+   - [Milk & Sugar](#)
+   - Released: September 5th 2007
+   - [Buy from Traxsource](https://www.traxsource.com/index.php?act=show&fc=tpage&cr=titles&cv=10619)
+   - 00:18:19:33
+
 6. #### The Pussy Gourmets ft Darryl Pandy - _Love Is What You Need (Original)_
-    
-    - [Top Ten Music](#)
-    - Released: August 7th 2007
-    - [Buy from DJ Download](https://www.djdownload.com/mp3-detail/The+Pussy+Gourmets+ft+Darryl+Pandy/Love+Is+What+You+Need/Top+Ten+Music/290331)
-    - 00:21:24:36
+   - [Top Ten Music](#)
+   - Released: August 7th 2007
+   - [Buy from DJ Download](https://www.djdownload.com/mp3-detail/The+Pussy+Gourmets+ft+Darryl+Pandy/Love+Is+What+You+Need/Top+Ten+Music/290331)
+   - 00:21:24:36
+
 7. #### DJ Delicious pres Phunk-A-Delic - _Rockin'_
-    
-    - [Hed Kandi](https://www.hedkandi.com/)
-    - Released: June 6th 2007
-    - [Buy from DJ Download](https://www.djdownload.com/mp3-detail/DJ+Delicious+pres+Phunk-A-Delic/Rockin/Hed+Kandi+Records/319588)
-    - 00:25:30:18
+   - [Hed Kandi](https://www.hedkandi.com/)
+   - Released: June 6th 2007
+   - [Buy from DJ Download](https://www.djdownload.com/mp3-detail/DJ+Delicious+pres+Phunk-A-Delic/Rockin/Hed+Kandi+Records/319588)
+   - 00:25:30:18
+
 8. #### The Young Punx - _Fire (Phonat Mix)_
-    
-    - [Mofo Hifi](#)
-    - Released: July 7th 2007
-    - Buy from [DJ Download](https://www.djdownload.com/mp3-detail/The+Young+Punx/Fire/Mofo+Hifi/271517) or [iTunes](https://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=259375907&s=143444)
-    - 00:28:34:42
+   - [Mofo Hifi](#)
+   - Released: July 7th 2007
+   - Buy from [DJ Download](https://www.djdownload.com/mp3-detail/The+Young+Punx/Fire/Mofo+Hifi/271517) or [iTunes](https://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=259375907&s=143444)
+   - 00:28:34:42
+
 9. #### Rox and Taylor - _Otherside (Rox and Taylor 12" Master)_
-    
-    - [Retro Recordings](#)
-    - Released: November 16th 2007
-    - [Buy from Juno](https://www.juno.co.uk/products/290882-01.htm)
-    - 00:34:08:48
+   - [Retro Recordings](#)
+   - Released: November 16th 2007
+   - [Buy from Juno](https://www.juno.co.uk/products/290882-01.htm)
+   - 00:34:08:48
+
 10. #### Chriss Ortega & Thomas Gold ft Nicole Tyler - _Miracle (StoneBridge Recall Mix)_
-    
     - [Houseworks](#)
     - Released: August 6th 2007
     - [Buy from DJ Download](https://www.djdownload.com/mp3-detail/Chriss+Ortega++Thomas+Gold+ft+Nicole+Tyler/Miracle/Houseworks/294970)

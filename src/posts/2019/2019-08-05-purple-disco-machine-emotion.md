@@ -1,9 +1,9 @@
 ---
 title: "Purple Disco Machine - Emotion"
 date: "2019-08-05"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "purple-disco-machine"
   - "youtube"
 enclosure: ""

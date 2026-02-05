@@ -1,9 +1,9 @@
 ---
 title: "Chaka Khan, Beres Hammond – Baby Don't You Go (Qwestlife Remix)"
 date: "2021-08-16"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "beres-hammond"
   - "chaka-khan"
   - "qwestlife"

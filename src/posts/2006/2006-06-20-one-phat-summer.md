@@ -1,7 +1,7 @@
 ---
 title: "One Phat Summer"
 date: "2006-06-20"
-categories: 
+categories:
   - "onephatdj"
 enclosure: "https://www.onephatdj.com/mp3/podcast/one_phat_summer_96.mp3 116057550 audio/mpeg "
 ---

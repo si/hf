@@ -1,9 +1,9 @@
 ---
 title: "#FinesseFriday – Funky House Finesse 1"
 date: "2021-11-05"
-categories: 
+categories:
   - "finessefriday"
-tags: 
+tags:
   - "funky-house-finesse"
 enclosure: "https://pinecast.com/listen/fb456c59-cd4c-4bbd-b76a-ce5029062ab0.mp3 87384726 audio/mpeg "
 coverImage: "3313272471_36d31fdfbf_o.png"

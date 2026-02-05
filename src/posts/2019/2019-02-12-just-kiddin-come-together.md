@@ -1,9 +1,9 @@
 ---
 title: "Just Kiddin - Come Together"
 date: "2019-02-12"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "ifttt"
   - "just-kiddin"
   - "youtube"

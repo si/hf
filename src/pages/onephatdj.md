@@ -28,7 +28,7 @@ Listen back to all 51 mixes from the archives.
     <li class="tdbc-card">
       <div class="tdbc-card__content">
         <p class="tdbc-card__date">
-          <datetime>{{ post.date.toUTCString().substring(5,17) }}</datetime>
+          <time>{{ post.date.toUTCString().substring(5,17) }}</time>
         </p>
         <h3>
           <a href="{{ post.url }}" class="tdbc-card__title">{{ post.data.title }}</a>

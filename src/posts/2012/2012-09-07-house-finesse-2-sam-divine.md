@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 2 with Sam Divine"
 date: "2012-09-07"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "guest-mix"
   - "sam-divine"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/p/www.sowebmediauk.co.uk/dj-shows/HouseFinesse/House_Finesse_2.mp3 0 audio/mpeg "

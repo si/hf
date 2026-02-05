@@ -1,9 +1,9 @@
 ---
 title: "Prospa - Prayer (Radio Edit)"
 date: "2019-01-22"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "ifttt"
   - "prospa"
   - "youtube"

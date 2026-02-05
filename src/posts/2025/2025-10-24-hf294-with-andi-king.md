@@ -14,6 +14,7 @@ season: 3
 explicit: "no"
 duration: "01:03:13"
 ---
+
 Andi King steps back behind the decks with a session packed full of soulful disco heat for the weekend. Expect gospel-fuelled house, feel-good funk and shimmering vocal moments stitched together in true Andi style.
 
 If you’re around Colchester this Saturday, catch him spinning at Camulodunum, then head to Circe’s Rooftop in Waterloo next weekend for a London sunset session you won’t forget.

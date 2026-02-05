@@ -1,7 +1,7 @@
 ---
 title: "Tastes Like (Downloadable) Radio"
 date: "2006-11-20"
-categories: 
+categories:
   - "onephatdj"
 enclosure: "https://onephatdj.com/mp3/podcast/18_tastes_like_radio_oct06.mp3 "
 ---

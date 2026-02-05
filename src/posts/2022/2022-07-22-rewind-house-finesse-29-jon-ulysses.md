@@ -1,9 +1,9 @@
 ---
 title: "REWIND to House Finesse 29 with Jon Ulysses"
 date: "2022-07-22"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "guest-mix"
   - "jon-ulysses"
   - "rewind"

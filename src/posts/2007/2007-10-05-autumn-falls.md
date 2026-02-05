@@ -1,7 +1,7 @@
 ---
 title: "Autumn Falls"
 date: "2007-10-05"
-categories: 
+categories:
   - "onephatdj"
 enclosure: "https://www.onephatdj.com/mp3/podcast/32_autumn_falls_sep07_itunes.m4a 70303911 audio/m4a "
 coverImage: "1489947656_13d724f7c5.jpg"

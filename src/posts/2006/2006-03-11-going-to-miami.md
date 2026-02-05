@@ -1,7 +1,7 @@
 ---
 title: "Going To Miami"
 date: "2006-03-11"
-categories: 
+categories:
   - "onephatdj"
 enclosure: "https://www.onephatdj.com/mp3/podcast/going_to_miami_96kbps.mp3 49504256 audio/mpeg "
 ---

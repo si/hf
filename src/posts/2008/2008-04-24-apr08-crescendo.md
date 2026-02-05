@@ -1,7 +1,7 @@
 ---
 title: "Apr '08 - Crescendo"
 date: "2008-04-24"
-categories: 
+categories:
   - "onephatdj"
 enclosure: "https://onephatdj.com/mp3/podcast/45_apr08_crescendo.mp3 706220643 audio/mpeg "
 coverImage: "2438682386_a9dafe8c88.jpg"
@@ -21,79 +21,78 @@ With the first May bank holiday fast approaching, it's unlikely many of you will
 ## Track Listing
 
 1. #### Love To Infinity ft Kelly Llorenna - _Keep Love Together (Moto Blanco Mix)_
-    
-    - Label: [All Around The World](https://www.aatw.com)
-    - Released: February 28th 2008
-    - [Buy from Play on Fierce Disco 2](https://www.play.com/Music/CD/4-/4998447/Fierce-Angel-Presents-Fierce-Disco/Product.html?dpr=3885&aid=5122983)
-    - Time: 00:00:00
+   - Label: [All Around The World](https://www.aatw.com)
+   - Released: February 28th 2008
+   - [Buy from Play on Fierce Disco 2](https://www.play.com/Music/CD/4-/4998447/Fierce-Angel-Presents-Fierce-Disco/Product.html?dpr=3885&aid=5122983)
+   - Time: 00:00:00
+
 2. #### Gusto - _Disco's Revenge (Freemasons Vocal Club Mix)_
-    
-    - Label: [All Around The World](https://www.aatw.com)
-    - Released: March 22nd 2008
-    - [Buy from Juno Download](https://www.junodownload.com/products/1308399-2-2.htm)
-    - Time: 00:08:30
+   - Label: [All Around The World](https://www.aatw.com)
+   - Released: March 22nd 2008
+   - [Buy from Juno Download](https://www.junodownload.com/products/1308399-2-2.htm)
+   - Time: 00:08:30
+
 3. #### Groove Division - _Now Or Never (Extended Vocal Mix)_
-    
-    - Label: [Fierce Angels](https://www.fierceangels.com/)
-    - Released: March 17th 2008
-    - [Buy from Play on Fierce Disco 2](https://www.play.com/Music/CD/4-/4998447/Fierce-Angel-Presents-Fierce-Disco/Product.html?dpr=3885&aid=5122983)
-    - Time: 00:14:26
+   - Label: [Fierce Angels](https://www.fierceangels.com/)
+   - Released: March 17th 2008
+   - [Buy from Play on Fierce Disco 2](https://www.play.com/Music/CD/4-/4998447/Fierce-Angel-Presents-Fierce-Disco/Product.html?dpr=3885&aid=5122983)
+   - Time: 00:14:26
+
 4. #### Utah Saints - _Something Good '08 (Warren Clarke Remix)_
-    
-    - Label: [Hed Kandi](https://www.hedkandi.com/)
-    - Released: March 27th 2008
-    - [Buy from DJ Download](https://www.djdownload.com/mp3-detail/Utah+Saints/Something+Good+08/Hed+Kandi+Records/372500)
-    - Time: 00:18:18
+   - Label: [Hed Kandi](https://www.hedkandi.com/)
+   - Released: March 27th 2008
+   - [Buy from DJ Download](https://www.djdownload.com/mp3-detail/Utah+Saints/Something+Good+08/Hed+Kandi+Records/372500)
+   - Time: 00:18:18
+
 5. #### Mark Picchiotti presents Basstoy ft Dana Devine - _Turn it Up (ATFC "Up To 11" Remix)_
-    
-    - Label: [Adhesive](https://www.aatw.com)
-    - Released: TBC
-    - **Exclusive!**
-    - Time: 00:22:48
+   - Label: [Adhesive](https://www.aatw.com)
+   - Released: TBC
+   - **Exclusive!**
+   - Time: 00:22:48
+
 6. #### Robbie Rivera - _One Eye Shut (E-Squire Mix)_
-    
-    - Label: 3 Beat Blue
-    - Released: November 26th 2007
-    - [Buy from Play on Fierce Disco 2](https://www.play.com/Music/CD/4-/4998447/Fierce-Angel-Presents-Fierce-Disco/Product.html?dpr=3885&aid=5122983)
-    - Time: 00:29:33
+   - Label: 3 Beat Blue
+   - Released: November 26th 2007
+   - [Buy from Play on Fierce Disco 2](https://www.play.com/Music/CD/4-/4998447/Fierce-Angel-Presents-Fierce-Disco/Product.html?dpr=3885&aid=5122983)
+   - Time: 00:29:33
+
 7. #### Funkerman - _Speed Up (ATFC's 0-60 Extended Mix)_
-    
-    - Label: [Defected](https://www.defected.com/)
-    - Released: April 7th 2008
-    - [Buy from Defected](https://www.defected.com/store/store-details-digital/Speed-Up/2002)
-    - Time: 00:34:56
+   - Label: [Defected](https://www.defected.com/)
+   - Released: April 7th 2008
+   - [Buy from Defected](https://www.defected.com/store/store-details-digital/Speed-Up/2002)
+   - Time: 00:34:56
+
 8. #### Stonebridge ft Kenny Thomas - _You Don't Know (Club Mix)_
-    
-    - Label: [Stoney Boy](https://www.stoneyboy.com)
-    - Released: October 29th 2007
-    - [Buy from Traxsource](https://www.traxsource.com/index.php?act=show&fc=tpage&cr=titles&cv=11709)
-    - Time: 00:40:26
+   - Label: [Stoney Boy](https://www.stoneyboy.com)
+   - Released: October 29th 2007
+   - [Buy from Traxsource](https://www.traxsource.com/index.php?act=show&fc=tpage&cr=titles&cv=11709)
+   - Time: 00:40:26
+
 9. #### Delinquent ft Kcat - _My Destiny (The Wideboys Remix)_
-    
-    - Label: [All Around The World](https://www.aatw.com)
-    - Released: March 25th 2008
-    - [Buy from iTunes](https://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=273383710&id=273383701&s=143444)
-    - Time: 00:46:11
+   - Label: [All Around The World](https://www.aatw.com)
+   - Released: March 25th 2008
+   - [Buy from iTunes](https://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=273383710&id=273383701&s=143444)
+   - Time: 00:46:11
+
 10. #### Out Of Office - _Break Of Dawn 2008 (Club Mix)_
-    
     - Label: Frenetic Music
     - Released: February 18th 2008
     - [Buy from DJ Download](https://www.djdownload.com/mp3-detail/Out+Of+Office/Break+Of+Dawn+2008/Frenetic+Music/349463)
     - Time: 00:51:35
+
 11. #### Jesse Garcia - _Off Da Hook (Original)_
-    
     - Label: GI Recordings
     - Released: March 17th 2008
     - [Buy from DJ Download](https://www.djdownload.com/mp3-detail/Jesse+Garcia/Off+Da+Hook/GI+Recordings/362107)
     - Time: 00:56:05
+
 12. #### StoneBridge - _Close To Heaven (Club Mix)_
-    
     - Label: [Stoney Boy](https://www.stoneyboy.com)
     - Released: April 7th 2008
     - [Buy from DJ Download](https://www.djdownload.com/mp3-detail/StoneBridge/Close+To+Heaven/Stoney+Boy+Music/382360)
     - Time: 01:00:50
+
 13. #### Shapeshifters - _Chime (Original Mix)_
-    
     - Label: [Defected](https://www.defected.com/)
     - Released: April 14th 2008
     - [Buy from iTunes](https://simonjobling.com/buy/chime)

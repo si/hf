@@ -1,9 +1,9 @@
 ---
 title: "Funky House Finesse 12"
 date: "2009-09-12"
-categories: 
+categories:
   - "funkyhousefinesse"
-tags: 
+tags:
   - "adam-k"
   - "alexandra-burke"
   - "arista"
@@ -78,7 +78,7 @@ We return to the regular format of the show this week with a host of brand new f
 
 ## Downloads
 
-\[audio:finesse/Funky\_House\_Finesse\_with\_One\_Phat\_DJ\_12\_12th\_September\_2009.mp3\]
+\[audio:finesse/Funky_House_Finesse_with_One_Phat_DJ_12_12th_September_2009.mp3\]
 
 [Download Funky House Finesse 12 - 12th September 2009](https://onephatdj.com/download/14) _(110.1MB)_
 

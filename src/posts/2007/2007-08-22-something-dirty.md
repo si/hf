@@ -1,7 +1,7 @@
 ---
 title: "Something Dirty"
 date: "2007-08-22"
-categories: 
+categories:
   - "onephatdj"
 enclosure: "https://www.onephatdj.com/mp3/podcast/30_something_dirty_podcast.mp3 61441988 audio/mpeg "
 coverImage: "1203118682_eec89c8f10.jpg"

@@ -1,9 +1,9 @@
 ---
 title: "Chaka Khan - Hello Happiness"
 date: "2019-01-28"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "chaka-khan"
   - "ifttt"
   - "youtube"

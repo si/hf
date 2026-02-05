@@ -1,7 +1,7 @@
 ---
 title: "Funky House Finesse 23 - Valentines Special"
 date: "2010-02-13"
-categories: 
+categories:
   - "funkyhousefinesse"
 enclosure: "https://www.sowebmediauk.co.uk/dj-shows/OnePhatDj2/Funky_House_Finesse_23_13th_February_2010_128.mp3 audio/mpeg "
 coverImage: "Funky_House_Finesse_23_13th_February_2010.jpg"

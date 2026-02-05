@@ -1,9 +1,9 @@
 ---
 title: "Fiorious - Future Romance (Mighty Mouse Remix)"
 date: "2019-11-26"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "fiorious"
   - "mighty-mouse"
   - "youtube"

@@ -1,10 +1,10 @@
 ---
 title: "Presents… Souljackerz"
 date: "2011-07-06"
-categories: 
+categories:
   - "onephatdj"
   - "presents"
-tags: 
+tags:
   - "matt-tsang"
   - "presents"
   - "souljackerz"
@@ -61,7 +61,7 @@ Make sure you connect with the boys, on [Facebook](https://www.facebook.com/page
 28. Dario Nunez - Da Hasta feat DJ Nano (Original Mix) & Johnny Dangerous - Moonraker (Acapella)
 29. Pleasurekraft Carny (Original Mix)
 30. Supernova Featuring Kevin Saunderson - Beat Me Back (Original Mix) & Daft punk-technologic (Accapella)
-31. Gabriel Rocha, DJ PP\_Drunken Russian\_DJ PP Edit & Armand Van Helden - Funk phenomena (Accapella)
+31. Gabriel Rocha, DJ PP_Drunken Russian_DJ PP Edit & Armand Van Helden - Funk phenomena (Accapella)
 32. Central Avenue - Pushin (Original Mix)
 33. Reza - Harlem House & Todd Terry - Preacher Speech & Alan Braxe - Intro & KOT - Young Hearts (Accapella)
 34. Eddie Thoenick and Erick Morillo - Live Your Life feat Shawnee Taylor (Eddie Thoneick Dub)

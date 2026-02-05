@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 69 - June 2018"
 date: "2018-06-21"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "atfc"
   - "calvin-harris"
   - "david-penn"

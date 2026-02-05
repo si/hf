@@ -1,7 +1,7 @@
 ---
 title: "Beautiful Beats"
 date: "2007-03-30"
-categories: 
+categories:
   - "onephatdj"
 enclosure: "https://www.onephatdj.com/mp3/podcast/24_beautiful_beats_podcast.mp3 71043116 audio/mpeg "
 coverImage: "439874407_f3d9d68222.jpg"

@@ -1,9 +1,9 @@
 ---
 title: "Kings Of Tomorrow - Finally (Dario D'Attis Remix)"
 date: "2018-12-26"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "dario-dattis"
   - "ifttt"
   - "kings-of-tomorrow"

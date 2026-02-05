@@ -1,7 +1,7 @@
 ---
 title: "Best Served Chilled"
 date: "2005-09-20"
-categories: 
+categories:
   - "onephatdj"
 enclosure: "https://pinecast.com/listen/66d85d0e-4481-469e-8af7-176f8ce434af.mp3 83488768 audio/mpeg "
 coverImage: "Best-Served-Chilled.png"

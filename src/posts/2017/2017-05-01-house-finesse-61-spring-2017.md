@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 61 - Spring 2017"
 date: "2017-05-01"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "aly-us"
   - "armand-van-helden"
   - "boston-bun"

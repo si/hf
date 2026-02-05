@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 44"
 date: "2015-05-22"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "audio-jacker"
   - "beverley-knight"
   - "block-crown"

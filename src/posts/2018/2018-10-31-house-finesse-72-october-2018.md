@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 72 - October 2018"
 date: "2018-10-31"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "angelo-ferreri"
   - "chris-lake"
   - "david-harness"

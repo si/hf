@@ -1,9 +1,9 @@
 ---
 title: "J Paul Getto - The Ultimate"
 date: "2013-08-23"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "294-records-brazil"
   - "j-paul-getto"
   - "soundcloud"

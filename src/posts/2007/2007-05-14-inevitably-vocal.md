@@ -1,7 +1,7 @@
 ---
 title: "Inevitably Vocal"
 date: "2007-05-14"
-categories: 
+categories:
   - "onephatdj"
 enclosure: "https://onephatdj.com/mp3/podcast/26_inevitably_vocal_podcast.mp3 67742911 audio/mpeg "
 coverImage: "497897979_2ea07a84f2.jpg"

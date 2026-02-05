@@ -1,9 +1,9 @@
 ---
 title: "Deep & Moody with LYP"
 date: "2022-02-25"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "antonio-olivieri"
   - "baptiste-caffrey"
   - "bayley-badbhasha"

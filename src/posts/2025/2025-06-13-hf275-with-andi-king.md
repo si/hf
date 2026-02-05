@@ -17,10 +17,9 @@ duration: "01:11:50"
 
 **It's time to get deep, warm and a little bit nostalgic this week with a lush organic house journey from resident Andi King. We're calling this one the June Organic Pod — expect floaty grooves, progressive rollers and a few goosebump moments.**
 
-🎉 Big love to everyone joining the new House Finesse WhatsApp channel — we're loving the early vibes and chats. 
+🎉 Big love to everyone joining the new House Finesse WhatsApp channel — we're loving the early vibes and chats.
 
 Fancy joining in? Get behind the scenes with the DJs and share your love for the music: https://whatsapp.com/channel/0029VaAIlYa4DqGOiXc57i3f
-
 
 ## Watch on [Youtube](https://youtu.be/JOdOiybhZvw)
 
@@ -45,4 +44,3 @@ Fancy joining in? Get behind the scenes with the DJs and share your love for the
 11. Darya S – Running Up That Hill
 12. Marsh – Ascension
 13. Juanma Sanchez – Sweet Disposition
-

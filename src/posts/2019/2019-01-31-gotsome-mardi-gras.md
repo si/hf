@@ -1,9 +1,9 @@
 ---
 title: "GotSome - Mardi Gras"
 date: "2019-01-31"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "gotsome"
   - "ifttt"
   - "youtube"

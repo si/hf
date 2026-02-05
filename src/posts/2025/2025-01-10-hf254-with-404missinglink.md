@@ -14,6 +14,7 @@ season: 3
 explicit: "no"
 duration: "01:33:46"
 ---
+
 **This week, we introduce a new guest DJ to the podcast with an eclectic background of deep and minimal house music - it's 404MissingLink.**
 
 A fixture in the UK underground scene, 404MissingLink brings deep house and minimal grooves to dancefloors across the globe. His podcast, MissingLink on the Radio , has charted in the top 10 across 13 countries , and has notable performances at ZZegZZag , Substance Socials , Studio 338 , District , and Unit 9.
@@ -26,7 +27,7 @@ Follow 404MissingLink on all the socials and his own website…
 > I want to thank Si for inviting me on to House Finesse to showcase my guest mix. Going into this mix I wanted to make something very me. I grew up on deep house and it's the genre that's stayed with me the longest, even though I'm probably more well known for my minimal antics these days. It's a genre that's unbelievably versatile and in this mix we go as deep underground as I can possibly take you with some tunes I dusted off from days gone by and some brand new gorgeous records that I've been sitting on for the right mix. It's supposed to be a journey.
 > Big love, 404MissingLink
 
-## Listen on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/hf254-with-404missinglink-10-jan-2025/id355833875?i=1000683413768) 
+## Listen on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/hf254-with-404missinglink-10-jan-2025/id355833875?i=1000683413768)
 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/gb/podcast/hf254-with-404missinglink-10-jan-2025/id355833875?i=1000683413768"></iframe>
 
@@ -49,4 +50,3 @@ Follow 404MissingLink on all the socials and his own website…
 15. Down (Original Mix) - Jon Billick
 16. God Jam It (Original Mix) - Artmann
 17. Keep On Dancing (Original) - Tōnis
-

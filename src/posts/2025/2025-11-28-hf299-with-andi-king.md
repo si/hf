@@ -14,6 +14,7 @@ season: 3
 explicit: "no"
 duration: "01:04:38"
 ---
+
 **Andi King returns for the penultimate session before the big 300, guiding you through an emotional, disco-soaked warm up loaded with feel-good vocals, shimmering strings and heads-down grooves.** Expect equal parts nostalgia and future-facing edits as we get ready to blow the doors off HF300.
 
 If you’re feeling the journey, drop a comment, share it with your crew and support the artists however you can.
@@ -42,4 +43,3 @@ If you’re feeling the journey, drop a comment, share it with your crew and sup
 10. DJ Mark Brickman, Vanessa Jackson – Rise (2025 Refresh)
 11. HP Vince – My Special Man
 12. Bob Sinclar – I Feel For You (Bob’s Disco Remix)
-

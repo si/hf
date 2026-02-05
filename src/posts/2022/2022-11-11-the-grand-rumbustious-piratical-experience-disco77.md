@@ -1,9 +1,9 @@
 ---
 title: "The Grand Rumbustious Piratical Experience with Disco77"
 date: "2022-11-11"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "disco77"
 enclosure: "https://pinecast.com/listen/9f823874-ea77-45ad-a7f3-af1be837c763.mp3 88487227 audio/mpeg "
 coverImage: "HF143-The-Grand-Rumbustious-Piratical-Experience-with-Disco77.jpg"

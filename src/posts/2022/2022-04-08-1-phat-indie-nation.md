@@ -1,7 +1,7 @@
 ---
 title: "1 (Phat) Indie Nation with One Phat DJ"
 date: "2022-04-08"
-categories: 
+categories:
   - "shows"
 enclosure: "https://pinecast.com/listen/ee11d322-cf9d-41ae-a5a0-f8c466dff6cf.mp3 146582780 audio/mpeg "
 coverImage: "1-Phat-Indie-Nation.jpg"

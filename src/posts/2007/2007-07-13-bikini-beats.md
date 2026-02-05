@@ -1,7 +1,7 @@
 ---
 title: "Bikini Beats"
 date: "2007-07-13"
-categories: 
+categories:
   - "onephatdj"
 enclosure: "https://www.onephatdj.com/mp3/podcast/28_bikini_beats_podcast.mp3 "
 coverImage: "797202797_309504b66a.jpg"

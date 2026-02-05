@@ -1,7 +1,7 @@
 ---
 title: "Best Of 2007, Pt 1 - The Warmup"
 date: "2008-01-18"
-categories: 
+categories:
   - "onephatdj"
 enclosure: "https://onephatdj.com/mp3/podcast/37_best_of_2007_part_1_the_warmup_jan08.m4a 70577971 audio/mpeg "
 coverImage: "2201770456_59ed36ca3f.jpg"
@@ -12,85 +12,84 @@ Now 2007 has passed and we're in to the new year, it seems like the norm is to r
 ### Track Listing
 
 1. #### Sessomato - _You're Gonna Love Me (Original Vibe Mix)_
-    
-    - [Z Records](https://www.zrecords.ltd.uk/)
-    - Released: !!!
-    - [Buy from DJ Download](https://www.simonjobling.com/buy/youregonnaloveme)
-    - 00:00:00:00
+   - [Z Records](https://www.zrecords.ltd.uk/)
+   - Released: !!!
+   - [Buy from DJ Download](https://www.simonjobling.com/buy/youregonnaloveme)
+   - 00:00:00:00
+
 2. #### Todd Terry Allstars - _Get Down (Kenny Dope Mix)_
-    
-    - [Strictly Rhythm](https://www.strictly.com/)
-    - Date: **11/06/2007**
-    - [Buy from DJ Download](https://www.simonjobling.com/buy/toddterry)
-    - 00:04:30:00
+   - [Strictly Rhythm](https://www.strictly.com/)
+   - Date: **11/06/2007**
+   - [Buy from DJ Download](https://www.simonjobling.com/buy/toddterry)
+   - 00:04:30:00
+
 3. #### Kenny Thomas - _Keep The Fires Burning (Club Mix)_
-    
-    - [Soul Fi](https://www.soulfi-recordings.com/)
-    - Date: **23/10/2007**
-    - [Buy from Traxsource](https://www.simonjobling.com/buy/kennythomas)
-    - 00:09:30:00
+   - [Soul Fi](https://www.soulfi-recordings.com/)
+   - Date: **23/10/2007**
+   - [Buy from Traxsource](https://www.simonjobling.com/buy/kennythomas)
+   - 00:09:30:00
+
 4. #### Soularis - _Back Together (DJ Meme & MoD Mix)_
-    
-    - [Sun Soaked](https://www.!!!)
-    - Released: 07/08/2007
-    - [Buy from DJ Download](https://www.djdownload.com/click/Th042iwFhCCZE22rNAa/491)
-    - 00:14:52:37
+   - [Sun Soaked](https://www.!!!)
+   - Released: 07/08/2007
+   - [Buy from DJ Download](https://www.djdownload.com/click/Th042iwFhCCZE22rNAa/491)
+   - 00:14:52:37
+
 5. #### Orlando Vaughn - _Better Than Never (Main Mix)_
-    
-    - [Duffnote](https://www.duffnote.com)
-    - Released: 11/04/2007
-    - [Buy from Traxsource](https://www.simonjobling.com/buy/orlandovaughn)
-    - 00:19:36:07
+   - [Duffnote](https://www.duffnote.com)
+   - Released: 11/04/2007
+   - [Buy from Traxsource](https://www.simonjobling.com/buy/orlandovaughn)
+   - 00:19:36:07
+
 6. #### DJ Fudge ft Mani Hoffman - _Liv & Love (Original)_
-    
-    - [Sub-Urban Records](https://www.suburbanrecords.com/)
-    - Date: **11/11/2007**
-    - [Buy from DJ Download](https://www.simonjobling.com/buy/djfudge)
-    - 00:25:21:42
+   - [Sub-Urban Records](https://www.suburbanrecords.com/)
+   - Date: **11/11/2007**
+   - [Buy from DJ Download](https://www.simonjobling.com/buy/djfudge)
+   - 00:25:21:42
+
 7. #### One Foot In The Groove ft Lynsey Davies - _That's The Way It Is (Club Mix)_
-    
-    - [One Foot In The Groove Records](https://www.onefootinthegroove.net/)
-    - Released: 09/04/2007
-    - [Buy from DJ Download](https://www.simonjobling.com/buy/thatsthewayitis)
-    - 00:29:01:66
+   - [One Foot In The Groove Records](https://www.onefootinthegroove.net/)
+   - Released: 09/04/2007
+   - [Buy from DJ Download](https://www.simonjobling.com/buy/thatsthewayitis)
+   - 00:29:01:66
+
 8. #### Funk Manouver ft Amaya Amaya - _Wait For Me (Vocal Mix)_
-    
-    - [Reel Groove](https://www.reelgroove.com/)
-    - Released: November 7th 2007
-    - [Buy from DJ Download](https://www.simonjobling.com/buy/waitforme)
-    - 00:34:01:66
+   - [Reel Groove](https://www.reelgroove.com/)
+   - Released: November 7th 2007
+   - [Buy from DJ Download](https://www.simonjobling.com/buy/waitforme)
+   - 00:34:01:66
+
 9. #### Junior Jack - _Dare (Stupidisco) (Club Mix)_
-    
-    - [Defected](https://www.defected.com/)
-    - Released: 19/02/2007
-    - [Buy from iTunes](https://www.simonjobling.com/buy/stupidisco)
-    - 00:39:15:53
+   - [Defected](https://www.defected.com/)
+   - Released: 19/02/2007
+   - [Buy from iTunes](https://www.simonjobling.com/buy/stupidisco)
+   - 00:39:15:53
+
 10. #### Ben Macklin ft Tiger Lily - _Feel Together (Vocal Mix)_
-    
     - [Free2Air Recordings](https://www.free2airrecordings.com/)
     - Released: 08/01/2007
     - [Buy from iTunes](https://www.simonjobling.com/buy/benmacklin)
     - 00:44:16:66
+
 11. #### Mutya Buena - _Real Girl (Moto Blanco Remix)_
-    
     - [Universal Island](https://www.islandrecords.co.uk/)
     - Released: 25/05/2007
     - [Buy from iTunes](https://www.simonjobling.com/buy/realgirl)
     - 00:49:46:66
+
 12. #### AC Soul Symphony - _The Kinda Love (Joey Negro Disco Blend Mix)_
-    
     - [Z Records](https://www.zrecords.ltd.uk/)
     - Released: 17/04/2007
     - [Buy from iTunes](https://www.simonjobling.com/buy/thekindalove)
     - 00:55:09:28
+
 13. #### Raul Orellana ft Jocelyn Brown - _My Sun Will Get You (Deep Groovers Extended Remix)_
-    
     - [Cool Sound Music](https://www.coolsoundmusic.com/)
     - Released: 19/01/2007
     - [Buy from DJ Download](https://www.simonjobling.com/buy/mysunwillgetyou)
     - 01:01:01:66
+
 14. #### Hi On Life ft Joniece - _Goodbye (7th Heaven Mirrorball Mix)_
-    
     - [Champion Records](https://www.championrecords.co.uk/)
     - Released: 23/04/2007
     - [Buy from DJ Download](https://www.simonjobling.com/buy/goodbye)

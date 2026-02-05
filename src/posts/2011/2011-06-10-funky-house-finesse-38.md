@@ -1,9 +1,9 @@
 ---
 title: "Funky House Finesse 38"
 date: "2011-06-10"
-categories: 
+categories:
   - "funkyhousefinesse"
-tags: 
+tags:
   - "alex-millet"
   - "andrea-fiorino"
   - "andrea-love"
@@ -74,7 +74,7 @@ coverImage: "Funky_House_Finesse_38.png"
 
 **\[download id="2379"\]**
 
-[Funky House Finesse 38](https://www.mixcloud.com/onephatdj/funky-house-finesse-38/#utm_source=widget&amp;utm_medium=web&amp;utm_campaign=base_links&amp;utm_term=resource_link) by [One Phat DJ](https://www.mixcloud.com/onephatdj/#utm_source=widget&amp;utm_medium=web&amp;utm_campaign=base_links&amp;utm_term=profile_link) on [Mixcloud](https://www.mixcloud.com/#utm_source=widget&utm_medium=web&utm_campaign=base_links&utm_term=homepage_link)
+[Funky House Finesse 38](https://www.mixcloud.com/onephatdj/funky-house-finesse-38/#utm_source=widget&utm_medium=web&utm_campaign=base_links&utm_term=resource_link) by [One Phat DJ](https://www.mixcloud.com/onephatdj/#utm_source=widget&utm_medium=web&utm_campaign=base_links&utm_term=profile_link) on [Mixcloud](https://www.mixcloud.com/#utm_source=widget&utm_medium=web&utm_campaign=base_links&utm_term=homepage_link)
 
 ## Track Listing
 

@@ -1,9 +1,9 @@
 ---
 title: "Funky House Finesse 44 - Happy New Year"
 date: "2012-01-01"
-categories: 
+categories:
   - "funkyhousefinesse"
-tags: 
+tags:
   - "anthony-atcherley"
   - "audio-jacker"
   - "david-morales"

@@ -1,7 +1,7 @@
 ---
 title: "Funky Pants"
 date: "2005-07-13"
-categories: 
+categories:
   - "onephatdj"
 enclosure: "https://pinecast.com/listen/08b9070d-b926-4d8d-add4-c0d3fdd49f6f.mp3 81053696 audio/mpeg "
 coverImage: "87885C41-F696-4B01-B435-66DCD885C0AD.jpeg"

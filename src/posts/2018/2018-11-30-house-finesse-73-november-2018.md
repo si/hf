@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 73 - November 2018"
 date: "2018-11-30"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "adelphi-music-factory"
   - "becky-hill"
   - "bonnie-bailey"

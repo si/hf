@@ -1,9 +1,9 @@
 ---
 title: "SecondCity - I Wanna Feel (Souljackerz Bootleg Remix)"
 date: "2014-02-26"
-categories: 
+categories:
   - "releases"
-tags: 
+tags:
   - "bootleg"
   - "secondcity"
   - "souljackerz"

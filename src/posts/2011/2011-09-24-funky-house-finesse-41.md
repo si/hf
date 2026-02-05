@@ -1,7 +1,7 @@
 ---
 title: "Funky House Finesse 41"
 date: "2011-09-24"
-categories: 
+categories:
   - "funkyhousefinesse"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/www.sowebmediauk.co.uk/dj-shows/OnePhatDj2/Funky_House_Finesse_41_September_2011_128.mp3 audio/mpeg "
 coverImage: "Funky_House_Finesse_41.jpg"

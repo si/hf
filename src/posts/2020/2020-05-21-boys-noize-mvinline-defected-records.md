@@ -1,9 +1,9 @@
 ---
 title: "Boys Noize - Mvinline (Defected Records)"
 date: "2020-05-21"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "boys-noize"
   - "defected"
   - "youtube"
