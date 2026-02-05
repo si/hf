@@ -4,6 +4,7 @@ date: "2007-12-21"
 categories: 
   - "onephatdj"
 enclosure: "https://onephatdj.com/mp3/podcast/36_christmas_cracker_dec07.mp3 91492971 audio/mpeg "
+coverImage: "2127008364_82464fc091.jpg"
 ---
 
 Well hasn't this been a funky month? After [the official podcast](https://www.simonjobling.com/blog/2007/winter-warmup) at the start of the month (which seems to be coming a firm favourite among the regular listeners out there), you were treated to a [special funky number](https://www.simonjobling.com/blog/2007/break-from-the-norm) last week with a bit of a twist to it. It's now time to move on to the third and final treat for December, wrapping up the year just nicely. As a way of a Christmas present from One Phat DJ, let's go out with a bang with a **Christmas Cracker**! [![Christmas Cracker cover](images/2127008364_82464fc091.jpg "Christmas Cracker cover")](https://www.flickr.com/photos/peelhere/2127008364/)

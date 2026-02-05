@@ -4,6 +4,7 @@ date: "2007-02-01"
 categories: 
   - "onephatdj"
 enclosure: "https://www.onephatdj.com/mp3/podcast/22_lose_that_phat_podcast.mp3 54472704 audio/mpeg "
+coverImage: "376441490_ba50aad40e.jpg"
 ---
 
 I may be pushing it with it being the last day of the month but at least I'm sticking to that New Year's Resolution Goal. January is that time of the year when we're all bummed out having "enjoyed" the holiday period with a little over indulgence, put on a few extra pounds and running low on funds so there's not much left to do than try to lose those pounds with some free exercise. Well, I felt I could help here and put together a great work out mix for all you fitness freaks to exercise to. I'm sure many of you have already given up after a few weeks but there's nothing stopping you from just putting the mix on and enjoying some of the latest funky house. So here it is - it's time to **Lose That Phat**. [![Lose That Phat cover](https://farm1.static.flickr.com/148/376441490_ba50aad40e.jpg?v=0)](https://www.flickr.com/photos/peelhere/376441490/) 

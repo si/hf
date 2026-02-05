@@ -4,6 +4,7 @@ date: "2008-03-13"
 categories: 
   - "onephatdj"
 enclosure: "https://onephatdj.com/mp3/podcast/42_mar08_the_warm_up.mp3 114210065 audio/mpeg "
+coverImage: "2330235219_b262edd28f.jpg"
 ---
 
 As we move out of those cold Winter months and into an (apparently) warmer Spring, focus shifts towards thoughts of bright and sunny holidays, parties, happy people - generally, all things positive. By painting that picture, you should be set for what is coming up this month - the Miami Winter Music Conference - the biggest event of the year in the dance music industry. DJs, producers, artists, promoters, labels and clubbers travel from far and wide to celebrate this landmark event where some of the finest figures in the industry collate to share their latest work, network, make the most of the opportunity to showcase what to expect for the rest of the year and have an amazing time in the process. It seems only appropriate to celebrate the landmark occasion with the first mix of March 2008 - here is _Episode 42_, “**Mar '08 - The Warm Up**”. [![Mar '08 - The Warm Up](https://farm3.static.flickr.com/2006/2330235219_b262edd28f.jpg?v=0)](https://www.flickr.com/photos/peelhere/2330235219/)

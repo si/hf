@@ -4,6 +4,7 @@ date: "2008-01-25"
 categories: 
   - "onephatdj"
 enclosure: "https://www.onephatdj.com/mp3/podcast/38_best_of_2007_part_2_crescendo_jan08.m4a 61587729 audio/mpeg "
+coverImage: "2218000659_24204499dd.jpg"
 ---
 
 In the second installment of One Phat DJ's "_Best Of 2007_" series, we turn things up a little to the next level, introducing some tunes that aren't akin to all those trendy bars warming up the crowds before the clubs. This is a selection of tracks that have tickled my fancy through 2007 and should do the same for all the regular listeners out there. If you're a bit partial to the likes of Fierce Angel, Hed Kandi, Defected and Ministry of Sound, I'm pretty sure you'll enjoy this. Ladies and gents, I give you _Episode 38_ of the [One Phat DJ Podcast](https://feeds.feedburner.com/onephatdj), "**Best Of 2007, Pt 2 - Crescendo**". [![Best Of 2007, Pt 2 - Crescendo cover](https://farm3.static.flickr.com/2399/2218000659_24204499dd.jpg?v=0 "Best Of 2007, Pt 2 - Crescendo cover")](https://www.flickr.com/photos/peelhere/2218000659/ "Other sizes of the cover on Flickr")

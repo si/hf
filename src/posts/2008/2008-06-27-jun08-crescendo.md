@@ -4,6 +4,7 @@ date: "2008-06-27"
 categories: 
   - "onephatdj"
 enclosure: "https://onephatdj.com/mp3/podcast/49_jun08_crescendo.mp3 75921272 audio/mpeg "
+coverImage: "2615628568_088e5f3689.jpg"
 ---
 
 It's late but its worth the wait. Episode _49_ of the [One Phat DJ Podcast](https://onephatdj.com/podcast) **Jun '08 Cresendo** is here and is sure to blow you away with the sheer quality of tunes this month.

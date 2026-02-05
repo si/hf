@@ -4,6 +4,7 @@ date: "2008-02-01"
 categories: 
   - "onephatdj"
 enclosure: "https://onephatdj.com/mp3/podcast/39_best_of_2007_part_3_euphoria_jan08.m4a 69966922 audio/mpeg "
+coverImage: "2235055364_402db85b68.jpg"
 ---
 
 In the third and final installment of One Phat DJ's "_Best Of 2007_" series, we venture into the tougher side of funky house and get you all psyched for a good dance. In 2007, the dirty bassline was very prominent in the dance scene so there was plenty of material to get your knickers in a twist, getting the dancef loors really sweaty while the music verged on hard house. Needless to say, the majority of that material will have made it into this mix so its time to loosen up before I take you on your last journey of 2007. This is _Episode 39_ of the One Phat DJ podcast - this is the "_Best Of 2007, Part 3 - **Euphoria**_". [![Best Of 2007, Part 3 - Euphoria](https://farm3.static.flickr.com/2033/2235055364_402db85b68.jpg?v=0)](https://www.flickr.com/photos/peelhere/2235055364/ "More sizes of the artwork are available on Flickr")

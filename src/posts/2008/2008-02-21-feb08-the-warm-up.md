@@ -4,6 +4,7 @@ date: "2008-02-21"
 categories: 
   - "onephatdj"
 enclosure: "https://onephatdj.com/mp3/podcast/40_feb08_the_warm_up.mp3 105631988 audio/mpeg "
+coverImage: "2281544920_4109810b81.jpg"
 ---
 
 It's time to return to the usual programming schedule of the [One Phat DJ Podcast](https://onephatdj.com/podcast), promoting the latest sounds from the funky house scene, all mixed up for you, the listeners, to enjoy with absolutely no interruptions from talking. However, before you get comfortable, I need to announce some brand new alterations to the format...

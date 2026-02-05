@@ -4,6 +4,7 @@ date: "2008-09-12"
 categories: 
   - "onephatdj"
 enclosure: ""
+coverImage: "2830873796_a74421cb43.jpg"
 ---
 
 This is it. No introductions are required - [you all know the drill](https://www.simonjobling.com/blog/2008/one-phat-dj-podcast-comes-to-an-end/). It's the _last ever_ episode of the [One Phat DJ Podcast](https://onephatdj.com/podcast), **Episode 52** for September 2008 - I present to you "**The Finalé"**. [![The FinalÃ© artwork by Oliver Ker](https://farm4.static.flickr.com/3143/2830873796_a74421cb43.jpg?v=0 "The FinalÃ© artwork by Oliver Ker")](https://www.flickr.com/photos/peelhere/2830873796/ "The FinalÃ© by Oliver Ker - details on Flickr")

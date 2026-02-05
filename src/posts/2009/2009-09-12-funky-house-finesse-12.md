@@ -71,6 +71,7 @@ tags:
   - "whitney-houston"
   - "z-records"
 enclosure: "https://www.onephatdj.com/media/finesse/Funky_House_Finesse_with_One_Phat_DJ_12_12th_September_2009.mp3 115404720 audio/mpeg "
+coverImage: "Funky_House_Finesse_12_12th_September_2009.jpg"
 ---
 
 We return to the regular format of the show this week with a host of brand new funky house material, all packaged up in a tidy mix by One Phat DJ for your listening pleasure. Our host Ben Day is taking a well-deserved break this week so we'll just let the music do the talking instead. Don't forget to join O[ne Phat DJ on Twitter](https://twitter.com/onephatdj) or become a fan on the brand new [One Phat DJ Facebook Fan Page](https://www.facebook.com/pages/One-Phat-DJ/126293600841) where all the official announcements will be made from now on. [![Funky House Finesse 12 - 12th September 2009](images/Funky_House_Finesse_12_12th_September_2009.jpg)](https://onephatdj.com/download/14)

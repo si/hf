@@ -4,6 +4,7 @@ date: "2008-07-11"
 categories: 
   - "onephatdj"
 enclosure: "https://onephatdj.com/mp3/podcast/50_funky_fifty_jul08.mp3 115627907 audio/mpeg "
+coverImage: "2658445134_7d5804f913.jpg"
 ---
 
 After **three years of podcasting** and **49 episodes** of the freshest and funkiest house music mixed up (bi-)monthly, we've finally hit the milestone. **Episode 50** is here! [![Funky Fifty, mixed by One Phat DJ, designed by Sam Hardacre](https://farm3.static.flickr.com/2311/2658445134_7d5804f913.jpg?v=0 "Funky Fifty, mixed by One Phat DJ, designed by Sam Hardacre")](https://www.flickr.com/photos/peelhere/2658445134/) It's quite an emotional moment for myself and, I'm sure, all the other guys involved. I never expected the podcast to be as successful as it has been, nor the respect it receives from the fans and industry. From far and wide, people from all over the globe are subscribed to the podcast and, without you, it wouldn't be what it is today. I'm constantly sent messages from regular listeners which motivates me further to keep doing the podcast. I thank you all. Now the speech is out the way, I have a few announcements to make about the podcast, by way of changing the format (again):

@@ -4,6 +4,7 @@ date: "2008-04-24"
 categories: 
   - "onephatdj"
 enclosure: "https://onephatdj.com/mp3/podcast/45_apr08_crescendo.mp3 706220643 audio/mpeg "
+coverImage: "2438682386_a9dafe8c88.jpg"
 ---
 
 With the first May bank holiday fast approaching, it's unlikely many of you will be sitting in, "having a quiet one". I'm sure the majority will be planning huge nights out with your mates, either out on the town or taking over the sound system in someone's house for an all-nighter. Surely with all this partying, you'll need the latest funky house tunes to get you in the mood, if not to get you through the night? Well, never fear, [One Phat DJ](https://onephatdj.com/) is here with yet another mix for all you lovely, lovely people out there to throw on and enjoy. [![Apr '08 Crescendo artwork by Sam Hardacre](images/2438682386_a9dafe8c88.jpg)](https://www.flickr.com/photos/peelhere/2438682386/)

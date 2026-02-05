@@ -4,6 +4,7 @@ date: "2008-01-18"
 categories: 
   - "onephatdj"
 enclosure: "https://onephatdj.com/mp3/podcast/37_best_of_2007_part_1_the_warmup_jan08.m4a 70577971 audio/mpeg "
+coverImage: "2201770456_59ed36ca3f.jpg"
 ---
 
 Now 2007 has passed and we're in to the new year, it seems like the norm is to reflect on the past year and highlight some of my favourite tracks from the One Phat DJ Podcast in a "best of" compilation mix. So when I went to make my list of tracks for this mix, I came upon a bit of a problem - there were just too many tracks for the mix. What's a DJ to do?! Well, unless you've completely ignored the title of this mix, you should have guessed by now - there will be more than one mix. Rather than going for a ridiculously long mix which you all have to wait an age to download, you can download _Part 1 (The Warmup)_ to get a taste for what's coming. I've not yet decided whether to go for a two or three-part compilation. There's enough material for three but it's whether I have the time to go get two more mixes together before we return to the regular scheduling (the February podcast of is due very soon too). So without further ado, here is _Episode 37_ of the podcast with One Phat DJ's **Best Of 2007, Pt 1 (The Warmup)**. [![Best Of 2007, Pt. 1 - The Warmup](https://farm3.static.flickr.com/2009/2201770456_59ed36ca3f.jpg?v=0)](https://www.flickr.com/photos/peelhere/2201770456/) (Artwork by [Asif Akbar](https://www.sxc.hu/profile/asifthebes))

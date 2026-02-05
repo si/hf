@@ -4,6 +4,7 @@ date: "2007-12-07"
 categories: 
   - "onephatdj"
 enclosure: "https://www.onephatdj.com/mp3/podcast/34_winter_warmup_nov07.m4a 74130721 audio/mpeg "
+coverImage: "2092510277_533c38b847.jpg"
 ---
 
 For those of us in the Northern hemisphere, its pretty evident Summer (and Autumn) is gone and we're well in to Winter. Leaves are disappearing from our trees, the temperature is dropping and the Winter woollies are turning up everywhere. But why should this dampen spirits? We're also going into the Christmas holidays which can only mean one thing - party time! In the run up to Christmas and the last mix of the year, its time to go through the tracks I got my mits on in November - some new, some a little older - mix them up and let you lovely people have a listen. The mix starts off on a more subtle note with some nice easy melodies from Fish Go Deep, Todd Terry All Stars and Terry Hunter. Things then get turned up a notch or two for the rest of the mix. You might notice a fair few commercial numbers dotted throughout the mix too. I'm not sure if there is a hidden message there or not. We can thank the legends that are Miki Moto and Bobby Blanco for working their magic on Mary J Blige and Jennifer Lopez. At the end of the day, if you like them, you can go buy them a lot easier! Without further ado, its time for the penultimate mix of 2007. It's _Episode 34_. It is - **Winter Warmup**. [![Cover for Winter Warmup](https://farm3.static.flickr.com/2403/2092510277_533c38b847.jpg?v=0 "Cover for Winter Warmup")](https://www.flickr.com/photos/peelhere/2092510277/)

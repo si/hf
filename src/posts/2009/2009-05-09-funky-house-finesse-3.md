@@ -51,6 +51,7 @@ tags:
   - "warren-clarke"
   - "young-punx"
 enclosure: "https://www.onephatdj.com/media/finesse/One_Phat_DJ_-_Funky_House_Finesse_3_9th_May_2009_192.mp3 audio/mpeg 173150168 "
+coverImage: "3515515828_5edd580208.jpg"
 ---
 
 The debut _Funky House Finesse_ show broadcast on [Lifted Radio](https://lifted-radio.co.uk/) from **4pm** for 2 hours of the finest, freshest and funkiest house tracks around. Featuring the likes of **Degrees of Motion**, **Warren Clarke**, **Ralf GUM**, **eSQUIRE**, **Sandy Rivera**, **Roger Sanchez**, **Dirty Vegas**, **Dennis Christopher**, **The Young Punx** and **Pulse**, you will be hard pushed to find a more uplifting mix of tunes. Make sure you let us know where you're listening, upload some photos, share it with your friends, even get them round for a bit of a dance. It's the perfect warmup to your Saturday night out!

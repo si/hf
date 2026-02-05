@@ -4,6 +4,7 @@ date: "2008-05-22"
 categories: 
   - "onephatdj"
 enclosure: "https://onephatdj.com/mp3/podcast/47_may08_crescendo.mp3 100998873 audio/mpeg "
+coverImage: "2512763983_e3cdc97409.jpg"
 ---
 
 It's been a ridiculously busy month! Not content with handing in my notice at [Yahoo!](https://uk.yahoo.com/) as well as releasing [Euro KickOff](https://www.eurokickoff.com/), there has also been [an interview with Paul Velocity](https://www.simonjobling.com/blog/2008/paul-velocity-presents) (which also features a 30 minute mix) and there is another interview still to come (details soon). If that wasn't enough, I've also managed to fit in time to continue producing the [One Phat DJ Podcast](https://onephatdj.com/podcast) for all you lovely, lovely people out there. How do I ever find time for myself as well? So, here it is - it's time to turn your speakers up and download _Episode 47_ - the **May '08 Crescendo**. [![May '08 Crescendo](images/2512763983_e3cdc97409.jpg)](https://www.flickr.com/photos/peelhere/2512763983/ "All the artwork details for May '08 Crescendo on Flickr")
