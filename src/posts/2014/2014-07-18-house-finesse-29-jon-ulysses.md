@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 29 with Jon Ulysses"
 date: "2014-07-18"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "guest-mix"
   - "jon-ulysses"
   - "live"

@@ -1,9 +1,9 @@
 ---
 title: "#ONEPHATDECADE Pt 3 – Stuart Ojelay"
 date: "2015-07-24"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "onephatdecade"
   - "guest-mix"
   - "shows-2"

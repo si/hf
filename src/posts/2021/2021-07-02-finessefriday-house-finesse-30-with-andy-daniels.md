@@ -1,9 +1,9 @@
 ---
 title: "#FinesseFriday - House Finesse 30 with Andy Daniels"
 date: "2021-07-02"
-categories: 
+categories:
   - "finessefriday"
-tags: 
+tags:
   - "andy-daniels"
 enclosure: "https://pinecast.com/listen/11be67a2-c51a-4b91-9a7a-5ec5a6c60998.mp3 102647309 audio/mpeg "
 coverImage: "House-Finesse-30-Andy-Daniels-Foundation-Manchester-Wide.jpg"

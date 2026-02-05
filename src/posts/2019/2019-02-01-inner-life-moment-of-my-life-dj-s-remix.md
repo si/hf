@@ -1,9 +1,9 @@
 ---
 title: "Inner Life - Moment Of My Life (Dj ''S'' Remix)"
 date: "2019-02-01"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "dj-s"
   - "ifttt"
   - "inner-life"

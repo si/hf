@@ -1,9 +1,9 @@
 ---
 title: "£8 a pint in London? Never mind that, here's some house music with Disco77"
 date: "2023-02-24"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "archie-versace"
   - "basement-boys"
   - "dirty-channels"
@@ -39,28 +39,28 @@ coverImage: "8-pint-in-London-Never-mind-that-heres-some-house-music.jpg"
 
 1. Basement Boys ft Russell Taylor - Fool For Love
 
-3. Archie Versace ft Supermini - Fired Up (Full Intention Remix)
+2. Archie Versace ft Supermini - Fired Up (Full Intention Remix)
 
-5. Fejer - Sunlight (ThomChris Remix)
+3. Fejer - Sunlight (ThomChris Remix)
 
-7. Marc Cotterell - Living My Life (Plastik Factory Vocal Mix)
+4. Marc Cotterell - Living My Life (Plastik Factory Vocal Mix)
 
-9. Jack Truant/Oggie - Good Vibes (Mirko & Meex Remix)
+5. Jack Truant/Oggie - Good Vibes (Mirko & Meex Remix)
 
-11. Soul Avengerz - Love You Feel (Wayne Soul Avengerz & Odyssey Inc Trois Garçon
+6. Soul Avengerz - Love You Feel (Wayne Soul Avengerz & Odyssey Inc Trois Garçon
 
-13. Per QX, Filip Gronlund & Elias Bravo with Max C - You & Me
+7. Per QX, Filip Gronlund & Elias Bravo with Max C - You & Me
 
-15. Greg Van Bueren & Dutchican Soul - Hear The Voices
+8. Greg Van Bueren & Dutchican Soul - Hear The Voices
 
-17. Dirty Channels - Make You Cry
+9. Dirty Channels - Make You Cry
 
-19. Glasgow Gangster Funk - Cutey Pie
+10. Glasgow Gangster Funk - Cutey Pie
 
-21. Frederico Scavo ft Moyà - Set Me on Fire
+11. Frederico Scavo ft Moyà - Set Me on Fire
 
-23. Eugenio Fico - Strings of Love
+12. Eugenio Fico - Strings of Love
 
-25. HP Vince - I Don’t Know
+13. HP Vince - I Don’t Know
 
-27. Jaegerossa- Into The Light
+14. Jaegerossa- Into The Light

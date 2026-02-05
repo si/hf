@@ -1,9 +1,9 @@
 ---
 title: "Funky House Finesse 19"
 date: "2009-12-19"
-categories: 
+categories:
   - "funkyhousefinesse"
-tags: 
+tags:
   - "atlantic-records"
   - "audio-freaks"
   - "bassmonkeys"
@@ -73,7 +73,7 @@ enclosure: "https://www.onephatdj.com/media/finesse/Funky_House_Finesse_19_19th_
 
 ## Download
 
-\[audio:finesse/Funky\_House\_Finesse\_19\_19th\_December\_2009.mp3\] [Download Funky House Finesse 19 MP3](https://onephatdj.com/download/25)
+\[audio:finesse/Funky_House_Finesse_19_19th_December_2009.mp3\] [Download Funky House Finesse 19 MP3](https://onephatdj.com/download/25)
 
 ## Tracklisting
 

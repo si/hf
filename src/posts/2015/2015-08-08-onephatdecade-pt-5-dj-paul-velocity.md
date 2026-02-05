@@ -1,9 +1,9 @@
 ---
 title: "#ONEPHATDECADE Pt 5 - DJ Paul Velocity"
 date: "2015-08-08"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "onephatdecade"
   - "dj-paul-velocity"
   - "guest"

@@ -1,9 +1,9 @@
 ---
 title: "David Penn, Ramona Renea - Stand Up (Extended Mix)"
 date: "2019-10-25"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "david-penn"
   - "ramona-renea"
   - "youtube"

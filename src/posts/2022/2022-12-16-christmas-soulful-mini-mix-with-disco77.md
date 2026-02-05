@@ -1,9 +1,9 @@
 ---
 title: "Christmas Soulful Mini Mix with Disco77"
 date: "2022-12-16"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "basement-boys"
   - "bobby-dambrosio"
   - "christmas"
@@ -24,14 +24,14 @@ coverImage: "HF147-Christmas-Soulful-Mini-Mix-Disco77.jpg"
 
 1. Elements of Life - This Christmas (Ladies Mix)
 
-3. DJ Spen & The MuthaFunkaz - Our First Christmas
+2. DJ Spen & The MuthaFunkaz - Our First Christmas
 
-5. Stephanie Cook - It's X-Mas
+3. Stephanie Cook - It's X-Mas
 
-7. Bobby D'Ambrosio feat Jamelle Jones - O'Christmas Tree
+4. Bobby D'Ambrosio feat Jamelle Jones - O'Christmas Tree
 
-9. DJ Spen & The MuthaFunkaz - Rock The Bellz (Muthafunkaz Holiday Mix)
+5. DJ Spen & The MuthaFunkaz - Rock The Bellz (Muthafunkaz Holiday Mix)
 
-11. Basement Boys All-Stars - Holiday (Main Mix)
+6. Basement Boys All-Stars - Holiday (Main Mix)
 
-13. Perry Como - It's Begining to Look a Lot Like Christmas (Disco's 2 Seconds Chucked In For No Reason Edit)
+7. Perry Como - It's Begining to Look a Lot Like Christmas (Disco's 2 Seconds Chucked In For No Reason Edit)

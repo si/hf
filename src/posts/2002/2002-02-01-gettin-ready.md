@@ -1,7 +1,7 @@
 ---
 title: "Gettin' Ready"
 date: "2002-02-01"
-categories: 
+categories:
   - "onephatdj"
 enclosure: "https://www.onephatdj.com/mp3/podcast/gettin_ready.mp3 "
 ---

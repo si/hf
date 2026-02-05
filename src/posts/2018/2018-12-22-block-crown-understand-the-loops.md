@@ -1,9 +1,9 @@
 ---
 title: "Block & Crown - Understand The Loops"
 date: "2018-12-22"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "block-crown"
   - "ifttt"
   - "youtube"

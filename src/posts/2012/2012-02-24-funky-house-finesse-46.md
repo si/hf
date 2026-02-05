@@ -1,9 +1,9 @@
 ---
 title: "Funky House Finesse 46"
 date: "2012-02-24"
-categories: 
+categories:
   - "funkyhousefinesse"
-tags: 
+tags:
   - "atda"
   - "audio-jacker"
   - "avicii"

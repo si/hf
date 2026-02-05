@@ -14,6 +14,7 @@ season: 3
 explicit: "no"
 duration: "01:03:12"
 ---
+
 **Andi King returns with a soulful, groove-laced mix that plays like a modern disco party – perfect for soundtracking your long weekend of relaxation this Easter bank holiday in the UK.**
 
 ## Easter Weekend Gigs
@@ -42,7 +43,6 @@ duration: "01:03:12"
 
 <iframe width="100%" height="315" style="max-width: 560px; aspect-ratio: 16/9;" src="https://www.youtube.com/embed/jTK1haKwU0Q?si=1Txg5jz41ROtHbjT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
 ## Track Listing
 
 1. The Shapeshifters feat. Billy Porter – Finally Ready (Dimitri From Paris Remix)
@@ -58,4 +58,3 @@ duration: "01:03:12"
 11. Risk Assessment – Juicy Smollett
 12. Angelo Ferreri – Sunset Bar
 13. Infinity Ink – Infinity (Alan Dixon Remix)
-

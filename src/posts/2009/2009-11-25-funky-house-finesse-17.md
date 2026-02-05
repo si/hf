@@ -1,9 +1,9 @@
 ---
 title: "Funky House Finesse 17"
 date: "2009-11-25"
-categories: 
+categories:
   - "funkyhousefinesse"
-tags: 
+tags:
   - "a-trax"
   - "alan-braxe"
   - "alec-sun-drae"
@@ -75,7 +75,7 @@ Apologies for the delay releasing this week's show - we had a slight technical h
 
 ## Download or Play
 
-\[audio:finesse/Funky\_House\_Finesse\_17\_21st\_November\_2009.mp3\]
+\[audio:finesse/Funky_House_Finesse_17_21st_November_2009.mp3\]
 
 - [Download Funky House Finesse 17 MP3](https://www.sowebmediauk.co.uk/dj-shows/OnePhatDj2/Funky_House_Finesse_17_21st_November_2009.mp3)
 

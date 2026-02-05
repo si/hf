@@ -1,9 +1,9 @@
 ---
 title: "The Jovi' Jubilee Jam with Disco77"
 date: "2022-06-03"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "disco77"
 enclosure: "https://pinecast.com/listen/6c9f86ef-8e51-4b44-a907-56c7e3e88bf0.mp3 164272860 audio/mpeg "
 coverImage: "HF123-The-Jovi-Jubilee-Jam-with-Disco77.jpg"

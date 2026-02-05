@@ -1,9 +1,9 @@
 ---
 title: "Friendly Fires - Heaven Let Me In (Official Video)"
 date: "2018-11-22"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "ifttt"
   - "youtube"
 enclosure: ""

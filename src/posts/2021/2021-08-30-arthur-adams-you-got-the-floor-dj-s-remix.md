@@ -1,9 +1,9 @@
 ---
 title: "Arthur Adams - You Got The Floor (DJ ''S'' Remix)"
 date: "2021-08-30"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "arthus-adams"
   - "dj-s"
   - "funk"

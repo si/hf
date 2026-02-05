@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 42 with Lemon Yellow Pea"
 date: "2015-04-17"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "demarkus-lewis"
   - "elliot-chapman"
   - "format-b"

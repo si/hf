@@ -1,9 +1,9 @@
 ---
 title: "Funky House Finesse 32"
 date: "2010-10-08"
-categories: 
+categories:
   - "funkyhousefinesse"
-tags: 
+tags:
   - "andy-ward"
   - "anthony-moriah"
   - "ben-sharkey"

@@ -1,9 +1,9 @@
 ---
 title: "Friday Night Fook Aboot with Disco77"
 date: "2023-03-24"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "alex-metric"
   - "alexis-victoria"
   - "andy-joyce"
@@ -46,30 +46,30 @@ coverImage: "Friday-Night-Fook-Aboot-with-Disco77.jpg"
 
 1. Ridney & Richard Earnshaw ft Andy Joyce - Reachin'
 
-3. Martin Wright ft La Fitte - Ma Ai O
+2. Martin Wright ft La Fitte - Ma Ai O
 
-5. ATFC pres OnePhatDeeva - In and Out of My Life (Knee Deep remix)
+3. ATFC pres OnePhatDeeva - In and Out of My Life (Knee Deep remix)
 
-7. Soul Brothers ft Joi Cardwell - Let It Go
+4. Soul Brothers ft Joi Cardwell - Let It Go
 
-9. Michael Gray ft Kelli Sae - You’re Gonna Make Me Love Somebody else
+5. Michael Gray ft Kelli Sae - You’re Gonna Make Me Love Somebody else
 
-11. Ferry Ultra & Roy Ayers - Dangerous Vibes (Emmaculate Remix)
+6. Ferry Ultra & Roy Ayers - Dangerous Vibes (Emmaculate Remix)
 
-13. Chapell ft Greg Salto - Are You Feeling Me
+7. Chapell ft Greg Salto - Are You Feeling Me
 
-15. KUU, Alex Metric, Rito ft Shungudzo - Lose Control
+8. KUU, Alex Metric, Rito ft Shungudzo - Lose Control
 
-17. Sandy Rivera & Jame Starck ft Alexis Victoria, Zetaphunk & Yvan Black - Set You Free
+9. Sandy Rivera & Jame Starck ft Alexis Victoria, Zetaphunk & Yvan Black - Set You Free
 
-19. Mattei & Omich - Rhythm Is a Dancer
+10. Mattei & Omich - Rhythm Is a Dancer
 
-21. Low Steppa - The Feeling
+11. Low Steppa - The Feeling
 
-23. Shakedown & Kid Kreme - At Night (Soulecta Dub)
+12. Shakedown & Kid Kreme - At Night (Soulecta Dub)
 
-25. Kelis - Trick Me (Soulecta Dub)
+13. Kelis - Trick Me (Soulecta Dub)
 
-27. Ninetones - Finder (Soulecta Dub) 
+14. Ninetones - Finder (Soulecta Dub) 
 
-29. Audio Bullys - Shot You Down (Soulecta Dub)
+15. Audio Bullys - Shot You Down (Soulecta Dub)

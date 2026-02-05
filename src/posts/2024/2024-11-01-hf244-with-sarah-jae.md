@@ -14,6 +14,7 @@ season: 3
 explicit: "no"
 duration: "01:00:30"
 ---
+
 **Our House Finesse Queen is back with a sublime selection of house tunes for your #Halloween2024 weekend. Let’s go-ooooooh!**
 
 ## Listen on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/hf244-with-sarah-jae-1-nov-2024/id355833875?i=1000675290758)
@@ -36,6 +37,3 @@ duration: "01:00:30"
 12. Eats Everything Feat Tiga & Audion - Dancing (Again!)
 13. Vintage Culture, Maverick, Sabre & Tom Breu - Weak (Extended Mix)
 14. Mylo - Drop The Pressure (Original Mix)
-
-
-

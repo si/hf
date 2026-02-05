@@ -1,9 +1,9 @@
 ---
 title: "Bobby D’Ambrosio, Michelle Weeks – Moment of My Life (JN Dubwise Re-Organ-ization)"
 date: "2019-03-15"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "bobby-dambrosio"
   - "ifttt"
   - "joey-negro"

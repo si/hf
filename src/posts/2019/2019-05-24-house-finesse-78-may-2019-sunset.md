@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 78 - May 2019 Sunset"
 date: "2019-05-24"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "armen-miran"
   - "elder-island"
   - "ferreck-dawn"

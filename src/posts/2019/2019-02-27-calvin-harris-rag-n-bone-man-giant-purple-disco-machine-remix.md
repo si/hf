@@ -1,9 +1,9 @@
 ---
 title: "Calvin Harris, Rag N Bone Man – Giant (Purple Disco Machine Remix)"
 date: "2019-02-27"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "calvin-harris"
   - "ifttt"
   - "purple-disco-machine"

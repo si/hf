@@ -1,9 +1,9 @@
 ---
 title: "Featuring… Sarah Jae"
 date: "2022-09-02"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "guest-mix"
   - "sarah-jae"
   - "techno"

@@ -1,9 +1,9 @@
 ---
 title: "Oliver Dollar, Nils Ohrmann – John's Church (Original Mix)"
 date: "2019-03-07"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "ifttt"
   - "nils-ohrmann"
   - "oliver-dollar"

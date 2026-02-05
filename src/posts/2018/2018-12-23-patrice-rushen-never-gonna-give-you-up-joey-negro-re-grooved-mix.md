@@ -1,9 +1,9 @@
 ---
 title: "Patrice Rushen – Never Gonna Give You Up (Joey Negro Re Grooved Mix)"
 date: "2018-12-23"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "ifttt"
   - "joey-negro"
   - "patrice-rushen"

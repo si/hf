@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 22"
 date: "2014-02-07"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "show"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/p/www.sowebmediauk.co.uk/dj-shows/HouseFinesse/House_Finesse_22.mp3 0 audio/mpeg "
 coverImage: "House-Finesse-22-Wide.jpg"

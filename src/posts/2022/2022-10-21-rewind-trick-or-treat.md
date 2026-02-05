@@ -1,9 +1,9 @@
 ---
 title: "REWIND to Trick Or Treat"
 date: "2022-10-21"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "one-phat-dj"
 enclosure: "https://pinecast.com/listen/720c4bbb-f947-4411-81d4-f23f2b58c5d6.mp3 142616646 audio/mpeg "
 coverImage: "Trick-or-Treat-with-One-Phat-DJ.png"

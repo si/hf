@@ -11,6 +11,7 @@ enclosure: "https://op3.dev/e/pinecast.com/listen/ea45e3e2-d2be-444b-b5a6-c7fac4
 coverImage: "HF291_with_LYP_Ode_to_Ron_Carroll.jpg"
 redirectFrom: "/hf291"
 ---
+
 **LYP returns to House Finesse with a heartfelt tribute to one of house music's true heroes: Ron Carroll. Expect a set full of soulful energy, timeless vocals, and uplifting grooves – a reminder of why Ron's influence runs so deep across the scene.**
 
 ## Listen on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/hf291-with-lyp-ode-to-ron-carroll-3-oct-2025/id355833875?i=1000729828300)

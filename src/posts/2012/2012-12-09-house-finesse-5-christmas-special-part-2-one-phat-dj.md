@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 5 Christmas Special Part 2 - One Phat DJ"
 date: "2012-12-09"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "one-phat-dj"
   - "special"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/p/www.sowebmediauk.co.uk/dj-shows/HouseFinesse/House_Finesse_5_-_Christmas_Special_Part_2_-_One_Phat_DJ.mp3 0 audio/mpeg "

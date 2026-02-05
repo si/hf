@@ -1,9 +1,9 @@
 ---
 title: "Funky House Finesse 22"
 date: "2010-01-30"
-categories: 
+categories:
   - "funkyhousefinesse"
-tags: 
+tags:
   - "3beat-red"
   - "alive-productions"
   - "amanda-wilson"

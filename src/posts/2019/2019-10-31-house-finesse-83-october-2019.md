@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 83 - October 2019"
 date: "2019-10-31"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "7l"
   - "adelphi-music-factory"
   - "alan-dixon"

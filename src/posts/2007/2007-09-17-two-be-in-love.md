@@ -1,9 +1,10 @@
 ---
 title: "Two Be In Love"
 date: "2007-09-17"
-categories: 
+categories:
   - "onephatdj"
 enclosure: "https://pinecast.com/listen/3af36a25-b4ee-4484-9871-8b6eeb70a0af.m4a 71660645 audio/x-m4a "
+coverImage: "1396172081_ce7d457827.jpg"
 ---
 
 Another month, another mix - this time featuring music I got my grubby mits on throughout the month of August (if you weren't aware, all podcasts feature tracks I get hold of the previous month, with occasional exception for the last two tracks of the mix). Last month saw some great releases, not just singles and promos but with albums from Mark Doyle's [Fierce Angel](https://www.fierceangel.com/) too. [Beach Angel 2007](https://www.amazon.com/exec/obidos/ASIN/B000TUXKX0/sjmedia-21) hit the shelves on August 23rd 2007 to bring the Summer to a close with some relatively downbeat tracks from the house industry. I've featured some of my favourite tracks from the compilation so you can get a taster of the album. If you like what you hear, why not [go buy it](https://www.amazon.com/exec/obidos/ASIN/B000TUXKX0/sjmedia-21)? While most of you associate August with the good times of festivals, holidays and parties, I am also fortunate enough to celebrate my wedding anniversary (its the thirteenth if anyone is interested). For that reason, this podcast is dedicated to my beautiful and amazing wife, Lizzy. She is also a big lover of funky vocal house music and the final two tracks are actually some of her all time favourites - it's not just a coincidence they are featured on Beach Angel 2007 you know? Anyway, without further ado, I present to you _Episode 31_ of the [One Phat DJ Podcast](https://feeds.feedburner.com/onephatdj) - “**Two Be In Love**”. ![Two Be In Love cover](https://farm2.static.flickr.com/1155/1396172081_ce7d457827.jpg?v=0 "Two Be In Love cover")

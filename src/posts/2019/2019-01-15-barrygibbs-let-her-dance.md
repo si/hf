@@ -1,9 +1,9 @@
 ---
 title: "Barry&Gibbs – Let Her Dance"
 date: "2019-01-15"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "barrygibbs"
   - "ifttt"
   - "youtube"

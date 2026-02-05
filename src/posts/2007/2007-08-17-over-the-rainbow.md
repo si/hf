@@ -1,9 +1,10 @@
 ---
 title: "Over The Rainbow"
 date: "2007-08-17"
-categories: 
+categories:
   - "onephatdj"
 enclosure: "https://www.onephatdj.com/mp3/podcast/29_over_the_rainbow_podcast.mp3 67981975 audio/mpeg "
+coverImage: "1147485071_53c74d0c8f.jpg"
 ---
 
 It's official - this has been the worst British Summer this millennium! The weather has been terrible and dampened spirits as well as the general landmass of the UK. I know there has been some terrible news coming from the vast amounts of rain but the name of this mix is an attempt to look past the negative side of the weather, focusing more on the bright side of things (with a few camp connotations thrown in for good measure). With all the crazy things taking over my life over the last few months, I'm hoping the listeners out there will forgive me for the lateness of the July edition of the podcast. Anyway, quit your winging and check out the tunes. ![Over The Rainbow cover](https://farm2.static.flickr.com/1119/1147485071_53c74d0c8f.jpg?v=0 "Over The Rainbow cover")

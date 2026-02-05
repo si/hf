@@ -1,9 +1,9 @@
 ---
 title: "John Summit - La Danza (David Penn Extended Remix)"
 date: "2022-08-26"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "youtube"
 enclosure: ""
 coverImage: "TUl3WetVtI8.jpg"

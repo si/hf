@@ -1,9 +1,9 @@
 ---
 title: "Funky House Finesse 45"
 date: "2012-01-27"
-categories: 
+categories:
   - "funkyhousefinesse"
-tags: 
+tags:
   - "alex-dimitri"
   - "anthony-atcherley"
   - "beatdown"

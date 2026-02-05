@@ -1,7 +1,7 @@
 ---
 title: "Born In October"
 date: "2005-10-04"
-categories: 
+categories:
   - "onephatdj"
 enclosure: "https://pinecast.com/listen/d91b402a-759b-4c8a-9aac-4d5b33e7aca5.mp3 95148102 audio/mpeg "
 coverImage: "Born-In-October.png"

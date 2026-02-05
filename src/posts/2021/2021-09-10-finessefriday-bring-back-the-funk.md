@@ -1,9 +1,9 @@
 ---
 title: "#FinesseFriday - Bring Back The Funk"
 date: "2021-09-10"
-categories: 
+categories:
   - "finessefriday"
-tags: 
+tags:
   - "one-phat-dj"
 enclosure: "https://pinecast.com/listen/cb635ff0-d929-4e78-9f70-51aeea7f6878.mp3 118312956 audio/mpeg "
 coverImage: "746DCEA2-50FE-484A-9F3A-0905871926B2.jpeg"

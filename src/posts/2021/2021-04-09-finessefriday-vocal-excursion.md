@@ -1,9 +1,9 @@
 ---
 title: "#FinesseFriday - Vocal Excursion"
 date: "2021-04-09"
-categories: 
+categories:
   - "finessefriday"
-tags: 
+tags:
   - "one-phat-dj"
 enclosure: "https://pinecast.com/listen/9783157e-90f2-479a-947c-2e4975a4ada5.mp3 49871769 audio/mpeg "
 coverImage: "vocal-excursion.png"
@@ -34,4 +34,4 @@ Starting off with the recognisable vocals from Solo Music's classic Fade, this o
 9. Bob Sinclar ft Steve Edwards - World Hold On (Children Of The Sky) (Club Mix)
 10. DJ Cruze presents The Funkfinders - Cease!
 11. **One Phat Tune:** Georgie Porgie - Life Goes On (GT-Express Vinyl Soul Mix)
-12. **One Phat Classic:** Barbara Tucker - Stop Playing With My Mind (Full Intention Mix_)_
+12. **One Phat Classic:** Barbara Tucker - Stop Playing With My Mind (Full Intention Mix*)*

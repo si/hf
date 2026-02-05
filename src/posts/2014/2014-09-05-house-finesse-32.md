@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 32"
 date: "2014-09-05"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "one-phat-dj"
   - "show"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/p/www.sowebmediauk.co.uk/dj-shows/HouseFinesse/House_Finesse_32.mp3 0 audio/mpeg "

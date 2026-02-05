@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 38 with Jay Funk"
 date: "2015-01-05"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "guest-mix"
   - "jay-funk"
   - "show"

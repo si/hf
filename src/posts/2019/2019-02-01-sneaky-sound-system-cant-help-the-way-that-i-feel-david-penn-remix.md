@@ -1,9 +1,9 @@
 ---
 title: "Sneaky Sound System - Can't Help The Way That I Feel (David Penn Remix)"
 date: "2019-02-01"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "david-penn"
   - "ifttt"
   - "sneaky-sound-system"

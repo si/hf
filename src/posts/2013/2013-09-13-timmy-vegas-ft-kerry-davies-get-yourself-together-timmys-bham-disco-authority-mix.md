@@ -1,9 +1,9 @@
 ---
 title: "Timmy Vegas ft Kerry Davies - Get Yourself Together (Timmy's B'ham Disco Authority Mix)"
 date: "2013-09-13"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "kerry-davies"
   - "timmy-vegas"
   - "z-records"

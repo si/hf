@@ -1,9 +1,9 @@
 ---
 title: "Sunset City - Feels So Right (Art of Tones '1982' Extended Remix)"
 date: "2020-06-02"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "art-of-tones"
   - "sunset-city"
   - "youtube"

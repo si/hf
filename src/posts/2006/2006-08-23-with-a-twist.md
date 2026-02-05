@@ -1,7 +1,7 @@
 ---
 title: "With A Twist"
 date: "2006-08-23"
-categories: 
+categories:
   - "onephatdj"
 enclosure: "https://pinecast.com/listen/9a774f0e-6321-435c-840d-d31ee89fb88e.mp3 104796729 audio/mpeg "
 coverImage: "With-A-Twist-23-August-2006.jpg"

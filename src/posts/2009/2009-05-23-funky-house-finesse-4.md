@@ -1,9 +1,9 @@
 ---
 title: "Funky House Finesse 4"
 date: "2009-05-23"
-categories: 
+categories:
   - "funkyhousefinesse"
-tags: 
+tags:
   - "alec-sun-drae"
   - "amanda-wilson"
   - "bad-boy-atlantic"

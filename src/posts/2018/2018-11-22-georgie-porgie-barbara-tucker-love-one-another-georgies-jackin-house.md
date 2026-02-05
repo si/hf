@@ -1,9 +1,9 @@
 ---
 title: "Georgie Porgie, Barbara Tucker- Love One Another (Georgie's Jackin House)"
 date: "2018-11-22"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "barbara-tucker"
   - "georgie-porgie"
   - "ifttt"

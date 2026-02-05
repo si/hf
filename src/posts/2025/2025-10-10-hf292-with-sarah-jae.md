@@ -15,6 +15,7 @@ season: 3
 explicit: "no"
 duration: "01:04:23"
 ---
+
 After a lively summer away from the decks, Sarah Jae returns with a set inspired by her slot at Secret Island Festival on Mersea Island 🌴
 
 Bright, bouncy and built for good vibes, this mix is packed with disco-touched energy and festival flavour – the perfect way to keep the sunshine spirit alive as we head into moody autumn.
@@ -46,5 +47,3 @@ If you want even more music, commentary and exclusives, head to our VIP club at 
 13. Lola Young – Messy (Sgt Slick's Discotizer ReCut)
 14. Softmal, Nytron – All Night Long (2K21 Mix)
 15. Moon Rocket, Re-Tide – Unlimited Love
-
-

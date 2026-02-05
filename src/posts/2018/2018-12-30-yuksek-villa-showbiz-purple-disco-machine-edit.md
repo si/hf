@@ -1,9 +1,9 @@
 ---
 title: "Yuksek ft Villa – Showbiz (Purple Disco Machine Edit)"
 date: "2018-12-30"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "ifttt"
   - "purple-disco-machine"
   - "villa"

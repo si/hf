@@ -1,9 +1,9 @@
 ---
 title: "SAMO, Lee Wilson – Somebody 2 Love (KORT Mix)"
 date: "2018-12-24"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "ifttt"
   - "lee-wilson"
   - "samo"

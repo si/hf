@@ -1,9 +1,9 @@
 ---
 title: "Loods - Walking away"
 date: "2019-08-06"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "loods"
   - "youtube"
 enclosure: ""

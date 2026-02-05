@@ -1,9 +1,9 @@
 ---
 title: "Spring Break '22 with One Phat DJ"
 date: "2022-03-25"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "adelphi-music-factory"
   - "dave-lee"
   - "david-morales"

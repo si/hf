@@ -1,9 +1,9 @@
 ---
 title: "Funky House Finesse 6"
 date: "2009-06-20"
-categories: 
+categories:
   - "funkyhousefinesse"
-tags: 
+tags:
   - "absolutely-records"
   - "adam-shaw"
   - "andrea-carissimi"
@@ -90,7 +90,7 @@ This is the 6th episode of **Funky House Finesse with One Phat DJ** and for the 
 
 ## Listen Online
 
-\[audio:/finesse/One\_Phat\_DJ\_-\_Funky\_House\_Finesse\_6\_20th\_June\_2009\_128.mp3\]
+\[audio:/finesse/One_Phat_DJ\_-_Funky_House_Finesse_6_20th_June_2009_128.mp3\]
 
 ## Track Listing
 

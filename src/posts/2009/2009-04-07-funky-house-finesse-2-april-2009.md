@@ -1,9 +1,9 @@
 ---
 title: "Funky House Finesse 2 - April 2009"
 date: "2009-04-07"
-categories: 
+categories:
   - "funkyhousefinesse"
-tags: 
+tags:
   - "alessia-kay"
   - "andrea-love"
   - "angie-brown"
@@ -44,7 +44,7 @@ enclosure: "https://farm4.static.flickr.com/3318/3420999192_869a16b705.jpg?v=123
 
 According to [Feedburner](https://feeds.feedburner.com/onephatdj) statistics, the [first Funky House Finesse](https://simonjobling.com/blog/2009/funky-house-finesse-march-2009/) was **downloaded over 10,000 times** - that is _more than double_ of any single episode of the One Phat DJ Podcast. It just goes to show that funky house is still hugely popular online and there is a market for it. The problem is this: I know that only a tiny minority of that figure actually spent money on the featured tracks. Naughty, naughty! The reason _Funky House Finesse_ is produced is to promote the latest funky house tunes to everyone, especially those tracks that don't get prime time coverage but deserve it. Seriously, if you're enjoying the tunes, reward the artists and producers for their efforts by purchasing the track. Nearly all the tracks featured are linked to legal download websites where you can buy the track, normally for about £1. With the lecture out the way, let's move on to the second show from the _Funky House Finesse_ series. Featuring some monster tracks from the likes of **Bassmonkeys**, **De'lacy**, **Jay J**, **One Foot In The Groove**, **Rudenko**, **Bimbo Jones**, **Ricky Luchini**, **Moony** and a sexy remix by **Jazz N Groove** of **Soulsearcher**'s classic "_Can't Get Enough_" kicking the show off, you're in for 90 minutes of pure class mixed up by your resident One Phat DJ. As before, the show will **only be available to download for 1 month** so make sure you don't delay and download it right away. ![Funky House Finesse - April 2009](https://farm4.static.flickr.com/3318/3420999192_869a16b705.jpg?v=1239104312) **Download Funky House Finesse 2 (April 2009)** \[Expired on May 9th 2009\] **Funky House Finesse 2** will also be broadcast on [Lifted Radio](https://lifted-radio.co.uk/) soon. Dates and times are still to be confirmed but I am over the moon about landing the slot. I've been keen to broadcast the _Funky House Finesse_ shows since the start and its an honour that Lifted Radio have offered me the slot. I'll be sure to announce where and when you can check it out. Talking of Lifted Radio, good friend [Paul Velocity](https://paulvelocity.co.uk/) who also hosts a fortnightly show every Thursday afternoon kindly allowed me to sort out a guest mix a few weeks back. Thankfully, you can [download and listen to the Platform Six show](https://lifted-radio.co.uk/podcasts/?p=794) any time you want as all the shows are archived in a podcast. Check it out - I start about 25 minutes in. Finally, if you enjoy the _Funky House Finesse_ series, how about contributing to the production and download costs? A lot of work goes into the show behind the scenes and those downloads don't come for free - bandwidth for 10,000 MP3s over 100MB in size isn't cheap so if you're feeling generous, how about donating to the cause via [PayPal](https://www.paypal.com/)? Click the button below.
 
-   ![](images/pixel.gif)
+![](images/pixel.gif)
 
 With all that said and done, I present to you **Funky House Finesse 2 (April 2009)**. Don't forget to send us feedback on the show and spread the word. Even a [mention on Facebook](https://www.facebook.com/share.php?u=https://simonjobling.com/blog/2009/funky-house-finesse-2-april-2009) or [Twitter](https://twitter.com/home?status=listening+to+Funky+House+Finesse+2+by+One+Phat+DJ) will do the job.
 

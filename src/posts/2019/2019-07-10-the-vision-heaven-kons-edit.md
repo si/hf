@@ -1,9 +1,9 @@
 ---
 title: "The Vision - Heaven (KON's Edit)"
 date: "2019-07-10"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "glitterbox"
   - "kon"
   - "the-vision"

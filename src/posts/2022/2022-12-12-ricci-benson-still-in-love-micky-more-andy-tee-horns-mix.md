@@ -1,9 +1,9 @@
 ---
 title: "Ricci Benson - Still In Love (Micky More & Andy Tee Horns Mix)"
 date: "2022-12-12"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "andy-tee"
   - "micky-more"
   - "ricci-benson"

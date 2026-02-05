@@ -1,9 +1,9 @@
 ---
 title: "Soul Warmer with LYP"
 date: "2022-09-16"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "lyp"
 enclosure: "https://pinecast.com/listen/8cba4134-d2cf-4da7-90a3-1f2cae6cd1e5.mp3 72381218 audio/mpeg "
 coverImage: "HF136-Soul-Warmer-with-LYP.jpg"

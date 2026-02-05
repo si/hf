@@ -1,9 +1,9 @@
 ---
 title: "Funky House Finesse 33"
 date: "2010-11-26"
-categories: 
+categories:
   - "funkyhousefinesse"
-tags: 
+tags:
   - "3beat-productions"
   - "ann-nesby"
   - "armand-van-helden"

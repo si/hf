@@ -1,9 +1,9 @@
 ---
 title: "Funky House Finesse 14"
 date: "2009-10-10"
-categories: 
+categories:
   - "funkyhousefinesse"
-tags: 
+tags:
   - "3-the-hard-way"
   - "alan-braxe"
   - "alexandra-prince"
@@ -79,7 +79,7 @@ enclosure: "https://www.onephatdj.com/media/finesse/Funky_House_Finesse_with_One
 
 ## Downloads
 
-\[audio:finesse/Funky\_House\_Finesse\_with\_One\_Phat\_DJ\_14\_10th\_October\_2009.mp3\] [Download Funky House Finesse 14 MP3](https://onephatdj.com/download/16) (~114.2MB, 128kbps)
+\[audio:finesse/Funky_House_Finesse_with_One_Phat_DJ_14_10th_October_2009.mp3\] [Download Funky House Finesse 14 MP3](https://onephatdj.com/download/16) (~114.2MB, 128kbps)
 
 ## Track Listing
 

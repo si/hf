@@ -1,9 +1,9 @@
 ---
 title: "Phil Fuldner - Take Me"
 date: "2019-05-15"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "ifttt"
   - "youtube"
 enclosure: ""

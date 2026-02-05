@@ -1,9 +1,9 @@
 ---
 title: "REWIND to Beautiful Beats"
 date: "2023-03-31"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "one-phat-dj"
   - "rewind"
 enclosure: "https://pinecast.com/listen/28c795b9-86a6-4d0f-8b3e-ed44e8c540b7.mp3 71186385 audio/mpeg "
@@ -16,28 +16,28 @@ coverImage: "REWIND-to-Beautiful-Beats.jpg"
 
 1. DJ Don Casino presents Razor Cain – Livin’ My Life (Club Mix)
 
-3. Cookie Monsterz ft Nicole Tyler – I Won’t Stop (So Soul Mix)
+2. Cookie Monsterz ft Nicole Tyler – I Won’t Stop (So Soul Mix)
 
-5. Badura ft Laya Green – Hold You (Original Club Mix)
+3. Badura ft Laya Green – Hold You (Original Club Mix)
 
-7. Faz – Someday (Faz Phillys Flavours Mix)
+4. Faz – Someday (Faz Phillys Flavours Mix)
 
-9. Ron Gelfer ft Tiger Lily – Your Beat Sounds Like (Original)
+5. Ron Gelfer ft Tiger Lily – Your Beat Sounds Like (Original)
 
-11. Elektro Organik – Everybody Dance (Original Mix)
+6. Elektro Organik – Everybody Dance (Original Mix)
 
-13. Carol Jiani – Somebody Else’s Guy (Mix 2)
+7. Carol Jiani – Somebody Else’s Guy (Mix 2)
 
-15. Soul Avengerz – It’s Alright (Original)
+8. Soul Avengerz – It’s Alright (Original)
 
-17. AC Soul Symphony – The Kinda Love (Joey Negro Disco Blend Mix)
+9. AC Soul Symphony – The Kinda Love (Joey Negro Disco Blend Mix)
 
-19. De Souza ft Shena – Guilty (Bimbo Jones Remix)
+10. De Souza ft Shena – Guilty (Bimbo Jones Remix)
 
-21. Alex Gaudino ft Crystal Waters – Destination Calabria (Club Mix)
+11. Alex Gaudino ft Crystal Waters – Destination Calabria (Club Mix)
 
-23. Disco Darlings & Peyton – I Just Wanna Be Lonely (Main Mix)
+12. Disco Darlings & Peyton – I Just Wanna Be Lonely (Main Mix)
 
-25. Harrison Crump – The Talk 2 (Bad Boy Bill Remix)
+13. Harrison Crump – The Talk 2 (Bad Boy Bill Remix)
 
-27. Max Sedgley – Happy (Go Home Productions Remix)
+14. Max Sedgley – Happy (Go Home Productions Remix)

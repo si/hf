@@ -1,9 +1,9 @@
 ---
 title: "Funky House Finesse - March 2009"
 date: "2009-02-27"
-categories: 
+categories:
   - "funkyhousefinesse"
-tags: 
+tags:
   - "dance"
   - "download"
   - "funky-house"

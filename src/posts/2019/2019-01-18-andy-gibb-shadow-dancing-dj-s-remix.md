@@ -1,9 +1,9 @@
 ---
 title: "Andy Gibb - Shadow Dancing (Dj ''S'' Remix)"
 date: "2019-01-18"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "andy-gibb"
   - "dj-s"
   - "ifttt"

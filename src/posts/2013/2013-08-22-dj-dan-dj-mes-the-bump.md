@@ -1,9 +1,9 @@
 ---
 title: "DJ Dan & DJ Mes - The Bump"
 date: "2013-08-22"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "dj-dan"
   - "dj-mes"
   - "soundcloud"

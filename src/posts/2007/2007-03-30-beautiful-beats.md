@@ -1,9 +1,10 @@
 ---
 title: "Beautiful Beats"
 date: "2007-03-30"
-categories: 
+categories:
   - "onephatdj"
 enclosure: "https://www.onephatdj.com/mp3/podcast/24_beautiful_beats_podcast.mp3 71043116 audio/mpeg "
+coverImage: "439874407_f3d9d68222.jpg"
 ---
 
 This month has seen one of the biggest house music events of the year play host to some of the biggest DJs and artists from the music scene, at the same time introducing what is likely to be the biggest house tracks of the year. I am, of course, talking about the Winter Music Conference in Miami which has now passed us by, leaving us with a wad of new tracks to get our ears around. One Phat DJ favourites Fierce Angels threw their own pool party (obviously not hindered by a bit of Spring rain), as did numerous other DJs and music labels. A good time was had by all from most accounts - roll on 2008! After all the party shenanigans, I can now go through my record box which is literally bursting with new material for showcasing in the podcast. Prepare yourself for some **Beautiful Beats**. ![](https://farm1.static.flickr.com/163/439874407_f3d9d68222.jpg?v=0)

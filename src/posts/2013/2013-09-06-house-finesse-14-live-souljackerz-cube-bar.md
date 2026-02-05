@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 14 - Live with Souljackerz at Cube Bar"
 date: "2013-09-06"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "colchester"
   - "cube-bar"
   - "souljackerz"

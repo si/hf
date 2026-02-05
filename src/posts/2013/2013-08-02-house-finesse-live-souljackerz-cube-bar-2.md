@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 13"
 date: "2013-08-02"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "colchester"
   - "cube-bar"
   - "souljackerz"

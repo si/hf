@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 37"
 date: "2014-12-05"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "angie-brown"
   - "barbara-tucker"
   - "ben-westbeech"

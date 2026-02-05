@@ -1,9 +1,9 @@
 ---
 title: "Jocelyn Brown, Inaya Day - Move Of The Spirit (Terry Hunter Original Disco Mix)"
 date: "2018-12-20"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "ifttt"
   - "youtube"
 enclosure: ""

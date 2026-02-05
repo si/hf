@@ -1,7 +1,7 @@
 ---
 title: "#ONEPHATDECADE Pt 9"
 date: "2015-09-04"
-categories: 
+categories:
   - "shows"
 enclosure: ""
 coverImage: "ONEPHATDECADE-with-One-Phat-DJ-Pt-2.png"

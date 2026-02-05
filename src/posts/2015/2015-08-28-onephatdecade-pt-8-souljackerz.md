@@ -1,9 +1,9 @@
 ---
 title: "#ONEPHATDECADE Pt 8 - Souljackerz"
 date: "2015-08-28"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "onephatdecade"
   - "souljackerz"
   - "stuart-braybrooke"

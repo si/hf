@@ -15,7 +15,8 @@ season: 3
 explicit: "no"
 duration: "01:14:54"
 ---
-This week's episode features Taylan, a young new talent making waves in the house scene with his debut mix for House Finesse as part of our 20th anniversary series. 
+
+This week's episode features Taylan, a young new talent making waves in the house scene with his debut mix for House Finesse as part of our 20th anniversary series.
 
 You might've caught him recently warming up the dancefloor at a low-key industry party – now he's bringing that same raw energy to the podcast. Expect heads-down grooves, dubby textures, and some seriously weighty rollers.
 
@@ -53,4 +54,3 @@ Includes an exclusive spin of Sakura's "Dance With Me" – heard here first.
 15. Sakura – Dance With Me (Unreleased)
 16. L.P. Rhythm – Versatile
 17. Tommy Phillips – Fixation
-

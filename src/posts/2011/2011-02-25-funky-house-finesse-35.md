@@ -1,9 +1,9 @@
 ---
 title: "Funky House Finesse 35"
 date: "2011-02-25"
-categories: 
+categories:
   - "funkyhousefinesse"
-tags: 
+tags:
   - "addy-van-de-zwan"
   - "adele"
   - "amanda-wilson"

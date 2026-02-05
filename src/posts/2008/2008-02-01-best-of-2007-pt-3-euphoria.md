@@ -1,9 +1,10 @@
 ---
 title: "Best Of 2007, Pt 3 - Euphoria"
 date: "2008-02-01"
-categories: 
+categories:
   - "onephatdj"
 enclosure: "https://onephatdj.com/mp3/podcast/39_best_of_2007_part_3_euphoria_jan08.m4a 69966922 audio/mpeg "
+coverImage: "2235055364_402db85b68.jpg"
 ---
 
 In the third and final installment of One Phat DJ's "_Best Of 2007_" series, we venture into the tougher side of funky house and get you all psyched for a good dance. In 2007, the dirty bassline was very prominent in the dance scene so there was plenty of material to get your knickers in a twist, getting the dancef loors really sweaty while the music verged on hard house. Needless to say, the majority of that material will have made it into this mix so its time to loosen up before I take you on your last journey of 2007. This is _Episode 39_ of the One Phat DJ podcast - this is the "_Best Of 2007, Part 3 - **Euphoria**_". [![Best Of 2007, Part 3 - Euphoria](https://farm3.static.flickr.com/2033/2235055364_402db85b68.jpg?v=0)](https://www.flickr.com/photos/peelhere/2235055364/ "More sizes of the artwork are available on Flickr")
@@ -15,85 +16,84 @@ I've long been a fan of _The Shapeshifters_, ever since the massive 2003 hit "_L
 ### [Track Listing](# "More sizes ")
 
 1. #### [The Shapeshifters](# "More sizes ") [- _New Day (Extended Mix)_](# "More sizes ")
-    
-    - [Positiva](https://www.positivarecords.com/)
-    - Released: 6th September 2007
-    - [Buy from iTunes](https://www.simonjobling.com/buy/newday)
-    - 00:00:00:00
+   - [Positiva](https://www.positivarecords.com/)
+   - Released: 6th September 2007
+   - [Buy from iTunes](https://www.simonjobling.com/buy/newday)
+   - 00:00:00:00
+
 2. #### De Souza ft Shena - _Guilty (Bimbo Jones Remix)_
-    
-    - [Hed Kandi](https://www.hedkandi.com/)
-    - Released: 4th February 2007
-    - [Buy from iTunes](https://www.simonjobling.com/buy/desouzaguilty)
-    - 00:06:07:50
+   - [Hed Kandi](https://www.hedkandi.com/)
+   - Released: 4th February 2007
+   - [Buy from iTunes](https://www.simonjobling.com/buy/desouzaguilty)
+   - 00:06:07:50
+
 3. #### Sergio Flores vs Mitomi Tokoto - _Hold On (That Piano Track) (Sergio Flores Vocal Mix)_
-    
-    - [Purple Tracks](https://www.purplemusic.ch/)
-    - Released: 15th June 2007
-    - [Buy from iTunes](https://www.simonjobling.com/buy/holdonthatpianotrack)
-    - 00:12:22:50
+   - [Purple Tracks](https://www.purplemusic.ch/)
+   - Released: 15th June 2007
+   - [Buy from iTunes](https://www.simonjobling.com/buy/holdonthatpianotrack)
+   - 00:12:22:50
+
 4. #### Raul Rincon - _Mi Amor (Sweet Carolina Vox)_
-    
-    - [Hed Kandi](https://www.hedkandi.com/)
-    - Released: 15th October 2007
-    - [Buy from Amazon](https://www.simonjobling.com/buy/miamor)
-    - 00:17:11:25
+   - [Hed Kandi](https://www.hedkandi.com/)
+   - Released: 15th October 2007
+   - [Buy from Amazon](https://www.simonjobling.com/buy/miamor)
+   - 00:17:11:25
+
 5. #### Armand Van Helden - _NYC Beat (Original)_
-    
-    - [Southern Fried Records](https://www.southernfriedrecords.com/)
-    - Released: 24th May 2007
-    - [Buy from iTunes](https://www.simonjobling.com/buy/nycbeat)
-    - 00:22:11:25
+   - [Southern Fried Records](https://www.southernfriedrecords.com/)
+   - Released: 24th May 2007
+   - [Buy from iTunes](https://www.simonjobling.com/buy/nycbeat)
+   - 00:22:11:25
+
 6. #### Ida Corr vs Fedde Le Grand - _Let Me Think About It (Original Mix)_
-    
-    - [Data Records](https://www.ministryofsound.com/)
-    - Released: 17th September 2007
-    - [Buy from iTunes](https://www.simonjobling.com/buy/idacorr)
-    - 00:26:11:25
+   - [Data Records](https://www.ministryofsound.com/)
+   - Released: 17th September 2007
+   - [Buy from iTunes](https://www.simonjobling.com/buy/idacorr)
+   - 00:26:11:25
+
 7. #### Kingpinz ft Antonio Lucas - _Need You Tonight (Groovecutter Remix)_
-    
-    - [Cayenne Recordings](https://www.cayennerecordings.com/)
-    - Released: 1st January 2007
-    - [Buy from DJ Download](https://www.simonjobling.com/buy/kingpinz)
-    - 00:31:03:75
+   - [Cayenne Recordings](https://www.cayennerecordings.com/)
+   - Released: 1st January 2007
+   - [Buy from DJ Download](https://www.simonjobling.com/buy/kingpinz)
+   - 00:31:03:75
+
 8. #### Jason Herd - _So Strong (Original)_
-    
-    - [Lowered Recordings](https://www.loweredrecordings.com/)
-    - Released: 27th August 2007
-    - [Buy from DJ Download](https://www.simonjobling.com/buy/sostrong)
-    - 00:36:33:75
+   - [Lowered Recordings](https://www.loweredrecordings.com/)
+   - Released: 27th August 2007
+   - [Buy from DJ Download](https://www.simonjobling.com/buy/sostrong)
+   - 00:36:33:75
+
 9. #### Henrik B ft Terri B - _Soul Heaven (E-Squire Mix)_
-    
-    - [Boss Records](https://www.bossrecords.com/)
-    - Released: 13th August 2007
-    - [Buy from DJ Download](https://www.simonjobling.com/buy/soulheaven)
-    - 00:43:18:75
+   - [Boss Records](https://www.bossrecords.com/)
+   - Released: 13th August 2007
+   - [Buy from DJ Download](https://www.simonjobling.com/buy/soulheaven)
+   - 00:43:18:75
+
 10. #### Dave Spoon ft Laura Vane - _Won't Do It Again (Sunrise) (Funkagenda's Out of Character Mix)_
-    
     - [Big Love](https://www.biglove.co.uk)
     - Released: 26th February 2007
     - [Buy from DJ Download](https://www.simonjobling.com/buy/wontdoitagain)
     - 00:48:18:75
+
 11. #### Alex Gaudino ft Crystal Waters - _Destination Calabria (Club Mix)_
-    
     - [Data Records](https://www.ministryofsound.com/)
     - Released: 5th December 2006
     - [Buy from iTunes](https://www.simonjobling.com/buy/destinationcalabria)
     - 00:53:46:87
+
 12. #### Dada ft Sandy Rivera & Trix - _Lollipop (Club Mix)_
-    
     - [Data Records](https://www.ministryofsound.com/)
     - Released: 30th April 2007
     - [Buy from iTunes](https://www.simonjobling.com/buy/dadalollipop)
     - 00:58:36:56
+
 13. #### Mason vs Princess Superstar - _Perfect (Exceeder) (Vocal Club Mix)_
-    
     - [Data Records](https://www.ministryofsound.com/)
     - Released: 22nd January 2007
     - [Buy from iTunes](https://www.simonjobling.com/buy/masonprincesssuperstar)
     - 01:02:51:56
+
 14. #### Robyn - _With Every Heartbeat (Punks Jump Up Remix)_
-    
     - [Konichiwa Records](https://www.konichiwa.se/)
     - Released: 5th August 2007
     - [Buy from iTunes](https://www.simonjobling.com/buy/robinheartbeat)

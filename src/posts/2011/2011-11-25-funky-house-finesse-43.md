@@ -1,7 +1,7 @@
 ---
 title: "Funky House Finesse 43"
 date: "2011-11-25"
-categories: 
+categories:
   - "funkyhousefinesse"
 enclosure: "https://www.sowebmediauk.co.uk/dj-shows/OnePhatDj2/Funky_House_Finesse_43_Nov_2011_128.mp3 audio/mpeg "
 coverImage: "Funky_House_Finesse_43.jpg"

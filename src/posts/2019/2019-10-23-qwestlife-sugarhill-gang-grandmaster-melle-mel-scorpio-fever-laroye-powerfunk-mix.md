@@ -1,9 +1,9 @@
 ---
 title: "Qwestlife + Sugarhill Gang, GrandMaster Melle Mel & Scorpio - Fever (Laroye Powerfunk Mix)"
 date: "2019-10-23"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "glitterbox"
   - "grandmaster-melle-mel"
   - "laroye-powerfunk"

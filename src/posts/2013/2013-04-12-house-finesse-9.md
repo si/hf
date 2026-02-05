@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 9"
 date: "2013-04-12"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "azucar"
   - "barbara-tucker"
   - "cajmere"

@@ -1,7 +1,7 @@
 ---
 title: "Funky House Finesse - The Big 30"
 date: "2010-07-02"
-categories: 
+categories:
   - "funkyhousefinesse"
 enclosure: "https://www.housefinesse.com/wp-content/uploads/2010/07/Funky_House_Finesse_The_Big_30_2nd_July_2010_192_v2.mp3 261201504 audio/mpeg "
 coverImage: "the_big_30_by_cole_henley.jpg"

@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 46"
 date: "2015-06-26"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "3-winans-brothers"
   - "alex-newell"
   - "artful"

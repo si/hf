@@ -1,7 +1,7 @@
 ---
 title: "House Finesse 63 – June 2017 with GWEILO"
 date: "2017-06-30"
-categories: 
+categories:
   - "shows"
 enclosure: ""
 coverImage: "Gweilo-June-2017.png"

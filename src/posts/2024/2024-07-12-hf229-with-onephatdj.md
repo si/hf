@@ -25,6 +25,6 @@ redirectFrom: "/hf229"
 8. Soul Central, Kathy Brown - Strings of Life (Stronger On My Own) (Michael Gray Remix)
 9. Kon, Fiorious, Saturday Love - Show Me How to Love Me (Nick Bike Extended Mix)
 10. Eddie Amador, Riva Starr - House Music (Riva Starr Mo' Disco 2.5 Club Remix)
-11.  Earth n Days - Wait A Minute (Extended Mix)
+11. Earth n Days - Wait A Minute (Extended Mix)
 12. Armand Van Helden - My My My (AVH Rework)
 13. Honey Dijon, Jamie xx - Baddy On The Floor (Original Mix)

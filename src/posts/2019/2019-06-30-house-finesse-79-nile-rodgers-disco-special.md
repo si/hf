@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 79 - #NileRodgers Disco Special"
 date: "2019-06-30"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "2-tyme"
   - "advance"
   - "al-p"

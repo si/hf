@@ -1,9 +1,9 @@
 ---
 title: "#ONEPHATDECADE Pt 6 – J Paul Getto LIVE from Milan, Italy"
 date: "2015-08-14"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "onephatdecade"
   - "guest"
   - "guest-mix"

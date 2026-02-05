@@ -1,9 +1,9 @@
 ---
 title: "Blazers - Side 2 Side [F*CLR]"
 date: "2018-12-19"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "ifttt"
   - "youtube"
 enclosure: ""

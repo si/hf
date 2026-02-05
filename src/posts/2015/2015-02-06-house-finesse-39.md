@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 39"
 date: "2015-02-06"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "another-excuse"
   - "danny-cruz"
   - "disco-tech"

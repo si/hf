@@ -1,9 +1,9 @@
 ---
 title: "The Tribe of Good - Turning It Up For The Sunshine"
 date: "2019-01-04"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "ifttt"
   - "the-tribe-of-good"
   - "youtube"

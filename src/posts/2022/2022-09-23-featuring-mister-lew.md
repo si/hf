@@ -1,9 +1,9 @@
 ---
 title: "Featuring… Mister Lew"
 date: "2022-09-23"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "french-house"
   - "guest-mix"
   - "mister-lew"

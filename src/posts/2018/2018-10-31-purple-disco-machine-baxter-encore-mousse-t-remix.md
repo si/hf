@@ -1,9 +1,9 @@
 ---
 title: "Purple Disco Machine, Baxter – Encore (Mousse T. Remix)"
 date: "2018-10-31"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "baxter"
   - "ifttt"
   - "purple-disco-machine"

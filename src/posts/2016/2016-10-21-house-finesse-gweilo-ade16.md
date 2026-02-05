@@ -1,9 +1,9 @@
 ---
 title: "House Finesse Gweilo ADE16"
 date: "2016-10-21"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "ade16"
   - "gweilo"
 enclosure: "https://pinecast.com/listen/1730e977-5762-46da-afba-b6aa774b401e.mp3 81146126 audio/mpeg "

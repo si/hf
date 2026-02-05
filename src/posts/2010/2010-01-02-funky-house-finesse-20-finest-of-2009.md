@@ -1,9 +1,9 @@
 ---
 title: "Funky House Finesse 20 - Finest of 2009"
 date: "2010-01-02"
-categories: 
+categories:
   - "funkyhousefinesse"
-tags: 
+tags:
   - "a-trak"
   - "amanda-wilson"
   - "armand-van-helden"

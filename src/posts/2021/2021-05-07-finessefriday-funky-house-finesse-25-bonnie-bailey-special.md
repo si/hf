@@ -1,9 +1,9 @@
 ---
 title: "#FinesseFriday - Funky House Finesse 25 (Bonnie Bailey Special)"
 date: "2021-05-07"
-categories: 
+categories:
   - "finessefriday"
-tags: 
+tags:
   - "bonnie-bailey"
   - "funky-house-finesse"
   - "getting-to-know"

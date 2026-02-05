@@ -1,9 +1,9 @@
 ---
 title: "#FinesseFriday – Bright Times"
 date: "2021-08-06"
-categories: 
+categories:
   - "finessefriday"
-tags: 
+tags:
   - "one-phat-dj"
 enclosure: "https://pinecast.com/listen/0f8e33ae-dcb9-4e25-8eec-8304bca715af.mp3 104405399 audio/mpeg "
 coverImage: "Bright-Times.png"

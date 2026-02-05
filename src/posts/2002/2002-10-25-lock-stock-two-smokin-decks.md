@@ -1,7 +1,7 @@
 ---
 title: "Lock, Stock & Two Smokin' Decks"
 date: "2002-10-25"
-categories: 
+categories:
   - "onephatdj"
 enclosure: "https://www.onephatdj.com/mp3/podcast/lock_stock_&_two_smokin_decks.mp3 "
 ---

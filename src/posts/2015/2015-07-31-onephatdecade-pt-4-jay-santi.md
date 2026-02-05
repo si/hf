@@ -1,9 +1,9 @@
 ---
 title: "#ONEPHATDECADE Pt 4 - Jay Santi"
 date: "2015-07-31"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "onephatdecade"
   - "guest-mix"
   - "jay-santi"

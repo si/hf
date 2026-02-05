@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 20 with Jay C"
 date: "2013-12-27"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "guest-mix"
   - "jay-c"
   - "show"

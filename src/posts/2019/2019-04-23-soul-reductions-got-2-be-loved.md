@@ -1,9 +1,9 @@
 ---
 title: "Soul Reductions - Got 2 Be Loved"
 date: "2019-04-23"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "ifttt"
   - "soul-reductions"
   - "youtube"

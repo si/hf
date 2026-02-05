@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 30 with Andy Daniels"
 date: "2014-08-01"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "andy-daniels"
   - "changing-planes"
   - "foundation"

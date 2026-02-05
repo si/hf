@@ -14,6 +14,7 @@ season: 3
 explicit: "no"
 duration: "01:16:33"
 ---
+
 This week on House Finesse , we welcome back Andi King with a feel-good session that dives head-first into the world of disco & house classics . Whether you're a seasoned head or just discovering the golden era grooves, this mix will hit the spot.
 
 Expect reworks of legends, soulful belters, and pure peak-time energy.
@@ -41,4 +42,3 @@ Join our WhatsApp crew and share your fave in the chat:
 13. Richard Earnshaw, Ridney, Jovonn – House Is the Message
 14. Jazzy M – Jagzzin the Way (Roog Reconstruction Extended Mix)
 15. Moby, BLOND:ISH, Kiko Franco – Natural Blue
-

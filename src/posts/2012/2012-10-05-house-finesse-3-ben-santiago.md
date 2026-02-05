@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 3 with Ben Santiago"
 date: "2012-10-05"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "ben-santiago"
   - "guest-mix"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/p/www.sowebmediauk.co.uk/dj-shows/HouseFinesse/House_Finesse_3.mp3 112166190 audio/mpeg "
@@ -16,7 +16,7 @@ coverImage: "House-Finesse-3-Ben-Santiago.png"
 
 ## Download
 
-[House Finesse 3 with Ben Santiago MP3 (112.2MB)](https://media.blubrry.com/housemusicpodcasts/p/www.sowebmediauk.co.uk/dj-shows/HouseFinesse/House_Finesse_3.mp3) 
+[House Finesse 3 with Ben Santiago MP3 (112.2MB)](https://media.blubrry.com/housemusicpodcasts/p/www.sowebmediauk.co.uk/dj-shows/HouseFinesse/House_Finesse_3.mp3)
 
 ## A little about Ben
 

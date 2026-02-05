@@ -1,7 +1,7 @@
 ---
 title: "Dancing Divas"
 date: "2006-09-29"
-categories: 
+categories:
   - "onephatdj"
 enclosure: "https://pinecast.com/listen/b0f30e2e-7bf4-4a8d-9803-778be65ddfc1.mp3 106325594 audio/mpeg "
 coverImage: "Dancing-Divas.gif"

@@ -1,9 +1,9 @@
 ---
 title: "House Gospel Choir, Adelphi Music Factory - Salvation"
 date: "2019-10-28"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "adelphi-music-factory"
   - "house-gospel-choir"
   - "youtube"

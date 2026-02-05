@@ -1,9 +1,9 @@
 ---
 title: "Funky House Finesse 13 - 26th September 2009"
 date: "2009-09-26"
-categories: 
+categories:
   - "funkyhousefinesse"
-tags: 
+tags:
   - "a-trax"
   - "abigail-bailey"
   - "angie-brown"
@@ -100,7 +100,7 @@ Don't forget we've also got the [new One Phat DJ Fan Page on Facebook](https://w
 3. [DJ Dan - I Don't Care (DJ Dan Edit) \[InStereo Recordings Inc\]](https://onephatdj.trackitdown.net/genre/house/track/1152118.html)
 4. [Noir vs Nu Rhythmix - All About Babylon (Grant Nelson Edit) \[Close 2 The Edit\]](https://www.traxsource.com/index.php?act=show&fc=tpage&cr=titles&cv=3042)
 5. [DJ Chus presents The Groove Foundation - That Feeling (2009 Mixes) (Part 2) (Tuccillo Remix) \[Defected\]](daytona892)
-6. [DJ Chus presents The Groove Foundation - That Feeling (DJ Chus 2010 Revisited Mix) \[Defected\]](https://www.defected.com/store/details/DJ+Chus+presents+The+Groove+Foundation/That+Feeling+(2009+Mixes)+(Part+1)/1486/d)
+6. [DJ Chus presents The Groove Foundation - That Feeling (DJ Chus 2010 Revisited Mix) \[Defected\]](<https://www.defected.com/store/details/DJ+Chus+presents+The+Groove+Foundation/That+Feeling+(2009+Mixes)+(Part+1)/1486/d>)
 7. [Newtone - Sad Song (Babyman Funky Remix) \[Pitch Music\]](https://www.junodownload.com/products/1453895-02.htm)
 
 ### Love Lounge

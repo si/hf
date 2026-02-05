@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 80 - July 2019 with Hutch"
 date: "2019-07-21"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "2-tyme"
   - "3mix"
   - "camelphat"

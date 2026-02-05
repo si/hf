@@ -1,9 +1,9 @@
 ---
 title: "HF273 with One Phat DJ"
 date: "2025-05-30"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "angela-johnson"
   - "baccus"
   - "ben-westbeech"
@@ -40,10 +40,9 @@ episode: 273
 season: 3
 explicit: "yes"
 duration: "01:20:03"
-
 ---
 
-**Summer vibes are locked in as we groove into the 20th year of House Finesse with a sun-soaked selection of disco delights and house bangers** 
+**Summer vibes are locked in as we groove into the 20th year of House Finesse with a sun-soaked selection of disco delights and house bangers**
 
 Massive love to our ⏻ Supporter Al Mayers who's always sharing his love on the socials and keeping the family connected! 🎶🔥
 
@@ -65,4 +64,3 @@ A huge thank you to everyone who supported and donated for last week's half mara
 12. Paul Woolford, Karen Pollard – Reach Out To Me (Paul Woolford Remix) (Extended Mix) [56:05]
 13. The Soup Dragons – I'm Free (Yam Who? & Alan Dixon Remix) [65:52]
 14. The Reflex – Weekend (Extended Mix) [71:41]
-

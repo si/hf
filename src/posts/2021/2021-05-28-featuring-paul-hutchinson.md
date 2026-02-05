@@ -1,9 +1,9 @@
 ---
 title: "#FinesseFriday - Featuring… Paul Hutchinson"
 date: "2021-05-28"
-categories: 
+categories:
   - "finessefriday"
-tags: 
+tags:
   - "guest-mix"
   - "hutch"
   - "paul-hutchinson"

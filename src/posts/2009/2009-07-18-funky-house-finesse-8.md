@@ -1,9 +1,9 @@
 ---
 title: "Funky House Finesse 8"
 date: "2009-07-18"
-categories: 
+categories:
   - "funkyhousefinesse"
-tags: 
+tags:
   - "22-lockdown"
   - "andrea-carissimi"
   - "andy-daniell"
@@ -54,7 +54,7 @@ tags:
 enclosure: "https://www.onephatdj.com/media/finesse/Funky_House_Finesse_with_One_Phat_DJ_18th_July_2009.mp3 audio/mpeg 115266794 "
 ---
 
-It's time for another slice of the finest funky house all mixed up by One Phat DJ and presented by [Ben Day](https://benday.org/). It's **Funky House Finesse 8**. \[caption id="attachment\_857" align="alignnone" width="550" caption="Artwork by Sam Hardacre"\][![Artwork by Sam Hardacre](images/funky_house_finesse_8-1024x1024.jpg "Funky House Finesse 8 ")](https://www.nocturnalmonkey.com/)\[/caption\] Featuring some of the hottest and freshest funky house tracks doing the rounds, including the likes of **Joey Negro**, **Timmy Vegas**, **Richard Earnshaw**, **Eric Kupper**, **Beyoncé**, **The Montanas**, **Wheels & Disco**, **Sandy Rivera** and **eSQUIRE** - you won't be disappointed! Don't forget to hook up with us on [Twitter](https://twitter.com/onephatdj) and [Facebook](facebook.com/group.php?gid=4894384789) and make sure you leave a comment and some feedback on the show, let us know what you thought of the show. We'd love to know where you're listening from - why not send us a quick photo via [Twitpic](https://twitpic.com/) or a shout out on [Twaud.io](https://twaud.io/)?
+It's time for another slice of the finest funky house all mixed up by One Phat DJ and presented by [Ben Day](https://benday.org/). It's **Funky House Finesse 8**. \[caption id="attachment_857" align="alignnone" width="550" caption="Artwork by Sam Hardacre"\][![Artwork by Sam Hardacre](images/funky_house_finesse_8-1024x1024.jpg "Funky House Finesse 8 ")](https://www.nocturnalmonkey.com/)\[/caption\] Featuring some of the hottest and freshest funky house tracks doing the rounds, including the likes of **Joey Negro**, **Timmy Vegas**, **Richard Earnshaw**, **Eric Kupper**, **Beyoncé**, **The Montanas**, **Wheels & Disco**, **Sandy Rivera** and **eSQUIRE** - you won't be disappointed! Don't forget to hook up with us on [Twitter](https://twitter.com/onephatdj) and [Facebook](facebook.com/group.php?gid=4894384789) and make sure you leave a comment and some feedback on the show, let us know what you thought of the show. We'd love to know where you're listening from - why not send us a quick photo via [Twitpic](https://twitpic.com/) or a shout out on [Twaud.io](https://twaud.io/)?
 
 ## Downloads
 

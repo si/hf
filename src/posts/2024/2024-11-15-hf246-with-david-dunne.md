@@ -16,6 +16,7 @@ season: 3
 explicit: "no"
 duration: "01:00:06"
 ---
+
 **Old friend of the show and host of Triple Dee, David Dunne returns this month for a guest mix going back to 1994 in the build up to his [Kiss 102 - Back to '94 event](https://www.skiddle.com/whats-on/Manchester/Ramona/Kiss1025-fm-30-year-reunion/40095623/) next Friday.**
 
 [Tickets are available at Skiddle until Friday 22 November 2024](https://www.skiddle.com/whats-on/Manchester/Ramona/Kiss1025-fm-30-year-reunion/40095623/)
@@ -36,4 +37,3 @@ duration: "01:00:06"
 8. The Boss - Congo (D Max Mix) [Cooltempo]
 9. Sound Design - Bounce to the Beat [Inhouse]
 10. South St Players - (Who) Keeps Changing Your Mind? (Sure Is Pure Remix) [South St Players]
-

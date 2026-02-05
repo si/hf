@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 7 with David Dunne"
 date: "2013-02-01"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "david-dunne"
   - "guest-mix"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/p/www.sowebmediauk.co.uk/dj-shows/HouseFinesse/House_Finesse_7_with_David_Dunne.mp3 0 audio/mpeg "

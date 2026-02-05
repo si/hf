@@ -1,9 +1,9 @@
 ---
 title: "Funky House Finesse 5"
 date: "2009-06-06"
-categories: 
+categories:
   - "funkyhousefinesse"
-tags: 
+tags:
   - "afro-medusa"
   - "art-craft"
   - "atfc"
@@ -81,7 +81,7 @@ enclosure: "https://www.onephatdj.com/media/finesse/One_Phat_DJ_-_Funky_House_Fi
 
 ## Listen Online
 
- \[audio:/finesse/One\_Phat\_DJ\_-\_Funky\_House\_Finesse\_5\_6th\_June\_2009\_128.mp3\]
+ \[audio:/finesse/One_Phat_DJ\_-_Funky_House_Finesse_5_6th_June_2009_128.mp3\]
 
 ## Track Listing
 
@@ -99,7 +99,7 @@ enclosure: "https://www.onephatdj.com/media/finesse/One_Phat_DJ_-_Funky_House_Fi
 1. [Sam Project - Love Shine (Samuele Sartini Remix) \[Glitter\]](https://www.djdownload.com/mp3-detail/Sam-Project/Love+Shine/Glitter/702478)
 2. [Mood Velvet ft Janet Gray - Every 1's A Winner (Samuele Sartini Mix) \[D:Vision\]](https://www.juno.co.uk/products/Every-1-s-A-Winner/353950-01/)
 3. Musiq Soulchild ft Mary J Blige - If You Leave (Maurice's Divorce Mix) \[Atlantic Records\]
-4. [Erika Jayne - Give You Everything (Moto Blanco Club Mix) \[Koch Records\]](https://clkuk.tradedoubler.com/click?p(23708)a(1254950)g(11703474)url(https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=314755363&s=143444))
+4. [Erika Jayne - Give You Everything (Moto Blanco Club Mix) \[Koch Records\]](<https://clkuk.tradedoubler.com/click?p(23708)a(1254950)g(11703474)url(https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=314755363&s=143444)>)
 5. Marina Chello - What's Done Is Done (Solitaire Club Mix) \[Bad Boy Atlantic Records\]
 6. [Dirty Freek ft Justine - Movin On (Original Mix) \[Freek Records\]](https://www.juno.co.uk/products/Movin-On/352026-01/)
 7. [Sabrina Johnston - Peace (In The Valley) (Midnight Express Classic Gold Mix ) \[Art & Craft\]](https://onephatdj.trackitdown.net/genre/house/track/874667.html)

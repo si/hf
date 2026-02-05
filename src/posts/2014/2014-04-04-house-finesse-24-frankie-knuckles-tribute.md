@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 24 including Frankie Knuckles Tribute"
 date: "2014-04-04"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "frankie-knuckles"
   - "show"
 enclosure: "https://pinecast.com/listen/7cafd6eb-6a8f-45f3-b74a-084629496d07.mp3 173048491 audio/mpeg "

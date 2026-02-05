@@ -1,7 +1,7 @@
 ---
 title: "The Phenomena of Funk"
 date: "2007-03-08"
-categories: 
+categories:
   - "onephatdj"
 enclosure: "https://pinecast.com/listen/e95c47e6-fa04-492c-93d7-bad46303ee51.mp3 103828745 audio/mpeg "
 coverImage: "the-phenomena-of-funk_414644643_o.jpg"

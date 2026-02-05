@@ -1,9 +1,9 @@
 ---
 title: "#FinesseFriday - Over The Rainbow"
 date: "2021-06-18"
-categories: 
+categories:
   - "finessefriday"
-tags: 
+tags:
   - "one-phat-dj"
   - "pride"
 enclosure: "https://pinecast.com/listen/5659b53c-4682-4687-9072-4a2d4b531209.mp3 101975392 audio/mpeg "
@@ -14,16 +14,16 @@ coverImage: "Over-The-Rainbow.jpg"
 
 ## Track Listing
 
-1. _Beyonce_ - “Green Light” (Freemasons Remix)
-2. _Paul Gardner & Hugh Gunnell ft Angie Brown_ - “Make My Love” (Original)
+1. *Beyonce* - “Green Light” (Freemasons Remix)
+2. *Paul Gardner & Hugh Gunnell ft Angie Brown* - “Make My Love” (Original)
 3. _Justin Michael ft Jackie Wilson_ - “Funky Love” (Born To Funk Remix)
-4. _Starchaser ft Shena_ - “Let Your Mind Go” (Original Radio Edit)
+4. *Starchaser ft Shena* - “Let Your Mind Go” (Original Radio Edit)
 5. _Hot 22_ - “Before I Let You In” (Original)
-6. _Soul Avengerz ft Katherine Ellis_ - “One Love” (Original)
+6. *Soul Avengerz ft Katherine Ellis* - “One Love” (Original)
 7. _Chic Flowerz_ - “Miami Sun” (Original)
-8. _The Wideboys_ - “Bomb (The Secret)” (Moto Blanco Club Mix)
+8. *The Wideboys* - “Bomb (The Secret)” (Moto Blanco Club Mix)
 9. _Booty Luv_ – “Don’t Mess With My Man” (Seamus Haji Big Love Remix)
 10. _Wawa vs Smax & Gold_ - “Stranger” (Wawa Remix)
-11. _Doc Da Funk_ - “Real Love” (Original)
-12. _Byron Stingily_ - “Get Up (Everybody)” (Steve Mac Remix)
+11. *Doc Da Funk* - “Real Love” (Original)
+12. *Byron Stingily* - “Get Up (Everybody)” (Steve Mac Remix)
 13. _Basstoy ft Dana_ - “Running”

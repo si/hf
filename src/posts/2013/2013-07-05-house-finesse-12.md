@@ -1,7 +1,7 @@
 ---
 title: "House Finesse 12"
 date: "2013-07-05"
-categories: 
+categories:
   - "shows"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/p/www.sowebmediauk.co.uk/dj-shows/HouseFinesse/House_Finesse_12.mp3 0 audio/mpeg "
 coverImage: "House-Finesse-12-Square.jpg"

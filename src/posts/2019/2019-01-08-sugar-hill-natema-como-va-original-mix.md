@@ -1,9 +1,9 @@
 ---
 title: "Sugar Hill, Natema - Como va (Original Mix)"
 date: "2019-01-08"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "ifttt"
   - "natema"
   - "sugar-hill"

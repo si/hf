@@ -1,9 +1,9 @@
 ---
 title: "Funky House Finesse 44 - Merry Christmas"
 date: "2011-12-23"
-categories: 
+categories:
   - "funkyhousefinesse"
-tags: 
+tags:
   - "andy-ward"
   - "caviar"
   - "dajae"

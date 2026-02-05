@@ -1,7 +1,7 @@
 ---
 title: "Soundcloud May 2014"
 date: "2014-05-07"
-categories: 
+categories:
   - "playlist"
 enclosure: ""
 ---

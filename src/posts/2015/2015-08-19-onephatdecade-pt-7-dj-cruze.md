@@ -1,9 +1,9 @@
 ---
 title: "#ONEPHATDECADE Pt 7 – DJ Cruze"
 date: "2015-08-19"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "onephatdecade"
   - "dj-cruze"
   - "guest"

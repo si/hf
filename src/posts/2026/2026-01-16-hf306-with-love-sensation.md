@@ -14,6 +14,7 @@ season: 26
 explicit: "no"
 duration: "01:01:34"
 ---
+
 This week we are buzzing to bring you a proper family affair with a special collaboration from the Love Sensation crew. A full 60 minutes of uplifting, soulful, disco-driven energy that is all about connection, community and pure dancefloor joy.
 
 Love Sensation have been flying the flag for quality house and disco for years, building a warm, inclusive scene around their events and radio shows. We are proud to link up with them for this one, especially as our very own Andi King is a regular resident in the Love Sensation family and a big part of their story.

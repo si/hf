@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 65 - August 2017 with Lemon Yellow Pea"
 date: "2017-08-25"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "alaia-gallo"
   - "andy-roda"
   - "banda-sonora"

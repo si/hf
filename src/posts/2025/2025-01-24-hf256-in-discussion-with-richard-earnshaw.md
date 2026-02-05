@@ -15,6 +15,7 @@ season: 3
 explicit: "no"
 duration: "00:36:32"
 ---
+
 **This week, we're honoured to have along one of our longest featured artists on the podcast for a chat with One Phat DJ to talk about his story to date, thoughts on the music industry and what's coming up in 2025.**
 
 ## Watch on [Youtube](https://www.youtube.com/watch?v=nXzsmqxOUEw)
@@ -24,4 +25,3 @@ duration: "00:36:32"
 ## Listen on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/hf256-in-discussion-with-richard-earnshaw/id355833875?i=1000685255334)
 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/gb/podcast/hf256-in-discussion-with-richard-earnshaw/id355833875?i=1000685255334"></iframe>
-

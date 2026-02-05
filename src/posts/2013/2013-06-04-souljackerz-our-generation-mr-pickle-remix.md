@@ -1,9 +1,9 @@
 ---
 title: "Souljackerz - Our Generation (Mr Pickle Remix)"
 date: "2013-06-04"
-categories: 
+categories:
   - "free-downloads"
-tags: 
+tags:
   - "mr-pickle"
   - "souljackerz"
   - "suka-records"

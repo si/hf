@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 81 - August 2019"
 date: "2019-08-30"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "2-tyme"
   - "carlos"
   - "chandler-taylor"

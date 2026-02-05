@@ -1,9 +1,9 @@
 ---
 title: "Raquel Rodriguez - We Go Together (Joey Negro Club Mix)"
 date: "2019-03-15"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "ifttt"
   - "joey-negro"
   - "raquel-rodriguez"

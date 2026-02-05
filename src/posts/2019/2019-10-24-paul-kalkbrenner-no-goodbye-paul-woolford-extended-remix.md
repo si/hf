@@ -1,9 +1,9 @@
 ---
 title: "Paul Kalkbrenner - No Goodbye (Paul Woolford Extended Remix) [b1]"
 date: "2019-10-24"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "b1"
   - "paul-kalkbrenner"
   - "paul-woolford"

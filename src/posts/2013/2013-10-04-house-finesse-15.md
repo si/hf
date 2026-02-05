@@ -1,7 +1,7 @@
 ---
 title: "House Finesse 15"
 date: "2013-10-04"
-categories: 
+categories:
   - "shows"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/p/www.sowebmediauk.co.uk/dj-shows/HouseFinesse/House_Finesse_15.mp3 0 audio/mpeg "
 coverImage: "House-Finesse-15-Widescreen.jpg"

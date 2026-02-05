@@ -1,9 +1,9 @@
 ---
 title: "Funky House Finesse 26 - WMC 2010 Special"
 date: "2010-03-27"
-categories: 
+categories:
   - "funkyhousefinesse"
-tags: 
+tags:
   - "adam-sharpe"
   - "alex-finkin"
   - "amanda-wilson"
@@ -120,5 +120,5 @@ Featuring hot new tracks from **Guy Robin**, **Groove Junkies**, **Richard Earns
 3. [Scotty - Let The Beat Hit Em (Marc Reason Club Mix) \[Splashtunes\]](https://onephatdj.trackitdown.net/genre/hardcore/track/1979452.html)
 4. [Lissat & Voltaxx - It's Not Over (Original Club Mix) \[Creme Royale\]](https://onephatdj.trackitdown.net/genre/house/track/1862008.html)
 5. [Paul Harris, Michael Gray, Jon Pearn ft Amanda Wilson - Caught Up (Vocal Mix) \[Phonetic Recordings\]](https://onephatdj.trackitdown.net/genre/house/track/1995448.html)
-6. [Daniel Bovie & Roy Rox ft Nelson - Love Me (Atfc's Soultek Vocal Mix) \[Defected\]](https://www.defected.com/store/details/Daniel+Bovie+&+Roy+Rox+Feat+Nelson/Love+Me+(ATFC+Remixes)/1656/2757)
+6. [Daniel Bovie & Roy Rox ft Nelson - Love Me (Atfc's Soultek Vocal Mix) \[Defected\]](<https://www.defected.com/store/details/Daniel+Bovie+&+Roy+Rox+Feat+Nelson/Love+Me+(ATFC+Remixes)/1656/2757>)
 7. [Mark Trophy ft Angela Brooks - A Deeper Love Pride 2010 (Adam Sharpe Remix) \[Blanco y Negro\]](https://clkuk.tradedoubler.com/click?p=23708&a=1254950&url=http%3A%2F%2Fitunes.apple.com%2Fgb%2Falbum%2Fa-deeper-love-pride-2010-adam%2Fid353752648%3Fi%3D353752665%26uo%3D6%26partnerId%3D2003)

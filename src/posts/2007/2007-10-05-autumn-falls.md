@@ -1,9 +1,10 @@
 ---
 title: "Autumn Falls"
 date: "2007-10-05"
-categories: 
+categories:
   - "onephatdj"
 enclosure: "https://www.onephatdj.com/mp3/podcast/32_autumn_falls_sep07_itunes.m4a 70303911 audio/m4a "
+coverImage: "1489947656_13d724f7c5.jpg"
 ---
 
 With the house scene, you tend to have "seasons" of new material. The Summer months are full of huge tracks, ideal for the influx of clubbers going out. Not a week would go past without a potential "classic" getting released. Even if it is short-lived, the general consensus gives in to commercialism, putting full support behind the producer or DJ of the moment. On the flip-side, there are so called quiet seasons. This is when the popular producers are rinsed of their originality and energy, returning to their studios to create the next masterpiece. Unfortunately, this is one of those said seasons. Nothing against the material I've got my hands on - all the tracks I've featured get the **One Phat DJ Seal of Approval**. The problem is, few of the featured tracks have that X Factor we're all listening out for. With the likes of _Joey Negro_, _Jason Herd_ and _Martin Solveig_ taking the stage, this is no walk in the park. So I suggest you ignore everything I just said, download the mix and prepare yourself for some funky house treats, all mixed up in typical fashion. I give you _Episode 32_ of the [One Phat DJ Podcast](https://www.onephatdj.com/podcast), "**Autumn Falls**". ![Autumn Falls by One Phat DJ](https://farm2.static.flickr.com/1252/1489947656_13d724f7c5.jpg?v=0 "Autumn Falls by One Phat DJ")

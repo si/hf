@@ -1,9 +1,9 @@
 ---
 title: "The Vision ft Andreya Triana & Ben Westbeech - Missing"
 date: "2020-10-16"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "andreya-triana"
   - "ben-westbeech"
   - "defected"

@@ -1,9 +1,9 @@
 ---
 title: "April Funk Day with Disco 77"
 date: "2022-04-01"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "disco77"
 enclosure: "https://pinecast.com/listen/5822ab6f-5558-40df-a6a0-df2032fe26bf.mp3 162224911 audio/mpeg "
 coverImage: "46451B3D-9758-4463-8FFC-A531912047F3.jpeg"

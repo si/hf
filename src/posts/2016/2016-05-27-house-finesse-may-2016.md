@@ -1,9 +1,9 @@
 ---
 title: "House Finesse May 2016"
 date: "2016-05-27"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "alex-finkin"
   - "barbara-tucker"
   - "bit-error"

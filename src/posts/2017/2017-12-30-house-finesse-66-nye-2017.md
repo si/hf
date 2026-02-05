@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 66 - NYE 2017"
 date: "2017-12-30"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "aeroplane"
   - "becky-g"
   - "birdee"

@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 75 – February 2019"
 date: "2019-02-28"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "barrygibbs"
   - "ben-delay"
   - "chaka-khan"

@@ -1,9 +1,9 @@
 ---
 title: "Something Divine"
 date: "2012-08-27"
-categories: 
+categories:
   - "news"
-tags: 
+tags:
   - "guest-mix"
   - "sam-divine"
 enclosure: ""

@@ -1,9 +1,9 @@
 ---
 title: "Swales ft RuthAnne - Higher (Call My Name)"
 date: "2019-03-28"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "ifttt"
   - "ruthanne"
   - "swales"

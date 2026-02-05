@@ -14,6 +14,7 @@ season: 3
 explicit: "no"
 duration: "02:01:05"
 ---
+
 **Three hundred sessions. Wild. To mark the milestone, Si has stitched together a signature OPDJ journey packed with soulful goodness, big disco moments and a handful of personal picks from our resident crew. It's a proper celebration mix, a nod to nearly two decades of House Finesse and the amazing community that has grown around it.**
 
 Settle in, turn it up and enjoy the ride.
@@ -54,4 +55,3 @@ If you're feeling the journey, drop a comment, share it with your crew and suppo
 20. The Ones – Flawless (Phunk Investigation Extended Club Mix) (selected by Sarah Jae)
 21. Daft Punk – One More Time (12 Mix) (selected by Disco77)
 22. The Vision, Andreya Triana – Mountains (selected by One Phat DJ)
-

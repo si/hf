@@ -1,9 +1,9 @@
 ---
 title: "#ONEPHATDECADE Pt 2 - Sam Divine Live at We Are FSTVL 2015"
 date: "2015-07-17"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "onephatdecade"
   - "guest-mix"
   - "live"

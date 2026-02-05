@@ -1,7 +1,7 @@
 ---
 title: "One Phat DJ presents Sold"
 date: "2005-11-18"
-categories: 
+categories:
   - "onephatdj"
 enclosure: "https://www.onephatdj.com/mp3/podcast/sold.mp3 123988096 audio/mpeg "
 ---

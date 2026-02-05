@@ -1,9 +1,9 @@
 ---
 title: "The Shapeshifters, Kimberly Davis - Life Is A Dancefloor"
 date: "2019-05-20"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "glitterbox"
   - "ifttt"
   - "kimberly-davis"

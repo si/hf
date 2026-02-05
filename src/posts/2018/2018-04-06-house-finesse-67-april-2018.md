@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 67 - April 2018"
 date: "2018-04-06"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "atfc"
   - "barbara-tucker"
   - "boris-dlugosch"

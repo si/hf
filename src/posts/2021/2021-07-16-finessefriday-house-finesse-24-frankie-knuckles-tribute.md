@@ -1,9 +1,9 @@
 ---
 title: "#FinesseFriday - House Finesse 24 with Frankie Knuckles Tribute"
 date: "2021-07-16"
-categories: 
+categories:
   - "finessefriday"
-tags: 
+tags:
   - "frankie-knuckles"
   - "one-phat-dj"
 enclosure: "https://pinecast.com/listen/7cafd6eb-6a8f-45f3-b74a-084629496d07.mp3 173048491 audio/mpeg "

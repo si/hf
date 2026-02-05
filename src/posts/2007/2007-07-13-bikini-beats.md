@@ -1,9 +1,10 @@
 ---
 title: "Bikini Beats"
 date: "2007-07-13"
-categories: 
+categories:
   - "onephatdj"
 enclosure: "https://www.onephatdj.com/mp3/podcast/28_bikini_beats_podcast.mp3 "
+coverImage: "797202797_309504b66a.jpg"
 ---
 
 You might not be entirely convinced, what with the miserable British weather, but Summer is officially here. People are off on their holidays, the festival season is well and truly under way and motivation to work is at a serious low. To commemorate this fine season, I feel it's my duty to put together some of the freshest and funkiest sounds available at the moment in to one sexy little package, tightly packaged for you all to enjoy (a little like what a bikini does really). This is _Episode 28_ of the [One Phat DJ podcast](https://feeds.feedburner.com/onephatdj) - this is **Bikini Beats**. [![Album cover for the June 2007 One Phat DJ podcast, Bikini Beats](https://farm2.static.flickr.com/1076/797202797_309504b66a.jpg?v=0 "Album cover for the June 2007 One Phat DJ podcast, Bikini Beats")](https://www.flickr.com/photos/peelhere/797202797/ "Bikini Beats cover on Flickr")

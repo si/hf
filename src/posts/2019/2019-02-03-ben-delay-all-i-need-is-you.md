@@ -1,9 +1,9 @@
 ---
 title: "Ben Delay - All I Need Is You"
 date: "2019-02-03"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "ben-delay"
   - "ifttt"
   - "youtube"

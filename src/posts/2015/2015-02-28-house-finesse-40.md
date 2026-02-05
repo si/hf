@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 40"
 date: "2015-02-28"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "show"
   - "shows-2"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/p/www.sowebmediauk.co.uk/dj-shows/HouseFinesse/House_Finesse_40.mp3 0 audio/mpeg "

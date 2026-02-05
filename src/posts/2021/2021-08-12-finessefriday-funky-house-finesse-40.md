@@ -1,9 +1,9 @@
 ---
 title: "#FinesseFriday - Funky House Finesse 40"
 date: "2021-08-12"
-categories: 
+categories:
   - "finessefriday"
-tags: 
+tags:
   - "funky-house-finesse"
 enclosure: "https://pinecast.com/listen/dae1fed6-d492-43b3-9c66-4acd8b9ae20e.mp3 115205183 audio/mpeg "
 coverImage: "Funky_House_Finesse_40.jpg"

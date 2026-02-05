@@ -1,9 +1,9 @@
 ---
 title: "Funky House Finesse 37"
 date: "2011-05-18"
-categories: 
+categories:
   - "funkyhousefinesse"
-tags: 
+tags:
   - "angela-johnson"
   - "anniemouse"
   - "candi-staton"

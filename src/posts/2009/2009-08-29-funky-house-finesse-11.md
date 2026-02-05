@@ -1,9 +1,9 @@
 ---
 title: "Funky House Finesse 11"
 date: "2009-08-29"
-categories: 
+categories:
   - "funkyhousefinesse"
-tags: 
+tags:
   - "3beat-blue"
   - "andy-daniell"
   - "audiowhores"
@@ -68,7 +68,7 @@ Let's keep it short and leave it to the music this week. After all, it is the **
 
 ## Download
 
-\[audio:finesse/Funky\_House\_Finesse\_with\_One\_Phat\_DJ\_11\_29th\_August\_2009.mp3\] [Download Funky House Finesse 11 MP3](https://www.onephatdj.com/download/24)
+\[audio:finesse/Funky_House_Finesse_with_One_Phat_DJ_11_29th_August_2009.mp3\] [Download Funky House Finesse 11 MP3](https://www.onephatdj.com/download/24)
 
 ## Track Listing
 

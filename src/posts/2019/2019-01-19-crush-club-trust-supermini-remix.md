@@ -1,9 +1,9 @@
 ---
 title: "Crush Club - Trust (Supermini Remix)"
 date: "2019-01-19"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "crush-club"
   - "ifttt"
   - "supermini"

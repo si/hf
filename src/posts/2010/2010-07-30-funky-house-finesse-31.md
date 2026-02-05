@@ -1,7 +1,7 @@
 ---
 title: "Funky House Finesse 31"
 date: "2010-07-30"
-categories: 
+categories:
   - "funkyhousefinesse"
 enclosure: "https://www.sowebmediauk.co.uk/dj-shows/OnePhatDj2/Funky_House_Finesse_31_30th_July_2010_128.mp3 audio/mpeg "
 coverImage: "Funky_House_Finesse_31_30th_July_2010.jpg"

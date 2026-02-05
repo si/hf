@@ -1,9 +1,9 @@
 ---
 title: "Cheese & Hot Sauce with Disco77"
 date: "2022-03-04"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "classics"
   - "disco77"
 enclosure: "https://pinecast.com/listen/956e5780-8d44-4287-8834-587492a4fdb1.mp3 126138732 audio/mpeg "

@@ -14,6 +14,7 @@ season: 3
 explicit: "no"
 duration: "01:13:08"
 ---
+
 **This week, our OG returns with one of his typical journeys through soulful, disco, uplifting and thumping house music along some cheeky bootlegs to mix it up.**
 
 ## Listen on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/hf260-with-one-phat-dj-21-feb-2025/id355833875?i=1000694614144)
@@ -26,17 +27,17 @@ duration: "01:13:08"
 
 ## Tracklisting
 
-1. Marcos Valle - Bicicleta (DJ Meme Boogie Nights Mix) 
-2. Anane - Let Me Be Your Fantasy (Mousse T.'s Fantastic Shizzle Mix) 
-3. Soultizer - Funk Escape (Original Mix) 
+1. Marcos Valle - Bicicleta (DJ Meme Boogie Nights Mix)
+2. Anane - Let Me Be Your Fantasy (Mousse T.'s Fantastic Shizzle Mix)
+3. Soultizer - Funk Escape (Original Mix)
 4. [Luther Vandross & Janet Jackson - The Best Things In Life Are Free (Sgt Slick's Discotizer ReCut)](https://soundcloud.com/sgt-slick/luther-vandross-janet-jackson)
-5. London Community Gospel Choir, Annette Bowen - Rather Be (Richard Earnshaw Remix) 
+5. London Community Gospel Choir, Annette Bowen - Rather Be (Richard Earnshaw Remix)
 6. [Whitney Houston - Love Will Save The Day (Antonio Gentile & Bolinger Super Sounds Edit)](https://soundcloud.com/bolingersupersounds/whitney-houston-love-will-save-the-day-antonio-gentile-bolinger-super-sounds-edit-preview-pitched)
-7. Kathy Brown, Jerk Boy - We Can Make It (Extended Mix) 
-8. Kathy Brown, Revival House Project - Dance To The Music (David Penn Remix [Extended]) 
-9. Darius Syrossian, Kathy Brown - Work It Out (Extended Mix) 
-10. Phil Fuldner, Dan Dinsing - Yellow (Original Mix) 
-11. Prospa, RAHH - This Rhythm (Extended Mix) 
-12. Chris Lake, Abel Balder - Ease My Mind (Extended Mix) 
-13. The Shapeshifters - Lola's Theme (Tripolism Extended Remix)  
-14. Ben Westbeech, RAHH - Times Are Changing (Original Mix) 
+7. Kathy Brown, Jerk Boy - We Can Make It (Extended Mix)
+8. Kathy Brown, Revival House Project - Dance To The Music (David Penn Remix [Extended])
+9. Darius Syrossian, Kathy Brown - Work It Out (Extended Mix)
+10. Phil Fuldner, Dan Dinsing - Yellow (Original Mix)
+11. Prospa, RAHH - This Rhythm (Extended Mix)
+12. Chris Lake, Abel Balder - Ease My Mind (Extended Mix)
+13. The Shapeshifters - Lola's Theme (Tripolism Extended Remix)
+14. Ben Westbeech, RAHH - Times Are Changing (Original Mix)

@@ -1,9 +1,9 @@
 ---
 title: "Funky House Finesse 7 & Michael Jackson Tribute"
 date: "2009-07-04"
-categories: 
+categories:
   - "funkyhousefinesse"
-tags: 
+tags:
   - "3mix"
   - "ali-payami"
   - "angie-brown"
@@ -45,7 +45,7 @@ We return to the airwaves with another two hours of funky house delights, this w
 
 <iframe width="100%" height="180" src="//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Fonephatdj%2Fmichael-jackson-tribute-mix%2F&amp;embed_uuid=59c5dc25-65af-4729-b36f-3598b42f80a6&amp;replace=0&amp;hide_cover=1&amp;embed_type=widget_standard&amp;hide_tracklist=1" frameborder="0"></iframe>
 
-[Michael Jackson Tribute Mix](https://www.mixcloud.com/onephatdj/michael-jackson-tribute-mix/?utm_source=widget&amp;utm_medium=web&amp;utm_campaign=base_links&amp;utm_term=resource_link) by [One Phat Dj](https://www.mixcloud.com/onephatdj/?utm_source=widget&amp;utm_medium=web&amp;utm_campaign=base_links&amp;utm_term=profile_link) on [Mixcloud](https://www.mixcloud.com/?utm_source=widget&utm_medium=web&utm_campaign=base_links&utm_term=homepage_link)
+[Michael Jackson Tribute Mix](https://www.mixcloud.com/onephatdj/michael-jackson-tribute-mix/?utm_source=widget&utm_medium=web&utm_campaign=base_links&utm_term=resource_link) by [One Phat Dj](https://www.mixcloud.com/onephatdj/?utm_source=widget&utm_medium=web&utm_campaign=base_links&utm_term=profile_link) on [Mixcloud](https://www.mixcloud.com/?utm_source=widget&utm_medium=web&utm_campaign=base_links&utm_term=homepage_link)
 
 ## Download
 

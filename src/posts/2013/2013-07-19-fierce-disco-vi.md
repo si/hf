@@ -1,7 +1,7 @@
 ---
 title: "Fierce Disco VI"
 date: "2013-07-19"
-categories: 
+categories:
   - "releases"
 enclosure: ""
 coverImage: "Fierce-Angel-presents-Fierce-Disco-VI-artwork.jpg"

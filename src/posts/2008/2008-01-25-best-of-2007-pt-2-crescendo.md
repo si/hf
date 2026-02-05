@@ -1,9 +1,10 @@
 ---
 title: "Best Of 2007, Pt 2 - Crescendo"
 date: "2008-01-25"
-categories: 
+categories:
   - "onephatdj"
 enclosure: "https://www.onephatdj.com/mp3/podcast/38_best_of_2007_part_2_crescendo_jan08.m4a 61587729 audio/mpeg "
+coverImage: "2218000659_24204499dd.jpg"
 ---
 
 In the second installment of One Phat DJ's "_Best Of 2007_" series, we turn things up a little to the next level, introducing some tunes that aren't akin to all those trendy bars warming up the crowds before the clubs. This is a selection of tracks that have tickled my fancy through 2007 and should do the same for all the regular listeners out there. If you're a bit partial to the likes of Fierce Angel, Hed Kandi, Defected and Ministry of Sound, I'm pretty sure you'll enjoy this. Ladies and gents, I give you _Episode 38_ of the [One Phat DJ Podcast](https://feeds.feedburner.com/onephatdj), "**Best Of 2007, Pt 2 - Crescendo**". [![Best Of 2007, Pt 2 - Crescendo cover](https://farm3.static.flickr.com/2399/2218000659_24204499dd.jpg?v=0 "Best Of 2007, Pt 2 - Crescendo cover")](https://www.flickr.com/photos/peelhere/2218000659/ "Other sizes of the cover on Flickr")
@@ -15,79 +16,78 @@ The pioneer of British house music _Dave Lee_ kicks off the very female biassed 
 ### Track Listing
 
 1. #### Joey Negro - _Too Much Information (Original_
-    
-    - [Z Records](https://www.zrecords.ltd.uk/)
-    - Released: 15/9/2007
-    - [Buy from DJ Download](https://www.simonjobling.com/buy/toomuchinformation)
-    - 00:00:00:00
+   - [Z Records](https://www.zrecords.ltd.uk/)
+   - Released: 15/9/2007
+   - [Buy from DJ Download](https://www.simonjobling.com/buy/toomuchinformation)
+   - 00:00:00:00
+
 2. #### Chanel - _Dance (Original Fish Chips Mix)_
-    
-    - [Hed Kandi Records](https://www.hedkandi.com/)
-    - Released: 13/11/2007
-    - [Buy from DJ Download](https://www.simonjobling.com/buy/chaneldance)
-    - 00:06:00:00
+   - [Hed Kandi Records](https://www.hedkandi.com/)
+   - Released: 13/11/2007
+   - [Buy from DJ Download](https://www.simonjobling.com/buy/chaneldance)
+   - 00:06:00:00
+
 3. #### Dogsax ft Rietta Austin - _Love Is On My Mind (Club Mix)_
-    
-    - [Hed Kandi](https://www.hedkandi.com/)
-    - Released: 21/5/2007
-    - [Buy from iTunes](https://www.simonjobling.com/buy/dogsax)
-    - 00:10:30:00
+   - [Hed Kandi](https://www.hedkandi.com/)
+   - Released: 21/5/2007
+   - [Buy from iTunes](https://www.simonjobling.com/buy/dogsax)
+   - 00:10:30:00
+
 4. #### Booty Luv - _Shine (Moto Blanco Remix)_
-    
-    - [Hed Kandi](https://www.hedkandi.com/)
-    - Released: 07/05/2007
-    - [Buy from iTunes](https://www.simonjobling.com/buy/shine)
-    - 00:15:15:00
+   - [Hed Kandi](https://www.hedkandi.com/)
+   - Released: 07/05/2007
+   - [Buy from iTunes](https://www.simonjobling.com/buy/shine)
+   - 00:15:15:00
+
 5. #### Taka Boom - _Treat Me Right (Jason Karl Remix)_
-    
-    - [Jak Records](https://www.!!!)
-    - Released: 28/05/2007
-    - [Buy from DJ Download](https://www.simonjobling.com/buy/treatmeright)
-    - 00:20:45:00
+   - [Jak Records](https://www.!!!)
+   - Released: 28/05/2007
+   - [Buy from DJ Download](https://www.simonjobling.com/buy/treatmeright)
+   - 00:20:45:00
+
 6. #### The Wideboys - _Bomb The Secret (Moto Blanco Club Mix)_
-    
-    - [AATW](https://www.aatw.com)
-    - Released: 26/11/2007
-    - [Buy from Juno Download](https://www.simonjobling.com/buy/bombthesecret)
-    - 00:24:30:00
+   - [AATW](https://www.aatw.com)
+   - Released: 26/11/2007
+   - [Buy from Juno Download](https://www.simonjobling.com/buy/bombthesecret)
+   - 00:24:30:00
+
 7. #### Dannii Minogue vs Jason Nevins - Touch Me Like That (Perfection)
-    
-    - [AATW](https://www.aatw.com/)
-    - Date: **05/11/2007**
-    - [Buy from iTunes](https://www.simonjobling.com/buy/dannii)
-    - 00:30:30:00
+   - [AATW](https://www.aatw.com/)
+   - Date: **05/11/2007**
+   - [Buy from iTunes](https://www.simonjobling.com/buy/dannii)
+   - 00:30:30:00
+
 8. #### Barbara Tucker - _Love Vibrations (Georgie's Love Club Mix)_
-    
-    - [B Star](https://www.bstarmusic.com/)
-    - Released: 30/08/2007
-    - [Buy from Traxsource](https://www.simonjobling.com/buy/lovevibration)
-    - 00:33:52:50
+   - [B Star](https://www.bstarmusic.com/)
+   - Released: 30/08/2007
+   - [Buy from Traxsource](https://www.simonjobling.com/buy/lovevibration)
+   - 00:33:52:50
+
 9. #### Jonni Black vs Una Mass - _Raise (Main Mix)_
-    
-    - [NO2](https://www.myspace.com/no2records)
-    - Released: 17/9/2007
-    - [Buy from Traxsource](https://www.simonjobling.com/buy/jonniblack)
-    - 00:40:22:50
+   - [NO2](https://www.myspace.com/no2records)
+   - Released: 17/9/2007
+   - [Buy from Traxsource](https://www.simonjobling.com/buy/jonniblack)
+   - 00:40:22:50
+
 10. #### Ijah ft D'Empress - _Nitelife (Grant Nelson Remix)_
-    
     - [Big Love](https://www.biglove.co.uk/)
     - Released: 04/09/2007
     - [Buy from !!!](https://www.simonjobling.com/buy/nitelife)
     - 00:45:45:00
+
 11. #### Starchaser ft Shena - _Let Your Mind Go Free (Original Radio Edit)_
-    
     - [Ego](https://www.egorecords.com/)
     - Released: 28/5/2007
     - [Buy from iTunes](https://www.simonjobling.com/buy/starchaser)
     - 00:50:15:00
+
 12. #### Chic Flowerz - _Miami Sun (Original)_
-    
     - [Hed Kandi](https://www.hedkandi.com/)
     - Released: 21/5/2007
     - [Buy from iTunes](https://www.simonjobling.com/buy/chicflowerz)
     - 00:54:15:00
+
 13. #### Freemasons ft Siedah Garrett - _Rain Down Love (Walken Edit)_
-    
     - [Loaded Records](https://www.loadedrecords.com/)
     - Released: 1/7/2007
     - [Buy from iTunes](https://www.simonjobling.com/buy/raindownlove)

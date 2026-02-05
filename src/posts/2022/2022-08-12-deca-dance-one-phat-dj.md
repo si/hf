@@ -1,7 +1,7 @@
 ---
 title: "Deca-dance with One Phat DJ"
 date: "2022-08-12"
-categories: 
+categories:
   - "shows"
 enclosure: "https://pinecast.com/listen/3690e847-9d45-4f50-81e6-f0dd7da9f5b5.mp3 288171391 audio/mpeg "
 coverImage: "HF132-Deca-Dance.jpg"

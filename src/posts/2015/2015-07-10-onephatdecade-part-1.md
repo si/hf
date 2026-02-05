@@ -1,7 +1,7 @@
 ---
 title: "#ONEPHATDECADE Part 1"
 date: "2015-07-10"
-categories: 
+categories:
   - "shows"
 enclosure: ""
 coverImage: "House-Finesse-47.jpg"

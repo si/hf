@@ -1,9 +1,10 @@
 ---
 title: "Inevitably Vocal"
 date: "2007-05-14"
-categories: 
+categories:
   - "onephatdj"
 enclosure: "https://onephatdj.com/mp3/podcast/26_inevitably_vocal_podcast.mp3 67742911 audio/mpeg "
+coverImage: "497897979_2ea07a84f2.jpg"
 ---
 
 For those that were expecting the latest edition of the podcast to be on time, what were you thinking? You should know better by now! Apologies for the delay and what looks like some weird downloading issues with the current host - I'm still investigating this but thinking it might have something to do with the sheer amount of downloads. After gaining more subscribers thanks to iTunes high profile advert and jumping up to **#22** in the Music Podcast Charts, it is certainly looking like it is going to be One Phat DJ's Summer.

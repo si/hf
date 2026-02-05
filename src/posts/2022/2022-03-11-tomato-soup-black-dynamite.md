@@ -1,9 +1,9 @@
 ---
 title: "Tomato Soup with Black Dynamite"
 date: "2022-03-11"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "black-dynamite"
 enclosure: "https://pinecast.com/listen/96cf2484-ed83-451f-b420-3dbf339f81e1.mp3 150806387 audio/mpeg "
 ---

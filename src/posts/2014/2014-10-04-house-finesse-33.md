@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 33"
 date: "2014-10-04"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "show"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/p/www.sowebmediauk.co.uk/dj-shows/HouseFinesse/House_Finesse_33.mp3 0 audio/mpeg "
 coverImage: "House-Finesse-33-Wide.jpg"

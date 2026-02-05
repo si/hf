@@ -1,9 +1,9 @@
 ---
 title: "Featuring… Seattle House Mafia"
 date: "2022-04-22"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "guest-mix"
   - "paul-velocity"
   - "seattle-house-mafia"

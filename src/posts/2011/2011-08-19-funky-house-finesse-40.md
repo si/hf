@@ -1,9 +1,9 @@
 ---
 title: "Funky House Finesse 40"
 date: "2011-08-19"
-categories: 
+categories:
   - "funkyhousefinesse"
-tags: 
+tags:
   - "2elements"
   - "abel-the-kid"
   - "andrew-m"

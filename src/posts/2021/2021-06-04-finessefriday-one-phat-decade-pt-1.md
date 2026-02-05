@@ -1,9 +1,9 @@
 ---
 title: "#FinesseFriday – One Phat Decade Pt 1"
 date: "2021-06-04"
-categories: 
+categories:
   - "finessefriday"
-tags: 
+tags:
   - "onephatdecade"
   - "one-phat-dj"
 enclosure: "https://pinecast.com/listen/333e3cb3-e513-45c5-a951-d7bc17b7b232.mp3 173072041 audio/mpeg "

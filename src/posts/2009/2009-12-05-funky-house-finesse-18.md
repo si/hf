@@ -1,9 +1,9 @@
 ---
 title: "Funky House Finesse 18"
 date: "2009-12-05"
-categories: 
+categories:
   - "funkyhousefinesse"
-tags: 
+tags:
   - "anthony-louis"
   - "anton-powers"
   - "barcoda"
@@ -108,6 +108,6 @@ coverImage: "Funky_House_Finesse_18_5th_December_2009.jpg"
 2. Anthony Louis & Paolo Pellegrino ft Sara Luh - Rocking (Original Mix) \[BNG\]
 3. [The Playin' Stars ft Romanthony - You Needed Me (The Montanas Aka Morjac Remix) \[Rise Italy\]](https://www.juno.co.uk/products/You-Needed-Me/374011-01/)
 4. [Justin Michael & Blake Leary - Watching Her Move (Dr Kucho Mix) \[Ultra Records\]](https://itunes.apple.com/us/album/watching-her-move/id323413731)
-5. [Candi Staton - Musical Freedom (The Shapeshifters Classic Re-Work) \[Defected\]](https://www.defected.com/store/details/Candi+Staton/Musical+Freedom+(The+Shapeshifters+Remixes)/1569/2660)
+5. [Candi Staton - Musical Freedom (The Shapeshifters Classic Re-Work) \[Defected\]](<https://www.defected.com/store/details/Candi+Staton/Musical+Freedom+(The+Shapeshifters+Remixes)/1569/2660>)
 6. [Dennis Ferrer - Hey Hey (DF's Attention Vocal Mix) \[Objektivity\]](https://www.beatport.com/en-US/html/content/release/detail/201468/hey_hey#app=bf45&a486-index=0)
 7. [Crispin J Glover ft Kay Young - DJ Saved My Life (Original Extended Mix) \[Metrogroove\]](https://www.traxsource.com/index.php?act=show&fc=tpage&cr=titles&cv=39583)

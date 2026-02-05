@@ -1,12 +1,12 @@
 ---
 title: "Whole Lotta Lovin'"
 date: "2006-12-05"
-categories: 
+categories:
   - "onephatdj"
 enclosure: "https://www.onephatdj.com/mp3/podcast/20_whole_lotta_lovin_podcast.mp3 "
 ---
 
-It's mix time again people. More funky house, more disco sounds, more sing-along dance tracks. The tunes this month all tend to be related around the same topic - **love**. So when it came to naming the mix, it only seemed appropriate - here is **"Whole Lotta Lovin'"**. ![Whole Lotta Lovin' cover](images/whole_lotta_lovin_500px.png)  Last month, the October mix was late but I also treated you to an exclusive radio mix (with interview) to make up for it. Well, I'm going to be cheeky now and claim this one as the December mix (just so I'm up to date). No excuses for the lateness - just many late nights with baby and catching up with work. I promise I'll get back on top of it in the New Year! The majority of the tracks in this month's mix are available on [DJ Download](https://www.djdownload.com/click/Th042iwFhCCZE22rNAa). I've managed to dig out all the funky ones for you to enjoy so if you like any, go and buy. From **£1 per tune**, you can't go wrong! I've also finished off the mix with a couple of classics from the **download only** album [Hed Kandi Deluxe from DJ Download](https://www.djdownload.com/click/Various+Artists/Hed+Kandi+Deluxe/Hed+Kandi+Records/224198/Th042iwFhCCZE22rNAa), which is basically a DJ friendly version of the latest [Hed Kandi](https://www.hedkandi.com/) compilation, [Hed Kandi Classics](https://www.amazon.com/gp/product/B000JJSK40?ie=UTF8&tag=bridgetjones2-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B000JJSK40). I seriously suggest you dig into your pockets for one of these albums with the party season coming up. You can't beat a bit of funky house to get you going for a night out. Download or CD - its up to you (download is cheaper though and its all in MP3 so you can burn it to CD if you so wish).
+It's mix time again people. More funky house, more disco sounds, more sing-along dance tracks. The tunes this month all tend to be related around the same topic - **love**. So when it came to naming the mix, it only seemed appropriate - here is **"Whole Lotta Lovin'"**. ![Whole Lotta Lovin' cover](images/whole_lotta_lovin_500px.png) Last month, the October mix was late but I also treated you to an exclusive radio mix (with interview) to make up for it. Well, I'm going to be cheeky now and claim this one as the December mix (just so I'm up to date). No excuses for the lateness - just many late nights with baby and catching up with work. I promise I'll get back on top of it in the New Year! The majority of the tracks in this month's mix are available on [DJ Download](https://www.djdownload.com/click/Th042iwFhCCZE22rNAa). I've managed to dig out all the funky ones for you to enjoy so if you like any, go and buy. From **£1 per tune**, you can't go wrong! I've also finished off the mix with a couple of classics from the **download only** album [Hed Kandi Deluxe from DJ Download](https://www.djdownload.com/click/Various+Artists/Hed+Kandi+Deluxe/Hed+Kandi+Records/224198/Th042iwFhCCZE22rNAa), which is basically a DJ friendly version of the latest [Hed Kandi](https://www.hedkandi.com/) compilation, [Hed Kandi Classics](https://www.amazon.com/gp/product/B000JJSK40?ie=UTF8&tag=bridgetjones2-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B000JJSK40). I seriously suggest you dig into your pockets for one of these albums with the party season coming up. You can't beat a bit of funky house to get you going for a night out. Download or CD - its up to you (download is cheaper though and its all in MP3 so you can burn it to CD if you so wish).
 
 ### Track listings
 
@@ -28,7 +28,7 @@ Having played Harrison Crump and Dajae last month in the form of "Deeper", I tho
 
 05\. [Jamiroquai - Runaway (Grant Nelson Remix)](https://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=198719254&s=143444)
 
-I've always had a thing about Jamiroquai. I've loved their classic acid disco sound since they started out 15 odd years ago, something they've never lost. The latest offering "Runaway" is your typical Jamiroquai affair - plenty of funk and freshness. I just thought I'd give you the extra clubby remix from our favourite producer Grant Nelson who's added a few more beats and synthy sounds. [![](https://impgb.tradedoubler.com/imp?type(img)g(16556630)a(1309294))](https://clkuk.tradedoubler.com/click?p(23708)a(1309294)g(16556630))
+I've always had a thing about Jamiroquai. I've loved their classic acid disco sound since they started out 15 odd years ago, something they've never lost. The latest offering "Runaway" is your typical Jamiroquai affair - plenty of funk and freshness. I just thought I'd give you the extra clubby remix from our favourite producer Grant Nelson who's added a few more beats and synthy sounds. [![](<https://impgb.tradedoubler.com/imp?type(img)g(16556630)a(1309294)>)](<https://clkuk.tradedoubler.com/click?p(23708)a(1309294)g(16556630)>)
 
 06\. [Eyes Of Love - My Love Is You (Old School Mix)](https://www.djdownload.com/mp3-detail/Eyes+Of+Love/My+Love+Is+You/Born+To+Dance+Records/217896/Th042iwFhCCZE22rNAa)
 
@@ -67,7 +67,7 @@ OK, now you know what's in there, why don't you go downloading...?
 
 As per usual leave your comments, let me know what you think. It all adds to the fun! The next podcast will be a Christmas/Year End special, reliving the best tracks from the last 12 months so make sure you come back for more towards the end of the month. You could always subscribe to the [One Phat DJ podcast](https://feeds.feedburner.com/onephatdj) if you haven't already done so just to make sure you don't miss it. You can also get sent the podcast to your inbox if you want - just enter your email address below and make sure you click the confirmation code that is sent to you.
 
-One Phat DJ NewsletterEnter your email address: 
+One Phat DJ NewsletterEnter your email address:
 
 Delivered by [FeedBurner](https://www.feedburner.com/)
 

@@ -1,9 +1,9 @@
 ---
 title: "The Shapeshifters ft Billy Porter - Finally Ready"
 date: "2020-06-26"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "billy-porter"
   - "glitterbox"
   - "the-shapeshifters"
