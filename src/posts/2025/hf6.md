@@ -1,14 +1,14 @@
 ---
 title: "HF309 with Andi King"
-date: "Fri, 06 Feb 2026 05:00:00 -0000"
+date: "2026-02-06"
 categories:
   - "shows"
-author: "DJ"
+author: "Andi King"
 tags:
-  - ""
+  - "andi-king"
 enclosure: "https://op3.dev/e/pinecast.com/listen/da35d4ea-9c0c-439b-8b0e-18370de3a518.mp3?source=rss&ext=asset.mp3 91058492 audio/mpeg"
-coverImage: "https://storage.pinecast.net/podcasts/74494b86-80dc-4213-8181-b1c0eae5f6c6/artwork/bd574ac6-3e9c-4a48-a16c-5655413ebd0d/HF309_with_Andi_King.jpg"
-redirectFrom: "/hf6"
+coverImage: "HF309_with_Andi_King.jpg"
+redirectFrom: "/hf309"
 episode: 6
 season: 26
 explicit: "no"
@@ -30,14 +30,3 @@ duration: "01:03:07"
 11.    Groove P - He’s Mine
 12.    Captain Planet, Tony Allen - Tony’s House
 13.    O’Flynn - Fara</p>
-<p>Join the House Finesse VIP Club
-Get early access to mixes, exclusive bonus content, and the occasional freebie straight from the DJs.
-<a href="https://housefinesse.com/vip" rel="nofollow">https://housefinesse.com/vip</a></p>
-<p>Full show notes and archive:
-<a href="https://housefinesse.com/shows/hf309-with-andi-king/" rel="nofollow">https://housefinesse.com/shows/hf309-with-andi-king/</a></p>
-<p>House Finesse is an Unstyled Studio production.
-Curated house music mixes since 2005. New episodes weekly.</p>
-<p>Subscribe, share, and keep it moving
-#housemusicalldaylong #andiking</p>
-<p>Find out more at <a href="https://housefinesse.pinecast.co" rel="nofollow">https://housefinesse.pinecast.co</a></p>
-<p>This podcast is powered by <a href="https://pinecast.com" rel="nofollow">Pinecast</a>.</p>
