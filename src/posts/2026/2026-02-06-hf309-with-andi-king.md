@@ -1,13 +1,13 @@
 ---
 title: "HF309 with Andi King"
-date: "2026-02-06"
+date: "2026-02-06T00:00:00.000Z"
 categories:
   - "shows"
 author: "Andi King"
 tags:
   - "andi-king"
 enclosure: "https://op3.dev/e/pinecast.com/listen/da35d4ea-9c0c-439b-8b0e-18370de3a518.mp3?source=rss&ext=asset.mp3 91058492 audio/mpeg"
-coverImage: "HF309_with_Andi_King.jpg"
+coverImage: "hf309-with-andi-king.jpg"
 redirectFrom: "/hf309"
 episode: 6
 season: 26
