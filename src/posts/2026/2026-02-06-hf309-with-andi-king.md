@@ -13,18 +13,13 @@ episode: 6
 season: 26
 explicit: "no"
 duration: "01:03:07"
+templateEngineOverride: md, njk
 ---
 A proper House Finesse staple returns. Andi King steps back into the booth with a smooth, soul-led house session that leans deep, warm and timeless. Expect rolling grooves, disco touches, modern edits and a few leftfield moments that keep things moving without rushing the dance.
 
 This one’s all about feel. Patient builds, classy vocals, proper heads-down house music with a smile on its face. Perfect for late evenings, long drives, or that point in the night where everything just clicks.
 
-<div class="vip-banner">
-  <div class="vip-banner__inner">
-    <p class="vip-banner__eyebrow">VIP</p>
-    <p class="vip-banner__message">Get exclusive bonus mixes plus weekly reminders with our House Finesse newsletter.</p>
-    <a href="/newsletter/" class="vip-banner__cta">Subscribe</a>
-  </div>
-</div>
+{% vipBanner "Get exclusive bonus mixes plus weekly reminders with our House Finesse newsletter.", "Subscribe", "/newsletter/" %}
 
 ## Track Listing
 
