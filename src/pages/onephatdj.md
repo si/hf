@@ -2,6 +2,7 @@
 title: "One Phat DJ Podcast (2005-2009)"
 layout: "page"
 linkText: "OnePhatDJ"
+templateEngineOverride: md, njk
 ---
 
 ## The original season of the podcast, hosted by the founder One Phat DJ.
@@ -19,3 +20,22 @@ It was submitted to the iTunes Podcast Directory and the journey started.
 Over the following 4 years, One Phat DJ continued to share regular mixes every month, growing a loyal following from around the globe and establishing his sound as a "taste-maker" in the house music industry with fantastic support from featured artists, vocalists and labels but, most importantly, the listeners.
 
 Listen back to all 51 mixes from the archives.
+
+<ul class="tdbc-column-container">
+  {%- set posts = collections.posts | reverse -%}
+  {%- for post in posts -%}
+    {%- if 'onephatdj' in (post.data.categories or []) -%}
+    <li class="tdbc-card">
+      <div class="tdbc-card__content">
+        <p class="tdbc-card__date">
+          <datetime>{{ post.date.toUTCString().substring(5,17) }}</datetime>
+        </p>
+        <h3>
+          <a href="{{ post.url }}" class="tdbc-card__title">{{ post.data.title }}</a>
+        </h3>
+        <img src="/img/cover-images/{{ post.data.coverImage }}"/>
+      </div>
+    </li>
+    {%- endif -%}
+  {%- endfor -%}
+</ul>
