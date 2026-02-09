@@ -14,6 +14,7 @@ season: 3
 explicit: "no"
 duration: "01:03:30"
 ---
+
 **This week on House Finesse, we’re celebrating Andi King’s birthday with a proper feel-good house session.** Expect soulful vocals, disco-leaning grooves and uplifting energy throughout.
 
 Big tunes, big smiles, no fillers. Just over an hour of house music done right to mark another trip around the sun.
@@ -44,6 +45,6 @@ If you're feeling the mix, drop a comment, share it with your crew and support t
 - Recorded and mixed by Andi King
 - Production by Unstyled Studios
 
-*#housemusicalldaylong #andiking*
+_#housemusicalldaylong #andiking_
 
 Check out our podcast host, Pinecast. Start your own podcast for free with no credit card required. If you decide to upgrade, use coupon code r-b0b82e for 40% off for 4 months, and support House Finesse.

@@ -1,7 +1,7 @@
 ---
 title: "Two Thousand And Six"
 date: "2006-01-20"
-categories: 
+categories:
   - "onephatdj"
 enclosure: "https://www.onephatdj.com/mp3/podcast/two_thousand_and_six_96.mp3 87478272 audio/mpeg "
 ---

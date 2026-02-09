@@ -1,9 +1,9 @@
 ---
 title: "Funky House Finesse 16"
 date: "2009-11-07"
-categories: 
+categories:
   - "funkyhousefinesse"
-tags: 
+tags:
   - "abigail-bailey"
   - "alec-sun-drae"
   - "alex-finkin"
@@ -45,7 +45,7 @@ enclosure: "https://www.onephatdj.com/media/finesse/Funky_House_Finesse_16_7th_N
 
 ## Download
 
-\[audio:finesse/Funky\_House\_Finesse\_16\_7th\_November\_2009.mp3\] [Funky House Finesse 16 MP3 (128 kbps)](https://onephatdj.com/download/19)
+\[audio:finesse/Funky_House_Finesse_16_7th_November_2009.mp3\] [Funky House Finesse 16 MP3 (128 kbps)](https://onephatdj.com/download/19)
 
 ## Track Listing
 

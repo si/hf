@@ -1,7 +1,7 @@
 ---
 title: "House Finesse 45"
 date: "2015-06-13"
-categories: 
+categories:
   - "shows"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/p/www.sowebmediauk.co.uk/dj-shows/HouseFinesse/House_Finesse_45_Souljackerz.mp3 0 audio/mpeg "
 coverImage: "House-Finesse-45.jpg"

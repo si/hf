@@ -1,9 +1,9 @@
 ---
 title: "The Vision - 1 Thing"
 date: "2019-08-25"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "the-vision"
   - "youtube"
 enclosure: ""

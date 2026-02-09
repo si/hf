@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 43 with Hutch"
 date: "2015-05-09"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "alana"
   - "ceballos"
   - "chus"

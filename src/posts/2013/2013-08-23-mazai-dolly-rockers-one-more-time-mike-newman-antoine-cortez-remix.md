@@ -1,9 +1,9 @@
 ---
 title: "Mazai & Dolly Rockers - One More Time (Mike Newman & Antoine Cortez remix)"
 date: "2013-08-23"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "antoine-cortez"
   - "attractive-music"
   - "dolly-rockers"

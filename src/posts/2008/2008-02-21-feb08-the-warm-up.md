@@ -1,9 +1,10 @@
 ---
 title: "Feb'08 - The Warm Up"
 date: "2008-02-21"
-categories: 
+categories:
   - "onephatdj"
 enclosure: "https://onephatdj.com/mp3/podcast/40_feb08_the_warm_up.mp3 105631988 audio/mpeg "
+coverImage: "2281544920_4109810b81.jpg"
 ---
 
 It's time to return to the usual programming schedule of the [One Phat DJ Podcast](https://onephatdj.com/podcast), promoting the latest sounds from the funky house scene, all mixed up for you, the listeners, to enjoy with absolutely no interruptions from talking. However, before you get comfortable, I need to announce some brand new alterations to the format...
@@ -27,62 +28,61 @@ So, without further ado, I present to you the _first official podcast of 2008_ -
 ### Track Listing
 
 1. #### Michael Protecter / Colonel Abrams - _Work It Out (Master House Classic Vocal)_
-    
-    - MyChan
-    - [Buy from Traxsource](https://www.simonjobling.com/buy/workitout)
-    - 00:00:00:00
+   - MyChan
+   - [Buy from Traxsource](https://www.simonjobling.com/buy/workitout)
+   - 00:00:00:00
+
 2. #### Studio Apartment ft Ron Carroll - _I'm In Love (Original 12 Inch)_
-    
-    - King Street
-    - [Buy from Traxsource](https://www.simonjobling.com/buy/studioapartment)
-    - 00:06:14:70
+   - King Street
+   - [Buy from Traxsource](https://www.simonjobling.com/buy/studioapartment)
+   - 00:06:14:70
+
 3. #### Marquito ft Duane Harden - _Face It Now (Classic Mix)_
-    
-    - Panevino Music
-    - [Buy from Traxsource](https://www.simonjobling.com/buy/faceitnow)
-    - 00:12:33:50
+   - Panevino Music
+   - [Buy from Traxsource](https://www.simonjobling.com/buy/faceitnow)
+   - 00:12:33:50
+
 4. #### Kimara Lovelace - _When Can Our Love Begin (Richard Earnshaw Main Mix)_
-    
-    - King Street
-    - [Buy from Traxsource](https://www.simonjobling.com/buy/kimaralovelace)
-    - 00:19:33:50
+   - King Street
+   - [Buy from Traxsource](https://www.simonjobling.com/buy/kimaralovelace)
+   - 00:19:33:50
+
 5. #### Alfredo Norese ft Kaysee - _Gettin' Down (Orignal Mix)_
-    
-    - Steal Vybe
-    - [Buy from Traxsource](https://www.simonjobling.com/buy/alfredonorese)
-    - 00:25:48:50
+   - Steal Vybe
+   - [Buy from Traxsource](https://www.simonjobling.com/buy/alfredonorese)
+   - 00:25:48:50
+
 6. #### House Bros ft Carol Jiani - _Keep On (House Bros Disco 54 Mix)_
-    
-    - Distar
-    - [Buy from Traxsource](https://www.simonjobling.com/buy/housebroskeepon)
-    - 00:31:16:70
+   - Distar
+   - [Buy from Traxsource](https://www.simonjobling.com/buy/housebroskeepon)
+   - 00:31:16:70
+
 7. #### Peyton & The Rhythm Republic - _Never Give Up (Classic Vocal)_
-    
-    - Peppermint Jam
-    - [Buy from Traxsource](https://www.simonjobling.com/buy/nevergiveup)
-    - 00:37:31:50
+   - Peppermint Jam
+   - [Buy from Traxsource](https://www.simonjobling.com/buy/nevergiveup)
+   - 00:37:31:50
+
 8. #### Soul Survivors - _Bring It Back (Original)_
-    
-    - [Hed Kandi](https://www.hedkandi.com/)
-    - [Buy from DJ Download](https://www.simonjobling.com/buy/bringitback)
-    - 00:43:01:50
+   - [Hed Kandi](https://www.hedkandi.com/)
+   - [Buy from DJ Download](https://www.simonjobling.com/buy/bringitback)
+   - 00:43:01:50
+
 9. #### Raul Rincon & Terri B - _Sometimes (Full Vocal Mix)_
-    
-    - Tenor
-    - [Buy from Traxsource](https://www.simonjobling.com/buy/sometimes)
-    - 00:48:39:00
+   - Tenor
+   - [Buy from Traxsource](https://www.simonjobling.com/buy/sometimes)
+   - 00:48:39:00
+
 10. #### House Bros & Britalics ft Joy Malcolm - _Love What You Feel (Kikko Martini Back In The Days)_
-    
     - Distar
     - [Buy from Traxsource](https://www.simonjobling.com/buy/lovewhatyoufeel)
     - 00:56:24:00
+
 11. #### Tony Moran ft Martha Wash - _Keep Your Body Workin' (Bassmonkeys Club Mix)_
-    
     - Dance Music Productions Inc
     - [Buy from DJ Download](https://www.simonjobling.com/buy/keepyourbodyworkin)
     - 01:01:24:00
+
 12. #### Hott 22 - _Something Real_
-    
     - Gossip
     - [Buy from Traxsource](https://www.simonjobling.com/buy/somethingreal)
     - 01:06:54:00

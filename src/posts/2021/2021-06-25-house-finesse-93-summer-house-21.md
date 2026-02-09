@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 93 - Summer House ‘21"
 date: "2021-06-25"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "one-phat-dj"
   - "summer-house"
 enclosure: "https://pinecast.com/listen/6552d57e-dd8e-4c64-a36e-ba8cf27c1ee0.mp3 288110871 audio/mpeg "

@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 77 - April 2019"
 date: "2019-04-30"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "angie-stone"
   - "art-of-tones"
   - "bobby-dambrosio"

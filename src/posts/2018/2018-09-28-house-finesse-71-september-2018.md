@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 71 - September 2018"
 date: "2018-09-28"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "atfc"
   - "block-crown"
   - "cassius"

@@ -1,9 +1,9 @@
 ---
 title: "Love Music Hate Racism with DJ Programma"
 date: "2022-02-18"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "dj-programma"
   - "guest-mix"
   - "love-music-hate-racism"

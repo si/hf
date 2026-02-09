@@ -1,9 +1,9 @@
 ---
 title: "Kanomarli- Hey"
 date: "2019-04-24"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "ifttt"
   - "kanomarli"
   - "youtube"

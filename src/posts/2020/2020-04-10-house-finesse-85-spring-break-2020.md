@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 85 - Spring Break 2020"
 date: "2020-04-10"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "aki-bergen"
   - "alan-dixon"
   - "andreya-triana"
@@ -60,7 +60,7 @@ Rather than the traditional monthly hour-long dose, we're going to bring you **f
 5. LYP - Dusty (Orignal Mix)
 6. Choices - Less Is More (Original Mix)
 7. William DeVaughn - Be Thankful For What You Got (FKJ Remix)
-8. Giman, Chic\_Ago - Le Chic (Vocal Mix)
+8. Giman, Chic_Ago - Le Chic (Vocal Mix)
 9. Selace, ATFC - Hooked On Bad Habits (Mousse T.'s Extended Edit)
 10. Michael Gray, Kimberly Brown - Brother Brother
 11. Sylvester - You Make Me Feel (Mighty Real) (Michael Gray Remix)

@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 21 with Frater & Stent"
 date: "2013-12-31"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "frater-stent"
   - "guest-mix"
   - "show"

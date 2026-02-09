@@ -1,9 +1,9 @@
 ---
 title: "Alan Dixon - Bless Me Today"
 date: "2019-07-18"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "alan-dixon"
   - "glitterbox"
   - "youtube"

@@ -1,9 +1,9 @@
 ---
 title: "REWIND to House Finesse 27 with VMS"
 date: "2022-05-20"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "guest-mix"
   - "rewind"
   - "vms"

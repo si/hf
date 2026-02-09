@@ -1,9 +1,9 @@
 ---
-title: "Rene & Angela ft Notorious Big - I Love You More (Dj \"S\" Bootleg Extended Re-Mix)"
+title: 'Rene & Angela ft Notorious Big - I Love You More (Dj "S" Bootleg Extended Re-Mix)'
 date: "2019-07-13"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "notorious-big"
   - "rene-angela"
   - "youtube"

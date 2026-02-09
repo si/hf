@@ -1,7 +1,7 @@
 ---
 title: "Funky House Finesse 29 - Ibiza Special"
 date: "2010-06-17"
-categories: 
+categories:
   - "funkyhousefinesse"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/www.sowebmediauk.co.uk/dj-shows/OnePhatDj2/Funky_House_Finesse_29_Ibiza_Special_17th_June_2010_128.mp3 audio/mpeg "
 coverImage: "Funky_House_Finesse_29_17th_June_2010-1.jpg"

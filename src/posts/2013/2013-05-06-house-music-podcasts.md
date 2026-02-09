@@ -1,7 +1,7 @@
 ---
 title: "House Music Podcasts"
 date: "2013-05-06"
-categories: 
+categories:
   - "news"
 enclosure: ""
 coverImage: "House-Music-Podcasts.png"

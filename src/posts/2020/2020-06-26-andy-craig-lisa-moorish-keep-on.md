@@ -1,9 +1,9 @@
 ---
 title: "Andy Craig & Lisa Moorish - Keep On"
 date: "2020-06-26"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "andy-craig"
   - "lisa-moorish"
   - "youtube"

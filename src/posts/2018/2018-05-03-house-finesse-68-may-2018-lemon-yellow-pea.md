@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 68 - May 2018 with Lemon Yellow Pea"
 date: "2018-05-03"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "lemon-yellow-pea"
   - "stu-braybrooke"
 enclosure: ""

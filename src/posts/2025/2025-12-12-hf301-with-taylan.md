@@ -14,6 +14,7 @@ season: 3
 explicit: "no"
 duration: "00:51:22"
 ---
+
 **Behind the 12th door of the House Finesse advent calendar is Taylan, one of our younger regular DJs and an exciting name coming out of the Midlands right now.**
 
 This session is all about groove-led garage and dirty basslines that do the talking. There's even an unreleased Taylan opener in here, setting the tone from the first minute.
@@ -47,4 +48,3 @@ If you're feeling the mix, drop a comment, share it with your crew and support t
 11. MUCKANIKS – Don't Front
 12. Jon Buccieri – What Would We Do
 13. Veritas (UK) – Pump Dis
-

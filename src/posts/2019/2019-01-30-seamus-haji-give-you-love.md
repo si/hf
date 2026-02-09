@@ -1,9 +1,9 @@
 ---
 title: "Seamus Haji - Give You Love"
 date: "2019-01-30"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "ifttt"
   - "seamus-haji"
   - "youtube"

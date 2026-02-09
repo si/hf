@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 62 - Mike Mases"
 date: "2017-05-26"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "guest-mix"
   - "mike-mases"
 enclosure: "https://pinecast.com/listen/d37adedb-55d5-40d7-869e-10d46915cb5d.mp3 57312785 audio/mpeg "

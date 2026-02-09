@@ -1,7 +1,7 @@
 ---
 title: "Plain & Simple"
 date: "2005-12-22"
-categories: 
+categories:
   - "onephatdj"
 enclosure: "https://pinecast.com/listen/337b3d0a-5b21-4999-8eda-69a1edb8bbc2.mp3 27268636 audio/mpeg "
 ---

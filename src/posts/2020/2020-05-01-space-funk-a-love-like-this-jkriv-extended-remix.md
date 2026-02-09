@@ -1,9 +1,9 @@
 ---
 title: "Space Funk - A Love Like This (JKriv Extended Remix)"
 date: "2020-05-01"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "jkriv"
   - "space-funk"
   - "youtube"

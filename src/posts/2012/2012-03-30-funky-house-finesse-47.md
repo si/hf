@@ -1,7 +1,7 @@
 ---
 title: "Funky House Finesse 47"
 date: "2012-03-30"
-categories: 
+categories:
   - "funkyhousefinesse"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/www.sowebmediauk.co.uk/dj-shows/OnePhatDj2/Funky_House_Finesse_47_March_2012_128.mp3 audio/mpeg "
 coverImage: "Funky_House_Finesse_47.jpg"

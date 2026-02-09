@@ -1,7 +1,7 @@
 ---
 title: "House Finesse 99 – Halloween '21"
 date: "2021-10-29"
-categories: 
+categories:
   - "shows"
 enclosure: "https://pinecast.com/listen/2661e24a-1b83-4706-865d-8efe260015b8.mp3 288163891 audio/mpeg "
 coverImage: "House-Finesse-99-Halloween-2021.jpg"

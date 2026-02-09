@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 76 – March 2019"
 date: "2019-03-22"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "a-trak"
   - "alex-lo-faro"
   - "angelo-ferreri"

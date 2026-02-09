@@ -1,9 +1,9 @@
 ---
 title: "Summer House 2022 with One Phat DJ"
 date: "2022-07-08"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "aeroplane"
   - "agua-sin-gas"
   - "antoine-claraman"

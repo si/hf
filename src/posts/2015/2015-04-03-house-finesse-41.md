@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 41"
 date: "2015-04-03"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "one-phat-dj"
   - "show"
   - "shows-2"

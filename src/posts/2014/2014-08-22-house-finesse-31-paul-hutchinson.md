@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 31 with Paul Hutchinson"
 date: "2014-08-22"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "guest-mix"
   - "paul-hutchinson"
   - "show"

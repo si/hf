@@ -1,9 +1,9 @@
 ---
 title: "Idris Elba &amp; Inner City ft. Steffanie Christi'an - No More Looking Back (David Penn Extended Remix)"
 date: "2021-08-13"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "david-penn"
   - "idris-elba"
   - "inner-city"

@@ -1,9 +1,9 @@
 ---
 title: "George Benson - Love X Love [The Reflex Revision]"
 date: "2019-10-26"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "bootleg"
   - "george-benson"
   - "the-reflex"

@@ -1,9 +1,9 @@
 ---
 title: "Earth, Wind & Fire – Can't Let Go (Joey Negro Elevated Mix)"
 date: "2019-01-20"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "earth-wind-fire"
   - "ifttt"
   - "joey-negro"

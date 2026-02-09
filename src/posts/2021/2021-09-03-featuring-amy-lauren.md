@@ -1,9 +1,9 @@
 ---
 title: "#FinesseFriday – Featuring… Amy Lauren"
 date: "2021-09-03"
-categories: 
+categories:
   - "finessefriday"
-tags: 
+tags:
   - "amy-lauren"
 enclosure: "https://pinecast.com/listen/982f4347-38c0-4414-a382-a930562ba9ca.mp3 142877007 audio/mpeg "
 coverImage: "House-Finesse-Featuring-Amy-Lauren.jpg"

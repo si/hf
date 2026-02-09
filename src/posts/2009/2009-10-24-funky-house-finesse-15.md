@@ -1,9 +1,9 @@
 ---
 title: "Funky House Finesse 15"
 date: "2009-10-24"
-categories: 
+categories:
   - "funkyhousefinesse"
-tags: 
+tags:
   - "2delicious-recordings"
   - "annie-vocals"
   - "ant-brooks"
@@ -81,7 +81,7 @@ In this week's Funky House Finesse show, we've got a whole stack of upcoming fun
 
 ## Download
 
-\[audio:finesse/Funky\_House\_Finesse\_15\_24th\_October\_2009\_96.mp3\]
+\[audio:finesse/Funky_House_Finesse_15_24th_October_2009_96.mp3\]
 
 - [Download Funky House Finesse 15 - 24th October 2009 (smaller size)](https://onephatdj.com/download/17)
 - [Download Funky House Finesse 15 - 24th October 2009 (higher quality)](https://onephatdj.com/download/18)

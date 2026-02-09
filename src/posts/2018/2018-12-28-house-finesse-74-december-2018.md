@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 74 - December 2018"
 date: "2018-12-28"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "al-p"
   - "alan-dixon"
   - "art-of-tones"

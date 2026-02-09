@@ -1,9 +1,9 @@
 ---
 title: "#FinesseFriday - Funky House Finesse 36"
 date: "2021-05-21"
-categories: 
+categories:
   - "finessefriday"
-tags: 
+tags:
   - "funky-house-finesse"
   - "marie-howard-shaw"
   - "one-phat-dj"

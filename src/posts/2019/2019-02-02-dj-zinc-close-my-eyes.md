@@ -1,9 +1,9 @@
 ---
 title: "DJ Zinc - Close My Eyes"
 date: "2019-02-02"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "dj-zinc"
   - "ifttt"
   - "youtube"

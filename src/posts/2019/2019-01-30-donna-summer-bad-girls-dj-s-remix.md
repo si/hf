@@ -1,9 +1,9 @@
 ---
 title: "Donna Summer - Bad Girls (Dj ''S'' Remix)"
 date: "2019-01-30"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "dj-s"
   - "donna-summer"
   - "ifttt"

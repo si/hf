@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 5 Christmas Special Part 1 - Souljackerz"
 date: "2012-12-08"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "souljackerz"
   - "special"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/p/www.sowebmediauk.co.uk/dj-shows/HouseFinesse/House_Finesse_5_-_Christmas_Special_Part_1_-_One_Phat_DJ.mp3 0 audio/mpeg "

@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 86 - Summer House 2020"
 date: "2020-07-15"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "art-of-tones"
   - "barbara-tucker"
   - "billy-porter"
@@ -39,14 +39,13 @@ episode: 86
 season: 3
 explicit: "no"
 duration: "01:59:40"
-
 ---
 
 **As our podcast reaches 15 years of existence this week (yep, really!), we bring another two hours of sun-tinged house music delights mixed by One Phat DJ & LYP as this year's **Summer House** ☀️.**
 
 We continue the quarterly themed sessions, returning with some sun-soaked beats for **Summer House** ☀️. The global pandemic is still bringing mixed emotions and feelings, making it difficult for many people to enjoy the Summer properly but we wanted to try bring some joy to you in the shape of our favourite house tracks over two hours of endless mixing.
 
-To think 15 years ago, a little mix on a website would turn into one of the longest running house music podcasts online. Through all the peaks and troughs and many different formats, we've continued to bring our finest choice of house music, selected by One Phat DJ and friends, sent straight to your ears through the convenience of podcast technology. Whilst many have joined (and left) the bandwagon, we've continued to try keep things going for all the regular listeners and subscribers. 
+To think 15 years ago, a little mix on a website would turn into one of the longest running house music podcasts online. Through all the peaks and troughs and many different formats, we've continued to bring our finest choice of house music, selected by One Phat DJ and friends, sent straight to your ears through the convenience of podcast technology. Whilst many have joined (and left) the bandwagon, we've continued to try keep things going for all the regular listeners and subscribers.
 
 Now, enough with the nostalgia, let's bring it back to today. First up, an hour mix from One Phat DJ selecting his favourite disco, soul, gospel house tracks from many familiar names. Following that, LYP brings us an hour of his own productions over recent months, taking a little more of a deeper twist along the house music genre.
 

@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 64 - July 2017"
 date: "2017-07-20"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "aeroplane"
   - "alex-mills"
   - "ant-larock"

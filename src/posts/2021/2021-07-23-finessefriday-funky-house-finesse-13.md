@@ -1,9 +1,9 @@
 ---
 title: "#FinesseFriday - Funky House Finesse 13"
 date: "2021-07-23"
-categories: 
+categories:
   - "finessefriday"
-tags: 
+tags:
   - "funky-house-finesse"
   - "one-phat-dj"
 enclosure: "https://pinecast.com/listen/9631f6b8-5488-49db-ab38-b3d9ddd1b951.mp3 117162984 audio/mpeg "

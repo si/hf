@@ -1,7 +1,7 @@
 ---
 title: "Bright Times"
 date: "2007-06-13"
-categories: 
+categories:
   - "onephatdj"
 enclosure: "https://pinecast.com/listen/0f8e33ae-dcb9-4e25-8eec-8304bca715af.mp3 104405399 audio/mpeg "
 coverImage: "Bright-Times.png"

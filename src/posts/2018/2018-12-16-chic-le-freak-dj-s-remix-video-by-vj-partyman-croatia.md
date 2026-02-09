@@ -1,9 +1,9 @@
 ---
 title: "Chic - Le Freak (Dj ''S'' Remix) (Video By Vj Partyman Croatia)"
 date: "2018-12-16"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "chic"
   - "dj-s"
   - "ifttt"

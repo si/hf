@@ -1,7 +1,7 @@
 ---
 title: "Beats For Easter"
 date: "2006-04-14"
-categories: 
+categories:
   - "onephatdj"
 enclosure: "https://pinecast.com/listen/c7d9d1a1-40e0-4cd6-b241-ccbfc9a7809b.mp3 90792278 audio/mpeg "
 coverImage: "Beats-For-Easter.png"

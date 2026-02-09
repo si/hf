@@ -1,9 +1,9 @@
 ---
 title: "Featuring… Eliot Holmes"
 date: "2023-02-10"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "eliot-holmes"
   - "guest-mix"
   - "mister-lew"

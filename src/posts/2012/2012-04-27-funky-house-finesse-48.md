@@ -1,9 +1,9 @@
 ---
 title: "Funky House Finesse 48"
 date: "2012-04-27"
-categories: 
+categories:
   - "funkyhousefinesse"
-tags: 
+tags:
   - "andrea-carissimi"
   - "antoine-cortez"
   - "audiojacker"

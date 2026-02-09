@@ -1,9 +1,9 @@
 ---
 title: "The Streets - Who Got The Funk (Cousn's Geezer Edit)"
 date: "2018-12-18"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "cousn"
   - "ifttt"
   - "the-streets"

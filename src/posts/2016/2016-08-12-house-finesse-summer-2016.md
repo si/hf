@@ -1,9 +1,9 @@
 ---
 title: "House Finesse Summer 2016"
 date: "2016-08-12"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "agua-sin-gas"
   - "alex-kouros"
   - "alex-ross"

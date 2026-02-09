@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 1"
 date: "2012-08-10"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "souljackerz"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/p/www.sowebmediauk.co.uk/dj-shows/HouseFinesse/House_Finesse_1.mp3 169915353 audio/mpeg "
 coverImage: "House-Finesse-1.png"

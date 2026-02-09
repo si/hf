@@ -1,7 +1,7 @@
 ---
 title: "Presenting... Bonnie Bailey"
 date: "2007-04-18"
-categories: 
+categories:
   - "onephatdj"
 enclosure: "https://pinecast.com/listen/04d62ecf-4c9a-41ce-b59c-d1d7f11c5038.mp3 62465724 audio/mpeg "
 coverImage: "Presenting-Bonnie-Bailey-v2.jpg"

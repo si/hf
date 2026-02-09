@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 10 with Disco 77"
 date: "2013-05-03"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "guest-mix"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/p/www.sowebmediauk.co.uk/dj-shows/HouseFinesse/House_Finesse_10.mp3 0 audio/mpeg "
 coverImage: "House-Finesse-10-Widescreen.jpg"
@@ -13,7 +13,7 @@ coverImage: "House-Finesse-10-Widescreen.jpg"
 
 We'd like to take this opportunity to thank [House Music Podcasts](https://www.housemusicpodcasts.co.uk/) for exclusively hosting the show. They have long supported our work and we are hugely grateful for their ongoing commitment to the house music scene and their amazing podcast service bringing together some of the world's finest DJs and shows. Big love to the team!
 
-Now, without further ado, we kick off the show with an exclusive guest mix from Disco 77 with an hour full of uplifting disco house beauties. Be sure to follow [@disco\_77](https://twitter.com/disco_77) on Twitter and let him know what you think.
+Now, without further ado, we kick off the show with an exclusive guest mix from Disco 77 with an hour full of uplifting disco house beauties. Be sure to follow [@disco_77](https://twitter.com/disco_77) on Twitter and let him know what you think.
 
 ## Hour 1 with guest mix from Disco 77
 

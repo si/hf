@@ -1,9 +1,9 @@
 ---
 title: "#FinesseFriday – Born In October"
 date: "2021-10-08"
-categories: 
+categories:
   - "finessefriday"
-tags: 
+tags:
   - "one-phat-dj"
 enclosure: "https://pinecast.com/listen/d91b402a-759b-4c8a-9aac-4d5b33e7aca5.mp3 95148102 audio/mpeg "
 coverImage: "Born-In-October.jpg"

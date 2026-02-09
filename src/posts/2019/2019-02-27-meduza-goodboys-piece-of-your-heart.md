@@ -1,9 +1,9 @@
 ---
 title: "Meduza, Goodboys - Piece Of Your Heart"
 date: "2019-02-27"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "goodboys"
   - "ifttt"
   - "meduza"

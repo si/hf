@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 36 with Jamie Askew"
 date: "2014-11-21"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "guest-mix"
   - "jamie-askew"
 enclosure: "https://media.blubrry.com/housemusicpodcasts/p/www.sowebmediauk.co.uk/dj-shows/HouseFinesse/House_Finesse_36_Jamie_Askew.mp3 0 audio/mpeg "

@@ -1,9 +1,9 @@
 ---
 title: "#FinesseFriday - Two Be In Love"
 date: "2021-05-14"
-categories: 
+categories:
   - "finessefriday"
-tags: 
+tags:
   - "annette-passley"
   - "one-phat-dj"
 enclosure: "https://pinecast.com/listen/3af36a25-b4ee-4484-9871-8b6eeb70a0af.m4a 71660645 audio/x-m4a "

@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 60 – Winter 2016"
 date: "2016-12-16"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "armand-van-helden"
   - "big-brooklyn-red"
   - "bruno-mars"

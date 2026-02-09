@@ -1,9 +1,9 @@
 ---
 title: "Funky House Finesse 25 - Bonnie Bailey Special"
 date: "2010-03-13"
-categories: 
+categories:
   - "funkyhousefinesse"
-tags: 
+tags:
   - "3-amigos"
   - "abel-ramos"
   - "bassmonkeys"

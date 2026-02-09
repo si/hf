@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 84 - November 2019"
 date: "2019-11-28"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "adeline"
   - "andreya-triana"
   - "angelo-ferreri"

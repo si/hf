@@ -1,9 +1,9 @@
 ---
 title: "Jax Jones, Years & Years - Play (Purple Disco Machine Remix)"
 date: "2019-01-29"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "ifttt"
   - "jax-jones"
   - "purple-disco-machine"

@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 70 - July 2018 with LYP"
 date: "2018-07-20"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "aeroplane"
   - "aloe-blacc"
   - "dario-dattis"

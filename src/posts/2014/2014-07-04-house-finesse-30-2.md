@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 28 - IBZ"
 date: "2014-07-04"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "show"
   - "souljackerz"
 enclosure: "https://pinecast.com/listen/0d13fc07-b607-4aa1-87a7-dd0186864372.mp3 98923194 audio/mpeg "

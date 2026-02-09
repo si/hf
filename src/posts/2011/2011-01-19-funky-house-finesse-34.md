@@ -1,9 +1,9 @@
 ---
 title: "Funky House Finesse 34"
 date: "2011-01-19"
-categories: 
+categories:
   - "funkyhousefinesse"
-tags: 
+tags:
   - "albin-myers"
   - "analog-people-in-a-digital-world"
   - "angie-brown"

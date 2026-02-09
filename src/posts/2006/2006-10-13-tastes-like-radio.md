@@ -1,7 +1,7 @@
 ---
 title: "Tastes Like Radio"
 date: "2006-10-13"
-categories: 
+categories:
   - "onephatdj"
 enclosure: ""
 ---

@@ -1,9 +1,9 @@
 ---
 title: "#FinesseFriday – Christmas Special 2015"
 date: "2021-12-10"
-categories: 
+categories:
   - "finessefriday"
-tags: 
+tags:
   - "christmas"
   - "disco"
   - "one-phat-dj"

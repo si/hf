@@ -1,9 +1,9 @@
 ---
 title: "Paradise, Daphni – Sizzling"
 date: "2019-06-28"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "daphni"
   - "paradise"
   - "youtube"

@@ -1,9 +1,9 @@
 ---
-title: "Sophie Lloyd featuring Dames Brown - Raise Me Up (Alan Dixon 12\" Version)"
+title: 'Sophie Lloyd featuring Dames Brown - Raise Me Up (Alan Dixon 12" Version)'
 date: "2019-10-03"
-categories: 
+categories:
   - "favourites"
-tags: 
+tags:
   - "alan-dixon"
   - "classic-music-company"
   - "dames-brown"

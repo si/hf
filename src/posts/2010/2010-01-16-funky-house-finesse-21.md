@@ -1,9 +1,9 @@
 ---
 title: "Funky House Finesse 21"
 date: "2010-01-16"
-categories: 
+categories:
   - "funkyhousefinesse"
-tags: 
+tags:
   - "2-tyme"
   - "al-kent"
   - "amanda-wilson"

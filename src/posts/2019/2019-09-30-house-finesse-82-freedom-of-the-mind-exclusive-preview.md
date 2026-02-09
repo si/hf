@@ -1,9 +1,9 @@
 ---
 title: "House Finesse 82 - Freedom Of The Mind (EXCLUSIVE Preview)"
 date: "2019-09-30"
-categories: 
+categories:
   - "shows"
-tags: 
+tags:
   - "lemon-yellow-pea"
 enclosure: "https://pinecast.com/listen/dccaf288-b5c8-467b-85ec-e1c389253c7b.mp3 159238869 audio/mpeg "
 coverImage: "House-Finesse-82-LYP-Freedom-Of-The-Mind.png"

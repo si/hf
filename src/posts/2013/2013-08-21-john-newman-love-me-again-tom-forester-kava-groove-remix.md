@@ -1,9 +1,9 @@
 ---
 title: "John Newman - Love Me Again (Tom Forester & Kava Groove Remix)"
 date: "2013-08-21"
-categories: 
+categories:
   - "free-downloads"
-tags: 
+tags:
   - "john-newman"
   - "kava-groove"
   - "remix"

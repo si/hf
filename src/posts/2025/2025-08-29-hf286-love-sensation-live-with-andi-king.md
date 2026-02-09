@@ -34,4 +34,4 @@ Sharing the stage with Seamus Haji (Defected) and Katie Goodman (Glitterbox), An
 
 ## Track Listing
 
-*Track listings will be added once tracks are identified*
+_Track listings will be added once tracks are identified_
