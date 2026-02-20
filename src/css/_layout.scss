@@ -135,6 +135,18 @@ ul.tdbc-column-container {
   padding-left: 0;
 }
 
+.snapshot-grid {
+  direction: ltr;
+
+  > li {
+    direction: ltr;
+  }
+
+  @media (min-width: 80ch) {
+    direction: rtl;
+  }
+}
+
 .tdbc-section {
   width: 100%;
 
