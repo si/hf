@@ -1,6 +1,6 @@
 ---
 title: "HF312 with Taylan"
-date: "-02-27"
+date: "2026-02-27"
 categories:
   - "shows"
 author: "Taylan"
