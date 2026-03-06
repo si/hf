@@ -7,7 +7,7 @@ author: "One Phat DJ"
 tags:
   - "onephatdj"
 enclosure: "https://op3.dev/e/pinecast.com/listen/d4917b8b-e08f-4022-9c4d-5d0bbd804baa.mp3?source=rss&ext=asset.mp3 66293089 audio/mpeg"
-coverImage: "HF313_with_OPDJ.png.jpg"
+coverImage: "HF313_with_OPDJ.png"
 redirectFrom: "/hf313"
 episode: 10
 season: 26
