@@ -1,23 +1,26 @@
 ---
 title: "HF315 with Taiwo"
-date: "Fri, 20 Mar 2026 05:00:00 -0000"
+date: "2026-03-20"
 categories:
   - "shows"
-author: "DJ"
+author: "Taiwo"
 tags:
-  - ""
+  - "taiwo"
 enclosure: "https://op3.dev/e/pinecast.com/listen/113ae061-cabf-4275-8c51-10a71293b5c8.mp3?source=rss&ext=asset.mp3 85642253 audio/mpeg"
-coverImage: "https://storage.pinecast.net/podcasts/74494b86-80dc-4213-8181-b1c0eae5f6c6/artwork/5657ea04-98d6-4368-a018-fcf70b99c2a4/HF315_with_Taiwo.jpg"
-redirectFrom: "/hf12"
+coverImage: "HF315_with_Taiwo.jpg"
+redirectFrom: "/hf315"
 episode: 12
 season: 26
 explicit: "no"
 duration: "01:29:04"
 ---
-<p>Taiwo’s back for his first outing of the year and wastes absolutely no time getting into it. This one is smooth, warm and full of intent - proper heads-down, eyes-closed energy. From gospel-tinged highs to deep soulful rollers, it’s a classy ride from start to finish.</p>
-<p>This isn’t just a mix, it’s a reminder. House music with feeling, roots and a bit of Sunday spirit woven through it. Proper grooves, no shortcuts.</p>
-<p>Settle in.</p>
-<p><strong>TRACK LISTING</strong></p>
+Taiwo’s back for his first outing of the year and wastes absolutely no time getting into it. This one is smooth, warm and full of intent - proper heads-down, eyes-closed energy. From gospel-tinged highs to deep soulful rollers, it’s a classy ride from start to finish.
+
+This isn’t just a mix, it’s a reminder. House music with feeling, roots and a bit of Sunday spirit woven through it. Proper grooves, no shortcuts.
+
+Settle in.
+
+## Track Listing
 <ol>
 <li>Whitney Houston - Love Will Save The Day (Louie Vega Mix)</li>
 <li>Bobby &amp; Steve, Matt Early feat. Dajae - Faith, Hope &amp; Charity</li>
@@ -34,6 +37,3 @@ duration: "01:29:04"
 <li>Stacy Kidd, Tiffany Jenkins - If I Was Your Woman (Main Mix)</li>
 <li>Stacy Kidd, Tiffany Jenkins - Healing (Main Mix)</li>
 </ol>
-<p>Support House Finesse by contributing to their tip jar: <a href="https://tips.pinecast.com/jar/housefinesse" rel="payment nofollow">https://tips.pinecast.com/jar/housefinesse</a></p>
-<p>Find out more at <a href="https://housefinesse.pinecast.co" rel="nofollow">https://housefinesse.pinecast.co</a></p>
-<p>This podcast is powered by <a href="https://pinecast.com" rel="nofollow">Pinecast</a>.</p>
