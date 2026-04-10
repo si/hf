@@ -1,14 +1,14 @@
 ---
 title: "HF318 with Andi King"
-date: "Fri, 10 Apr 2026 04:00:00 -0000"
+date: "2026-04-10"
 categories:
   - "shows"
-author: "DJ"
+author: "Andi King"
 tags:
-  - ""
+  - "andi-king"
 enclosure: "https://op3.dev/e/pinecast.com/listen/b3e5096f-c959-43fc-b9c0-c02de7ec993a.mp3?source=rss&ext=asset.mp3 87133418 audio/mpeg"
-coverImage: "https://storage.pinecast.net/podcasts/74494b86-80dc-4213-8181-b1c0eae5f6c6/artwork/298d9463-dde8-4e6c-8142-b68f9a2332af/HF318_with_AK.jpg"
-redirectFrom: "/hf15"
+coverImage: "HF318_with_AK.jpeg"
+redirectFrom: "/hf318"
 episode: 15
 season: 26
 explicit: "no"
@@ -30,8 +30,4 @@ duration: "01:00:23"
 <li>Groove Armada - Love's Theme [Glitterbox Recordings]</li>
 <li>Mark Knight, Wh0 - Clap Your Hands [Toolroom]</li>
 </ol>
-<p><strong>Credits</strong> </p>
-<p>Mixed by Andi King </p>
-<p>Post-production, artwork and distribution by Unstyled Studios </p>
-<p>House Finesse is available on all major podcast platforms - find us @housefinesse</p>
-<p>Support House Finesse by contributing to their tip jar: <a href="https://tips.pinecast.com/jar/housefinesse" rel="payment nofollow">https://tips.pinecast.com/jar/housefinesse</a></p>
+
