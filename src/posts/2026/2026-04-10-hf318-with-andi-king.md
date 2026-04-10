@@ -7,7 +7,7 @@ author: "Andi King"
 tags:
   - "andi-king"
 enclosure: "https://op3.dev/e/pinecast.com/listen/b3e5096f-c959-43fc-b9c0-c02de7ec993a.mp3?source=rss&ext=asset.mp3 87133418 audio/mpeg"
-coverImage: "HF318_with_AK.jpg"
+coverImage: "HF318_with_AK.jpeg"
 redirectFrom: "/hf318"
 episode: 15
 season: 26
