@@ -7,7 +7,6 @@ linkText: "Follow"
 
 ## House Finesse can be found on the following podcast apps.
 
-{% set followPage = true %}
 {% include 'podcast_apps.njk' %}
 
 ## House Finesse is also available on many social networks.
