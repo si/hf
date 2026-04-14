@@ -11,7 +11,7 @@
   padding: 0.25em 1em;
   transition: 180ms ease-in-out;
   transition-property: background, border;
-  border-radius: math.div($tdbc-border-radius, 2);
+  border-radius: $tdbc-border-radius * 1.5;
   background-color: tdbc-color("primary");
   color: #fff;
   font-size: 1.125rem;
