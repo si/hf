@@ -9,8 +9,9 @@
   min-width: 10ch;
   min-height: 44px;
   padding: 0.25em 1em;
+  margin: 0.35em 0.4em;
   transition: 180ms ease-in-out;
-  transition-property: background, border;
+  transition-property: background, border, box-shadow;
   border-radius: $tdbc-border-radius * 1.5;
   background-color: tdbc-color("primary");
   color: #fff;
@@ -19,6 +20,10 @@
   text-align: center;
   text-decoration: none;
   cursor: pointer;
+
+  &:hover {
+    box-shadow: 0 0 0 3px #fff;
+  }
 
   img {
     margin-right: 0.5rem;
@@ -31,7 +36,7 @@
   &:focus {
     outline-color: transparent;
     outline-style: solid;
-    box-shadow: 0 0 0 3px scale-color(tdbc-color("primary"), $lightness: -30%);
+    box-shadow: 0 0 0 3px #fff;
   }
 
   &--small {
