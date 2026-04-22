@@ -1,28 +1,30 @@
-name: Auto-merge Dependabot 11ty updates
+name: Dependabot Auto-merge
 
 on:
   pull_request:
-    types: [opened, synchronize, reopened]
+    types: [opened, synchronize, reopened, closed]
     branches:
       - main
       - master
+  deployment_status:
 
 permissions:
   contents: write
   pull-requests: write
 
 jobs:
-  build-and-automerge:
-    # Only run for Dependabot PRs
-    if: github.actor == 'dependabot[bot]'
+  # ── 1. Build & test every Dependabot PR ─────────────────────────────────────
+  build-test:
+    name: Build & Test
+    if: |
+      github.event_name == 'pull_request' &&
+      github.actor == 'dependabot[bot]' &&
+      github.event.action != 'closed'
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Use Node.js
-        uses: actions/setup-node@v4
+      - uses: actions/setup-node@v4
         with:
           node-version: 20
           cache: npm
@@ -30,19 +32,146 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Build 11ty site
-        # Change this if your build script is named differently
+      - name: Build site
         run: npm run build
 
-      - name: Auto approve Dependabot PR
-        if: success()
-        uses: hmarr/auto-approve-action@v3
+  # ── 2. Post a notification when a Dependabot PR is merged ───────────────────
+  notify-merged:
+    name: Notify Merged
+    if: |
+      github.event_name == 'pull_request' &&
+      github.event.action == 'closed' &&
+      github.event.pull_request.merged == true &&
+      github.actor == 'dependabot[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Post merge notification comment
+        uses: actions/github-script@v7
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const pr = context.payload.pull_request;
+            const sha = (pr.merge_commit_sha ?? '').substring(0, 7);
+            const mergedBy = pr.merged_by?.login ?? 'unknown';
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: pr.number,
+              body: [
+                '## ✅ Dependabot PR Merged',
+                '',
+                `**${pr.title}** has been merged into \`${pr.base.ref}\`.`,
+                '',
+                `- Merged by: @${mergedBy}`,
+                `- Merge commit: \`${sha}\``,
+              ].join('\n'),
+            });
 
-      - name: Enable auto merge
-        if: success()
+  # ── 3. Watch Netlify deploy previews and drive the merge ────────────────────
+  netlify-watch:
+    name: Netlify Deploy Watch
+    if: |
+      github.event_name == 'deployment_status' &&
+      (github.event.deployment_status.state == 'success' ||
+       github.event.deployment_status.state == 'failure')
+    runs-on: ubuntu-latest
+    steps:
+      # Find the open Dependabot PR associated with this deployment
+      - name: Find associated Dependabot PR
+        id: pr
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const env = context.payload.deployment.environment ?? '';
+            const sha = context.payload.deployment.sha;
+
+            // Skip production deploys — only act on previews
+            if (env.toLowerCase().includes('production')) {
+              core.setOutput('skip', 'true');
+              return;
+            }
+
+            // Netlify names preview environments "deploy-preview-{PR_NUMBER}"
+            const match = env.match(/deploy-preview-(\d+)/i);
+            let prNumber = match ? parseInt(match[1]) : null;
+
+            // Fall back to looking up the open PR by commit SHA
+            if (!prNumber) {
+              const { data: associated } =
+                await github.rest.repos.listPullRequestsAssociatedWithCommit({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  commit_sha: sha,
+                });
+              prNumber = associated.find(p => p.state === 'open')?.number ?? null;
+            }
+
+            if (!prNumber) {
+              core.setOutput('skip', 'true');
+              return;
+            }
+
+            const { data: pr } = await github.rest.pulls.get({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: prNumber,
+            });
+
+            if (pr.user.login !== 'dependabot[bot]' || pr.state !== 'open') {
+              core.setOutput('skip', 'true');
+              return;
+            }
+
+            core.setOutput('skip', 'false');
+            core.setOutput('pr_number', String(prNumber));
+            core.setOutput('head_sha', pr.head.sha);
+
+      # Netlify deploy failed → notify and halt auto-merge
+      - name: Notify on Netlify deploy failure
+        if: steps.pr.outputs.skip == 'false' && github.event.deployment_status.state == 'failure'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const prNumber = Number('${{ steps.pr.outputs.pr_number }}');
+            const env = context.payload.deployment.environment ?? 'unknown';
+            const url = context.payload.deployment_status.target_url ?? '';
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: prNumber,
+              body: [
+                '## ❌ Netlify Deploy Preview Failed — Auto-merge Halted',
+                '',
+                'The Netlify deploy preview failed for this Dependabot PR.',
+                '',
+                '| | |',
+                '|---|---|',
+                `| Environment | \`${env}\` |`,
+                `| Deploy logs | ${url ? `[View logs](${url})` : 'N/A'} |`,
+                '',
+                'Please review the deploy logs and resolve the issue before merging manually.',
+              ].join('\n'),
+            });
+
+      # Netlify deploy succeeded → approve PR and enable auto-merge
+      - name: Approve PR
+        id: approve
+        if: steps.pr.outputs.skip == 'false' && github.event.deployment_status.state == 'success'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.pulls.createReview({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: Number('${{ steps.pr.outputs.pr_number }}'),
+              event: 'APPROVE',
+              body: 'Netlify deploy preview passed — auto-approving for merge.',
+            });
+
+      - name: Enable auto-merge
+        if: steps.pr.outputs.skip == 'false' && github.event.deployment_status.state == 'success'
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          PR_URL: ${{ github.event.pull_request.html_url }}
-        run: gh pr merge "$PR_URL" --auto --squash
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh pr merge ${{ steps.pr.outputs.pr_number }} \
+            --auto --squash \
+            --repo ${{ github.repository }}
