@@ -1,14 +1,14 @@
 ---
 title: "HF320 with Taylan"
-date: "Fri, 24 Apr 2026 04:00:00 -0000"
+date: "2026-04-24"
 categories:
   - "shows"
-author: ""
+author: "Taylan"
 tags:
-  - ""
+  - "taylan"
 enclosure: "https://op3.dev/e/pinecast.com/listen/6cbae0b8-39e8-4cf4-aa5b-0753878b4609.mp3?source=rss&ext=asset.mp3 54328313 audio/mpeg"
-coverImage: "https://storage.pinecast.net/podcasts/74494b86-80dc-4213-8181-b1c0eae5f6c6/artwork/7693cc22-12de-40b7-b52f-6460e38e0d7a/HF320_with_Taylan.jpg"
-redirectFrom: "/hf17"
+coverImage: "HF320_with_Taylan.jpg"
+redirectFrom: "/hf320"
 episode: 17
 season: 26
 explicit: "no"
@@ -34,8 +34,3 @@ duration: "00:56:26"
 <li>Cristi Cons, Leyah - Rhythm of Your Heart (Christopher Ledger Remix) [Nervous Records]</li>
 <li>Frankel &amp; Harper - Trimmers (INSTINCT Remix) [Council Work]</li>
 </ol>
-<p><strong>Credits:</strong></p>
-<p>Mixed by Taylan </p>
-<p>Post-production, artwork and distribution by Unstyled Studios </p>
-<p>House Finesse is available on all major podcast platforms - find us @housefinesse</p>
-<p>Support House Finesse by contributing to their tip jar: <a href="https://tips.pinecast.com/jar/housefinesse" rel="payment nofollow">https://tips.pinecast.com/jar/housefinesse</a></p>
