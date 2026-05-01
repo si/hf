@@ -1,14 +1,14 @@
 ---
 title: "HF321 with One Phat DJ"
-date: "Fri, 01 May 2026 04:00:00 -0000"
+date: "2026-05-01"
 categories:
   - "shows"
-author: ""
+author: "One Phat DJ"
 tags:
-  - ""
+  - "onephatdj"
 enclosure: "https://op3.dev/e/pinecast.com/listen/e68c3b48-0c12-4088-bc14-b4be7ba50e26.mp3?source=rss&ext=asset.mp3 88829491 audio/mpeg"
-coverImage: "https://storage.pinecast.net/podcasts/74494b86-80dc-4213-8181-b1c0eae5f6c6/artwork/4e024f69-06ea-4292-9483-01a222d52aeb/HF321_with_OPDJ.jpg"
-redirectFrom: "/hf18"
+coverImage: "HF321_with_OPDJ.jpg"
+redirectFrom: "/hf321"
 episode: 18
 season: 26
 explicit: "no"
@@ -41,5 +41,3 @@ duration: "01:32:21"
 </ol>
 <p>Got a voice note for us? Drop it at <a href="https://housefinesse.com/voicenotes" rel="nofollow">https://housefinesse.com/voicenotes</a> to get on the show.</p>
 <p>Find us on Spotify for new conversations and episodes - search &quot;House Finesse&quot;..</p>
-<p>Hosted by One Phat DJ. Produced by Unstyled Studios.</p>
-<p>Support House Finesse by contributing to their tip jar: <a href="https://tips.pinecast.com/jar/housefinesse" rel="payment nofollow">https://tips.pinecast.com/jar/housefinesse</a></p>
