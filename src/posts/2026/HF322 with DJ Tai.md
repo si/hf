@@ -1,0 +1,41 @@
+---
+title: "HF322 with DJ Tai"
+date: "Fri, 08 May 2026 04:00:00 -0000"
+categories:
+  - "shows"
+author: ""
+tags:
+  - ""
+enclosure: "https://op3.dev/e/pinecast.com/listen/fffef8ef-2b16-4db7-8f06-3a9a8d619aa5.mp3?source=rss&ext=asset.mp3 92186331 audio/mpeg"
+coverImage: "https://storage.pinecast.net/podcasts/74494b86-80dc-4213-8181-b1c0eae5f6c6/artwork/c7bf00ca-cff2-4e61-a4b6-a9080979b417/HF322_with_Taiwo.jpg"
+redirectFrom: "/hf19"
+episode: 19
+season: 26
+explicit: "no"
+duration: "01:35:53"
+---
+<p>DJ Tai steps up for HF322 with a set that does exactly what great house music should, it tells a story. The Love House Session Part 3 is a masterclass in curation; Barry White opens the door, Joey Negro and Opolopo work their production magic across three tracks each, and the classics are handled with proper reverence. From the gospel-tinged Clark Sisters to the Philly soul of Harold Melvin &amp; The Blue Notes, from Rhemi's funky live instrumentation to the timeless bliss of Rufus &amp; Chaka Khan, this one runs deep and feels good from start to finish. Pure quality, no filler.</p>
+<p><strong>Track Listing</strong></p>
+<ol>
+<li>Barry White - Your Sweetness Is My Weakness [20th Century Fox Records]</li>
+<li>Change - Love 4 Love (Joey Negro Extended Remix) [Z Records]</li>
+<li>Joey Negro &amp; Horse Meat Disco - Candidate For Love (Joey Negro Disco Blend) [Z Records]</li>
+<li>The Clark Sisters - Everything's Gonna Be Alright (Joey Negro Edit) [Z Records]</li>
+<li>Doug Willis - Get Your Own [Z Records]</li>
+<li>The Chocolate Fudge Band, DJ Fudge - Everything (DJ Fudge Extended Mix) [Z Records]</li>
+<li>Kenny Thomas, Opolopo - Crazy World (Opolopo Remix) [M2MR]</li>
+<li>Puzique - Nice N Tight [Soulfuric Recordings]</li>
+<li>Shaka Loves You - Hear Me Today (Extended Mix) [Pleased As Punch]</li>
+<li>Opolopo - Stay This Way (feat. Angela Johnson) [Reel People Music]</li>
+<li>Mother, Father, Brother &amp; Sister Franklin, DJ Spen - Respect Is The Message (DJ Spen Mash Factor Mix) [Quantize Recordings]</li>
+<li>Ferry Ultra - Let Me Do My Thang (feat. Gwen McCrae) [Opolopo Remix] [Peppermint Jam Records]</li>
+<li>Rhemi - Shake Your Body Down (Original Mix) [Rhemi Music]</li>
+<li>Los Charly's Orchestra - Feeling High (Classic Disco Vocal Mix) [Imagenes]</li>
+<li>Harold Melvin &amp; The Blue Notes - Tell the World How I Feel About 'Cha Baby (Dimitri From Paris Disco Re-Edit) [Legacy Recordings]</li>
+<li>Rufus &amp; Chaka Khan - Do You Love What You Feel [MCA Records]</li>
+</ol>
+<p><strong>Credits</strong></p>
+<p>Mixed by DJ Tai </p>
+<p>Post-production, artwork and distribution by Unstyled Studios </p>
+<p>House Finesse is available on all major podcast platforms. Find us @housefinesse</p>
+<p>Support House Finesse by contributing to their tip jar: <a href="https://tips.pinecast.com/jar/housefinesse" rel="payment nofollow">https://tips.pinecast.com/jar/housefinesse</a></p>
