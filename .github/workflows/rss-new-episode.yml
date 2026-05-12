@@ -26,53 +26,73 @@ jobs:
       - name: Fetch new episodes from RSS
         run: node scripts/rss-to-posts.js
         env:
-          # Override by adding RSS_FEED_URL as a repository secret or variable
-          RSS_FEED_URL: ${{ vars.RSS_FEED_URL || 'https://pinecast.com/feed/housefinesse' }}
+          # Override by setting RSS_FEED_URL as a repository variable
+          RSS_FEED_URL: ${{ vars.RSS_FEED_URL != '' && vars.RSS_FEED_URL || 'https://pinecast.com/feed/housefinesse' }}
 
       - name: Check for new files
         id: diff
         run: |
-          NEW=$(git ls-files --others --exclude-standard src/posts/)
-          if [ -n "$NEW" ]; then
-            echo "found=true" >> "$GITHUB_OUTPUT"
-            echo "files<<EOF" >> "$GITHUB_OUTPUT"
-            echo "$NEW" >> "$GITHUB_OUTPUT"
-            echo "EOF" >> "$GITHUB_OUTPUT"
-          else
+          NEW_POSTS=$(git ls-files --others --exclude-standard src/posts/)
+          NEW_IMAGES=$(git ls-files --others --exclude-standard src/img/cover-images/)
+          NEW_ALL=$(printf '%s\n%s' "$NEW_POSTS" "$NEW_IMAGES" | grep -v '^$' || true)
+
+          if [ -z "$NEW_ALL" ]; then
             echo "found=false" >> "$GITHUB_OUTPUT"
+            exit 0
           fi
+
+          echo "found=true" >> "$GITHUB_OUTPUT"
+
+          # Derive branch name from first new post filename
+          FIRST_POST=$(echo "$NEW_POSTS" | head -1)
+          BASENAME=$(basename "$FIRST_POST" .md)
+          # Strip YYYY-MM-DD- prefix to get the episode slug
+          EPISODE_SLUG=$(echo "$BASENAME" | sed 's/^[0-9]\{4\}-[0-9]\{2\}-[0-9]\{2\}-//')
+          POST_COUNT=$(echo "$NEW_POSTS" | grep -c '.' || echo 0)
+
+          if [ "$POST_COUNT" -gt 1 ]; then
+            echo "branch=rss-episodes/$(date -u +%Y%m%d)" >> "$GITHUB_OUTPUT"
+          else
+            echo "branch=rss-episode/$EPISODE_SLUG" >> "$GITHUB_OUTPUT"
+          fi
+
+          # Store file list for PR body
+          echo "files<<EOF" >> "$GITHUB_OUTPUT"
+          echo "$NEW_ALL" >> "$GITHUB_OUTPUT"
+          echo "EOF" >> "$GITHUB_OUTPUT"
 
       - name: Create branch and open PR
         if: steps.diff.outputs.found == 'true'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          BRANCH="rss-episode/$(date -u +%Y%m%d-%H%M%S)"
+          BRANCH="${{ steps.diff.outputs.branch }}"
 
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git checkout -b "$BRANCH"
-          git add src/posts/
-          git commit -m "feat: add new episode(s) from RSS feed"
+          git add src/posts/ src/img/cover-images/
+          git commit -m "feat: add new episode from RSS feed ($BRANCH)"
           git push -u origin "$BRANCH"
 
           FILE_LIST=$(echo "${{ steps.diff.outputs.files }}" | sed 's/^/- /')
 
           {
-            echo "## New episode(s) detected from RSS feed"
+            echo "## New episode from RSS feed"
             echo ""
-            echo "Please review before merging:"
+            echo "Auto-generated from Pinecast RSS. Please review before merging:"
             echo ""
-            echo "- [ ] \`coverImage\` filename matches the uploaded image in \`src/img/cover-images/\`"
-            echo "- [ ] Description/body looks correct"
+            echo "- [ ] Post content and description look correct"
+            echo "- [ ] Cover image downloaded OK (check \`src/img/cover-images/\`)"
             echo "- [ ] Tags are accurate"
             echo ""
             echo "**New files:**"
             echo "$FILE_LIST"
           } > /tmp/pr-body.md
 
+          EPISODE_SLUG=$(echo "$BRANCH" | sed 's|rss-episode/||')
           gh pr create \
             --base main \
             --head "$BRANCH" \
-            --title "New episode(s) from RSS feed [$(date -u +%Y-%m-%d)]" \
+            --title "New episode: $EPISODE_SLUG" \
             --body-file /tmp/pr-body.md
