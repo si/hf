@@ -1,0 +1,78 @@
+name: RSS New Episode PR
+
+on:
+  schedule:
+    # Runs every 2 hours
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  check-rss:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch new episodes from RSS
+        run: node scripts/rss-to-posts.js
+        env:
+          # Override by adding RSS_FEED_URL as a repository secret or variable
+          RSS_FEED_URL: ${{ vars.RSS_FEED_URL || 'https://pinecast.com/feed/housefinesse' }}
+
+      - name: Check for new files
+        id: diff
+        run: |
+          NEW=$(git ls-files --others --exclude-standard src/posts/)
+          if [ -n "$NEW" ]; then
+            echo "found=true" >> "$GITHUB_OUTPUT"
+            echo "files<<EOF" >> "$GITHUB_OUTPUT"
+            echo "$NEW" >> "$GITHUB_OUTPUT"
+            echo "EOF" >> "$GITHUB_OUTPUT"
+          else
+            echo "found=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Create branch and open PR
+        if: steps.diff.outputs.found == 'true'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          BRANCH="rss-episode/$(date -u +%Y%m%d-%H%M%S)"
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$BRANCH"
+          git add src/posts/
+          git commit -m "feat: add new episode(s) from RSS feed"
+          git push -u origin "$BRANCH"
+
+          FILE_LIST=$(echo "${{ steps.diff.outputs.files }}" | sed 's/^/- /')
+
+          {
+            echo "## New episode(s) detected from RSS feed"
+            echo ""
+            echo "Please review before merging:"
+            echo ""
+            echo "- [ ] \`coverImage\` filename matches the uploaded image in \`src/img/cover-images/\`"
+            echo "- [ ] Description/body looks correct"
+            echo "- [ ] Tags are accurate"
+            echo ""
+            echo "**New files:**"
+            echo "$FILE_LIST"
+          } > /tmp/pr-body.md
+
+          gh pr create \
+            --base main \
+            --head "$BRANCH" \
+            --title "New episode(s) from RSS feed [$(date -u +%Y-%m-%d)]" \
+            --body-file /tmp/pr-body.md
