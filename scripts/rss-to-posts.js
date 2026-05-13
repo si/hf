@@ -32,7 +32,7 @@ function htmlToMarkdown(html) {
   if (!html) return '';
   let md = html;
 
-  // Ordered lists (before stripping tags so we can count items)
+  // Ordered lists
   md = md.replace(/<ol[^>]*>([\s\S]*?)<\/ol>/gi, (_, inner) => {
     let n = 0;
     return (
@@ -100,13 +100,13 @@ function extractEpisodeCode(title) {
   return m ? m[1].toLowerCase() : null;
 }
 
-// "hf322-with-taiwo" from episode code + itunes:author
 function episodeSlug(title, author) {
   const code = extractEpisodeCode(title);
-  return code ? `${code}-with-${slugify(author)}` : slugify(title);
+  if (code && author) return `${code}-with-${slugify(author)}`;
+  if (code) return code;
+  return slugify(title);
 }
 
-// Strip filename from image URL (handles query strings)
 function imageFilename(url) {
   if (!url) return '';
   try {
@@ -116,7 +116,6 @@ function imageFilename(url) {
   }
 }
 
-// Normalize duration to HH:MM:SS — Pinecast uses seconds in some feeds
 function normalizeDuration(d) {
   if (!d) return '';
   if (/^\d{1,2}:\d{2}(:\d{2})?$/.test(d)) return d;
@@ -130,21 +129,38 @@ function normalizeDuration(d) {
   return d;
 }
 
-// ─── Deduplication ───────────────────────────────────────────────────────────
+// ─── Repo state ───────────────────────────────────────────────────────────────
 
-function getExistingPinecastIds() {
-  const ids = new Set();
-  if (!fs.existsSync(POSTS_DIR)) return ids;
+// Returns { pinecastIds: Set, episodeNumbers: Set, latestDate: Date }
+function getRepoState() {
+  const pinecastIds = new Set();
+  const episodeNumbers = new Set();
+  let latestDate = new Date(0);
+
+  if (!fs.existsSync(POSTS_DIR)) return { pinecastIds, episodeNumbers, latestDate };
+
   for (const entry of fs.readdirSync(POSTS_DIR, { withFileTypes: true })) {
     if (!entry.isDirectory()) continue;
     for (const file of fs.readdirSync(path.join(POSTS_DIR, entry.name))) {
       if (!file.endsWith('.md')) continue;
       const content = fs.readFileSync(path.join(POSTS_DIR, entry.name, file), 'utf8');
-      const m = content.match(/pinecast\.com\/listen\/([a-f0-9-]{36})/);
-      if (m) ids.add(m[1]);
+
+      const uuid = content.match(/pinecast\.com\/listen\/([a-f0-9-]{36})/);
+      if (uuid) pinecastIds.add(uuid[1]);
+
+      const ep = content.match(/^episode:\s*(\d+)/m);
+      const season = content.match(/^season:\s*(\d+)/m);
+      if (ep && season) episodeNumbers.add(`S${season[1]}E${ep[1]}`);
+
+      const dateMatch = content.match(/^date:\s*"?(\d{4}-\d{2}-\d{2})"?/m);
+      if (dateMatch) {
+        const d = new Date(dateMatch[1]);
+        if (d > latestDate) latestDate = d;
+      }
     }
   }
-  return ids;
+
+  return { pinecastIds, episodeNumbers, latestDate };
 }
 
 // ─── Image download ───────────────────────────────────────────────────────────
@@ -213,26 +229,55 @@ async function main() {
     return;
   }
 
-  const existing = getExistingPinecastIds();
+  const { pinecastIds, episodeNumbers, latestDate } = getRepoState();
+  console.log(`Latest post in repo: ${latestDate.toISOString().split('T')[0]}`);
+
   let created = 0;
 
   for (const item of items) {
-    const enclosureUrl = extractAttr(item, 'enclosure', 'url');
-    const pinecastId = enclosureUrl.match(/pinecast\.com\/listen\/([a-f0-9-]{36})/)?.[1];
-    if (!pinecastId || existing.has(pinecastId)) continue;
-
     const title = extractTag(item, 'title');
     const pubDate = extractTag(item, 'pubDate');
-    const date = parseIsoDate(pubDate);
-    const year = date.slice(0, 4);
+    let date;
+    try {
+      date = parseIsoDate(pubDate);
+    } catch {
+      console.warn(`  Skipping item with unparseable date: "${pubDate}"`);
+      continue;
+    }
+
+    // Only process episodes newer than the most recent post in the repo
+    if (new Date(date) <= latestDate) {
+      console.log(`  Skipping (not newer than latest post): ${title}`);
+      continue;
+    }
+
+    const enclosureUrl = extractAttr(item, 'enclosure', 'url');
+    const pinecastId = enclosureUrl.match(/pinecast\.com\/listen\/([a-f0-9-]{36})/)?.[1];
+
+    // UUID dedup (secondary safety net)
+    if (pinecastId && pinecastIds.has(pinecastId)) {
+      console.log(`  Skipping (UUID already in repo): ${title}`);
+      continue;
+    }
 
     const author = extractTag(item, 'itunes:author') || extractTag(item, 'author');
-    const duration = normalizeDuration(extractTag(item, 'itunes:duration'));
+    if (!author) {
+      console.warn(`  Skipping (no author found): ${title}`);
+      continue;
+    }
+
     const episode = extractTag(item, 'itunes:episode');
     const season = extractTag(item, 'itunes:season');
+
+    // Episode number dedup
+    if (episode && season && episodeNumbers.has(`S${season}E${episode}`)) {
+      console.log(`  Skipping (S${season}E${episode} already in repo): ${title}`);
+      continue;
+    }
+
+    const duration = normalizeDuration(extractTag(item, 'itunes:duration'));
     const explicit = extractTag(item, 'itunes:explicit') || 'no';
-    const rawDescription = extractTag(item, 'description');
-    const body = htmlToMarkdown(rawDescription);
+    const body = htmlToMarkdown(extractTag(item, 'description'));
 
     const enclosureLength = extractAttr(item, 'enclosure', 'length');
     const enclosureType = extractAttr(item, 'enclosure', 'type');
@@ -246,6 +291,7 @@ async function main() {
     const epCode = extractEpisodeCode(title);
     const slug = episodeSlug(title, author);
     const redirectFrom = epCode ? `/${epCode}` : '';
+    const year = date.slice(0, 4);
     const filename = `${date}-${slug}.md`;
 
     const yearDir = path.join(POSTS_DIR, year);
@@ -253,7 +299,7 @@ async function main() {
 
     const filepath = path.join(yearDir, filename);
     if (fs.existsSync(filepath)) {
-      console.log(`Skipping (file exists): ${filename}`);
+      console.log(`  Skipping (file exists): ${filename}`);
       continue;
     }
 
