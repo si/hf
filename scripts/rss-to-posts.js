@@ -100,6 +100,12 @@ function extractEpisodeCode(title) {
   return m ? m[1].toLowerCase() : null;
 }
 
+// "HF323 with Andi King" -> "Andi King"
+function extractAuthorFromTitle(title) {
+  const m = title.match(/\bwith\s+(.+)$/i);
+  return m ? m[1].trim() : '';
+}
+
 function episodeSlug(title, author) {
   const code = extractEpisodeCode(title);
   if (code && author) return `${code}-with-${slugify(author)}`;
@@ -260,7 +266,10 @@ async function main() {
       continue;
     }
 
-    const author = extractTag(item, 'itunes:author') || extractTag(item, 'author');
+    const author =
+      extractTag(item, 'itunes:author') ||
+      extractTag(item, 'author') ||
+      extractAuthorFromTitle(title);
     if (!author) {
       console.warn(`  Skipping (no author found): ${title}`);
       continue;
