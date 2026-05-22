@@ -7,7 +7,7 @@ author: "Sarah Jae"
 tags:
   - "sarah-jae"
 enclosure: "https://op3.dev/e/pinecast.com/listen/dded9a90-e167-481f-b2c4-2077aa26166d.mp3?source=rss&ext=asset.mp3 61218610 audio/mpeg"
-coverImage: "HF324_with_Sarah_Jae.jpg"
+coverImage: "HF324_with_Sarah_Jae.JPG"
 redirectFrom: "/hf324"
 episode: 21
 season: 26
