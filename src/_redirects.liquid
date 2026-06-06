@@ -6,8 +6,6 @@ eleventyExcludeFromCollections: true
 /how-to-listen/   /follow
 /subscribe/       /follow
 
-/wp-content/uploads/:year/:month/:slug /img/cover-images/:slug
-
 /feed/        /feed/feed.xml 200
 
 /shows/feed https://pinecast.com/feed/housefinesse
@@ -32,4 +30,6 @@ eleventyExcludeFromCollections: true
 {{ page.data.redirectFrom }}  {{ page.url | append: "?utm_source=redirect&utm_medium=web&utm_campaign=hf" }}
   {%- endif -%}
 {%- endfor -%}
+
+/wp-content/uploads/:year/:month/:slug /img/cover-images/:slug
 
