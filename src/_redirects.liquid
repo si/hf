@@ -24,12 +24,12 @@ eleventyExcludeFromCollections: true
 /club             https://www.patreon.com/cw/HouseFinesseClub
 /vip              https://www.patreon.com/cw/HouseFinesseClub
 
-/wp-content/uploads/:year/:month/:slug /img/cover-images/:slug
-
 
 {%- for page in collections.all -%}
   {%- if page.url and page.data.redirectFrom %}
 {{ page.data.redirectFrom }}  {{ page.url | append: "?utm_source=redirect&utm_medium=web&utm_campaign=hf" }}
   {%- endif -%}
 {%- endfor -%}
+
+/wp-content/uploads/:year/:month/:slug /img/cover-images/:slug
 
