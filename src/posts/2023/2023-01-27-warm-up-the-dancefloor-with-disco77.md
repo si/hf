@@ -7,7 +7,7 @@ tags:
   - "disco77"
 enclosure: "https://pinecast.com/listen/585e32d0-6450-48a1-a69b-aaedab1c6e97.mp3 59754652 audio/mpeg "
 coverImage: "Warm-Up-The-Dancefloor-with-Disco77.jpg"
-redirectFrom: "/hf152"
+redirectFrom: "/hf153"
 ---
 
 **Don't let the cold get to you as Disco77 brings the heat on #FinesseFriday to warm up your weekend dancefloors.**

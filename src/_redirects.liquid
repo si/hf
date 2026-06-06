@@ -6,8 +6,6 @@ eleventyExcludeFromCollections: true
 /how-to-listen/   /follow
 /subscribe/       /follow
 
-/wp-content/uploads/:year/:month/:slug /img/cover-images/:slug
-
 /feed/        /feed/feed.xml 200
 
 /shows/feed https://pinecast.com/feed/housefinesse
@@ -25,6 +23,8 @@ eleventyExcludeFromCollections: true
 /substack         https://www.patreon.com/cw/HouseFinesseClub
 /club             https://www.patreon.com/cw/HouseFinesseClub
 /vip              https://www.patreon.com/cw/HouseFinesseClub
+
+/wp-content/uploads/:year/:month/:slug /img/cover-images/:slug
 
 
 {%- for page in collections.all -%}
