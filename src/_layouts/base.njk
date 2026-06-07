@@ -201,7 +201,7 @@
           </div>
           <div class="footer-credits__website">
             <p>
-              <a href="https://github.com/si/hf" title="Versioned on Github">v{{ pkg.version }}</a>,
+              {% if meta.host %}<span>Hosted on {{ meta.host }}</span>, {% endif %}<a href="https://github.com/si/hf" title="v{{ pkg.version }}">Versioned on GitHub</a>,
               <a rel="me" href="https://unstyled.com/">Made by Unstyled Studios</a>
             </p>
           </div>

@@ -1,5 +1,6 @@
 module.exports = {
   url: process.env.URL || "http://localhost:8080",
+  host: process.env.HOST || null,
   siteName: "House Finesse",
   siteDescription:
     "The longest running house music podcast since 2005",
