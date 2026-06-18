@@ -1,5 +1,5 @@
 ---
-title: "HF328 with Sarah Jae: From Silicone Soul to Basement Jaxx via peak-time fire"
+title: "HF328 with Sarah Jae"
 date: "2026-06-19"
 categories:
   - "shows"
@@ -21,7 +21,7 @@ tags:
   - "girls-of-the-internet"
   - "dennis-ferrer"
   - "basement-jaxx"
-enclosure: ""
+enclosure: "https://pinecast.com/listen/e5c1a724-0eaa-482f-9c4c-67796f7dca78.mp3 58,150,083 audio/mpeg"
 coverImage: "HF328_with_Sarah_Jae.jpg"
 redirectFrom: "/hf328"
 episode: 25
@@ -34,6 +34,8 @@ Sarah Jae is back and she means business. HF328 opens with the timeless groove o
 The middle of the set hits hard — Wh0 and Mark Knight & Funkagenda bring the peak-time heat, before Girls of The Internet bring some soulful relief via a Dennis Ferrer rework. Basement Jaxx close things out as only Red Alert can, a reminder that some records are simply built different.
 
 This is a set for the dancefloor and nowhere else. Turn it up.
+
+Make sure you catch Sarah (with many other big names) at [Secret Island Festival 7-9 August 2026](https://secretislandfestival.co.uk) at Mersey Island in Essex - tickets available at https://secretislandfestival.co.uk.
 
 ## Track Listing
 
