@@ -1,5 +1,5 @@
 ---
-title: "HF328 with Sarah Jae: Right On"
+title: "HF328 with Sarah Jae: From Silicone Soul to Basement Jaxx via peak-time fire"
 date: "2026-06-19"
 categories:
   - "shows"
