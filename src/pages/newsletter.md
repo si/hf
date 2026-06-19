@@ -1,7 +1,6 @@
 ---
 title: "Newsletter"
 layout: "page"
-redirectFrom: "/newsletter"
 linkText: "Newsletter"
 ---
 
