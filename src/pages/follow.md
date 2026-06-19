@@ -1,7 +1,6 @@
 ---
 title: "Follow House Finesse"
 layout: "page"
-redirectFrom: "/listen"
 linkText: "Follow"
 ---
 
