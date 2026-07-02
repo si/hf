@@ -39,7 +39,7 @@ tags:
   - "harry-romero"
   - "dunmore-brothers"
   - "ben-westbeech"
-enclosure: ""
+enclosure: "https://pinecast.com/listen/3d7f6d90-c8c0-4377-9416-7c15901862b7.mp3 66530408 audio/mpeg"
 coverImage: "HF330_with_OPDJ.jpg"
 redirectFrom: "/hf330"
 episode: 27
