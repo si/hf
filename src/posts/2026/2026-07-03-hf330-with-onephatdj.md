@@ -1,5 +1,5 @@
 ---
-title: "HF330 with One Phat DJ"
+title: "HF330 with One Phat DJ: Disco heat, soulful grooves, and not a filler track in sight"
 date: "2026-07-03"
 categories:
   - "shows"
