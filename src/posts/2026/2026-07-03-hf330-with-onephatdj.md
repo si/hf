@@ -1,5 +1,5 @@
 ---
-title: "HF330 with One Phat DJ: Disco heat, soulful grooves, and not a filler track in sight"
+title: "HF330 with One Phat DJ"
 date: "2026-07-03"
 categories:
   - "shows"
@@ -46,6 +46,7 @@ episode: 27
 season: 26
 explicit: "no"
 ---
+**Disco heat, soulful grooves, and not a filler track in sight**
 
 Your OG is back on the decks for HF330 with a set that's all soulful house and disco heat, front to back. George Smeddles brings the House Gospel Choir along for "Angels", DJ Spen teams up with Tasha LaRae and Gary Hudgins for a proper deep cut, and Spiller & Sophie Ellis-Bextor's "Groovejet" gets reworked for a new generation.
 
