@@ -12,6 +12,7 @@ tags:
   - "disco"
   - "andy-driver"
 enclosure: "https://op3.dev/e/pinecast.com/listen/2c7f53cd-817f-447c-8d9e-cd3c3b1c60c1.mp3?source=rss&ext=asset.mp3 142800000 audio/mpeg"
+coverImage: "HF331_with_Andi_King.jpeg"
 redirectFrom: "/hf331"
 episode: 28
 season: 26
