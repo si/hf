@@ -29,7 +29,7 @@ eleventyExcludeFromCollections: true
   {%- if page.url and page.data.redirectFrom %}
 {{ page.data.redirectFrom }}  {{ page.url | append: "?utm_source=redirect&utm_medium=web&utm_campaign=hf" }}
   {%- endif -%}
-{%- endfor -%}
+{%- endfor %}
 
 /wp-content/uploads/:year/:month/:slug /img/cover-images/:slug
 
