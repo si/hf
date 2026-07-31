@@ -6,6 +6,7 @@ categories:
 author: "Taylan"
 tags:
   - "taylan"
+enclosure: "https://pinecast.com/listen/0e8537c2-7164-4270-ae28-8aade784ddc6.mp3 66992253 audio/mpeg"
 redirectFrom: "/hf334"
 episode: 31
 season: 26
