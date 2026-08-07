@@ -7,7 +7,7 @@ author: "Love Sensation"
 tags:
   - "love-sensation"
 enclosure: "https://pinecast.com/listen/f9bfa9a6-6c43-45da-a607-f5e527b14e60.mp3 58180935 audio/mpeg"
-coverImage: "HF335_with_Love_Sensation.jpg"
+coverImage: "HF335_with_Love_Sensation.jpeg"
 redirectFrom: "/hf335"
 episode: 32
 season: 26
