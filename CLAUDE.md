@@ -15,7 +15,7 @@
 - Each week's episode is one page within that file, not a whole design. To find the right page for a given episode number:
   - Use `read-design` with `filter.fields: ["design_content"]` and narrow `filter.page_indices` (binary-search a few indices at a time — the full unfiltered dump is one giant blob without page boundaries, so it's unreliable for pinpointing a page).
   - Match on the episode number/date/DJ text baked into the page, e.g. `hf335`, `love sensation`, `335`.
-- Once the page index is confirmed, export just that page: `export-design` with `format: {type: "png", pages: [<index>]}`. The returned download URL is short-lived (single-digit hours) — get it to Si (or download it) promptly.
+- Once the page index is confirmed, export just that page: `export-design` with `format: {type: "jpg", pages: [<index>]}` — export as `jpg`, not `png`, since that's what `coverImage` files use across the site. The returned download URL is short-lived (single-digit hours) — get it to Si (or download it) promptly.
 - The export URL is served from `export-download.canva.com`, which this session's sandboxed network egress does not allow direct `curl`/`Bash` access to (403 from the proxy). Don't try to route around it — hand Si the URL directly, or use the Canva MCP tools only.
 
 ## PR previews
