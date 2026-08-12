@@ -15,7 +15,7 @@ coverImage: "HF334_with_Taylan.jpg"
 ---
 Taylan's back on House Finesse after a little time away, having spent it soaking up inspiration from raves and gigs of his own. That comes through in HF334 - a mix that eases in deep and atmospheric before building into high energy territory, running through cuts from Noah Skelton, Pierre Marty and Arthur Yard on the way to a Karizma & DJ Spen closer. Thanks for tuning in and enjoy the ride, this #FinesseFriday.
 
-Hook up with Taylan and others inside our House Finesse VIP Club at patreon.com/housefinesse
+Hook up with Taylan and others inside our House Finesse VIP Club at housefinesse.com/club
 
 ## Track Listing
 
