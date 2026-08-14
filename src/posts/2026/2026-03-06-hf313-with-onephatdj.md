@@ -38,4 +38,4 @@ Turn it up and enjoy the spring time vibes.
 
 Join the House Finesse VIP Club for early access, exclusive mixes and bonus content.
 
-[patreon.com/housefinesse](https://patreon.com/housefinesse)
+[housefinesse.com/club](https://housefinesse.com/club)

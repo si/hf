@@ -20,7 +20,7 @@ From UKG heritage to deeper house rollers, HF312 moves with purpose. Heads down.
 
 Turn it up. Let it breathe. Feel the pressure.
 
-Don't forget to join us in the relocated VIP Club on Patreon <a href="https://patreon.com/housefinesse" rel="nofollow">https://patreon.com/housefinesse</a>
+Don't forget to join us in the relocated VIP Club on Patreon <a href="https://housefinesse.com/club" rel="nofollow">https://housefinesse.com/club</a>
 
 ## Track Listing
 

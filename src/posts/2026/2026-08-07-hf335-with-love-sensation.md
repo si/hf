@@ -23,7 +23,7 @@ Full event info, tickets, photos, videos and socials at
 
 https://lovesensation.online
 
-Hook up with Love Sensation and others inside our House Finesse VIP Club at patreon.com/housefinesse
+Hook up with Love Sensation and others inside our House Finesse VIP Club at housefinesse.com/club
 
 ## Track Listing
 
