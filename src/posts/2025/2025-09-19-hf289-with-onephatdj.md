@@ -19,7 +19,7 @@ With the Autumn equinox fast approaching, the long summer nights are giving way 
 
 One Phat DJ has pulled together a selection of soulful grooves, disco cuts and uplifting house to keep the warmth alive a little longer.
 
-If you want even more music, commentary and exclusives, head to our VIP club at [housefinesse.com/club](https://housefinesse.com/club).
+{% vipBanner "If you want even more music, commentary and exclusives, head to our House Finesse VIP Club." %}
 
 ## Listen on [Apple Podcasts](https://podcasts.apple.com/us/podcast/hf289-with-one-phat-dj-19-sep-2025/id355833875?i=1000727449706)
 

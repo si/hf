@@ -20,7 +20,7 @@ After a lively summer away from the decks, Sarah Jae returns with a set inspired
 
 Bright, bouncy and built for good vibes, this mix is packed with disco-touched energy and festival flavour – the perfect way to keep the sunshine spirit alive as we head into moody autumn.
 
-If you want even more music, commentary and exclusives, head to our VIP club at [housefinesse.com/club](https://housefinesse.com/club).
+{% vipBanner "If you want even more music, commentary and exclusives, head to our House Finesse VIP Club." %}
 
 ## Listen on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/hf292-with-sarah-jae-10-oct-2025/id355833875?i=1000731082676)
 

@@ -18,7 +18,7 @@ If you're in Kettering this Saturday, catch Taylan live on the Dance till Dawn s
 
 Taylan's in for this week's #FinesseFriday with a proper underground workout. Fabio Santos dominates the tracklist, with a Wiley and MJ Cole sendoff to close out in style.
 
-Hook up with Taylan and others inside our House Finesse VIP Club at housefinesse.com/club
+{% vipBanner "Hook up with Taylan and others inside our House Finesse VIP Club." %}
 
 ## Track Listing
 
