@@ -4,6 +4,8 @@ body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
+  // Query container for the .vip-banner full-bleed breakout (see _vip-banner.scss)
+  container-type: inline-size;
   background-color: tdbc-color("background");
   background-image: url("/img/design/HF24-background.jpg");
   background-repeat: no-repeat;

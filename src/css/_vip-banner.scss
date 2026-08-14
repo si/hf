@@ -1,9 +1,14 @@
 @use "theme" as *;
 
 .vip-banner {
-  width: 100vw;
-  margin-left: calc(50% - 50vw);
-  margin-right: calc(50% - 50vw);
+  // Break out to the full width of `body` (a container-query context, see
+  // _layout.scss) rather than the viewport. `vw` units disagree with the
+  // visible width inside some mobile/embedded webviews, which stretched this
+  // banner past the screen edge and locked the whole page in a horizontal
+  // overflow that couldn't be scrolled back from.
+  width: 100cqw;
+  margin-left: calc(50% - 50cqw);
+  margin-right: calc(50% - 50cqw);
   margin-top: 3rem;
   margin-bottom: 3rem;
   background-color: tdbc-color("primary");

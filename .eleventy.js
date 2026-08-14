@@ -12,7 +12,7 @@ const markdownItAnchor = require("markdown-it-anchor");
 const VIP_BANNER_DEFAULTS = {
   message:
     "Join the VIP Club for early access, high-quality downloads and private chats with the residents.",
-  ctaText: "Join the VIP Club",
+  ctaText: "Join the VIP Club for free",
   ctaHref: "https://housefinesse.com/club",
 };
 
