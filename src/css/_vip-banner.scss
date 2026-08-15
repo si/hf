@@ -1,13 +1,30 @@
 @use "theme" as *;
 
 .vip-banner {
-  width: 100vw;
-  margin-left: calc(50% - 50vw);
-  margin-right: calc(50% - 50vw);
+  // Below 80ch, `article`'s max-width never binds, so the only thing to
+  // break out of is `main`'s 1rem padding. Cancel it with plain percentage
+  // + fixed-rem math (no vw/cqw) so the bleed can't disagree with what's
+  // actually rendered on small/embedded mobile webviews - that mismatch is
+  // what previously stretched this banner past the screen edge and locked
+  // the whole page in a horizontal offset that couldn't be scrolled back
+  // from.
+  width: calc(100% + 2rem);
+  margin-left: -1rem;
+  margin-right: -1rem;
   margin-top: 3rem;
   margin-bottom: 3rem;
   background-color: tdbc-color("primary");
   color: tdbc-color("secondary");
+
+  @media (min-width: 80ch) {
+    // Above 80ch, `article`'s max-width starts creating a gutter on either
+    // side that a fixed rem offset can't cancel. Bleed all the way out to
+    // `body` (a container-query context, see _layout.scss) for full impact
+    // on tablet/desktop, where this isn't the mobile webview scenario above.
+    width: 100cqw;
+    margin-left: calc(50% - 50cqw);
+    margin-right: calc(50% - 50cqw);
+  }
 
   &__inner {
     max-width: 80ch;

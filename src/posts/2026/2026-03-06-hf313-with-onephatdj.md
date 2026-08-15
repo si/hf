@@ -35,7 +35,3 @@ Turn it up and enjoy the spring time vibes.
 11. Ralphi Rosario, Bob Sinclar, Lego - Take Me Up (ft. Donna Blakely)
 12. Yes Boone, Riva Starr - All I Really Want (Riva Starr Extended Remix)
 13. Harry Romero - Don’t You Want Some More (Extended Mix)
-
-Join the House Finesse VIP Club for early access, exclusive mixes and bonus content.
-
-[housefinesse.com/club](https://housefinesse.com/club)
