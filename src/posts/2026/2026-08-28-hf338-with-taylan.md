@@ -6,10 +6,12 @@ categories:
 author: "Taylan"
 tags:
   - "taylan"
+enclosure: "https://pinecast.com/listen/380e7c25-1661-417c-8bc1-5d435ef69a0f.mp3 53200018 audio/mpeg"
 redirectFrom: "/hf338"
 episode: 35
 season: 26
 explicit: "no"
+duration: "00:55:25"
 coverImage: "HF338_with_Taylan.jpg"
 description: "Skippy garage swing meets deep house in Taylan's own blend this #FinesseFriday."
 ---

@@ -57,6 +57,13 @@ layout: base.njk
           {% if enclosure.split(" ")[0] and enclosure.split(" ")[0] !== '' %}
             <div class="tdbc-download-link">
               <a href="{{ enclosure.split(" ")[0] }}" download class="tdbc-button">Download Episode</a>
+              {% if(duration !== undefined) or (enclosure.split(" ")[1] | formatBytes) %}
+                <span class="tdbc-ink--gray">
+                  {% if(duration !== undefined) %}{{ duration }}{% endif %}
+                  {% if(duration !== undefined) and (enclosure.split(" ")[1] | formatBytes) %}&middot;{% endif %}
+                  {{ enclosure.split(" ")[1] | formatBytes }}
+                </span>
+              {% endif %}
             </div>
           {% endif %}
         {% endif %}

@@ -131,6 +131,12 @@ module.exports = function (eleventyConfig) {
     if (!url) return '';
     return url.replace(/^https?:\/\//, '');
   });
+
+  eleventyConfig.addFilter('formatBytes', function(bytes) {
+    const size = Number(bytes);
+    if (!Number.isFinite(size) || size <= 0) return '';
+    return `${(size / (1024 * 1024)).toFixed(1)} MB`;
+  });
   
   // Authors collection grouped by frontmatter `author`
   eleventyConfig.addCollection('authors', (collectionApi) => {
