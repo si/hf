@@ -11,8 +11,9 @@ episode: 35
 season: 26
 explicit: "no"
 coverImage: "HF338_with_Taylan.jpeg"
+description: "Skippy garage swing meets deep house - Taylan's own blend, a step away from the disco-club sound of the rest of the crew."
 ---
-Taylan digs into deep, funk-laced house territory for HF338, opening with Vernon & DaCosta and Apple Rochez's brooding "As Darkness Falls" before Tino and Tim Taylor bring the bounce. Sulphur crop up three times through the mix, threading a soulful groove between cuts from Burnski & Kepler and Skeptic, before Christopher Ledger and a Rokar edit of Joy Orbison's "Hyph Mngo" close things out. Get stuck in this #FinesseFriday.
+Taylan brings his signature house-garage blend to HF338, swerving away from the disco-club sound the rest of the crew tend to lean on for something skippier and more underground. Vernon & DaCosta and Apple Rochez set a brooding tone to open, before Tim Taylor's junky bounce and a run of three Sulphur cuts keep the swung rhythms rolling, and a Rokar edit of Joy Orbison's classic "Hyph Mngo" brings it home. Get stuck into something a little different this #FinesseFriday.
 
 {% vipBanner "Hook up with Taylan and others inside our House Finesse VIP Club." %}
 
