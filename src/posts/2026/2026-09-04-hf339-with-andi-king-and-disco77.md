@@ -9,6 +9,7 @@ tags:
   - "back-to-back"
   - "disco"
   - "house"
+enclosure: "https://pinecast.com/listen/77ae0ea5-d8ee-41c9-b581-476b5fec8e85.mp3 88665945 audio/mpeg"
 redirectFrom: "/hf339"
 episode: 36
 season: 26
