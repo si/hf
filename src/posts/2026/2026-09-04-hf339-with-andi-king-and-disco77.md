@@ -15,7 +15,7 @@ episode: 36
 season: 26
 explicit: "no"
 duration: "01:30:00"
-coverImage: "HF339_with_Andi_King_and_Disco77.jpeg"
+coverImage: "HF339_with_Andi_King_Disco77.jpg"
 description: "Andi King and Disco77 reunite for a 90-minute back-to-back, first time in nearly 15 years, this #FinesseFriday."
 ---
 
