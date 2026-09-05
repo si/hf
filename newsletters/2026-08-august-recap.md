@@ -55,8 +55,9 @@ Big one: House Finesse is now on [Colne Radio](https://colneradio.net) in Essex 
 
 Disco77 has put together a Fatboy Slim selection, up now on YouTube and Spotify:
 
-- Watch on YouTube: https://youtube.com/playlist?list=PLYCT3BMx5ZuA&si=f3OVAznVtKXE8jCR
-- Listen on Spotify: [TODO - add link]
+<a href="https://youtube.com/playlist?list=PLYCT3BMx5ZuA&si=f3OVAznVtKXE8jCR" style="display:inline-block;background-color:#FF0000;color:#FFFFFF;font-family:Roboto,Arial,sans-serif;font-weight:500;font-size:14px;line-height:1;text-decoration:none;padding:12px 20px;border-radius:2px;margin-right:12px;">▶ Watch on YouTube</a><a href="https://open.spotify.com/playlist/15tt1kzgBXArsat1H9Hkrg?si=f0S2RYjOS-mp2FtamL7vCA" style="display:inline-block;background-color:#1ED760;color:#000000;font-family:'Circular','Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:14px;line-height:1;text-decoration:none;padding:12px 20px;border-radius:500px;">Listen on Spotify</a>
+
+*(Buttons above use each platform's brand colour and type: YouTube red `#FF0000` with white Roboto Medium text and a sharp corner per their brand kit; Spotify green `#1ED760` with black bold text on a full pill shape per their design guidelines. Paste as an HTML block in Beehiiv. Note: both platforms require their actual logo mark - not a hand-drawn substitute - if you want the icon alongside the text; the play-triangle glyph above is a generic stand-in, not YouTube's logo. Grab the real badges from YouTube's brand resources and Spotify's design guidelines pages if you want pixel-accurate lockups.)*
 
 ## Get your ticket to the House Finesse VIP Club on Patreon
 
