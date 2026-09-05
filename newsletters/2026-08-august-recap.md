@@ -55,7 +55,7 @@ Big one: House Finesse is now on [Colne Radio](https://colneradio.net) in Essex 
 
 Disco77 has put together a Fatboy Slim selection, up now on YouTube and Spotify:
 
-- Watch on YouTube: [TODO - add link]
+- Watch on YouTube: https://youtube.com/playlist?list=PLYCT3BMx5ZuA&si=f3OVAznVtKXE8jCR
 - Listen on Spotify: [TODO - add link]
 
 ## Get your ticket to the House Finesse VIP Club on Patreon
