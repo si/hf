@@ -24,7 +24,11 @@
 
 - Past monthly newsletter drafts/copies live in `newsletters/` at the repo root (not under `src/`), so they're kept in git history but never built into the site.
 - File per issue: `newsletters/<year>-<month>-<short-slug>.md`, with front matter for `month`, `sentDate`, `subject`, `previewText` and `status` (`draft`/`sent`).
-- The newsletter itself is sent via Mailchimp (see `src/pages/newsletter.md` for the signup embed) - this repo only stores our own copy of what was sent, not a live sync with Mailchimp.
+- Genuine past sends (extracted from PDFs Si forwards) live under `newsletters/reference/` - treat these as the style guide for tone and section structure, closer to reality than anything invented from scratch.
+- There are two separate email channels, easy to mix up - check the sender before treating something as "the newsletter":
+  - **The general newsletter** goes out via **Beehiiv** (`housefinesse@mail.beehiiv.com`), to subscribers from the site's signup form. This is "the monthly newsletter" Si usually means, and the one that should push people towards joining the Patreon VIP Club. Structure (see `newsletters/reference/2026-03-28-beehiiv-three-mixes.md`): casual intro paragraph recapping the gap since the last send, a "What's been playing?" section with one subsection per episode (bold `HF### with DJ` heading, italicised one-line hook, a short blurb naming standout tracks, then a "Listen to [DJ] now" or similar link), then a VIP Club/Patreon plug, optionally an editorial/discussion segment or a bonus chart/extra, and a footer with `#HouseMusicAllDayLong`, preferences/unsubscribe link, and the beehiiv address block.
+  - **Patreon Creator posts** (`housefinesseclub@creator.patreon.com`) are a distinct channel, auto-emailed only to Patreon followers/members - this *is* the VIP Club, not a place to be advertising it. See `newsletters/reference/2026-07-31-patreon-5-shows.md` for its style (same per-episode recap shape, but framed for people already inside the club - competitions, membership perks, "join the app" footer).
+  - `src/pages/newsletter.md` still has an old Mailchimp signup embed on the live site - it's unclear whether that's stale or still wired up to anything; check with Si before assuming Mailchimp is in the loop at all.
 
 ## PR previews
 

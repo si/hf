@@ -1,39 +1,73 @@
 ---
+platform: "Beehiiv"
 month: "August 2026"
 sentDate: ""
-subject: "August on House Finesse: a new radio home, and the VIP Club"
-previewText: "4 fresh sets, our first radio residency, plus Disco77 goes back to Fatboy Slim"
+subject: "A new radio home, and four shows to catch up on"
+previewText: "Colne Radio, four fresh sets, and Disco77 goes back to Fatboy Slim"
 status: "draft"
 ---
 
-# House Finesse Newsletter - August 2026
+# A new radio home, and four shows to catch up on
 
-## This month's shows
+## Intro
 
-Four sets landed this #FinesseFriday month:
+August was a good one for House Finesse. Four shows dropped, we landed our first ever radio residency, and Disco77's gone digging back through the Fatboy Slim archive. Here's everything you might have missed.
 
-- **[HF335 with Love Sensation](https://housefinesse.com/hf335)** (7 Aug) - 60 minutes of feel-good disco house, plus a heads-up on two big Love Sensation events (Chelmsford Summer Series and their 5th Birthday Party).
-- **[HF336 with DJ Tai](https://housefinesse.com/hf336)** (14 Aug) - a soulful, vocal-led session with Louie Vega reworks and a Conan Liquid re-edit of Janet Jackson to close it out.
-- **[HF337 with LYP](https://housefinesse.com/hf337)** (21 Aug) - a sexy, disco-tinged groove, and the episode where we dropped some big news (see below).
-- **[HF338 with Taylan](https://housefinesse.com/hf338)** (28 Aug) - Taylan's signature skippy house-garage blend, closing out with a Rokar edit of "Hyph Mngo".
+## What's been playing?
 
-## We're on the radio
+### HF335 with Love Sensation
 
-Big one: House Finesse has landed its first ever radio residency, on [Colne Radio](https://colneradio.net) in Essex. After years of the podcast and mixes, it's a nice step to have a proper radio home. Tune in over there and find out more.
+*60 minutes of pure disco house love.*
+
+Tom from the Love Sensation family runs through feel-good disco cuts and soulful house grooves, guaranteed to move you. He's also got two huge Love Sensation events this month: the Chelmsford Summer Series (Friday 28th, with an official after-party at Acanteen) and Love Sensation's 5th Birthday Party at The Oakley, Leigh-on-Sea, on Bank Holiday Sunday.
+
+→ Listen to Love Sensation now
+
+### HF336 with DJ Tai
+
+*A soulful, vocal-led session with plenty of dancefloor heat.*
+
+DJ Tai mixes disco-tinged remix work with proper vocal moments - Louie Vega reworks Tony Momrelle's "My Paradise" and Jasper Street Co.'s "Praying For You", while Dave Lee (ZR) stretches out Donae'o, Omar and Lemar's "Nights Like This". Closes out in style with a Conan Liquid re-edit of Janet Jackson's "When I Think Of You".
+
+→ Listen to DJ Tai now
+
+### HF337 with LYP
+
+*A sublime, sexy groove, and some big news.*
+
+LYP blends disco-tinged house heat with deep, soulful moments - Milk & Sugar crop up twice, Riva Starr brings the warehouse energy home. This was also the episode where we dropped our radio news (see below).
+
+→ Listen to LYP now
+
+### HF338 with Taylan
+
+*Skippy garage swing meets deep house.*
+
+Taylan's own blend of house and garage, all skippy, swung rhythms and underground energy. Vernon & DaCosta and Apple Rochez open things with a brooding tone, before a run of Sulphur cuts and a Rokar edit of Joy Orbison's "Hyph Mngo" bring it home.
+
+→ Listen to Taylan now
+
+## We've landed our first radio residency
+
+Big one: House Finesse is now on [Colne Radio](https://colneradio.net) in Essex - our first ever radio residency. After years of the podcast and mixes, it's a proper new home. Tune in over there and find out more.
 
 ## Disco77 goes back to Fatboy Slim
 
 Disco77 has put together a Fatboy Slim selection, up now on YouTube and Spotify:
 
-- YouTube: [TODO - add link]
-- Spotify: [TODO - add link]
+- Watch on YouTube: [TODO - add link]
+- Listen on Spotify: [TODO - add link]
 
-## Join the VIP Club
+## Get your ticket to the House Finesse VIP Club on Patreon
 
-If you're not already in the House Finesse VIP Club on Patreon, now's a good time. Early access, high-quality downloads and behind-the-scenes chat with the residents, for free.
+Bonus content, high-quality downloads and behind-the-scenes chat with the crew - join us on Patreon.
 
-[Join the VIP Club](https://housefinesse.com/club)
+→ Join the VIP Club
 
----
+## Footer
 
-*Sent to House Finesse newsletter subscribers via Mailchimp.*
+#HouseMusicAllDayLong
+
+Update your email preferences or unsubscribe here
+
+© 2026 House Finesse
