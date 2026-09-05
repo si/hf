@@ -20,6 +20,12 @@
 - Once the page index is confirmed, export just that page: `export-design` with `format: {type: "jpg", pages: [<index>]}` — export as `jpg`, not `png`. Note the file Canva actually hands back (and what Si ends up uploading) is a `.jpeg`, so reference `coverImage: "....jpeg"` in front matter, not `.jpg`. The returned download URL is short-lived (single-digit hours) — get it to Si (or download it) promptly.
 - The export URL is served from `export-download.canva.com`, which this session's sandboxed network egress does not allow direct `curl`/`Bash` access to (403 from the proxy). Don't try to route around it — hand Si the URL directly, or use the Canva MCP tools only.
 
+## Newsletter archive
+
+- Past monthly newsletter drafts/copies live in `newsletters/` at the repo root (not under `src/`), so they're kept in git history but never built into the site.
+- File per issue: `newsletters/<year>-<month>-<short-slug>.md`, with front matter for `month`, `sentDate`, `subject`, `previewText` and `status` (`draft`/`sent`).
+- The newsletter itself is sent via Mailchimp (see `src/pages/newsletter.md` for the signup embed) - this repo only stores our own copy of what was sent, not a live sync with Mailchimp.
+
 ## PR previews
 
 - Netlify and Cloudflare Pages both auto-deploy a preview on every push to a PR and post/update a comment with the links — no need to construct these URLs manually, just read them off the latest bot comment on the PR.
