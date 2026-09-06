@@ -17,35 +17,43 @@ August was a good one for House Finesse. Four shows dropped, we landed our first
 
 ### HF335 with Love Sensation
 
+<a href="https://housefinesse.com/hf335"><img src="https://housefinesse.com/img/cover-images/HF335_with_Love_Sensation.jpeg" alt="HF335 with Love Sensation cover art" style="max-width:100%;display:block;margin-bottom:12px;"/></a>
+
 *60 minutes of pure disco house love.*
 
 Tom from the Love Sensation family runs through feel-good disco cuts and soulful house grooves, guaranteed to move you. He's also got two huge Love Sensation events this month: the Chelmsford Summer Series (Friday 28th, with an official after-party at Acanteen) and Love Sensation's 5th Birthday Party at The Oakley, Leigh-on-Sea, on Bank Holiday Sunday.
 
-→ Listen to Love Sensation now
+→ [Listen to Love Sensation now](https://housefinesse.com/hf335)
 
 ### HF336 with DJ Tai
+
+<a href="https://housefinesse.com/hf336"><img src="https://housefinesse.com/img/cover-images/HF336_with_Taiwo.jpg" alt="HF336 with DJ Tai cover art" style="max-width:100%;display:block;margin-bottom:12px;"/></a>
 
 *A soulful, vocal-led session with plenty of dancefloor heat.*
 
 DJ Tai mixes disco-tinged remix work with proper vocal moments - Louie Vega reworks Tony Momrelle's "My Paradise" and Jasper Street Co.'s "Praying For You", while Dave Lee (ZR) stretches out Donae'o, Omar and Lemar's "Nights Like This". Closes out in style with a Conan Liquid re-edit of Janet Jackson's "When I Think Of You".
 
-→ Listen to DJ Tai now
+→ [Listen to DJ Tai now](https://housefinesse.com/hf336)
 
 ### HF337 with LYP
+
+<a href="https://housefinesse.com/hf337"><img src="https://housefinesse.com/img/cover-images/HF337_with_LYP.jpg" alt="HF337 with LYP cover art" style="max-width:100%;display:block;margin-bottom:12px;"/></a>
 
 *A sublime, sexy groove, and some big news.*
 
 LYP blends disco-tinged house heat with deep, soulful moments - Milk & Sugar crop up twice, Riva Starr brings the warehouse energy home. This was also the episode where we dropped our radio news (see below).
 
-→ Listen to LYP now
+→ [Listen to LYP now](https://housefinesse.com/hf337)
 
 ### HF338 with Taylan
+
+<a href="https://housefinesse.com/hf338"><img src="https://housefinesse.com/img/cover-images/HF338_with_Taylan.jpg" alt="HF338 with Taylan cover art" style="max-width:100%;display:block;margin-bottom:12px;"/></a>
 
 *Skippy garage swing meets deep house.*
 
 Taylan's own blend of house and garage, all skippy, swung rhythms and underground energy. Vernon & DaCosta and Apple Rochez open things with a brooding tone, before a run of Sulphur cuts and a Rokar edit of Joy Orbison's "Hyph Mngo" bring it home.
 
-→ Listen to Taylan now
+→ [Listen to Taylan now](https://housefinesse.com/hf338)
 
 ## We've landed our first radio residency
 
@@ -63,7 +71,7 @@ Disco77 has put together a Fatboy Slim selection, up now on YouTube and Spotify:
 
 Bonus content, high-quality downloads and behind-the-scenes chat with the crew - join us on Patreon.
 
-→ Join the VIP Club
+→ [Join the VIP Club](https://housefinesse.com/club)
 
 ## Footer
 
