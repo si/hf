@@ -1,11 +1,14 @@
 ---
 platform: "Beehiiv"
 month: "August 2026"
-sentDate: ""
+sentDate: "2026-09-07"
 subject: "A new radio home, and four shows to catch up on"
 previewText: "Colne Radio, four fresh sets, and Disco77 goes back to Fatboy Slim"
-status: "draft"
+status: "sent"
+campaignUrl: "https://app.beehiiv.com/posts/38e53c60-5e61-43df-be40-695f3a51d2db"
 ---
+
+<!-- Sent without the Fatboy Slim montage/headshot graphic - the YouTube/Spotify buttons were the priority and went out as-is. campaignUrl above is Beehiiv's own post link, login-gated so not fetchable by Claude; kept for Si's reference. -->
 
 # A new radio home, and four shows to catch up on
 
