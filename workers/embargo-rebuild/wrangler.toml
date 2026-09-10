@@ -2,6 +2,11 @@ name = "hf-embargo-rebuild"
 main = "src/index.js"
 compatibility_date = "2026-06-06"
 
+# This Worker only has a scheduled handler, no HTTP one - no need for a
+# public workers.dev URL or per-version preview URLs.
+workers_dev = false
+preview_urls = false
+
 # Runs hourly, on the hour, so an embargoed post's date can go live
 # on the site within an hour of passing, not just on the next manual push.
 [triggers]
