@@ -25,7 +25,8 @@ tags:
   - "ame"
   - "deep-tech"
   - "electro"
-coverImage: "HF340_with_Sarah_Jae.jpeg"
+enclosure: "https://pinecast.com/listen/d12bbfba-9466-4cb0-bb64-84ee9d21ecc8.mp3 63051734 audio/mpeg"
+coverImage: "HF340_with_Sarah_Jae.jpg"
 redirectFrom: "/hf340"
 episode: 37
 season: 26
