@@ -1,0 +1,18 @@
+name = "hf-embargo-rebuild"
+main = "src/index.js"
+compatibility_date = "2026-06-06"
+
+# This Worker only has a scheduled handler, no HTTP one - no need for a
+# public workers.dev URL or per-version preview URLs.
+workers_dev = false
+preview_urls = false
+
+# Runs hourly, on the hour, so an embargoed post's date can go live
+# on the site within an hour of passing, not just on the next manual push.
+[triggers]
+crons = ["0 * * * *"]
+
+# Set the actual secret with:
+#   wrangler secret put PAGES_DEPLOY_HOOK_URL --config workers/embargo-rebuild/wrangler.toml
+# The value is the Deploy Hook URL from the Cloudflare Pages project
+# (Pages project -> Settings -> Builds & deployments -> Deploy hooks).
