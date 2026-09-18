@@ -1,0 +1,7 @@
+name = "hf-enclosure-check"
+main = "src/index.js"
+compatibility_date = "2026-06-06"
+
+# Needs a public HTTP endpoint (called from a browser or an iOS Shortcut
+# during the show notes publishing flow), unlike embargo-rebuild.
+workers_dev = true

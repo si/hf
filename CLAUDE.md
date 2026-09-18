@@ -20,6 +20,13 @@
 - Once the page index is confirmed, export just that page: `export-design` with `format: {type: "jpg", pages: [<index>]}` — export as `jpg`, not `png`. Note the file Canva actually hands back (and what Si ends up uploading) is a `.jpeg`, so reference `coverImage: "....jpeg"` in front matter, not `.jpg`. The returned download URL is short-lived (single-digit hours) — get it to Si (or download it) promptly.
 - The export URL is served from `export-download.canva.com`, which this session's sandboxed network egress does not allow direct `curl`/`Bash` access to (403 from the proxy). Don't try to route around it — hand Si the URL directly, or use the Canva MCP tools only.
 
+### Cover art compression and MP3 enclosure
+
+- Once cover art is uploaded (see above), convert it to `.webp` for compression before committing — the raw Canva export is a ~3000x3000 `.jpeg` and can be 1MB+. Use `cwebp -q 85 -resize 1500 1500 "<uploaded file>" -o "<coverImage filename>.webp"` (matches the ~1500x1500 dimensions of other recent covers) and update `coverImage` in front matter to the `.webp` filename. `cwebp` isn't preinstalled — `apt-get install -y --no-install-recommends webp` if it's missing.
+- `scripts/check-enclosure.js <mp3-url>` reports file size and duration for a hosted episode MP3 and prints a ready-to-paste `enclosure:` front matter line. Requires `ffprobe` (`apt-get install -y --no-install-recommends ffmpeg` if missing).
+- `pinecast.com` (where episode audio is hosted) is blocked by this session's sandboxed network egress, same as Canva's export-download host above — `curl`/`ffprobe`/the check-enclosure script all get a 403 from the proxy. Don't try to route around it: ask Si for the file size (bytes) and duration, or have him run `node scripts/check-enclosure.js <url>` locally, then fill in `enclosure` yourself.
+- `workers/enclosure-check/` is a deployed Cloudflare Worker (`hf-enclosure-check`, no MCP tool here can deploy/update it — only `wrangler deploy`, which Si runs) that does the same job from Cloudflare's edge, outside the sandbox network block: `GET https://hf-enclosure-check.<subdomain>.workers.dev/?url=<pinecast mp3 url>&format=text` returns ready-to-paste `enclosure`/`duration` front matter lines. Prefer pointing Si at this (or fetching it yourself if outbound access to `*.workers.dev` isn't blocked) over the ask-Si-to-run-a-script fallback above.
+
 ## Newsletter archive
 
 - Past monthly newsletter drafts/copies live in `newsletters/` at the repo root (not under `src/`), so they're kept in git history but never built into the site.
