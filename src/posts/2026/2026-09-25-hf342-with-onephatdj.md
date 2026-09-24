@@ -39,11 +39,13 @@ tags:
   - "bart-skils"
   - "weska"
   - "cece-peniston"
+enclosure: "https://pinecast.com/listen/74634e35-07ca-427a-ad6b-ff75a9806819.mp3 75874304 audio/mpeg"
 coverImage: "HF342_with_OPDJ.jpeg"
 redirectFrom: "/hf342"
 episode: 39
 season: 26
 explicit: "no"
+duration: "01:19:02"
 description: "One Phat DJ returns from a summer away with fresh cuts and classic reworks in a soulful, disco-tinged set this #FinesseFriday."
 ---
 Si's back on the decks this #FinesseFriday after a long summer away, and he's made it count. Fresh cuts open the set — Georges & Fleur De Mur, The Sunburst Band's "Reach For My Love", a Richard Earnshaw flip on "Under Your Spell" — before it tips into a run of classics reworked, Kathy Brown, Soul Central's "Strings of Life" and CeCe Peniston's "Finally" among them. New meets classic, soulful house front to back.
