@@ -50,6 +50,8 @@ description: "One Phat DJ returns from a summer away with fresh cuts and classic
 ---
 Si's back on the decks this #FinesseFriday after a long summer away, and he's made it count. Fresh cuts open the set — Georges & Fleur De Mur, The Sunburst Band's "Reach For My Love", a Richard Earnshaw flip on "Under Your Spell" — before it tips into a run of classics reworked, Kathy Brown, Soul Central's "Strings of Life" and CeCe Peniston's "Finally" among them. New meets classic, soulful house front to back.
 
+{% vipBanner "Hook up with One Phat DJ and others inside our House Finesse VIP Club." %}
+
 ## Track Listing
 
 1. Georges, Fleur De Mur - One Last Kiss (Original Mix)
