@@ -40,7 +40,7 @@ tags:
   - "weska"
   - "cece-peniston"
 enclosure: "https://pinecast.com/listen/74634e35-07ca-427a-ad6b-ff75a9806819.mp3 75874304 audio/mpeg"
-coverImage: "HF342_with_OPDJ.jpeg"
+coverImage: "HF342_with_OPDJ.webp"
 redirectFrom: "/hf342"
 episode: 39
 season: 26
