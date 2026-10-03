@@ -7,7 +7,7 @@ previewText: "Andi King and Disco77 back-to-back, plus Sarah Jae, DJ Tai, One Ph
 status: "draft"
 ---
 
-<!-- Draft covers HF339-HF343 (everything since the August recap, which ended at HF338). October schedule is from the House Finesse Google Calendar. Remaining TODOs: walk details and WhatsApp group. Cover images use the .webp/.jpg files actually in src/img/cover-images - some email clients (older Outlook) don't render webp, so swap to a jpg export if that matters. -->
+<!-- Draft covers HF339-HF343 (everything since the August recap, which ended at HF338). October schedule is from the House Finesse Google Calendar. Cover images use the .webp/.jpg files actually in src/img/cover-images - some email clients (older Outlook) don't render webp, so swap to a jpg export if that matters. -->
 
 # A 15-year reunion, and five shows to catch up on
 
@@ -80,9 +80,7 @@ Every Friday, 5am, same place. Here's what's locked in:
 
 ## Disco77's Autumnal Audio chart
 
-<!-- Si to add: number of tracks and a line or two on what's in it (couldn't read the Traxsource page from the sandbox). -->
-
-Disco77 has put together a new chart over on Traxsource, Autumnal Audio '26, a fresh batch of tunes to get you through the darker nights.
+Disco77 has put together a new chart over on Traxsource, Autumnal Audio '26, 15 tunes to get you through the darker nights.
 
 → [View the chart - buy the tunes!](https://www.traxsource.com/userchart/412784/discos-autumnal-audio-26)
 
@@ -102,17 +100,15 @@ Our favourite moment so far: Luther Vandross singing backing vocals on "Everybod
 
 ## Si's 50km walk for dementia
 
-<!-- Si to add: date/route, why it matters to you, target. Couldn't read the JustGiving page from the sandbox. -->
-
-One Phat DJ is taking on a 50km walk to raise money for dementia research and support. Any amount helps, and it'd mean a lot.
+One Phat DJ is walking 50km around the Kent Downs next weekend, Saturday 10th October, to raise money for dementia research and support. Any amount helps, and it'd mean a lot.
 
 → [Sponsor Si on JustGiving](https://www.justgiving.com/page/si-kent-50)
 
-## TODO: Join the House Finesse WhatsApp group
+## Join the House Finesse WhatsApp group
 
-<!-- Si to add: what the group's for, invite link. -->
+We've got a WhatsApp group where we just talk house music, all day long. It's not only about the shows, it's for anyone who loves the music, so come and share what you're listening to.
 
-→ [Join the WhatsApp group](TODO)
+→ [Join the WhatsApp group](https://chat.whatsapp.com/JMLpMaHyqyu1jzKUcHyglb?mode=gi_t)
 
 ## Get your ticket to the House Finesse VIP Club on Patreon
 
