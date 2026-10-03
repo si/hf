@@ -100,7 +100,9 @@ Our favourite moment so far: Luther Vandross singing backing vocals on "Everybod
 
 ## Si's 50km walk for dementia
 
-One Phat DJ is walking 50km around the Kent Downs next weekend, Saturday 10th October, to raise money for dementia research and support. Any amount helps, and it'd mean a lot.
+Si (aka One Phat DJ) is walking 50km around the Kent Downs next weekend, Saturday 10th October, for dementia charity.
+
+He's doing it for his dad, whose dementia has got progressively worse over the past year. It's now hard for him to see people, even his own family. If you can spare anything, it'd mean a lot, and every pound helps.
 
 → [Sponsor Si on JustGiving](https://www.justgiving.com/page/si-kent-50)
 
