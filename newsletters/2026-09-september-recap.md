@@ -7,7 +7,7 @@ previewText: "Andi King and Disco77 back-to-back, plus Sarah Jae, DJ Tai, One Ph
 status: "draft"
 ---
 
-<!-- Draft covers HF339-HF343 (everything since the August recap, which ended at HF338). Show sections are done; the TODO sections near the bottom are for Si to fill in. Cover images use the .webp/.jpg files actually in src/img/cover-images - some email clients (older Outlook) don't render webp, so swap to a jpg export if that matters. -->
+<!-- Draft covers HF339-HF343 (everything since the August recap, which ended at HF338). October schedule is from the House Finesse Google Calendar. Remaining TODOs: walk details and WhatsApp group. Cover images use the .webp/.jpg files actually in src/img/cover-images - some email clients (older Outlook) don't render webp, so swap to a jpg export if that matters. -->
 
 # A 15-year reunion, and five shows to catch up on
 
@@ -67,17 +67,46 @@ Fresh reworks of Crystal Waters, Whitney Houston and Static Revenger sit alongsi
 
 → [Listen to Disco77 now](https://housefinesse.com/hf343)
 
-## TODO: Disco77's Traxsource chart
+## Coming up in October
 
-<!-- Si to add: chart name, number of tracks, Traxsource link. -->
+Every Friday, 5am, same place. Here's what's locked in:
 
-→ [View the chart - buy the tunes!](TODO)
+- **Fri 9 Oct** - HF344 with Taylan
+- **Fri 16 Oct** - HF345 with DJ Tai
+- **Fri 23 Oct** - HF346 with Andi King
+- **Fri 30 Oct** - HF347 with Sarah Jae
 
-## TODO: Si's 50km walk for dementia
+→ [Add the schedule to your calendar](https://housefinesse.com/calendar)
 
-<!-- Si to add: date/route, why it matters, target, JustGiving (or similar) link. -->
+## Disco77's Autumnal Audio chart
 
-→ [Sponsor Si](TODO)
+<!-- Si to add: number of tracks and a line or two on what's in it (couldn't read the Traxsource page from the sandbox). -->
+
+Disco77 has put together a new chart over on Traxsource, Autumnal Audio '26, a fresh batch of tunes to get you through the darker nights.
+
+→ [View the chart - buy the tunes!](https://www.traxsource.com/userchart/412784/discos-autumnal-audio-26)
+
+## What we've been watching: Nile Rodgers
+
+The whole crew has been working through a documentary on Nile Rodgers, and it's a cracker. If you want to know where half the records you love really came from, start here.
+
+<a href="https://youtu.be/Nu6A2ZI-SXo"><img src="https://img.youtube.com/vi/Nu6A2ZI-SXo/hqdefault.jpg" alt="Nile Rodgers documentary on YouTube" style="max-width:100%;display:block;margin-bottom:12px;"/></a>
+
+→ [Watch the documentary](https://youtu.be/Nu6A2ZI-SXo)
+
+Our favourite moment so far: Luther Vandross singing backing vocals on "Everybody Dance". Absolutely unreal to hear it stripped back.
+
+→ [Watch the clip on Instagram](https://www.instagram.com/reel/Dd1itN3CEeR/)
+
+<!-- Instagram reels have no stable public thumbnail URL and the sandbox can't reach Instagram or YouTube to check. The YouTube thumbnail above uses YouTube's standard hqdefault pattern but is unverified. For the reel, screenshot a frame and upload it to Beehiiv, then wrap it in the link. -->
+
+## Si's 50km walk for dementia
+
+<!-- Si to add: date/route, why it matters to you, target. Couldn't read the JustGiving page from the sandbox. -->
+
+One Phat DJ is taking on a 50km walk to raise money for dementia research and support. Any amount helps, and it'd mean a lot.
+
+→ [Sponsor Si on JustGiving](https://www.justgiving.com/page/si-kent-50)
 
 ## TODO: Join the House Finesse WhatsApp group
 
