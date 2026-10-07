@@ -1,21 +1,18 @@
-// Release schedule for the rest of the year, rendered as a Thu-Sun grid on /schedule/.
-// Edit `episodes` below when slots change; the grid is generated from it at build time.
-// `djs` is a list so a back-to-back set can name everyone.
-const episodes = [
-  { date: "2026-10-02", number: 343, djs: ["Disco77"] },
-  { date: "2026-10-09", number: 344, djs: ["Taylan"] },
-  { date: "2026-10-16", number: 345, djs: ["DJ Tai"] },
-  { date: "2026-10-23", number: 346, djs: ["Andi King"] },
-  { date: "2026-10-30", number: 347, djs: ["Sarah Jae"] },
-  { date: "2026-11-06", number: 348, djs: ["DJ Tai"] },
-  { date: "2026-11-13", number: 349, djs: ["Andi King"] },
-  { date: "2026-11-20", number: 350, djs: ["LYP"] },
-  { date: "2026-11-27", number: 351, djs: ["Sarah Jae"] },
-  { date: "2026-12-04", number: 352, djs: ["DJ Tai"] },
-  { date: "2026-12-11", number: 353, djs: ["LYP"] },
-  { date: "2026-12-18", number: 354, djs: ["Andi King", "Disco77"] },
-  { date: "2026-12-25", number: 355, djs: ["One Phat DJ"], note: "Christmas Special" },
-];
+// Release schedule for /schedule/, built from the public "House Finesse" Google Calendar.
+// The calendar is the single source of truth: change an event title there and the next
+// site build picks it up (titles follow "HF344 with Taylan", optionally "... - Christmas Special").
+//
+// Local/offline builds: set HF_CALENDAR_ICS=/path/to/file.ics to read a saved copy of the feed
+// instead of fetching it.
+const fs = require("node:fs");
+const ical = require("node-ical");
+
+const CALENDAR_ID =
+  "bc515ecffc1a9eafaee5cbae9eede94f9cde7ad6fc858a46a94ddd45447fc360@group.calendar.google.com";
+const FEED_URL = `https://calendar.google.com/calendar/ical/${encodeURIComponent(
+  CALENDAR_ID
+)}/public/basic.ics`;
+const TIMEZONE = "Europe/London";
 
 const MONTHS = [
   "January", "February", "March", "April", "May", "June",
@@ -24,18 +21,82 @@ const MONTHS = [
 const MONTHS_SHORT = MONTHS.map((m) => m.slice(0, 3));
 const WEEKDAYS = ["Thu", "Fri", "Sat", "Sun"];
 
-// All date maths is done in UTC so the build machine's timezone can't shift a day.
+// Dates are handled as plain YYYY-MM-DD strings in UTC so the build machine's timezone
+// can never shift a day.
 const parse = (iso) => new Date(`${iso}T00:00:00Z`);
 const toIso = (d) => d.toISOString().slice(0, 10);
 const addDays = (d, n) => new Date(d.getTime() + n * 86400000);
 
-module.exports = () => {
-  const byDate = new Map(episodes.map((e) => [e.date, e]));
-  const months = new Map();
+// The calendar day an instant falls on in the show's timezone.
+const londonDate = (instant) =>
+  new Intl.DateTimeFormat("en-CA", { timeZone: TIMEZONE }).format(instant);
 
+async function loadFeed() {
+  if (process.env.HF_CALENDAR_ICS) {
+    return fs.readFileSync(process.env.HF_CALENDAR_ICS, "utf8");
+  }
+  const response = await fetch(FEED_URL, { signal: AbortSignal.timeout(20000) });
+  if (!response.ok) {
+    throw new Error(
+      `Could not load the House Finesse calendar feed (HTTP ${response.status}). ` +
+        `Check the calendar is still shared publicly, or set HF_CALENDAR_ICS to a local copy.`
+    );
+  }
+  return response.text();
+}
+
+// "🎧 HF344 with Taylan", "HF354 with Andi King & Disco77", "HF355 with One Phat DJ - Christmas Special".
+// A bare "HF344" (slot not assigned yet) is kept and shown as to be confirmed.
+function parseTitle(summary) {
+  const clean = String(summary || "")
+    .replace(/^[^A-Za-z0-9]+/, "")
+    .trim();
+  const match = clean.match(/^HF\s?(\d+)\b\s*(?:with\s+(.+?))?\s*(?:-\s+(.+))?$/i);
+  if (!match) return null;
+  const [, number, djs, note] = match;
+  return {
+    number: Number(number),
+    title: clean,
+    djs: djs ? djs.split(/\s+(?:&|and)\s+/i) : [],
+    note: note || null,
+    tbc: !djs,
+  };
+}
+
+module.exports = async () => {
+  const feed = ical.sync.parseICS(await loadFeed());
+
+  // Window: the start of the current month to the end of the year ("the rest of the year").
+  const today = parse(londonDate(new Date()));
+  const from = new Date(Date.UTC(today.getUTCFullYear(), today.getUTCMonth(), 1));
+  const to = new Date(Date.UTC(today.getUTCFullYear(), 11, 31, 23, 59, 59));
+
+  const episodes = [];
+  for (const event of Object.values(feed)) {
+    if (event.type !== "VEVENT") continue;
+    // Handles the weekly series plus the per-episode edits Google stores against it.
+    const instances = ical.expandRecurringEvent(event, { from, to });
+    for (const instance of instances) {
+      const parsed = parseTitle(instance.summary);
+      if (!parsed) continue;
+      episodes.push({ date: londonDate(instance.start), ...parsed });
+    }
+  }
+  episodes.sort((a, b) => a.date.localeCompare(b.date) || a.number - b.number);
+
+  const byDate = new Map(episodes.map((e) => [e.date, e]));
+  const fridays = new Set();
   for (const episode of episodes) {
-    const friday = parse(episode.date);
-    const key = episode.date.slice(0, 7);
+    const day = parse(episode.date);
+    // Anchor each row on the Friday of that Mon-Sun week (Sun counts as the end of the week).
+    const dow = (day.getUTCDay() + 6) % 7; // Mon=0 ... Sun=6
+    fridays.add(toIso(addDays(day, 4 - dow)));
+  }
+
+  const months = new Map();
+  for (const fridayIso of [...fridays].sort()) {
+    const friday = parse(fridayIso);
+    const key = fridayIso.slice(0, 7);
     if (!months.has(key)) {
       months.set(key, {
         key,
@@ -44,41 +105,25 @@ module.exports = () => {
         weeks: [],
       });
     }
-    const month = months.get(key);
 
     // One row per release weekend: Thursday before, Friday, Saturday, Sunday after.
     const cells = [-1, 0, 1, 2].map((offset, i) => {
       const day = addDays(friday, offset);
       const iso = toIso(day);
-      const sameMonth = day.getUTCMonth() === friday.getUTCMonth();
+      const episode = byDate.get(iso) || null;
       return {
         iso,
         weekday: WEEKDAYS[i],
         day: day.getUTCDate(),
         // Show the month when a weekend straddles two months (e.g. Thu 30 Oct, Sun 1 Nov).
-        monthLabel: sameMonth ? null : MONTHS_SHORT[day.getUTCMonth()],
-        isRelease: offset === 0,
-        episode: offset === 0 ? byDate.get(iso) : null,
+        monthLabel:
+          day.getUTCMonth() === friday.getUTCMonth() ? null : MONTHS_SHORT[day.getUTCMonth()],
+        isRelease: offset === 0 || Boolean(episode),
+        episode,
       };
     });
-
-    month.weeks.push({ friday: episode.date, cells });
+    months.get(key).weeks.push({ friday: fridayIso, cells });
   }
 
-  const list = episodes.map((e) => ({
-    ...e,
-    // Same format as the "House Finesse" Google Calendar titles.
-    title: `HF${e.number} with ${e.djs.join(" & ")}${e.note ? ` - ${e.note}` : ""}`,
-  }));
-  const titleByDate = new Map(list.map((e) => [e.date, e]));
-
-  const result = Array.from(months.values());
-  for (const month of result) {
-    for (const week of month.weeks) {
-      for (const cell of week.cells) {
-        if (cell.episode) cell.episode = titleByDate.get(cell.iso);
-      }
-    }
-  }
-  return { months: result, episodes: list };
+  return { months: [...months.values()], episodes };
 };

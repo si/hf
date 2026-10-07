@@ -41,6 +41,7 @@ linkText: "Schedule"
               <span class="hf-cell__status">Out now</span>
             {% else %}
               <span class="hf-cell__title">{{ episode.title }}</span>
+              {% if episode.tbc %}<span class="hf-cell__status">DJ to be confirmed</span>{% endif %}
             {% endif %}
           {% endif %}
         </div>
