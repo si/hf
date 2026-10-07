@@ -48,10 +48,7 @@
     {{ content | safe }}
     <footer class="tdbc-background--primary">
       <div class="tdbc-container tdbc-text-align-center">
-        <div class="footer-vip-club">
-          <h3>Get early access to our mixes in the House Finesse VIP Club</h3>
-          <iframe src="https://housefinesse.substack.com/embed" width="100%" height="150" style="" frameborder="0" scrolling="no"></iframe>
-        </div>
+        {% include 'patreon_banner.njk' %}
         {% include 'shop_carousel.njk' %}
         <div class="footer-credits tdbc-ink--light">
           <div class="footer-credits__copyright">

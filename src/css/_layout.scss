@@ -38,22 +38,6 @@ footer {
     color: #FFF;
   }
 
-  .footer-vip-club {
-    display: grid;
-    grid-gap: 1rem;
-    align-items: center;
-    margin-bottom: 2rem;
-
-    @media (min-width: 80ch) {
-      grid-template-columns: 1fr 2fr;
-      text-align: left;
-    }
-
-    h3 {
-      margin: 0;
-    }
-  }
-
   .tdbc-shop-carousel {
     display: flex;
     padding: 10px 0;
