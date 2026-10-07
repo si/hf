@@ -1,0 +1,66 @@
+---
+title: "House Finesse Calendar"
+description: "Who is on House Finesse every Friday, and how to follow the schedule in your own calendar."
+layout: "page"
+redirectFrom: "/calendar"
+linkText: "Calendar"
+---
+
+{#
+  The grid is built from the public House Finesse Google Calendar feed (see src/_data/schedule.js).
+  If the feed can't be loaded at build time, schedule.available is false and the page falls back to
+  the Google Calendar embed below.
+#}
+{% if schedule.available %}
+<p class="hf-schedule-intro">A new House Finesse lands every Friday morning. Here is who is behind the decks for the rest of the year.</p>
+<p class="hf-schedule-intro">Follow it in your own calendar: <a href="{{ schedule.webcalUrl }}">Apple Calendar, Outlook and others</a> or <a href="{{ schedule.addUrl }}">Google Calendar</a>.</p>
+
+<div class="hf-schedule">
+{% for month in schedule.months %}
+  <section class="hf-month" aria-labelledby="month-{{ month.key }}">
+    <h2 class="hf-month__title" id="month-{{ month.key }}">{{ month.name }} {{ month.year }}</h2>
+
+    <div class="hf-grid" role="table" aria-label="{{ month.name }} {{ month.year }} releases">
+      <div class="hf-grid__head" role="row">
+        {% for weekday in ["Thu", "Fri", "Sat", "Sun"] %}
+        <div class="hf-grid__weekday{% if weekday == 'Fri' %} hf-grid__weekday--release{% endif %}" role="columnheader">{{ weekday }}</div>
+        {% endfor %}
+      </div>
+
+      {% for week in month.weeks %}
+      <div class="hf-grid__week" role="row">
+        {% for cell in week.cells %}
+        {% set episode = cell.episode %}
+        <div class="hf-cell{% if cell.isRelease %} hf-cell--release{% endif %}" role="cell">
+          <span class="hf-cell__date">
+            <span class="hf-cell__weekday">{{ cell.weekday }}</span>
+            {{ cell.day }}{% if cell.monthLabel %} {{ cell.monthLabel }}{% endif %}
+          </span>
+          {% if episode %}
+            {% set episodeUrl = "" %}
+            {% for post in collections.posts %}
+              {% if post.date | formatDate("yyyy-LL-dd") == cell.iso %}
+                {% set episodeUrl = post.url %}
+              {% endif %}
+            {% endfor %}
+            {% if episodeUrl %}
+              <a class="hf-cell__title" href="{{ episodeUrl }}">{{ episode.title }}</a>
+              <span class="hf-cell__status">Out now</span>
+            {% else %}
+              <span class="hf-cell__title">{{ episode.title }}</span>
+              {% if episode.tbc %}<span class="hf-cell__status">DJ to be confirmed</span>{% endif %}
+            {% endif %}
+          {% endif %}
+        </div>
+        {% endfor %}
+      </div>
+      {% endfor %}
+    </div>
+  </section>
+{% endfor %}
+</div>
+{% else %}
+<p>This is the upcoming schedule of your upcoming podcast episodes, easy to follow in your own personal calendars if you prefer.</p>
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Europe%2FLondon&bgcolor=%23D81B60&showPrint=0&showTabs=0&showCalendars=0&mode=AGENDA&hl=en_GB&title=House%20Finesse%20Schedule&src=YmM1MTVlY2ZmYzFhOWVhZmFlZTVjYmFlOWVlZGU5NGY5Y2RlN2FkNmZjODU4YTQ2YTk0ZGRkNDU0NDdmYzM2MEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23E4C441" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+{% endif %}
