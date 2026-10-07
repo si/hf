@@ -1,0 +1,148 @@
+@use "theme" as *;
+
+// Release schedule grid (/schedule/): one row per release weekend, Thu-Sun.
+$hf-gold: #e4c441;
+$hf-teal: #042f2e;
+
+.hf-schedule-intro,
+.hf-month__title {
+  // Site body text is near-white; this page sits on the gradient/white, so force dark text.
+  color: #000;
+}
+
+.hf-schedule-intro a {
+  color: #000;
+}
+
+.hf-schedule {
+  display: grid;
+  gap: 3rem;
+  margin-top: 2rem;
+}
+
+.hf-month__title {
+  margin: 0 0 1rem;
+  font-size: $tdbc-h3-font-size;
+  line-height: 1.1;
+}
+
+.hf-grid {
+  display: grid;
+  gap: 0.5rem;
+
+  &__head,
+  &__week {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 0.5rem;
+  }
+
+  &__weekday {
+    padding: 0.25rem 0.5rem;
+    color: #000;
+    font-size: 0.95rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+
+    &--release {
+      text-decoration: underline;
+      text-decoration-color: $hf-gold;
+      text-decoration-thickness: 3px;
+      text-underline-offset: 0.3em;
+    }
+  }
+}
+
+.hf-cell {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  min-height: 6.5rem;
+  padding: 0.6rem 0.7rem;
+  border: 1px solid rgb(0 0 0 / 12%);
+  border-radius: $tdbc-border-radius;
+  background-color: #fff;
+  color: #000;
+
+  &__date {
+    font-size: 1rem;
+    font-weight: 700;
+    line-height: 1;
+  }
+
+  // Weekday label is only needed once the columns collapse on small screens.
+  &__weekday {
+    display: none;
+    margin-right: 0.35rem;
+    color: $tdbc-color-gray;
+    font-size: 0.85rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+  }
+
+  &--release {
+    border-color: $hf-teal;
+    background-color: $hf-teal;
+    color: #fff;
+    box-shadow: 0 3px 5px rgb(0 0 0 / 18%);
+
+    .hf-cell__date {
+      color: $hf-gold;
+    }
+  }
+
+  &__title {
+    font-size: 1.2rem;
+    font-weight: 700;
+    line-height: 1.15;
+    overflow-wrap: anywhere;
+  }
+
+  a.hf-cell__title,
+  a.hf-cell__title:link,
+  a.hf-cell__title:visited {
+    color: #fff;
+    text-decoration-color: $hf-gold;
+    text-underline-offset: 0.2em;
+  }
+
+  &__status {
+    margin-top: auto;
+    color: $hf-gold;
+    font-size: 0.8rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+}
+
+// Phones: stack each weekend as its own block, release day first and prominent.
+@media (max-width: 40rem) {
+  .hf-grid {
+    &__head {
+      display: none;
+    }
+
+    &__week {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      padding-bottom: 0.75rem;
+      border-bottom: 1px solid rgb(0 0 0 / 12%);
+    }
+  }
+
+  .hf-cell {
+    min-height: 0;
+    padding: 0.5rem 0.55rem;
+
+    &__weekday {
+      display: inline;
+    }
+
+    &--release {
+      grid-column: 1 / -1;
+      order: -1;
+      min-height: 5rem;
+    }
+  }
+}
