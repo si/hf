@@ -1,6 +1,9 @@
-// Release schedule for /schedule/, built from the public "House Finesse" Google Calendar.
+// Release schedule for /calendar/, built from the public "House Finesse" Google Calendar.
 // The calendar is the single source of truth: change an event title there and the next
 // site build picks it up (titles follow "HF344 with Taylan", optionally "... - Christmas Special").
+//
+// If the feed can't be loaded or has no episodes, `available` is false (the build does not fail)
+// and the calendar page falls back to the Google Calendar embed.
 //
 // Local/offline builds: set HF_CALENDAR_ICS=/path/to/file.ics to read a saved copy of the feed
 // instead of fetching it.
@@ -13,6 +16,15 @@ const FEED_URL = `https://calendar.google.com/calendar/ical/${encodeURIComponent
   CALENDAR_ID
 )}/public/basic.ics`;
 const TIMEZONE = "Europe/London";
+
+// Links for following the calendar from the page (the same base64 id the Google embed uses).
+const LINKS = {
+  feedUrl: FEED_URL,
+  webcalUrl: FEED_URL.replace(/^https:/, "webcal:"),
+  addUrl: `https://calendar.google.com/calendar/r?cid=${Buffer.from(CALENDAR_ID)
+    .toString("base64")
+    .replace(/=+$/, "")}`,
+};
 
 const MONTHS = [
   "January", "February", "March", "April", "May", "June",
@@ -63,7 +75,7 @@ function parseTitle(summary) {
   };
 }
 
-module.exports = async () => {
+async function buildSchedule() {
   const feed = ical.sync.parseICS(await loadFeed());
 
   // Window: the start of the current month to the end of the year ("the rest of the year").
@@ -125,5 +137,19 @@ module.exports = async () => {
     months.get(key).weeks.push({ friday: fridayIso, cells });
   }
 
-  return { months: [...months.values()], episodes };
+  if (episodes.length === 0) {
+    throw new Error("The calendar feed loaded but has no HF episodes for the rest of the year.");
+  }
+
+  return { available: true, ...LINKS, months: [...months.values()], episodes };
+}
+
+module.exports = async () => {
+  try {
+    return await buildSchedule();
+  } catch (error) {
+    const reason = error.cause?.code ? `${error.message} (${error.cause.code})` : error.message;
+    console.warn(`[schedule] Using the Google Calendar embed instead of the grid: ${reason}`);
+    return { available: false, ...LINKS, months: [], episodes: [] };
+  }
 };
