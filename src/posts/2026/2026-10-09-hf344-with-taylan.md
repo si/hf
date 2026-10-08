@@ -6,10 +6,12 @@ categories:
 author: "Taylan"
 tags:
   - "taylan"
+enclosure: "https://pinecast.com/listen/a9613b6e-c431-47ec-9bc8-89f86d2523dd.mp3 88665945 audio/mpeg"
 redirectFrom: "/hf344"
 episode: 41
 season: 26
 explicit: "no"
+duration: "01:32:22"
 coverImage: "HF344_with_Taylan.webp"
 description: "Taylan's house-garage blend gets funkier and weightier this #FinesseFriday, with a couple of his own cuts in the mix."
 ---
