@@ -19,12 +19,12 @@ tags:
   - "jonas-blue"
   - "disco"
   - "house"
-enclosure: "TODO"
+enclosure: "https://pinecast.com/listen/24dbc46b-d3ab-4ef3-ab44-e8db62a7aa96.mp3 103975476 audio/mpeg"
 redirectFrom: "/hf346"
 episode: 43
 season: 26
 explicit: "no"
-duration: "TODO"
+duration: "01:12:03"
 coverImage: "HF346_with_Andi_King.webp"
 description: "Andi King brings the disco-soaked vocals and big basslines this #FinesseFriday, from Dave 'Love' Lee to Jonas Blue."
 ---
