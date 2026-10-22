@@ -39,7 +39,6 @@
 
 ## PR previews
 
-- Netlify and Cloudflare Pages both auto-deploy a preview on every push to a PR and post/update a comment with the links — no need to construct these URLs manually, just read them off the latest bot comment on the PR.
-  - Netlify preview pattern: `https://deploy-preview-<PR#>--housefinesse.netlify.app`
+- Cloudflare Pages auto-deploys a preview on every push to a PR and posts/updates a comment with the link — no need to construct these URLs manually, just read them off the latest bot comment on the PR.
   - Cloudflare Pages branch preview pattern: `https://claude-<branch-name-slug>.house-finesse.pages.dev` (also a per-deploy preview URL with a random hash, which changes every push — the branch preview URL is the stable one to hand to Si)
 - If subscribed to PR activity, these bot comments arrive as webhook events on every push — routine "processing"/"build in progress" updates need no action; only act once a deploy fails or is needed for something (e.g. confirming a fix actually resolved a rendering issue).
