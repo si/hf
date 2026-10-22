@@ -12,7 +12,7 @@ episode: 43
 season: 26
 explicit: "no"
 duration: "TODO"
-coverImage: "HF346_with_Andi_King.jpeg"
+coverImage: "HF346_with_Andi_King.webp"
 description: "TODO: one-line subtitle for Andi King's set this #FinesseFriday."
 ---
 
