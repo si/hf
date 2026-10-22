@@ -37,17 +37,17 @@ Dave 'Love' Lee opens up with "(Not) This Time Baby" before Seamus Haji and Kath
 
 ## Track Listing
 
-1. (Not) This Time Baby - Dave 'Love' Lee
-2. Dance With Me - Seamus Haji, Kathy Brown
-3. All My Love - John Morales, Brian Lucas
-4. Everything's Changing - The Shapeshifters, Sharlene Hector
-5. We Movin' - Soneec, Soultizer
-6. If You - Risk Assessment
-7. My Soul Cries Out - Mark Picchiotti, Candice Chavez
-8. He Is the Joy - Donna Allen, Urban Blues Project
-9. Boogie Celebration - Hotmood
-10. What I Need - Jay Vegas
-11. Can't Get Enough - XTC
-12. Turn Up the Bass - Earth N Days
-13. Do U Got Funk - Seamus Haji, Big Bang Theory, Derek Conyer, Capri
-14. Girl 2.0 - Jonas Blue, WH0
+1. Dave 'Love' Lee - (Not) This Time Baby
+2. Seamus Haji, Kathy Brown - Dance With Me
+3. John Morales, Brian Lucas - All My Love
+4. The Shapeshifters, Sharlene Hector - Everything's Changing
+5. Soneec, Soultizer - We Movin'
+6. Risk Assessment - If You
+7. Mark Picchiotti, Candice Chavez - My Soul Cries Out
+8. Donna Allen, Urban Blues Project - He Is the Joy
+9. Hotmood - Boogie Celebration
+10. Jay Vegas - What I Need
+11. XTC - Can't Get Enough
+12. Earth N Days - Turn Up the Bass
+13. Seamus Haji, Big Bang Theory, Derek Conyer, Capri - Do U Got Funk
+14. Jonas Blue, WH0 - Girl 2.0

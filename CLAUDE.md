@@ -4,6 +4,7 @@
 
 - Episode posts live at `src/posts/<year>/<date>-hf<num>-with-<dj>.md`. Follow the front matter and section conventions of the most recent existing post for the same DJ/format.
 - Include a one-line `description` front matter field on every post — it renders as the subtitle under the episode title (see `src/_layouts/post.njk`).
+- Track listings are always formatted `Artist(s) - Track Title (Remix)`: artist names first, then the title, with any remix/mix info in brackets at the end.
 - Taylan's sets blend house with garage (skippy, swung rhythms), distinct from the disco-leaning club house the rest of the crew typically play — good background for his intros, but don't call out the contrast with other residents in the copy itself.
 - Cover art (`coverImage` front matter, e.g. `HFxxx_with_DJName.jpeg`) usually can't be added directly — artwork typically arrives as a pasted image in chat, not a file on disk. When that happens:
   - Push the post/branch and open the PR as normal, referencing the expected image filename in front matter. Default the extension to `.jpeg` — files exported/uploaded from Canva land as `.jpeg`, not `.jpg`, and Si can't rename the extension on upload.
