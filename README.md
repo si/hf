@@ -1,4 +1,4 @@
-# House Finesse on 11ty Netlify
+# House Finesse on 11ty
 
 *An Unstyled production for the longest running house music podcast, established in 2005 by Si Jobling.*
 
