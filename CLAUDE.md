@@ -28,6 +28,29 @@
 - `pinecast.com` (where episode audio is hosted) is blocked by this session's sandboxed network egress, same as Canva's export-download host above — `curl`/`ffprobe`/the check-enclosure script all get a 403 from the proxy. Don't try to route around it: ask Si for the file size (bytes) and duration, or have him run `node scripts/check-enclosure.js <url>` locally, then fill in `enclosure` yourself.
 - `workers/enclosure-check/` is a deployed Cloudflare Worker (`hf-enclosure-check`, no MCP tool here can deploy/update it — only `wrangler deploy`, which Si runs) that does the same job from Cloudflare's edge, outside the sandbox network block: `GET https://hf-enclosure-check.<subdomain>.workers.dev/?url=<pinecast mp3 url>&format=text` returns ready-to-paste `enclosure`/`duration` front matter lines. Prefer pointing Si at this (or fetching it yourself if outbound access to `*.workers.dev` isn't blocked) over the ask-Si-to-run-a-script fallback above.
 
+## Scheduling posts on Buffer
+
+New social posts can be scheduled straight from Claude using `tools/buffer.py`
+(see `tools/README.md` for auth, channel IDs and flags). Always use the
+`housefinesse` brand, and run `account` first to confirm the organisation is
+House Finesse, not another brand's.
+
+Whenever you draft social posts (episode promos or any other copy):
+
+1. Show the draft copy in chat as usual.
+2. Ask Si whether he wants each post **scheduled for a specific time** or
+   **posted straight away**. Don't assume, and don't post before he answers
+   and the final text is agreed.
+3. Based on his answer, send it to Buffer:
+   - specific time: `--due-at <ISO 8601 with UK offset>` (`+00:00` GMT,
+     `+01:00` BST; clocks change last Sunday of March and October)
+   - straight away: `--now`
+   - if he just says "queue it", omit both and it goes on the Buffer queue
+4. Run with `--dry-run` first if anything about the channel or time is unclear,
+   then report back the post ID, channel and due time.
+
+Say which channels aren't connected in Buffer rather than silently skipping them.
+
 ## Newsletter archive
 
 - Past monthly newsletter drafts/copies live in `newsletters/` at the repo root (not under `src/`), so they're kept in git history but never built into the site.
