@@ -40,7 +40,7 @@ description: "Sarah Jae serves up a sweaty, bass-heavy set of 2026 heaters this 
 
 Crazy P's "Pawa" vocal dub sets the tone, Rocco Universal's "Space Chakra" and "Mutiny on the Sex Raft" get weird in the best way, and Purple Disco Machine's "Disco Cherry" lands right on time.
 
-**Catch Sarah Jae live at the iconic Fabric in London soon.** TODO: add date and ticket link.
+**Catch Sarah Jae live at the iconic Fabric in London on 21 November for the Fump 15th anniversary. [Get your tickets here.](https://www.fabriclondon.com/event/fabric-parallelle-live-krystal-klear-inland-knights-fifi-forte-tommy-gold-goosey-more)**
 
 {% vipBanner "Hook up with Sarah Jae and others inside our House Finesse VIP Club." %}
 
