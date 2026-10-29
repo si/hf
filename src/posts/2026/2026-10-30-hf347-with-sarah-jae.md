@@ -33,7 +33,7 @@ season: 26
 explicit: "no"
 duration: "TODO"
 coverImage: "HF347_with_Sarah_Jae.webp"
-description: "Sarah Jae drops a sweaty, bass-heavy set of 2026 heaters this #FinesseFriday, all groove, grit and big room-lifting moments."
+description: "Sarah Jae serves up a sweaty, bass-heavy set of 2026 heaters this #FinesseFriday, all rolling grooves, filthy basslines and peak-time pressure."
 ---
 
 **Sarah Jae is back with a set made up entirely of tunes released this year, and it's a fresh one this #FinesseFriday.**
