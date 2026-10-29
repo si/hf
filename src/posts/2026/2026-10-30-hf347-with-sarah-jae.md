@@ -6,6 +6,26 @@ categories:
 author: "Sarah Jae"
 tags:
   - "sarah-jae"
+  - "crazy-p"
+  - "asha-puthli"
+  - "say-she-she"
+  - "sam-curran"
+  - "harry-unsworth"
+  - "charlotte-flannery"
+  - "space"
+  - "antoine-bourachot"
+  - "rocco-universal"
+  - "jimi-jules"
+  - "daisybelle"
+  - "leyo"
+  - "thierry-ganz"
+  - "purple-disco-machine"
+  - "amirali"
+  - "pure-colors"
+  - "kideko"
+  - "oliver-koletski"
+  - "house"
+  - "disco"
 enclosure: "TODO"
 redirectFrom: "/hf347"
 episode: 44
@@ -13,15 +33,29 @@ season: 26
 explicit: "no"
 duration: "TODO"
 coverImage: "HF347_with_Sarah_Jae.jpeg"
-description: "TODO one-line description of Sarah Jae's set this #FinesseFriday."
+description: "Sarah Jae brings a set of brand-new 2026 tunes this #FinesseFriday, from Crazy P to Purple Disco Machine."
 ---
 
-**TODO intro blurb for Sarah Jae's set this #FinesseFriday.**
+**Sarah Jae is back with a set made up entirely of tunes released this year, and it's a fresh one this #FinesseFriday.**
 
-TODO paragraph highlighting standout tracks.
+She opens with Crazy P, Asha Puthli and Say She She's "Pawa" in a vocal dub, before Sam Curran, Harry Unsworth and Charlotte Flannery's "Take Control" and Antoine Bourachot's remix of SPACE's "Tango In Space" keep things moving. Rocco Universal's "Space Chakra" and "Mutiny on the Sex Raft" sit back to back, Jimi Jules' "Dreamin'" and Daisybelle's "La Deseable" follow, and Purple Disco Machine's "Disco Cherry" lands in the back half. Pure Colors' "Always Dancing" and Kideko's "Burning Love" lead into Oliver Koletski's "Calle Sur" (Malive Remix) to close.
+
+**Catch Sarah Jae live at the iconic Fabric in London soon.** TODO: add date and ticket link.
 
 {% vipBanner "Hook up with Sarah Jae and others inside our House Finesse VIP Club." %}
 
 ## Track Listing
 
-1. Artist(s) - Track Title (Remix)
+1. Crazy P, Asha Puthli, Say She She - Pawa (Crazy P Vocal Dub)
+2. Sam Curran, Harry Unsworth, Charlotte Flannery - Take Control (Extended Mix)
+3. SPACE, Antoine Bourachot - Tango In Space (Antoine Bourachot Remix)
+4. Rocco Universal - Space Chakra
+5. Rocco Universal - Mutiny on the Sex Raft
+6. Jimi Jules - Dreamin'
+7. Daisybelle - La Deseable
+8. Leyo, Thierry Ganz - Stamina (Extended Mix)
+9. Purple Disco Machine - Disco Cherry (Extended Mix)
+10. Amirali - Endless High
+11. Pure Colors - Always Dancing
+12. Kideko - Burning Love (Extended Mix)
+13. Oliver Koletski - Calle Sur (Malive Remix)
