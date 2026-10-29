@@ -33,12 +33,12 @@ season: 26
 explicit: "no"
 duration: "TODO"
 coverImage: "HF347_with_Sarah_Jae.webp"
-description: "Sarah Jae brings a set of brand-new 2026 tunes this #FinesseFriday, from Crazy P to Purple Disco Machine."
+description: "Sarah Jae drops a sweaty, bass-heavy set of 2026 heaters this #FinesseFriday, all groove, grit and big room-lifting moments."
 ---
 
 **Sarah Jae is back with a set made up entirely of tunes released this year, and it's a fresh one this #FinesseFriday.**
 
-She opens with Crazy P, Asha Puthli and Say She She's "Pawa" in a vocal dub, before Sam Curran, Harry Unsworth and Charlotte Flannery's "Take Control" and Antoine Bourachot's remix of SPACE's "Tango In Space" keep things moving. Rocco Universal's "Space Chakra" and "Mutiny on the Sex Raft" sit back to back, Jimi Jules' "Dreamin'" and Daisybelle's "La Deseable" follow, and Purple Disco Machine's "Disco Cherry" lands in the back half. Pure Colors' "Always Dancing" and Kideko's "Burning Love" lead into Oliver Koletski's "Calle Sur" (Malive Remix) to close.
+Crazy P's "Pawa" vocal dub sets the tone, Rocco Universal's "Space Chakra" and "Mutiny on the Sex Raft" get weird in the best way, and Purple Disco Machine's "Disco Cherry" lands right on time.
 
 **Catch Sarah Jae live at the iconic Fabric in London soon.** TODO: add date and ticket link.
 
