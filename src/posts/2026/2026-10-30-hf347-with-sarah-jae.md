@@ -32,7 +32,7 @@ episode: 44
 season: 26
 explicit: "no"
 duration: "TODO"
-coverImage: "HF347_with_Sarah_Jae.jpeg"
+coverImage: "HF347_with_Sarah_Jae.webp"
 description: "Sarah Jae brings a set of brand-new 2026 tunes this #FinesseFriday, from Crazy P to Purple Disco Machine."
 ---
 
