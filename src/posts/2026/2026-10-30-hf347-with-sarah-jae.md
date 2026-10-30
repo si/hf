@@ -26,12 +26,12 @@ tags:
   - "oliver-koletski"
   - "house"
   - "disco"
-enclosure: "TODO"
+enclosure: "https://pinecast.com/listen/bcd6b076-4aa6-414d-b38a-a799f9aaafb2.mp3 60157785 audio/mpeg"
 redirectFrom: "/hf347"
 episode: 44
 season: 26
 explicit: "no"
-duration: "TODO"
+duration: "01:02:40"
 coverImage: "HF347_with_Sarah_Jae.webp"
 description: "Sarah Jae serves up a sweaty, bass-heavy set of 2026 heaters this #FinesseFriday, all rolling grooves, filthy basslines and peak-time pressure."
 ---
