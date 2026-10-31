@@ -58,11 +58,6 @@ connected in Buffer.
 | Item | ID |
 |---|---|
 | Organisation (House Finesse) | `601496ffea5b1a843922ae6a` |
-| Instagram (Personal Account, unlocked) | `675c3e4d8e24cab48e9f647f` |
-| Instagram (Professional Account, currently locked in Buffer) | `676e9b834697c1deff446945` |
+| Instagram (Professional Account) | `676e9b834697c1deff446945` |
 | Threads | `667b20ca7839e9e879ae5c83` |
 | Facebook | `63d376d1764d506cecdb5459` |
-
-Both Instagram channels are `instagram.com/housefinesse`. Use the Personal one
-until the Professional one is unlocked; a personal account may only send a
-mobile reminder rather than auto-publish.
