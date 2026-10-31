@@ -2,40 +2,20 @@
 platform: "Beehiiv"
 month: "October 2026"
 sentDate: ""
-subject: "Five Fridays, five mixes, and Sarah Jae heads to Fabric"
-previewText: "Disco77, Taylan, DJ Tai, Andi King and Sarah Jae - everything you missed in October"
+subject: "Four more mixes, and Sarah Jae heads to Fabric"
+previewText: "Taylan, DJ Tai, Andi King and Sarah Jae - everything you missed in October"
 status: "draft"
 ---
 
-<!-- Draft. Structure: episode, CTA, episode, CTA etc. rather than one lump of shows. Open items for Si: (1) Beehiiv subscribe/share link for the newsletter CTA is a placeholder; /newsletter on the site currently redirects to the Patreon page so isn't usable. (2) YouTube channel link is https://www.youtube.com/housefinesse (from the site's podcast apps include); swap for a specific playlist if preferred. (3) WhatsApp uses the group invite (housefinesse.com/whatsapp), not the broadcast channel on the Follow page - swap if you'd rather push the channel. (4) Cover images use the .webp filenames from each post's front matter. -->
+<!-- Draft. Structure: episode, CTA, episode, CTA etc. rather than one lump of shows. September issue (sent 3 Oct) already covered HF339-HF343, so HF343 is left out here. Beehiiv subscribers are being moved to Patreon, so the closing newsletter CTA points to following on Patreon instead of a Beehiiv signup. WhatsApp uses the broadcast channel. YouTube is the channel link (https://www.youtube.com/housefinesse). Cover images use the .webp filenames from each post front matter. -->
 
-# Five Fridays, five mixes, and Sarah Jae heads to Fabric
+# Four more mixes, and Sarah Jae heads to Fabric
 
 ## Intro
 
-October flew by, and it was a busy one: five Fridays, five brilliant mixes. We've got a Disco77 set with a tribute at the end, a skippy house-garage ride from Taylan, DJ Tai going full disco-soul, Andi King bringing the vocals, and Sarah Jae closing the month with a set made entirely of 2026 heaters. Here's everything you might have missed.
+October's done, and the last four Fridays were a good run. Taylan took us through some skippy house-garage, DJ Tai went full disco-soul, Andi King brought the vocals, and Sarah Jae closed the month with a set made entirely of 2026 heaters. (Disco77's HF343 landed at the start of the month, so you'll have seen that one in our last email.) Here's everything you might have missed.
 
 ## What's been playing?
-
-### HF343 with Disco77
-
-<a href="https://housefinesse.com/hf343"><img src="https://housefinesse.com/img/cover-images/HF343_with_Disco77.webp" alt="HF343 with Disco77 cover art" style="max-width:100%;display:block;margin-bottom:12px;"/></a>
-
-*90 minutes of feel-good disco house, locked at 128-132bpm.*
-
-Disco77 kicks off the month with fresh reworks of Crystal Waters, Whitney Houston and Static Revenger, plus Sammy Virji & Barry Can't Swim's "I Could Be Madonna" and Ultra Nate on Crush Club's "It's Coming". There's a double dose of Taylan too, and the set closes with a pair of Sunship remixes, the last of them in memory of Sway.
-
-→ [Listen to Disco77 now](https://housefinesse.com/hf343)
-
----
-
-## Watch the mixes on YouTube
-
-Prefer something to look at while the beats play? Head over to the House Finesse YouTube channel and subscribe so you never miss a Friday.
-
-→ [Subscribe on YouTube](https://www.youtube.com/housefinesse)
-
----
 
 ### HF344 with Taylan
 
@@ -49,11 +29,11 @@ Tim Taylor's "The Music Box" and a pair of Captain Wallop cuts keep the groove r
 
 ---
 
-## Join the WhatsApp group
+## Watch the mixes on YouTube
 
-Want to chat tunes with the crew and other listeners? Our WhatsApp group is the place for show reminders, track IDs and a bit of banter. Come and say hello.
+Prefer something to look at while the beats play? Head over to the House Finesse YouTube channel and subscribe so you never miss a Friday.
 
-→ [Join the WhatsApp group](https://housefinesse.com/whatsapp)
+→ [Subscribe on YouTube](https://www.youtube.com/housefinesse)
 
 ---
 
@@ -69,11 +49,11 @@ Dimitri From Paris puts his Super Disco Blend on Harold Melvin & The Blue Notes 
 
 ---
 
-## Get your ticket to the House Finesse VIP Club on Patreon
+## Join the WhatsApp broadcast channel
 
-Bonus content, high-quality downloads and behind-the-scenes chat with the crew. If you love the Friday shows, the VIP Club is where the rest of the House Finesse family hangs out. Join us.
+Want the Friday show drops and news straight to your phone? Follow the House Finesse WhatsApp broadcast channel and never miss a release.
 
-→ [Join the VIP Club](https://housefinesse.com/club)
+→ [Follow on WhatsApp](https://whatsapp.com/channel/0029VaJo5IE1t90b11IjyH2V)
 
 ---
 
@@ -89,11 +69,11 @@ Dave 'Love' Lee opens with "(Not) This Time Baby", then Seamus Haji and Kathy Br
 
 ---
 
-## Know someone who'd love this?
+## Get your ticket to the House Finesse VIP Club on Patreon
 
-Forward this email to a mate who's into house music, or point them at the signup so the next one lands straight in their inbox. A fresh round-up goes out every month.
+Bonus content, high-quality downloads and behind-the-scenes chat with the crew. If you love the Friday shows, the VIP Club is where the rest of the House Finesse family hangs out. Join us.
 
-→ [Sign up to the newsletter](NEWSLETTER_SIGNUP_URL)
+→ [Join the VIP Club](https://housefinesse.com/club)
 
 ---
 
@@ -112,11 +92,19 @@ And if you want to catch Sarah Jae live, she's playing the iconic Fabric in Lond
 
 ---
 
-## That's a wrap on October
+## Coming up in November
 
-Thanks for listening, sharing and getting involved. Catch us every Friday, and keep an eye on the YouTube channel and WhatsApp group in between.
+Every Friday, same place. See who's behind the decks and add the schedule to your own calendar.
 
-→ [Join the VIP Club](https://housefinesse.com/club)
+→ [View the schedule](https://housefinesse.com/calendar)
+
+---
+
+## We're moving to Patreon
+
+This newsletter is heading over to Patreon. Follow House Finesse there and our monthly round-ups will keep landing in your inbox, with the VIP Club perks if you want to go further.
+
+→ [Follow us on Patreon](https://housefinesse.com/club)
 
 ## Footer
 
