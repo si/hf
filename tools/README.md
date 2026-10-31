@@ -52,11 +52,12 @@ python3 tools/buffer.py housefinesse post --channel CHANNEL_ID --text "New episo
 
 ### House Finesse IDs
 
-TODO: fill in once the House Finesse key is set up. Run `account` then
-`channels --org ORG_ID` to get them.
+Fetched with `account` then `channels --org ORG_ID`. X and Bluesky aren't
+connected in Buffer.
 
 | Item | ID |
 |---|---|
-| Organisation (House Finesse) | |
-| X | |
-| Bluesky | |
+| Organisation (House Finesse) | `601496ffea5b1a843922ae6a` |
+| Instagram (Professional Account) | `676e9b834697c1deff446945` |
+| Threads | `667b20ca7839e9e879ae5c83` |
+| Facebook | `63d376d1764d506cecdb5459` |
