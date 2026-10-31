@@ -92,6 +92,12 @@ And if you want to catch Sarah Jae live, she's playing the iconic Fabric in Lond
 
 ---
 
+## Thank you for backing Si's 50km walk
+
+A massive thank you to everyone who sponsored Si's 50km walk around the Kent Downs for Dementia UK. Together we raised over £1,300, which is way beyond what we hoped for. Every donation, big or small, is hugely appreciated.
+
+---
+
 ## Coming up in November
 
 Every Friday, same place. See who's behind the decks and add the schedule to your own calendar.
