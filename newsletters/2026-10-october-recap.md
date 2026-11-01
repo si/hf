@@ -85,16 +85,19 @@ Right now there's an exclusive classics mix from Disco77, recorded back in 2002,
 
 Every track in this one was released this year. Crazy P's "Pawa" vocal dub sets the tone, Rocco Universal's "Space Chakra" and "Mutiny on the Sex Raft" get weird in the best way, and Purple Disco Machine's "Disco Cherry" lands right on time.
 
-And if you want to catch Sarah Jae live, she's playing the iconic Fabric in London on 21 November for the Fump 15th anniversary.
+And if you want to catch Sarah Jae live, she's playing Fabric in London next month (details in upcoming gigs below).
 
 → [Listen to Sarah Jae now](https://housefinesse.com/hf347)
-→ [Get Fabric tickets](https://www.fabriclondon.com/event/fabric-parallelle-live-krystal-klear-inland-knights-fifi-forte-tommy-gold-goosey-more)
 
 ---
 
-## Friend of the show Programma is back at Fabric
+## Upcoming gigs
 
-More Fabric action: friend of the show Programma is going back to back with Limi at Orii - The Lineage Mixtape at Fabric on 27 November.
+Catch the House Finesse family out on the dancefloor:
+
+- **Sat 21 Nov** - Sarah Jae at Fabric, London, for the Fump 15th anniversary. [Get tickets](https://www.fabriclondon.com/event/fabric-parallelle-live-krystal-klear-inland-knights-fifi-forte-tommy-gold-goosey-more)
+- **Fri 27 Nov** - Programma (friend of the show) goes back to back with Limi at Orii - The Lineage Mixtape, Fabric, London
+- **Fri 4 Dec** - Andi King at Ministry of Sound, London
 
 ---
 
