@@ -92,6 +92,12 @@ And if you want to catch Sarah Jae live, she's playing the iconic Fabric in Lond
 
 ---
 
+## Friend of the show Programma is back at Fabric
+
+More Fabric action: friend of the show Programma is going back to back with Limi at Orii - The Lineage Mixtape at Fabric on 27 November.
+
+---
+
 ## Thank you for backing Si's 50km walk
 
 A massive thank you to everyone who sponsored Si's 50km walk around the Kent Downs for Dementia UK. Together we raised over £1,300, which is way beyond what we hoped for. Every donation, big or small, is hugely appreciated.
