@@ -2,14 +2,14 @@
 platform: "Beehiiv"
 month: "October 2026"
 sentDate: ""
-subject: "Four more mixes, and Sarah Jae heads to Fabric"
+subject: "You helped raise over £1,300. Press play on the rest of October"
 previewText: "Taylan, DJ Tai, Andi King and Sarah Jae - everything you missed in October"
 status: "draft"
 ---
 
 <!-- Draft. Structure: episode, CTA, episode, CTA etc. rather than one lump of shows. September issue (sent 3 Oct) already covered HF339-HF343, so HF343 is left out here. Beehiiv subscribers are being moved to Patreon, so the closing newsletter CTA points to following on Patreon instead of a Beehiiv signup. WhatsApp uses the broadcast channel. YouTube is the channel link (https://www.youtube.com/housefinesse). Cover images use the .webp filenames from each post front matter. -->
 
-# Four more mixes, and Sarah Jae heads to Fabric
+# You helped raise over £1,300. Press play on the rest of October
 
 ## Intro
 
