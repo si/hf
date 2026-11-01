@@ -1,11 +1,19 @@
 ---
 platform: "Beehiiv"
 month: "October 2026"
-sentDate: ""
+sentDate: "2026-11-02"
+scheduledAt: "2026-11-02T11:00:00Z"
 subject: "You helped raise over £1,300. Press play on the rest of October"
 previewText: "Taylan, DJ Tai, Andi King and Sarah Jae - everything you missed in October"
-status: "draft"
+status: "scheduled"
+campaignUrl: "https://app.beehiiv.com/posts/121d3b3d-fd2f-4f49-b74a-2f9c8f5be957/edit"
+webUrl: "https://housefinesse.beehiiv.com/p/you-helped-raise-over-1-300-press-play-on-the-rest-of-october-ca43"
+beehiivPostId: "post_121d3b3d-fd2f-4f49-b74a-2f9c8f5be957"
+audience: "free tier, whole list (no segments, no newsletter list filter)"
 ---
+
+<!-- Campaign details as scheduled in Beehiiv (read back 2026-11-01): sends Mon 2 Nov 2026 at 11:00 UTC (11:00 UK, GMT). Authors: Si Jobling plus guest authors Sarah Jae, Taiwo, Andi King, Taylan. Web post and email subtitle are the preview text; SEO fields only mirror title/subtitle. The scheduled version differs from the body below: VIP Club banner is at the top, the YouTube CTA sits after HF345, there is no WhatsApp or Patreon-move section, and the walk thank-you has no playlist tunes. The cover-image links on the episode images in Beehiiv still point at hf335 to hf338 (leftover from the August issue) - check these were fixed before send. -->
+
 
 <!-- Draft. Structure: episode, CTA, episode, CTA etc. rather than one lump of shows. September issue (sent 3 Oct) already covered HF339-HF343, so HF343 is left out here. Beehiiv subscribers are being moved to Patreon, so the closing newsletter CTA points to following on Patreon instead of a Beehiiv signup. WhatsApp uses the broadcast channel. YouTube is the channel link (https://www.youtube.com/housefinesse). Cover images use the .webp filenames from each post front matter. -->
 
