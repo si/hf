@@ -96,8 +96,8 @@ And if you want to catch Sarah Jae live, she's playing Fabric in London next mon
 Catch the House Finesse family out on the dancefloor:
 
 - **Sat 21 Nov** - Sarah Jae at Fabric, London, for the Fump 15th anniversary. [Get tickets](https://www.fabriclondon.com/event/fabric-parallelle-live-krystal-klear-inland-knights-fifi-forte-tommy-gold-goosey-more)
-- **Fri 27 Nov** - Programma (friend of the show) goes back to back with Limi at Orii - The Lineage Mixtape, Fabric, London
-- **Fri 4 Dec** - Andi King at Ministry of Sound, London
+- **Fri 27 Nov** - Programma (friend of the show) goes back to back with Limi at Orii - The Lineage Mixtape, Fabric, London. [Get tickets](https://dice.fm/partner/tickets/event/av8evd-fabric-x-sennheiser-present-orii-the-lineage-mixtape-27th-nov-fabric-london-tickets)
+- **Fri 4 Dec** - Andi King at Ministry of Sound, London, for Last Dance Society with Jodie Harsh, Heidi, Jaguar and more. [Get tickets](https://ministryofsound.com/ticket/?event_name=%20LAST%20DANCE%20SOCIETY%3A%20JODIE%20HARSH%2C%20HEIDI%2C%20JAGUAR%20%2B%20MORE&event_artists=Jodie%20Harsh%2CHEIDI%2CJaguar&start_date=2026-12-04T22%3A30%3A00Z&tags_genre=dj%3Aafrohouse%2Cdj%3Aelectronic%2Cdj%3Adisco%2Cdj%3Arnb%2Cdj%3Ahouse&event_url=https%3A%2F%2Flink.dice.fm%2Fc037afd3c73d)
 
 ---
 
