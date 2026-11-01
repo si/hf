@@ -71,7 +71,7 @@ Dave 'Love' Lee opens with "(Not) This Time Baby", then Seamus Haji and Kathy Br
 
 ## Get your ticket to the House Finesse VIP Club on Patreon
 
-Bonus content, high-quality downloads and behind-the-scenes chat with the crew. If you love the Friday shows, the VIP Club is where the rest of the House Finesse family hangs out. Join us.
+Right now there's an exclusive classics mix from Disco77, recorded back in 2002, waiting for you inside the VIP Club. On top of that you get bonus content, high-quality downloads and behind-the-scenes chat with the crew. If you love the Friday shows, this is where the rest of the House Finesse family hangs out. Join us.
 
 → [Join the VIP Club](https://housefinesse.com/club)
 
