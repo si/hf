@@ -12,8 +12,13 @@ Usage:
     buffer.py superrams account
     buffer.py superrams channels --org ORG_ID
     buffer.py superrams post --channel CHANNEL_ID --text "..." [--due-at ISO8601 | --now] [--dry-run]
+        [--service facebook|instagram] [--type post|reel|story] [--image URL ...] [--alt TEXT]
     buffer.py superrams query 'query { account { id } }'
     buffer.py superrams schema
+
+Facebook and Instagram need a post type (default "post"), so pass --service for
+those channels. Instagram also needs media: --image takes a public http(s) URL
+(repeatable), not a local file path.
 
 Default post mode is addToQueue; --due-at schedules for a specific time and
 --now publishes straight away (shareNow).
@@ -84,6 +89,13 @@ def main():
     po.add_argument("--text", required=True)
     po.add_argument("--due-at", help="ISO 8601 with UTC offset, e.g. 2026-10-31T09:00:00+00:00")
     po.add_argument("--now", action="store_true", help="publish straight away instead of queueing")
+    po.add_argument("--service", choices=["facebook", "instagram"],
+                    help="needed for Facebook/Instagram channels, which require a post type")
+    po.add_argument("--type", dest="ptype", choices=["post", "reel", "story"], default="post",
+                    help="post type for --service (default: post)")
+    po.add_argument("--image", action="append", default=[], metavar="URL",
+                    help="public image URL to attach (repeatable)")
+    po.add_argument("--alt", help="alt text applied to every --image")
     po.add_argument("--dry-run", action="store_true")
     a = p.parse_args()
     if a.cmd == "post" and a.now and a.due_at:
@@ -102,6 +114,17 @@ def main():
                "mode": "shareNow" if a.now else "customScheduled" if a.due_at else "addToQueue"}
         if a.due_at:
             inp["dueAt"] = a.due_at
+        if a.image:
+            inp["assets"] = [
+                {"image": {"url": u, **({"metadata": {"altText": a.alt}} if a.alt else {})}}
+                for u in a.image
+            ]
+        if a.service == "facebook":
+            inp["metadata"] = {"facebook": {"type": a.ptype}}
+        elif a.service == "instagram":
+            inp["metadata"] = {"instagram": {"type": a.ptype, "shouldShareToFeed": True}}
+        elif a.ptype != "post":
+            p.error("--type needs --service")
         if a.dry_run:
             out = {"dry_run": True, "input": inp}
         else:
