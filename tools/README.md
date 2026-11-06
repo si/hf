@@ -48,6 +48,16 @@ python3 tools/buffer.py housefinesse post --channel CHANNEL_ID --text "New episo
 python3 tools/buffer.py housefinesse post --channel CHANNEL_ID --text "New episode" --now               # straight away
 ```
 
+Facebook and Instagram require a post type, so pass `--service` (type defaults to
+`post`; `--type reel|story` to change it). Instagram also needs media. `--image`
+takes a public http(s) URL (repeatable, local files won't work) and `--alt` sets
+the alt text:
+
+```
+python3 tools/buffer.py housefinesse post --channel FACEBOOK_ID --service facebook --text "..." --now
+python3 tools/buffer.py housefinesse post --channel INSTAGRAM_ID --service instagram --image https://example.com/cover.jpg --alt "HF348 cover" --text "..." --now
+```
+
 `--due-at` needs the UK offset: `+00:00` in winter (GMT), `+01:00` in summer (BST).
 
 ### House Finesse IDs
