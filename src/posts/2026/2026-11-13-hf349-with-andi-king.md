@@ -6,7 +6,7 @@ categories:
 author: "Andi King"
 tags:
   - "andi-king"
-  - "basement-jack"
+  - "basement-jaxx"
   - "reboot"
   - "static-revenger"
   - "michael-gray"
@@ -34,23 +34,23 @@ tags:
   - "mark-knight"
   - "james-hurr"
   - "house"
-enclosure: "TODO"
+enclosure: "https://pinecast.com/listen/5e84b31a-debc-4d31-b293-a39ccade73e9.mp3 100134207 audio/mpeg"
 redirectFrom: "/hf349"
 episode: 46
 season: 26
 explicit: "no"
-duration: "TODO"
-coverImage: "TODO"
-description: "Andi King brings a feel-good, broad-appeal house session this #FinesseFriday, from Basement Jack's 'Do Your Thing' to Mark Knight's 'Miami Vice'."
+duration: "01:09:23"
+coverImage: "HF349_with_Andi_King.webp"
+description: "Andi King brings a feel-good, broad-appeal house session this #FinesseFriday, from Basement Jaxx's 'Do Your Thing' to Mark Knight's 'Miami Vice'."
 ---
 
-Andi King returns with a feel-good, party-ready session for HF349, opening with Basement Jack and Reboot's "Do Your Thing" before Static Revenger and Michael Gray get the crowd moving on "Happy People". Jay Vegas and Hotmood keep the energy high through the middle stretch, with Mark Knight and James Hurr's "Miami Vice" bringing things home. A well-curated, broad-appeal selection for this #FinesseFriday.
+Andi King returns with a feel-good, party-ready session for HF349, opening with Basement Jaxx and Reboot's "Do Your Thing" before Static Revenger and Michael Gray get the crowd moving on "Happy People". Jay Vegas and Hotmood keep the energy high through the middle stretch, with Mark Knight and James Hurr's "Miami Vice" bringing things home. A well-curated, broad-appeal selection for this #FinesseFriday.
 
 {% vipBanner "Hook up with Andi King and others inside our House Finesse VIP Club." %}
 
 ## Track Listing
 
-1. Basement Jack, Reboot - Do Your Thing
+1. Basement Jaxx, Reboot - Do Your Thing
 2. Static Revenger, Michael Gray - Happy People
 3. Sammy Duece - Balls of Fire
 4. Francesco Capodaglio, Stefano Ranieri, Oyadi - Let the Music
