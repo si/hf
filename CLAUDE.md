@@ -11,6 +11,7 @@
   - Give Si a direct link to the GitHub "Upload files" web view for that branch/path, so he can drop the image in himself, e.g.:
     `https://github.com/si/hf/upload/<branch-name>/src/img/cover-images`
   - Once he confirms the upload, pull the branch and check the actual filename committed — update `coverImage` in the post's front matter to match exactly, don't assume the extension.
+- Until the House Finesse Live party on 12 Dec 2026 has happened, include this paragraph in every episode post, directly before the `vipBanner`: "You can join LYP, DJ Tai, One Phat DJ and Taylan at Salt & Cellar in Chelmsford on 12th December for the first ever House Finesse Live party. It's free to attend and we'll be taking over 7pm to 1am with endless soulful, disco and gospel tunes." (First used in HF350.)
 
 ### Finding cover art in Canva
 
