@@ -41,7 +41,7 @@ episode: 48
 season: 26
 explicit: "no"
 duration: "01:01:28"
-coverImage: "HF351_Rewind_with_One_Phat_DJ.jpeg"
+coverImage: "HF351_Rewind_with_One_Phat_DJ.webp"
 description: "We rewind to April 2022 for One Phat DJ's guest mix for the 1 Indie Nation podcast, full of the finest uplifting house music this #FinesseFriday."
 ---
 
