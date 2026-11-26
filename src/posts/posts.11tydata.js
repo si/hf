@@ -1,4 +1,15 @@
+// Cloudflare Pages preview builds (any branch other than production) show
+// future-dated posts, so an upcoming episode can be checked on its PR preview.
+// CF_PAGES_BRANCH is set by Cloudflare on every Pages build; it's unset for
+// local builds, so those keep the embargo unless SHOW_FUTURE_POSTS=1.
+const PRODUCTION_BRANCH = "main";
+const isPreviewBuild =
+  process.env.SHOW_FUTURE_POSTS === "1" ||
+  (Boolean(process.env.CF_PAGES_BRANCH) &&
+    process.env.CF_PAGES_BRANCH !== PRODUCTION_BRANCH);
+
 const isEmbargoed = (data) => {
+  if (isPreviewBuild) return false;
   const postDate = new Date(data.date);
   return !Number.isNaN(postDate.getTime()) && postDate.getTime() > Date.now();
 };
