@@ -1,5 +1,5 @@
 ---
-title: "HF351 with One Phat DJ"
+title: "HF351 Rewind with One Phat DJ"
 date: "2026-11-27"
 categories:
   - "shows"
@@ -35,13 +35,13 @@ tags:
   - "clavette"
   - "disco-sparks"
   - "house"
-enclosure: "TODO: pinecast mp3 url, size in bytes, audio/mpeg"
+enclosure: "https://pinecast.com/listen/ec8c2069-cf83-4114-819b-c60a2cc22b78.mp3 59003382 audio/mpeg"
 redirectFrom: "/hf351"
 episode: 48
 season: 26
 explicit: "no"
-duration: "TODO"
-coverImage: "HF351_with_One_Phat_DJ.jpeg"
+duration: "01:01:28"
+coverImage: "HF351_Rewind_with_One_Phat_DJ.jpeg"
 description: "We rewind to April 2022 for One Phat DJ's guest mix for the 1 Indie Nation podcast, full of the finest uplifting house music this #FinesseFriday."
 ---
 
